@@ -62,14 +62,14 @@
   * [IV. Prompt Marketplace](chaingpt-ai-and-utilities/i.-chaingpt-ai-chatbot/iv.-prompt-marketplace.md)
   * [V. Telegram, Discord, Slack - ChainGPT Bot](chaingpt-ai-and-utilities/i.-chaingpt-ai-chatbot/v.-telegram-discord-slack-chaingpt-bot.md)
 * [II. AI Tools & Platforms Powered by ChainGPT](chaingpt-ai-and-utilities/ii.-ai-tools-and-platforms-powered-by-chaingpt/README.md)
-  * [DevAssist Browser Extension](chaingpt-ai-and-utilities/ii.-ai-tools-and-platforms-powered-by-chaingpt/devassist-browser-extension.md)
-  * [AI Generated News](chaingpt-ai-and-utilities/ii.-ai-tools-and-platforms-powered-by-chaingpt/ai-generated-news.md)
-  * [AI Generated NFTs](chaingpt-ai-and-utilities/ii.-ai-tools-and-platforms-powered-by-chaingpt/ai-generated-nfts.md)
-  * [AI Trading Bot](chaingpt-ai-and-utilities/ii.-ai-tools-and-platforms-powered-by-chaingpt/ai-trading-bot.md)
-* [III. ChainGPT Blockchain \[Layer1 & Layer2\]](chaingpt-ai-and-utilities/iii.-chaingpt-blockchain-layer1-and-layer2/README.md)
-  * [I. Introduction to ChainGPT Layer-1 Blockchain](chaingpt-ai-and-utilities/iii.-chaingpt-blockchain-layer1-and-layer2/i.-introduction-to-chaingpt-layer-1-blockchain.md)
-  * [II. Introduction to ChainGPT Layer-2 Blockchain](chaingpt-ai-and-utilities/iii.-chaingpt-blockchain-layer1-and-layer2/ii.-introduction-to-chaingpt-layer-2-blockchain.md)
-  * [III. Initial Ecosystem](chaingpt-ai-and-utilities/iii.-chaingpt-blockchain-layer1-and-layer2/iii.-initial-ecosystem.md)
+  * [🔎 DevAssist Browser Extension](chaingpt-ai-and-utilities/ii.-ai-tools-and-platforms-powered-by-chaingpt/devassist-browser-extension.md)
+  * [📰 AI Generated News](chaingpt-ai-and-utilities/ii.-ai-tools-and-platforms-powered-by-chaingpt/ai-generated-news.md)
+  * [🖼 AI Generated NFTs](chaingpt-ai-and-utilities/ii.-ai-tools-and-platforms-powered-by-chaingpt/ai-generated-nfts.md)
+  * [📈 AI Trading Bot](chaingpt-ai-and-utilities/ii.-ai-tools-and-platforms-powered-by-chaingpt/ai-trading-bot.md)
+* [III. ChainGPT Blockchain \[Layer-1 & Layer-2\]](chaingpt-ai-and-utilities/iii.-chaingpt-blockchain-layer-1-and-layer-2/README.md)
+  * [I. Introduction to ChainGPT Layer-1 Blockchain](chaingpt-ai-and-utilities/iii.-chaingpt-blockchain-layer-1-and-layer-2/i.-introduction-to-chaingpt-layer-1-blockchain.md)
+  * [II. Introduction to ChainGPT Layer-2 Blockchain](chaingpt-ai-and-utilities/iii.-chaingpt-blockchain-layer-1-and-layer-2/ii.-introduction-to-chaingpt-layer-2-blockchain.md)
+  * [III. Initial Ecosystem](chaingpt-ai-and-utilities/iii.-chaingpt-blockchain-layer-1-and-layer-2/iii.-initial-ecosystem.md)
 
 ## Developer Docs
 

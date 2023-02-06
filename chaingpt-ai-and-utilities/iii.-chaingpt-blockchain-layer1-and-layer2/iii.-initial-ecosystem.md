@@ -1,2 +1,0 @@
-# III. Initial Ecosystem
-
