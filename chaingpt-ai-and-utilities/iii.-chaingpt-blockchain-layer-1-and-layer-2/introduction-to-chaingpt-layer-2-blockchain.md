@@ -1,4 +1,4 @@
-# II. Introduction to ChainGPT Layer-2 Blockchain
+# Introduction to ChainGPT Layer-2 Blockchain
 
 ChainGPT Layer-2 is a zkRollup blockchain that is deployed on top of our Layer-1. By utilizing Zero-Knowledge technology, this layer is designed to facilitate secure, fast and cost-effective transactions. This layer will provide users with an efficient and secure way to store and transact their cryptocurrency assets on the ChainGPT blockchain.
 

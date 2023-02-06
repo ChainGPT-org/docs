@@ -1,4 +1,4 @@
-# I. Introduction to ChainGPT Layer-1 Blockchain
+# Introduction to ChainGPT Layer-1 Blockchain
 
 ## Introduction to ChainGPT Layer-1 Blockchain
 
