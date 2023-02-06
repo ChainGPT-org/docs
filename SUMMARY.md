@@ -85,3 +85,8 @@
 * [Twitter](https://twitter.com/Chain\_GPT)
 * [Discord](https://discord.gg/FS2xpY28)
 * [Linkedin](https://www.linkedin.com/company/chaingpt)
+
+## Legal
+
+* [Agreement for Sale of Tokens](https://www.chaingpt.org/licences)
+* [Privacy Policy](https://www.chaingpt.org/privacy-policy)
