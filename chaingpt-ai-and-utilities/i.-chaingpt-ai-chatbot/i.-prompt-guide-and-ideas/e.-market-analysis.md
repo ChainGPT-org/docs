@@ -17,6 +17,12 @@ ChainGPT is an AI-powered market analysis tool designed to help blockchain devel
 * Improved Decision Making: By providing reports and summaries, ChainGPT simplifies analysis and helps make better decisions.
 * Cost-Effective: ChainGPT is a cost-effective solution, allowing users to analyze large amounts of data without having to manually process it.
 
+
+
+For example, it can be trained on historical market data and used to generate predictions about future market trends. It even guides you on which inputs to provide it with to give you the best results.
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 ### Conclusion
 
 ChainGPT is an AI-powered market analysis tool designed to help blockchain developers and industry professionals make informed decisions about their projects and investments. With its predictive analysis, natural language processing, and report and summary features, ChainGPT can provide accurate predictions, comprehensive market analysis, and improved decision-making. It is also a cost-effective solution, allowing users to analyze large amounts of data without having to manually process it.
