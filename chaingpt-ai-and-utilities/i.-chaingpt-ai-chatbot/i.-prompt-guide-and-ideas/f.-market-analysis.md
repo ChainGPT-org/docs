@@ -1,2 +1,0 @@
-# F. Market Analysis
-

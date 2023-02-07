@@ -24,35 +24,31 @@ You can apply similar structure for code debugging, code auditing, documentation
 
 ## Guides
 
-{% content-ref url="a.-your-guide-for-blockchain-and-crypto-topics.md" %}
-[a.-your-guide-for-blockchain-and-crypto-topics.md](a.-your-guide-for-blockchain-and-crypto-topics.md)
+{% content-ref url="a.-no-code-smart-contract-programming.md" %}
+[a.-no-code-smart-contract-programming.md](a.-no-code-smart-contract-programming.md)
 {% endcontent-ref %}
 
-{% content-ref url="b.-no-code-smart-contract-programming.md" %}
-[b.-no-code-smart-contract-programming.md](b.-no-code-smart-contract-programming.md)
+{% content-ref url="b.-analyze-and-explain-code.md" %}
+[b.-analyze-and-explain-code.md](b.-analyze-and-explain-code.md)
 {% endcontent-ref %}
 
-{% content-ref url="c.-analyze-and-explain-code.md" %}
-[c.-analyze-and-explain-code.md](c.-analyze-and-explain-code.md)
+{% content-ref url="c.-code-debugging.md" %}
+[c.-code-debugging.md](c.-code-debugging.md)
 {% endcontent-ref %}
 
-{% content-ref url="d.-code-debugging.md" %}
-[d.-code-debugging.md](d.-code-debugging.md)
+{% content-ref url="d.-code-documentation.md" %}
+[d.-code-documentation.md](d.-code-documentation.md)
 {% endcontent-ref %}
 
-{% content-ref url="e.-code-documentation.md" %}
-[e.-code-documentation.md](e.-code-documentation.md)
+{% content-ref url="e.-market-analysis.md" %}
+[e.-market-analysis.md](e.-market-analysis.md)
 {% endcontent-ref %}
 
-{% content-ref url="f.-market-analysis.md" %}
-[f.-market-analysis.md](f.-market-analysis.md)
+{% content-ref url="f.-wallet-development.md" %}
+[f.-wallet-development.md](f.-wallet-development.md)
 {% endcontent-ref %}
 
-{% content-ref url="g.-wallet-development.md" %}
-[g.-wallet-development.md](g.-wallet-development.md)
-{% endcontent-ref %}
-
-{% content-ref url="h.-dapp-development.md" %}
-[h.-dapp-development.md](h.-dapp-development.md)
+{% content-ref url="g.-dapp-development.md" %}
+[g.-dapp-development.md](g.-dapp-development.md)
 {% endcontent-ref %}
 
