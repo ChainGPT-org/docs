@@ -10,5 +10,5 @@ We offer flexible pricing plans for any individual, business, or developer, to m
 * **Priority**: For priority access individuals must pay 5 $GPT tokens with each request. The benefits of priority are: we will always prioritize your requests over beta, but limitations may still apply. Medium response rate. Access to the AI will always be available.
 * **Advanced**: For advanced access indivduals must stake 1000 $GPT tokens, in exchange for free and unlimited access to ChainGPT. The staked tokens can be withdrawn at any time. No limitation (0% downtime), Ultra-fast response rate, and 24/7 AI availability is guaranteed.
 
-__![](<../../.gitbook/assets/image (1).png>)__
+__![](<../../.gitbook/assets/image (1) (1).png>)__
 

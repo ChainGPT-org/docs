@@ -43,6 +43,4 @@ ChainGPT is an advanced AI model that was designed to provide assistance with an
 1. ChainGPT Virtual Machine
 2. AI Inference Engine
 3. AI Smart Contract and AI DApp
-4. Decentralizing AI Research
-
-\
+4. Decentralizing AI Research\
