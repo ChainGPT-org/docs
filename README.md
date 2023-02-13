@@ -1,7 +1,7 @@
 # I. Introduction
 
 Links: | [ChainGPT Beta App](https://app.chaingpt.org) | [Blog](https://chaingpt.org) | [GitHub](https://github.com/chaingpt-org) | [Linkedin](https://www.linkedin.com/company/chaingpt) | [Medium](https://medium.com/@chaingpt) | [Research Paper](https://uploads-ssl.webflow.com/63d0e411b048e60e70c275df/63d6498bd4b43923151548ac\_research.pdf) | \
-Community: | [Telegram-Chat](https://t.me/chain\_gpt) | [Telegram-News](https://t.me/chaingptnews) | [Discord](https://discord.gg/FS2xpY28)[ ](https://discord.gg/EBMN2ACjvv)| [Twitter ](https://twitter.com/Chain\_GPT)| [Instagram](https://www.instagram.com/chaingpt) |
+Community: | [Telegram-Chat](https://t.me/chain\_gpt) | [Telegram-News](https://t.me/chaingptnews) |[ Discord ](https://discord.gg/sv2NfqSgVW)| [Twitter ](https://twitter.com/Chain\_GPT)| [Instagram](https://www.instagram.com/chaingpt) |
 
 ## Introduction to ChainGPT
 

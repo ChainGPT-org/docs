@@ -82,7 +82,7 @@
 * [Telegram Chat](https://t.me/chain\_gpt)
 * [Telegram News](https://t.me/chaingptnews)
 * [Twitter](https://twitter.com/Chain\_GPT)
-* [Discord](https://discord.gg/EBMN2ACjvv)
+* [Discord](https://discord.gg/sv2NfqSgVW)
 * [Linkedin](https://www.linkedin.com/company/chaingpt)
 
 ## Legal
