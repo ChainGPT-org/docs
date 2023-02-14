@@ -28,11 +28,7 @@ The ChainGPT ecosystem offers various staking and farming opportunities to $GPT 
 
 <summary>Burn Mechanism</summary>
 
-* Burn Type A: Each and every transaction of $GPT token has a small tax to it. A portion of that tax is dedicated towards our Type A burn mechanism, which burns the $GPT tokens out of the circulating supply, increasing the value of $GPT.
-
-<!---->
-
-* Burn Type B: Half of all the fees and profits collected by the ChainGPT tools & utilities within the ecosystem are burned, increasing the value of $GPT for holders, and the other half is used for the growth and sustainability of the ChainGPT organization. This ensures that users continue to benefit from the use of the ChainGPT platform, as the value of their tokens is constantly increasing.
+Half of all the fees and profits collected by the ChainGPT tools & utilities within the ecosystem are burned, increasing the value of $GPT for holders, and the other half is used for the growth and sustainability of the ChainGPT organization. This ensures that users continue to benefit from the use of the ChainGPT platform, as the value of their tokens is constantly increasing.
 
 </details>
 
