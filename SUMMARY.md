@@ -44,6 +44,7 @@
   * [Illustrator (graphic)](overview/v.-work-with-us/illustrator-graphic.md)
   * [UI/UX Designers](overview/v.-work-with-us/ui-ux-designers.md)
 * [VI. FAQ](overview/vi.-faq.md)
+* [📄 Research Paper](https://uploads-ssl.webflow.com/63d0e411b048e60e70c275df/63d6498bd4b43923151548ac\_research.pdf)
 
 ## ChainGPT AI & Utilities
 
@@ -77,7 +78,6 @@
 
 ## Misc
 
-* [📄 Research Paper](https://uploads-ssl.webflow.com/63d0e411b048e60e70c275df/63d6498bd4b43923151548ac\_research.pdf)
 * [ChainGPT Beta App](https://app.chaingpt.org/)
 * [Telegram Chat](https://t.me/chain\_gpt)
 * [Telegram News](https://t.me/chaingptnews)
