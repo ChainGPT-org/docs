@@ -2,7 +2,7 @@
 
 **GitHub**: [https://github.com/ChainGPT-org/DevAssist-Extension](https://github.com/ChainGPT-org/DevAssist-Extension)
 
-DevAssist is a unique open-source browser extension powered by ChainGPT advanced AI technology, created to provide users with additional information in regards to any smart contract they are interacting with. For example, if a user is using metamask to interact with a smart-contract through a DApp or a web application, DevAssist extension will pop-up with easy to understand explanation of what the smart-contract that the user is about to interact with is actually doing.&#x20;
+DevAssist is a unique open-source browser extension powered by ChainGPT advanced AI technology, created to provide users with additional information in regards to any smart contract they are interacting with. Explaining the code they are agreeing to in plain English. For example, if a user is using metamask to interact with a smart-contract through a DApp or a web application, DevAssist extension will pop-up with easy to understand explanation of what the smart-contract that the user is about to interact with is actually doing.&#x20;
 
 <figure><img src="../../.gitbook/assets/DevAssist Screenshots.png" alt=""><figcaption></figcaption></figure>
 
