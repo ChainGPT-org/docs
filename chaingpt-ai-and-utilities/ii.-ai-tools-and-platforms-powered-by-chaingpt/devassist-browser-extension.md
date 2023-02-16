@@ -16,3 +16,12 @@ DevAssist is a unique open-source browser extension powered by ChainGPT advanced
 ### **For Developers:**
 
 {% embed url="https://github.com/ChainGPT-org/DevAssist-Extension" %}
+
+## What's Coming Next?
+
+In our next versions you can expect these features to be added to DevAssist:
+
+* NFT authentication, get notified if the NFT you are about to interact with is the original NFT collection you may think it is. For example, if you are about to send or purchase a BAYC NFT DevAssist will let you know if it's an original or a fake.
+* "HardBlock" feature can be activated, and automatically reject malicious smart-contracts.&#x20;
+* BSC, MATIC, AVAX chains will be supported.
+* Stop DEX transactions that may be frontran.
