@@ -4,8 +4,8 @@ The ChainGPT roadmap outlines the company's future plans and goals for the devel
 
 #### Past Roadmap:
 
-{% content-ref url="2022-q2-q4.md" %}
-[2022-q2-q4.md](2022-q2-q4.md)
+{% content-ref url="2022-q3-q4.md" %}
+[2022-q3-q4.md](2022-q3-q4.md)
 {% endcontent-ref %}
 
 #### Present Roadmap:
