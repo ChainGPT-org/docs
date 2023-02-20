@@ -19,8 +19,6 @@ ChainGPT is a state-of-the-art artificial intelligence model that has been revol
 * **ChainGPT (Layer-1 Blockchain) Virtual Machine**: The ChainGPT Virtual Machine is a next-generation virtual machine that offers a unique combination of EVM compatibility and on-chain AI inference. It is designed to enable the development of decentralized AI applications on the blockchain.
 * **ChainGPT (Layer-2 Blockchain)  zkRollup:** The ChainGPT zkRollup is a Layer-2 blockchain that is designed to enable the scaling of decentralized applications. It utilizes a combination of zero-knowledge proofs and rollup technology to reduce the size of transactions, enabling faster and cheaper transactions on the ChainGPT Blockchain.
 
-
-
-Half of all the fees and profits collected by the ChainGPT tools & utilities within the ecosystem are burned, increasing the value of $GPT for holders, and the other half is used for the growth and sustainability of the ChainGPT organization. This ensures that users continue to benefit from the use of the ChainGPT platform, as the value of their tokens is constantly increasing.
+Half of all the fees and profits collected by the ChainGPT tools & utilities within the ecosystem are burned, decreasing the supply of $GPT, and the other half is used for the growth and sustainability of the ChainGPT ecosystem.
 
 ChainGPT is also actively developing other innovative tools and utilities that will enable users to take advantage of the potential of blockchain-based AI. From on-chain AI inference and AI-generated NFTs, to AI trading bots and decentralized AI application development, ChainGPT is at the forefront of the blockchain-AI revolution.
