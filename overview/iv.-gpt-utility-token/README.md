@@ -1,6 +1,6 @@
 # IV. GPT Utility Token
 
-### **Sub-menu: |** [**Token Sale**](token-sale.md) **|** [**Tokenomics**](tokenomics.md) **|** [**Smart-Contract**](smart-contract.md) **|** [**Burn Mechanism**](./#burn-mechanism) **|**
+### **Sub-menu: |** [**Token Sale**](token-sale-unavailable.md) **|** [**Tokenomics**](tokenomics-unavailable.md) **|** [**Smart-Contract**](smart-contract-unavailable.md) **|** [**Burn Mechanism**](./#burn-mechanism) **|**
 
 ## Introduction to ChainGPT Token
 
@@ -44,16 +44,16 @@ $GPT is an essential component of the ChainGPT ecosystem, providing individuals 
 
 ## **Continue reading:**&#x20;
 
-{% content-ref url="token-sale.md" %}
-[token-sale.md](token-sale.md)
+{% content-ref url="token-sale-unavailable.md" %}
+[token-sale-unavailable.md](token-sale-unavailable.md)
 {% endcontent-ref %}
 
-{% content-ref url="tokenomics.md" %}
-[tokenomics.md](tokenomics.md)
+{% content-ref url="tokenomics-unavailable.md" %}
+[tokenomics-unavailable.md](tokenomics-unavailable.md)
 {% endcontent-ref %}
 
-{% content-ref url="smart-contract.md" %}
-[smart-contract.md](smart-contract.md)
+{% content-ref url="smart-contract-unavailable.md" %}
+[smart-contract-unavailable.md](smart-contract-unavailable.md)
 {% endcontent-ref %}
 
 {% content-ref url="burn-mechanism.md" %}
