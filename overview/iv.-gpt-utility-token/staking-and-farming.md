@@ -21,3 +21,7 @@ Farming is a mechanism that allows token holders to earn rewards by providing li
 ### Conclusion
 
 ChainGPT's staking and farming mechanisms offer token holders the opportunity to earn rewards while supporting the stability and security of the network. Whether staking for access to the AI model or farming for rewards, token holders can take advantage of these opportunities to grow their $GPT holdings and contribute to the ecosystem's growth.
+
+\---
+
+**DISCLAIMER**: _The information contained in our whitepaper and roadmap is provided for informational purposes only and should not be construed as financial advice or an inducement to purchase our utility token, $GPT, for any purpose other than to interact with the ChainGPT AI bot, which is available at the time of the token sale. $GPT is intended solely for use within the ChainGPT AI ecosystem and we make no representations or warranties regarding the value, security, or suitability of $GPT for any other purpose. We strongly encourage you to conduct your own due diligence and seek independent professional advice before making any investment decisions. By accessing our whitepaper, website, and roadmap, you agree to release and hold harmless us and our affiliates from any and all liability related to your use of the information contained therein.  In addition, read our_ [Agreement for Sale of Tokens](https://www.chaingpt.org/licences).

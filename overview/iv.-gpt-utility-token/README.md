@@ -1,6 +1,6 @@
 # IV. GPT Utility Token
 
-### **Sub-menu: |** [**Token Sale**](token-sale-unavailable.md) **|** [**Tokenomics**](tokenomics-unavailable.md) **|** [**Smart-Contract**](smart-contract-unavailable.md) **|** [**Burn Mechanism**](./#burn-mechanism) **|**
+### **Sub-menu: |** [**Token Sale**](token-sale.md) **|** [**Tokenomics**](tokenomics.md) **|** [**Smart-Contract**](smart-contract.md) **|** [**Burn Mechanism**](./#burn-mechanism) **|**
 
 ## Introduction to ChainGPT Token
 
@@ -44,16 +44,16 @@ $GPT is an essential component of the ChainGPT ecosystem, providing individuals 
 
 ## **Continue reading:**&#x20;
 
-{% content-ref url="token-sale-unavailable.md" %}
-[token-sale-unavailable.md](token-sale-unavailable.md)
+{% content-ref url="token-sale.md" %}
+[token-sale.md](token-sale.md)
 {% endcontent-ref %}
 
-{% content-ref url="tokenomics-unavailable.md" %}
-[tokenomics-unavailable.md](tokenomics-unavailable.md)
+{% content-ref url="tokenomics.md" %}
+[tokenomics.md](tokenomics.md)
 {% endcontent-ref %}
 
-{% content-ref url="smart-contract-unavailable.md" %}
-[smart-contract-unavailable.md](smart-contract-unavailable.md)
+{% content-ref url="smart-contract.md" %}
+[smart-contract.md](smart-contract.md)
 {% endcontent-ref %}
 
 {% content-ref url="burn-mechanism.md" %}
@@ -63,3 +63,7 @@ $GPT is an essential component of the ChainGPT ecosystem, providing individuals 
 {% content-ref url="staking-and-farming.md" %}
 [staking-and-farming.md](staking-and-farming.md)
 {% endcontent-ref %}
+
+\---
+
+**DISCLAIMER**: _The information contained in our whitepaper and roadmap is provided for informational purposes only and should not be construed as financial advice or an inducement to purchase our utility token, $GPT, for any purpose other than to interact with the ChainGPT AI bot, which is available at the time of the token sale. $GPT is intended solely for use within the ChainGPT AI ecosystem and we make no representations or warranties regarding the value, security, or suitability of $GPT for any other purpose. We strongly encourage you to conduct your own due diligence and seek independent professional advice before making any investment decisions. By accessing our whitepaper, website, and roadmap, you agree to release and hold harmless us and our affiliates from any and all liability related to your use of the information contained therein.  In addition, read our_ [Agreement for Sale of Tokens](https://www.chaingpt.org/licences).
