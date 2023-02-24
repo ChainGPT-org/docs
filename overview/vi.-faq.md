@@ -58,37 +58,37 @@ At ChainGPT, we are dedicated to ensuring the highest quality and security of ou
 
 </details>
 
-## About $GPT Utility Token
+## About $CGPT Utility Token
 
 <details>
 
-<summary><strong>What is $GPT token?</strong> </summary>
+<summary><strong>What is $CGPT token?</strong> </summary>
 
-$GPT is the utility token behind the ChainGPT ecosystem. It is ultimately the way that individuals and businesses get to access the AI model, ChainGPT, and API. &#x20;
+$CCGPT is the utility token behind the ChainGPT ecosystem. It is ultimately the way that individuals and businesses get to access the AI model, ChainGPT, and API. &#x20;
 
 </details>
 
 <details>
 
-<summary><strong>How can I get $GPT?</strong> </summary>
+<summary><strong>How can I get $CGPT?</strong> </summary>
 
-Currently the $GPT token is not released, and the official dates for the early sale and launch will be announced in the near future. During the early sale phase, early adopters will get a window opportunity to obtain $GPT prior to its launch on exchanges. Afterwards, $GPT will be available to everyone on decentralized and centralized exchanges. &#x20;
-
-</details>
-
-<details>
-
-<summary><strong>Are there ways to earn $GPT tokens?</strong> </summary>
-
-Yes, there are various ways in which users can earn $GPT tokens. One of them is by staking and farming, another way is by selling quality prompts on our ChainGPT dedicated prompt marketplace.&#x20;
+Currently the $CGPT token is not released, and the official dates for the early sale and launch will be announced in the near future. During the early sale phase, early adopters will get a window opportunity to obtain $CGPT prior to its launch on exchanges. Afterwards, $CGPT will be available to everyone on decentralized and centralized exchanges. &#x20;
 
 </details>
 
 <details>
 
-<summary><strong>Can I use ChainGPT without spending $GPT?</strong> </summary>
+<summary><strong>Are there ways to earn $CGPT tokens?</strong> </summary>
 
-Yes, individuals can access ChainGPT without spending $GPT tokens, by simply staking the required amount for free and unlimited use. Otherwise, you can pay per prompt request. Businesses and developers on the other hand, will require to stake a spendable amount of $GPT that will be reduced with each prompt call to ChainGPT's API. In short, individuals can use the platform for free, businesses and developers will have to pay based on the API usage.
+Yes, there are various ways in which users can earn $CGPT tokens. One of them is by staking and farming, another way is by selling quality prompts on our ChainGPT dedicated prompt marketplace.&#x20;
+
+</details>
+
+<details>
+
+<summary><strong>Can I use ChainGPT without spending $CGPT?</strong> </summary>
+
+Yes, individuals can access ChainGPT without spending $CGPT tokens, by simply staking the required amount for free and unlimited use. Otherwise, you can pay per prompt request. Businesses and developers on the other hand, will require to stake a spendable amount of $CGPT that will be reduced with each prompt call to ChainGPT's API. In short, individuals can use the platform for free, businesses and developers will have to pay based on the API usage.
 
 </details>
 
@@ -98,7 +98,7 @@ Yes, individuals can access ChainGPT without spending $GPT tokens, by simply sta
 
 <summary><strong>Staking vs Farming</strong> </summary>
 
-Staking and farming are generally both ways to earn rewards in the blockchain space. With ChainGPT both staking and farming play an important part of the whole ecosystem. Staking provides users access to ChainGPT, and farming offers a way to earn additional rewards in $GPT token.&#x20;
+Staking and farming are generally both ways to earn rewards in the blockchain space. With ChainGPT both staking and farming play an important part of the whole ecosystem. Staking provides users access to ChainGPT, and farming offers a way to earn additional rewards in $CGPT token.&#x20;
 
 </details>
 
@@ -107,7 +107,7 @@ Staking and farming are generally both ways to earn rewards in the blockchain sp
 <summary><strong>What is ChainGPT Staking?</strong> </summary>
 
 **What is ChainGPT Staking?** \
-****Staking offers individuals free and unlimited access to ChainGPT without spending their $GPT tokens with each request. On the other hand, businesses and developers that are interested in using the ChainGPT API, are required to stake a spendable amount of $GPT that will reduce with each API request.&#x20;
+****Staking offers individuals free and unlimited access to ChainGPT without spending their $CGPT tokens with each request. On the other hand, businesses and developers that are interested in using the ChainGPT API, are required to stake a spendable amount of $CGPT that will reduce with each API request.&#x20;
 
 </details>
 
@@ -116,7 +116,7 @@ Staking and farming are generally both ways to earn rewards in the blockchain sp
 <summary><strong>What is ChainGPT Farming?</strong></summary>
 
 **What is ChainGPT Farming?** \
-****Farming offers all $GPT holders ways to earn additional rewards in $GPT by simply providing liquidity for $GPT and other pre-approved tokens. Such as stablecoins, popular blockchain coins, and exchange tokens.&#x20;
+****Farming offers all $CGPT holders ways to earn additional rewards in $CGPT by simply providing liquidity for $CGPT and other pre-approved tokens. Such as stablecoins, popular blockchain coins, and exchange tokens.&#x20;
 
 </details>
 
@@ -124,7 +124,7 @@ Staking and farming are generally both ways to earn rewards in the blockchain sp
 
 <summary><strong>When will staking &#x26; farming become available?</strong> </summary>
 
-Both staking & farming decentralized applications will become available with the launch of $GPT token. Until then, users can get familiar with the platform and the design behind it through our documentations and testnet version.&#x20;
+Both staking & farming decentralized applications will become available with the launch of $CGPT token. Until then, users can get familiar with the platform and the design behind it through our documentations and testnet version.&#x20;
 
 </details>
 
