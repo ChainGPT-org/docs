@@ -1,14 +1,18 @@
 # ChainGPT AI Model
 
-ChainGPT is a state-of-the-art artificial intelligence language model that utilizes cutting-edge technology to generate human-like text responses, and provide assistance with anything blockchain and crypto related. From solidity development, smart-contracts, pine script, and many other solutions, ChainGPT utilizes its advanced AI model to do so. To understand how ChainGPT works, it's important to familiarize yourself with the concepts that underpin its functionality. In this guide, you will learn about:
+ChainGPT AI Model is your go-to AI tool for anything related to Crypto and Blockchain. From solidity development, smart-contracts, pine script, and many other solutions, ChainGPT utilizes its advanced AI model to do so. To understand how ChainGPT works, it's important to familiarize yourself with the concepts behind this technology. It doesn't matter if you're a developer, a business, or a crypto / blockchain enthusiast, understanding the mechanism and technology behind ChainGPT AI can help you learn how to interact with it, and improve your workflow.&#x20;
 
-**Natural Language Processing (NLP)**: ChainGPT utilizes NLP algorithms to process and understand human language, allowing it to generate relevant and coherent responses.&#x20;
+
+
+In this guide, you will learn about:
+
+**Natural Language Processing (NLP)**: By utilizing NLP algorithms, ChainGPT is designed to understand and process any input and generate relevant answers.&#x20;
 
 {% content-ref url="natural-language-processing-nlp.md" %}
 [natural-language-processing-nlp.md](natural-language-processing-nlp.md)
 {% endcontent-ref %}
 
-**Machine Learning**: At its core, ChainGPT is built on machine learning models that have been trained on vast amounts of data to produce text outputs.
+**Machine Learning**: ChainGPT is built on machine-learning open-source models that were then improved sagnificantlly and trained to become the advanced AI model ChainGPT is today.
 
 {% content-ref url="machine-learning.md" %}
 [machine-learning.md](machine-learning.md)
@@ -20,19 +24,19 @@ ChainGPT is a state-of-the-art artificial intelligence language model that utili
 [transformer-architecture.md](transformer-architecture.md)
 {% endcontent-ref %}
 
-**Pretrained Language** Model: ChainGPT is a pretrained language model that has been fine-tuned on a large corpus of text data, allowing it to generate appropriate responses to various prompts.
+**Pretrained Language** **Model**:  ChainGPT was pretrained on a dataset created by our Machine Learning Engineers, and the model was trained on a large database of information regarding Blockchain Technologies, Crypto, Technical Analysis, Security Audits, and many more categories in this space. Which allowed us to create the high amount of functionalities we offer.
 
 {% content-ref url="pretrained-language-model.md" %}
 [pretrained-language-model.md](pretrained-language-model.md)
 {% endcontent-ref %}
 
-**Generative Model**: As a generative model, ChainGPT produces text outputs based on the input it is given.
+**Generative Model**:  As a generative AI model, ChainGPT is capable of generating information in continuitie to the input ("prompt") that it receieves. This way, it can answer any questions regarding Blockchain or Crypto that a user may ask.&#x20;
 
 {% content-ref url="generative-model.md" %}
 [generative-model.md](generative-model.md)
 {% endcontent-ref %}
 
-**Fine-Tuning**: To further enhance its functionality for specific tasks, ChainGPT can undergo fine-tuning, which involves retraining it on a smaller dataset.
+**Fine-Tuning**: In order to further improve ChainGPT, fine-tuning is an important phase to remove any inaccurate data, and improve the AI with more information and guidance.&#x20;
 
 {% content-ref url="fine-tuning.md" %}
 [fine-tuning.md](fine-tuning.md)
@@ -50,6 +54,3 @@ ChainGPT is a state-of-the-art artificial intelligence language model that utili
 [contextual-awareness.md](contextual-awareness.md)
 {% endcontent-ref %}
 
-By understanding these core concepts, you will have a better understanding of how ChainGPT functions and how it can be used to achieve specific tasks. Whether you're a developer, researcher, or simply curious about artificial intelligence, this guide provides a comprehensive overview of the concepts that make ChainGPT a powerful and cutting-edge technology.
-
-\

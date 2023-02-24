@@ -1,6 +1,6 @@
 # II. Learn The Concepts
 
-ChainGPT is an advanced AI model that was designed to provide assistance with anything Blockchain and Crypto related. To understand how ChainGPT works, it's important to familiarize yourself with the concepts that underpin its functionality.  By understanding these core concepts, you will have a better understanding of how ChainGPT functions and how it can be used to achieve specific tasks. Whether you're a developer, researcher, or simply curious about artificial intelligence, this guide provides a comprehensive overview of the concepts that make ChainGPT a powerful and cutting-edge technology.
+ChainGPT is a cutting-edge AI model created to help with anything cryptocurrency and blockchain related. The ideas that support ChainGPT's functionality must be familiarized if you want to comprehend how it operates. You will have a better knowledge of how ChainGPT works and how it can be used to accomplish particular tasks by comprehending these fundamental ideas. This manual offers a thorough understanding of the ideas that make ChainGPT a potent and advanced technology, whether you're a developer, researcher, or simply interested in artificial intelligence.
 
 
 
@@ -10,12 +10,12 @@ ChainGPT is an advanced AI model that was designed to provide assistance with an
 [chaingpt-ai-model](chaingpt-ai-model/)
 {% endcontent-ref %}
 
-1. **Natural Language Processing (NLP)**: ChainGPT utilizes NLP algorithms to process and understand human language, allowing it to generate relevant and coherent responses.&#x20;
-2. **Machine Learning**: At its core, ChainGPT is built on machine learning models that have been trained on vast amounts of data to produce text outputs.
+1. **Natural Language Processing (NLP)**: By utilizing NLP algorithms, ChainGPT is designed to understand and process any input and generate relevant answers.&#x20;
+2. **Machine Learning**: ChainGPT is built on machine-learning open-source models that were then improved sagnificantlly and trained to become the advanced AI model ChainGPT is today.
 3. **Transformer Architecture**: ChainGPT utilizes the transformer architecture, which is a deep learning model designed for sequential data processing such as text.
-4. **Pretrained Language** Model: ChainGPT is a pretrained language model that has been fine-tuned on a large corpus of text data, allowing it to generate appropriate responses to various prompts.
-5. **Generative Model**: As a generative model, ChainGPT produces text outputs based on the input it is given.
-6. **Fine-Tuning**: To further enhance its functionality for specific tasks, ChainGPT can undergo fine-tuning, which involves retraining it on a smaller dataset.
+4. **Pretrained Language** Model: ChainGPT was pretrained on a dataset created by our Machine Learning Engineers, and the model was trained on a large database of information regarding Blockchain Technologies, Crypto, Technical Analysis, Security Audits, and many more categories in this space. Which allowed us to create the high amount of functionalities we offer.
+5. **Generative Model**: As a generative AI model, ChainGPT is capable of generating information in continuitie to the input ("prompt") that it receieves. This way, it can answer any questions regarding Blockchain or Crypto that a user may ask.&#x20;
+6. **Fine-Tuning**: In order to further improve ChainGPT, fine-tuning is an important phase to remove any inaccurate data, and improve the AI with more information and guidance.&#x20;
 7. **Tokenization**: Tokenization is the process of breaking down text into smaller units, such as words or subwords, which can be processed by the model.
 8. **Contextual Awareness**: ChainGPT is equipped with contextual awareness, allowing it to understand the context of a conversation and generate relevant responses.
 
@@ -27,7 +27,7 @@ ChainGPT is an advanced AI model that was designed to provide assistance with an
 [chaingpt-ecosystem](chaingpt-ecosystem/)
 {% endcontent-ref %}
 
-1. ChainGPT Token ($GPT)
+1. ChainGPT Token ($CGPT)
 2. ChainGPT Staking & Farming
 3. ChainGPT Burn Mechanism
 4. ChainGPT Powered AI Utilities & Tools
