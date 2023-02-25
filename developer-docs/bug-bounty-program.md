@@ -27,7 +27,7 @@ The scope of the bounty program includes:
 
 &#x20;Critical bugs are those that result in loss of funds or cause network downtime. These may include vulnerabilities in the deployed and supported versions of the blockchain client, smart contracts, or other software outlined in the Scope section.
 
-#### Non-Critical Bugs (awards up to $5,000 in GPT tokens)
+#### Non-Critical Bugs (awards up to $500 in GPT tokens)
 
 &#x20;Non-critical bugs are those that do not cause financial loss or harm to the network's availability. These may impact the experience of developers or users and have a workaround.
 
