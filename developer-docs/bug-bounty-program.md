@@ -23,7 +23,7 @@ The scope of the bounty program includes:
 
 ### Classification
 
-#### Critical Bugs (awards up to $10,000 in GPT tokens)
+#### Critical Bugs (awards up to $5,000 in GPT tokens)
 
 &#x20;Critical bugs are those that result in loss of funds or cause network downtime. These may include vulnerabilities in the deployed and supported versions of the blockchain client, smart contracts, or other software outlined in the Scope section.
 
