@@ -4,7 +4,7 @@
 
 ## Introduction to ChainGPT Token
 
-ChainGPT Token ($CGPT) is the backbone of the ChainGPT ecosystem. It is the medium of exchange that individuals and businesses must use in order to access the advanced AI model that powers the ecosystem. In addition to this, the token offers a variety of benefits to its holders, making it a valuable asset for those looking to invest in the future of the crypto and blockchain space.
+ChainGPT Token ($CGPT) is the backbone of the ChainGPT ecosystem. It is the medium of exchange that individuals and businesses must use to access the advanced AI model that powers the ecosystem. In addition, the token offers a variety of benefits to its holders, making it a valuable asset for those looking to invest in the future of the crypto and blockchain space.
 
 ## Key Features
 
@@ -40,7 +40,7 @@ Thanks to the promising solutions that the various ChainGPT AI utilities have to
 
 </details>
 
-$CGPT is an essential component of the ChainGPT ecosystem, providing individuals and businesses with access to the advanced AI model and a variety of benefits and opportunities. Whether you are a crypto or blockchain enthusiast, or simply looking to invest in the future of AI, $CGPT is a token worth considering.
+$CGPT is an essential component of the ChainGPT ecosystem, providing individuals and businesses access to the advanced AI model and various benefits and opportunities. So whether you are a crypto or blockchain enthusiast or simply looking to invest in the future of AI, $CGPT is a token worth considering.
 
 ## **Continue reading:**&#x20;
 
@@ -66,4 +66,4 @@ $CGPT is an essential component of the ChainGPT ecosystem, providing individuals
 
 \---
 
-**DISCLAIMER**: _The information contained in our whitepaper and roadmap is provided for informational purposes only and should not be construed as financial advice or an inducement to purchase our utility token, $CGPT, for any purpose other than to interact with the ChainGPT AI bot, which is available at the time of the token sale. $CGPT is intended solely for use within the ChainGPT AI ecosystem and we make no representations or warranties regarding the value, security, or suitability of $CGPT for any other purpose. We strongly encourage you to conduct your own due diligence and seek independent professional advice before making any investment decisions. By accessing our whitepaper, website, and roadmap, you agree to release and hold harmless us and our affiliates from any and all liability related to your use of the information contained therein.  In addition, read our_ [Agreement for Sale of Tokens](https://www.chaingpt.org/licences).
+**DISCLAIMER**: _The information contained in our whitepaper and roadmap is provided for informational purposes only and should not be construed as financial advice or an inducement to purchase our utility token, $CGPT, for any purpose other than to interact with the ChainGPT AI bot, which is available at the time of the token sale. $CGPT is intended solely for use within the ChainGPT AI ecosystem, and we make no representations or warranties regarding the value, security, or suitability of $CGPT for any other purpose. We strongly encourage you to conduct due diligence and seek professional advice before making investment decisions. By accessing our whitepaper, website, and roadmap, you agree to release and hold us and our affiliates harmless from any liability for using the information contained therein.  In addition, read our_ [Agreement for Sale of Tokens](https://www.chaingpt.org/licences).

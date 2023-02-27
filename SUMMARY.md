@@ -37,11 +37,11 @@
   * [Full-Stack Software Engineer](overview/v.-work-with-us/full-stack-software-engineer.md)
   * [Prompt Engineer](overview/v.-work-with-us/prompt-engineer.md)
   * [Machine Learning Engineer](overview/v.-work-with-us/machine-learning-engineer.md)
-  * [Social Media Management](overview/v.-work-with-us/social-media-management.md)
-  * [Content Creation](overview/v.-work-with-us/content-creation.md)
-  * [Community Management](overview/v.-work-with-us/community-management.md)
-  * [Illustrator (graphic)](overview/v.-work-with-us/illustrator-graphic.md)
-  * [UI/UX Designers](overview/v.-work-with-us/ui-ux-designers.md)
+  * [Social Media Manager](overview/v.-work-with-us/social-media-manager.md)
+  * [Content Creator](overview/v.-work-with-us/content-creator.md)
+  * [Community Manager](overview/v.-work-with-us/community-manager.md)
+  * [Illustrator (graphics)](overview/v.-work-with-us/illustrator-graphics.md)
+  * [UI/UX Designer](overview/v.-work-with-us/ui-ux-designer.md)
 * [VI. FAQ](overview/vi.-faq.md)
 
 ## ChainGPT AI & Utilities

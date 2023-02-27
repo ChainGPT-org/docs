@@ -1,11 +1,11 @@
 # I. Prompt Guide & Ideas
 
-Having ChainGPT AI, is like having a unlimited access to personal software engineer in your pocket. \
-But you must learn how to craft prompts for code generation.
+Having ChainGPT AI is like having unlimited access to a personal software engineer in your pocket. \
+But it would be best to learn how to craft code generation prompts.
 
 <details>
 
-<summary>Here's how you can get AI to write software for you (expend)</summary>
+<summary>Here's how you can get AI to write software for you (expand)</summary>
 
 "I am building a project in <mark style="background-color:green;">Solidity</mark>. The description of the project is below:\
 I want a <mark style="background-color:orange;">smart-contract for a token</mark>. Called <mark style="background-color:purple;">ChainGPT, with the symbol $GPT, total fixed supply of 10,000 tokens, and 2% tax from each transaction sent to the owner</mark> of the token. \
@@ -20,7 +20,7 @@ I want a <mark style="background-color:orange;">smart-contract for a token</mark
 
 </details>
 
-You can apply similar structure for code debugging, code auditing, documentation creation, and many other solutions. In this library we will discuss in depth different use-cases, and offer prompt suggestions for each use-case and solution.&#x20;
+You can apply similar structures for code debugging, auditing, documentation creation, and many other solutions. In this library, we will discuss in depth different use cases and offer prompt suggestions for each use case and solution.&#x20;
 
 ## Guides
 

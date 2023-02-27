@@ -1,8 +1,8 @@
-# Social Media Management
+# Social Media Manager
 
 Location: Remote
 
-We are looking for a talented Social Media Manager to join our team and help manage our social media presence. The ideal candidate will have experience in creating and managing social media accounts, with a strong understanding of brand growth and marketing strategies.
+We seek a talented Social Media Manager to join our team and help manage our social media presence. The ideal candidate will have experience creating and managing social media accounts, with a strong understanding of brand growth and marketing strategies.
 
 ### Responsibilities:
 
@@ -27,10 +27,10 @@ We are looking for a talented Social Media Manager to join our team and help man
 * Excellent communication and interpersonal skills.
 * Knowledge of blockchain technology and crypto is a plus.
 
-This is a full-time position, with competitive salary and benefits. If you are passionate about social media and would like to work with a dynamic and growing company, we would love to hear from you.
+This is a full-time position with a competitive salary and benefits. We would love to hear from you if you are passionate about social media and would like to work with a dynamic and growing company.
 
-To apply, please send your resume, portfolio, and a cover letter to info@chaingpt.org&#x20;
+To apply, please send your resume, portfolio, and cover letter to info@chaingpt.org&#x20;
 
-We look forward to hearing from you.
+We are excited to hear from you.
 
 \

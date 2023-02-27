@@ -1,6 +1,6 @@
 # Initial Ecosystem
 
-The ChainGPT blockchain is an open-source blockchain designed to provide a secure and efficient platform for AI smart-contracts and models. The initial ecosystem includes a suite of utilities and decentralized applications (DApps) developed by the ChainGPT engineering team.&#x20;
+The ChainGPT blockchain is an open-source blockchain designed to provide a secure and efficient platform for AI smart contracts and models. The initial ecosystem includes a suite of utilities and decentralized applications (DApps) developed by the ChainGPT engineering team.&#x20;
 
 This suite of utilities and DApps includes:
 
