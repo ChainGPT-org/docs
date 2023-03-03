@@ -1,8 +1,9 @@
-# Token Sale (unavailable)
+# Token Sale
 
-```
-This page will become available soon; please come back at a later time.
-```
+IDO Date: TBA\
+\* Hosted on Seedify Launchpad
+
+<figure><img src="../../.gitbook/assets/Pitchdeck (1).png" alt=""><figcaption></figcaption></figure>
 
 \---
 

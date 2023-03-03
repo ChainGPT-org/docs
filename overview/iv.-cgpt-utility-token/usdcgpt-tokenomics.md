@@ -1,8 +1,8 @@
-# Tokenomics (unavailable)
+# $CGPT Tokenomics
 
-```
-This page will become available soon; please come back at a later time.
-```
+
+
+<figure><img src="../../.gitbook/assets/Pitchdeck.png" alt=""><figcaption></figcaption></figure>
 
 \---
 

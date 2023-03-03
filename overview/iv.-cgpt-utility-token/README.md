@@ -1,6 +1,6 @@
 # IV. CGPT Utility Token
 
-### **Sub-menu: |** [**Token Sale**](token-sale-unavailable.md) **|** [**Tokenomics**](tokenomics-unavailable.md) **|** [**Smart-Contract**](smart-contract-unavailable.md) **|** [**Burn Mechanism**](./#burn-mechanism) **|**
+### **Sub-menu: |** [**Token Sale**](token-sale.md) **|** [**Tokenomics**](usdcgpt-tokenomics.md) **|** [**Smart-Contract**](smart-contract-unavailable.md) **|** [**Burn Mechanism**](./#burn-mechanism) **|**
 
 ## Introduction to ChainGPT Token
 
@@ -44,12 +44,12 @@ $CGPT is an essential component of the ChainGPT ecosystem, providing individuals
 
 ## **Continue reading:**&#x20;
 
-{% content-ref url="token-sale-unavailable.md" %}
-[token-sale-unavailable.md](token-sale-unavailable.md)
+{% content-ref url="token-sale.md" %}
+[token-sale.md](token-sale.md)
 {% endcontent-ref %}
 
-{% content-ref url="tokenomics-unavailable.md" %}
-[tokenomics-unavailable.md](tokenomics-unavailable.md)
+{% content-ref url="usdcgpt-tokenomics.md" %}
+[usdcgpt-tokenomics.md](usdcgpt-tokenomics.md)
 {% endcontent-ref %}
 
 {% content-ref url="smart-contract-unavailable.md" %}
