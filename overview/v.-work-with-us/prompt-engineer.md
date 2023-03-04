@@ -23,4 +23,4 @@ We are looking for a highly motivated and analytical individual to join our team
 
 Competitive salary and benefits package. Opportunity to work on cutting-edge AI technology. A chance to make a significant impact on the growth and success of the company
 
-We would love to hear from you if you are passionate about AI and blockchain technology and have the drive to work in a fast-paced, innovative environment. Please send us your resume, LinkedIn, and GitHub if you have it via email at: info@chaingpt.org
+We would love to hear from you if you are passionate about AI and blockchain technology and have the drive to work in a fast-paced, innovative environment. Please send us your resume, LinkedIn, and GitHub if you have it via email at: jobs@chaingpt.org

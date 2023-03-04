@@ -80,7 +80,7 @@ The $CGPT token has yet to be released, and the official dates for the early sal
 
 <summary><strong>Are there ways to earn $CGPT tokens?</strong> </summary>
 
-Yes, there are various ways in which users can earn $CGPT tokens. One is by staking and farming; another is by selling quality prompts on our ChainGPT dedicated prompt marketplace.
+Yes, there are various ways in which users can earn $CGPT tokens. One is by staking and farming; another is by selling tokens on our ChainGPT dedicated crypto marketplace.
 
 </details>
 
