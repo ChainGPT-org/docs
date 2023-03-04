@@ -4,7 +4,7 @@
 
 ## Introduction to ChainGPT Token
 
-ChainGPT Token ($CGPT) is the backbone of the ChainGPT ecosystem. It is the medium of exchange that individuals and businesses must use to access the advanced AI model that powers the ecosystem. In addition, the token offers a variety of benefits to its holders, making it a valuable asset for those looking to invest in the future of the crypto and blockchain space.
+ChainGPT Token ($CGPT) is the backbone of the ChainGPT ecosystem. It is the medium of exchange that individuals and businesses must use to access the advanced AI model that powers the ecosystem. In addition, the token offers a variety of benefits to its holders, making it a valuable asset for those looking to participate in the future of AI in the crypto and blockchain space. CGPT will give holders & stakers access to the DAO system (proposal casting & voting).
 
 ## Key Features
 
@@ -13,6 +13,14 @@ ChainGPT Token ($CGPT) is the backbone of the ChainGPT ecosystem. It is the medi
 <summary>Access The ChainGPT AI Model</summary>
 
 The main purpose of $CGPT is to provide access to the ChainGPT AI Model and all the utilities and tools powered by this model. This advanced AI model was designed specifically for the crypto and blockchain space, and is capable of assisting with code contracts, explaining concepts, answering questions, analyzing markets, and more.
+
+</details>
+
+<details>
+
+<summary>DAO Access &#x26; Voting</summary>
+
+Participate in the ChainGPT DAO system by holding $CGPT tokens. By staking your $CGPT, you'll gain voting power within the DAO, enabling you to create proposals and help shape the ecosystem. Additionally, via proposals holders get to choose how to allocate the DAO fund, and influence the future of ChainGPT. Join us in making a difference.
 
 </details>
 
@@ -28,7 +36,7 @@ The ChainGPT ecosystem offers various staking and farming opportunities to $CGPT
 
 <summary>Burn Mechanism</summary>
 
-Half of all the fees and profits collected by the ChainGPT tools & utilities within the ecosystem are burned, increasing the value of $CGPT for holders, and the other half is used for the growth and sustainability of the ChainGPT organization. This ensures that users continue to benefit from the use of the ChainGPT platform, as the value of their tokens is constantly increasing.
+Half of all the fees and profits collected by the ChainGPT tools & utilities within the ecosystem are burned, increasing the value of $CGPT for holders, and the other half is used for the growth and sustainability of the ChainGPT organization. This ensures that users continue to benefit from the use of the ChainGPT platform.
 
 </details>
 
