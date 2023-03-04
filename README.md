@@ -21,7 +21,6 @@ ChainGPT is backed by the CGPT utility token, which is required to access variou
 * **AI-Generated NFTs**: AI-Generated NFTs are non-fungible tokens created based on user prompts using AI-powered algorithms. These NFTs are unique and can be used for various applications such as digital art, in-game items, and digital collectibles.
 * **AI Trading Bot:** The AI Trading Bot is an AI-powered trading bot that will automatically analyze market data and make trading decisions on behalf of the user (limited to decentralized exchanges). It is designed to maximize profits while minimizing risks and can execute trades in a fraction of a second.
 * **ChainGPT (Layer-1 Blockchain) Virtual Machine**: The ChainGPT Virtual Machine is a next-generation virtual machine that offers a unique combination of EVM compatibility and on-chain AI inference. It is designed to enable the development of decentralized AI applications on the blockchain.
-* **ChainGPT (Layer-2 Blockchain)  zkRollup:** The ChainGPT zkRollup is a Layer-2 blockchain designed to enable decentralized application scaling. It utilizes a combination of zero-knowledge proofs and roll-up technology to reduce the size of transactions, enabling faster and cheaper transactions on the ChainGPT Blockchain.
 
 Half of all the fees and profits collected by the ChainGPT tools & utilities within the ecosystem are burned, decreasing the supply of $CGPT. The other half is used for the growth and sustainability of the ChainGPT ecosystem.
 
