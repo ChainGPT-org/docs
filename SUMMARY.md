@@ -78,7 +78,7 @@
 
 * [ChainGPT Beta App](https://app.chaingpt.org/)
 * [ChainGPT Website](https://www.chaingpt.org/)
-* [Telegram Chat](https://t.me/chain\_gpt)
+* [Telegram Chat](https://t.me/chaingpt)
 * [Telegram News](https://t.me/chaingptnews)
 * [Twitter](https://twitter.com/Chain\_GPT)
 * [Discord](https://discord.com/invite/sv2NfqSgVW)
