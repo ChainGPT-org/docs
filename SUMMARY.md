@@ -23,6 +23,7 @@
     * [AI Inference Engine](overview/ii.-learn-the-concepts/chaingpt-blockchain/ai-inference-engine.md)
     * [AI Smart Contract and AI DApp](overview/ii.-learn-the-concepts/chaingpt-blockchain/ai-smart-contract-and-ai-dapp.md)
     * [Decentralizing AI Research](overview/ii.-learn-the-concepts/chaingpt-blockchain/decentralizing-ai-research.md)
+* [ChatGPT vs ChainGPT](overview/chatgpt-vs-chaingpt.md)
 * [III. Roadmap](overview/iii.-roadmap/README.md)
   * [2022: Q3-Q4](overview/iii.-roadmap/2022-q2-q4.md)
   * [2023: Q1-Q2](overview/iii.-roadmap/2023-q1-q2.md)
