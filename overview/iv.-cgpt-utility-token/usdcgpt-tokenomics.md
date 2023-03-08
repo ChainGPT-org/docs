@@ -1,8 +1,6 @@
 # $CGPT Tokenomics
 
-
-
-<figure><img src="../../.gitbook/assets/Pitchdeck.png" alt=""><figcaption></figcaption></figure>
+Will be added shortly, come back soon!&#x20;
 
 \---
 
