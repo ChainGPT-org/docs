@@ -17,7 +17,7 @@ We are looking for a highly motivated and experienced content creator and social
 
 * 3+ years of experience in content creation and social media management.
 * A strong portfolio of previous work and social media accounts.
-* Fluent in English with a U.S., Canadian, or Australian accent.
+* Fluent in English.
 * Experience creating educational content for YouTube and TikTok.
 * Excellent editing skills using video and photo editing software.
 * Ability to work independently and meet tight deadlines.
