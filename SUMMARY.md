@@ -35,7 +35,7 @@
   * [Smart-Contract (unavailable)](overview/iv.-cgpt-utility-token/smart-contract-unavailable.md)
 * [🔥 Airdrop Campaign](overview/airdrop-campaign/README.md)
   * [🟢 $15,000 Airdrop Campaign - by ChainGPT \[Ends May 10th\]](overview/airdrop-campaign/usd15-000-airdrop-campaign-by-chaingpt-ends-may-10th.md)
-  * [🟢 $5,000: Seedify x ChainGPT Airdrop Campaign \[Ends April](overview/airdrop-campaign/usd5-000-seedify-x-chaingpt-airdrop-campaign-ends-april.md)
+  * [🟢 $5,000: Seedify x ChainGPT Airdrop Campaign \[Ends April 5th\]](overview/airdrop-campaign/usd5-000-seedify-x-chaingpt-airdrop-campaign-ends-april-5th.md)
 * [V. Work With Us](overview/v.-work-with-us/README.md)
   * [Full-Stack Software Engineer](overview/v.-work-with-us/full-stack-software-engineer.md)
   * [Prompt Engineer](overview/v.-work-with-us/prompt-engineer.md)
