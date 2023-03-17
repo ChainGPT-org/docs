@@ -23,7 +23,6 @@
     * [AI Inference Engine](overview/ii.-learn-the-concepts/chaingpt-blockchain/ai-inference-engine.md)
     * [AI Smart Contract and AI DApp](overview/ii.-learn-the-concepts/chaingpt-blockchain/ai-smart-contract-and-ai-dapp.md)
     * [Decentralizing AI Research](overview/ii.-learn-the-concepts/chaingpt-blockchain/decentralizing-ai-research.md)
-* [ChatGPT vs ChainGPT](overview/chatgpt-vs-chaingpt.md)
 * [III. Roadmap](overview/iii.-roadmap/README.md)
   * [2022: Q3-Q4](overview/iii.-roadmap/2022-q2-q4.md)
   * [2023: Q1-Q2](overview/iii.-roadmap/2023-q1-q2.md)
@@ -34,6 +33,9 @@
   * [Burn Mechanism](overview/iv.-cgpt-utility-token/burn-mechanism.md)
   * [Staking & Farming](overview/iv.-cgpt-utility-token/staking-and-farming.md)
   * [Smart-Contract (unavailable)](overview/iv.-cgpt-utility-token/smart-contract-unavailable.md)
+* [🔥 Airdrop Campaign](overview/airdrop-campaign/README.md)
+  * [🟢 $15,000 Airdrop Campaign - by ChainGPT \[Ends May 10th\]](overview/airdrop-campaign/usd15-000-airdrop-campaign-by-chaingpt-ends-may-10th.md)
+  * [🟢 $5,000: Seedify x ChainGPT Airdrop Campaign \[Ends April](overview/airdrop-campaign/usd5-000-seedify-x-chaingpt-airdrop-campaign-ends-april.md)
 * [V. Work With Us](overview/v.-work-with-us/README.md)
   * [Full-Stack Software Engineer](overview/v.-work-with-us/full-stack-software-engineer.md)
   * [Prompt Engineer](overview/v.-work-with-us/prompt-engineer.md)
@@ -47,6 +49,7 @@
 
 ## ChainGPT AI & Utilities
 
+* [ChatGPT vs ChainGPT](chaingpt-ai-and-utilities/chatgpt-vs-chaingpt.md)
 * [I. ChainGPT AI Chatbot](chaingpt-ai-and-utilities/i.-chaingpt-ai-chatbot/README.md)
   * [I. Prompt Guide & Ideas](chaingpt-ai-and-utilities/i.-chaingpt-ai-chatbot/i.-prompt-guide-and-ideas/README.md)
     * [A. No-Code Smart-Contract Programming](chaingpt-ai-and-utilities/i.-chaingpt-ai-chatbot/i.-prompt-guide-and-ideas/a.-no-code-smart-contract-programming.md)

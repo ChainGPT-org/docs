@@ -21,7 +21,7 @@ ChainGPT is an AI-powered market analysis tool to help blockchain developers and
 
 For example, it can be trained on historical market data and used to generate predictions about future market trends. It even guides you on which inputs to provide it with to give you the best results.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 ### Conclusion
 
