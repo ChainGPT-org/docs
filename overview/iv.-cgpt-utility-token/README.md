@@ -1,6 +1,6 @@
 # IV. CGPT Utility Token
 
-### **Sub-menu: |** [**Token Sale**](token-sale.md) **|** [**Tokenomics**](usdcgpt-tokenomics.md) **|** [**Smart-Contract**](smart-contract.md) **|** [**Burn Mechanism**](./#burn-mechanism) **|**
+#### **Sub-menu: |** [**Token Sale**](token-sale.md) **|** [**Tokenomics**](usdcgpt-tokenomics.md) **|** [**Smart-Contract**](smart-contract.md) **|** [**Burn Mechanism**](./#burn-mechanism) **|**
 
 ## Introduction to ChainGPT Token
 

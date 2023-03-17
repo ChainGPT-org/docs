@@ -9,16 +9,16 @@
 | Stage     | Raise total    | % supply   | Sold     | Price $ | TGE    | Valuation |
 | --------- | -------------- | ---------- | -------- | ------- | ------ | --------- |
 | Private   | $400,000       | 8.00%      | 80m      | $0.005  | 5.00%  | $5m       |
-| Public    | $960,000       | 12.00%     | 120m     | $0.008  | 15.00% | $8m       |
-| **Total** | **$1,360,000** | **20.00%** | **200m** |         |        |           |
+| Public    | $800,000       | 10.00%     | 100m     | $0.008  | 15.00% | $8m       |
+| **Total** | **$1,200,000** | 18**.00%** | **180m** |         |        |           |
 
 ### Token Distribution
 
 | Towards         | Percentage  | Vesting | Cliff | Total | TGE    |
 | --------------- | ----------- | ------- | ----- | ----- | ------ |
 | Private         | 8.00%       | 18      | 3     | 21    | 5.00%  |
-| Public          | 12.00%      | 8       | 2     | 10    | 15.00% |
-| Liquidity       | 10.00%      | 8       | 0     | 8     | 20.00% |
+| Public          | 10.00%      | 8       | 2     | 10    | 15.00% |
+| Liquidity       | 12.00%      | 8       | 0     | 8     | 20.00% |
 | Team            | 14.00%      | 36      | 6     | 42    | 0.00%  |
 | Development     | 5.00%       | 24      | 3     | 27    | 0.00%  |
 | Advisory        | 4.00%       | 24      | 3     | 27    | 0.00%  |
@@ -31,12 +31,12 @@
 
 ### Initial Marketcap
 
-| Initial market cap (EXCL LIQ) | $200,000      |
-| ----------------------------- | ------------- |
-| Fully Diluted Market Cap      | $8,000,000.00 |
-| Circulating supply TGE        | 45,000,000.00 |
-| Total supply (MM)             | 1,000         |
-| Price variable (input)        | $0.008        |
+| Initial market cap (EXCL LIQ) | $176,000   |
+| ----------------------------- | ---------- |
+| Fully Diluted Market Cap      | $8,000,000 |
+| Circulating supply TGE        | 45,000,000 |
+| Total supply (MM)             | 1,000      |
+| Price variable (input)        | $0.008     |
 
 <figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
