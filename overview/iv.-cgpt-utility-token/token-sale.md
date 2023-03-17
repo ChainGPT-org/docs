@@ -1,7 +1,12 @@
 # Token Sale
 
-IDO Date: TBA\
-\* Hosted on Seedify Launchpad
+**IDO Date:** April 7th\
+**IDO Platforms:** Seedify + more TBA.
+
+**Listing Date:** April 10th\
+**Exchanges:** PancakeSwap + more TBA.
+
+For more information visit our website & follow ChainGPT on social media platforms to stay up-to-date with the latest news!
 
 \---
 
