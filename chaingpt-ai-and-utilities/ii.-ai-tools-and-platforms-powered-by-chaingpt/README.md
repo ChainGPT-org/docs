@@ -14,7 +14,7 @@
 [ai-generated-nfts.md](ai-generated-nfts.md)
 {% endcontent-ref %}
 
-{% content-ref url="ai-trading-bot.md" %}
-[ai-trading-bot.md](ai-trading-bot.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 

@@ -64,7 +64,6 @@
   * [🔎 DevAssist Browser Extension](chaingpt-ai-and-utilities/ii.-ai-tools-and-platforms-powered-by-chaingpt/devassist-browser-extension.md)
   * [📰 AI Generated News](chaingpt-ai-and-utilities/ii.-ai-tools-and-platforms-powered-by-chaingpt/ai-generated-news.md)
   * [🖼 AI Generated NFTs](chaingpt-ai-and-utilities/ii.-ai-tools-and-platforms-powered-by-chaingpt/ai-generated-nfts.md)
-  * [📈 AI Trading Bot](chaingpt-ai-and-utilities/ii.-ai-tools-and-platforms-powered-by-chaingpt/ai-trading-bot.md)
 * [III. ChainGPT Blockchain \[Layer-1 & Layer-2\]](chaingpt-ai-and-utilities/iii.-chaingpt-blockchain-layer1-and-layer2/README.md)
   * [Introduction to ChainGPT Layer-1 Blockchain](chaingpt-ai-and-utilities/iii.-chaingpt-blockchain-layer-1-and-layer-2/introduction-to-chaingpt-layer-1-blockchain.md)
   * [Introduction to ChainGPT Layer-2 Blockchain](chaingpt-ai-and-utilities/iii.-chaingpt-blockchain-layer-1-and-layer-2/introduction-to-chaingpt-layer-2-blockchain.md)
