@@ -1,7 +1,8 @@
 # Smart-Contract
 
 **Audit**: CERTIK in process\
-**Smart-Contract Address:** Not-Deployed / TBA
+**Smart-Contract Address:** Not-Deployed / TBA\
+**Initial Blockchain Network:** Binance Smart Chain
 
 **GitHub**: [https://github.com/ChainGPT-org/CGPT\_Token](https://github.com/ChainGPT-org/CGPT\_Token)
 

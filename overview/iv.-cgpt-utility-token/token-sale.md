@@ -4,7 +4,9 @@
 **IDO Platforms:** Seedify + more TBA.
 
 **Listing Date:** April 10th\
-**Exchanges:** PancakeSwap + more TBA.
+**Exchanges:** PancakeSwap + more TBA.\
+\
+**Initial Blockchain Network**: Binance Smart-Chain
 
 For more information visit our website & follow ChainGPT on social media platforms to stay up-to-date with the latest news!
 
