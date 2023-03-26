@@ -14,12 +14,13 @@ ChainGPT is backed by the $CGPT utility token, which is required to access vario
 
 ### Smart-Contract Details
 
-`ChainGPT.sol` is an ERC20 standard smart-contract named CGPT. The contract inherits from the ERC20, ERC20Burnable, and Ownable contracts. The token can be used for any type of transactions on the Ethereum blockchain. The contract mints 1,000,000,000 CGPT tokens to the address that deploys the contrat, and does not have the ability to mint any more tokens after the deployment.
+`ChainGPT.sol` is an ERC20 standard smart-contract named CGPT. The contract inherits from the ERC20, ERC20Burnable, and Ownable contracts. The token can be used for any type of transaction on the Binance Smart Chain blockchain. The contract mints 1,000,000,000 CGPT tokens to the address that deploys the contract, and does not have the ability to mint any more tokens after the deployment.
 
-* Token Name: ChainGPT
 * Token Symbol: CGPT
-* Total Supply: 1,000,000,000 (1 billion)
 * Decimals: 18
+* Token Name: ChainGPT
+* Total Supply: 1,000,000,000 (1 billion)
+* Network: Binance Smart Chain (BEP20)
 
 ### Solidity
 
