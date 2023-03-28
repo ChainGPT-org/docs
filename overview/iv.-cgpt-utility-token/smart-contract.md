@@ -1,6 +1,6 @@
 # Smart-Contract
 
-**Audit**: CERTIK in process\
+**Certik Audit Report:** [**https://www.certik.com/projects/chaingpt**](https://www.certik.com/projects/chaingpt) **** \
 **Smart-Contract Address:** Not-Deployed / TBA\
 **Initial Blockchain Network:** Binance Smart Chain
 
