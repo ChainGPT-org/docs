@@ -29,7 +29,7 @@
   * [2023: Q3-Q4](overview/iii.-roadmap/2023-q3-q4.md)
 * [IV. CGPT Utility Token](overview/iv.-cgpt-utility-token/README.md)
   * [Token Sale](overview/iv.-cgpt-utility-token/token-sale.md)
-  * [$CGPT Tokenomics](overview/iv.-cgpt-utility-token/usdcgpt-tokenomics.md)
+  * [CGPT Tokenomics](overview/iv.-cgpt-utility-token/cgpt-tokenomics.md)
   * [Smart-Contract](overview/iv.-cgpt-utility-token/smart-contract.md)
   * [Burn Mechanism](overview/iv.-cgpt-utility-token/burn-mechanism.md)
   * [Staking & Farming](overview/iv.-cgpt-utility-token/staking-and-farming.md)
