@@ -1,12 +1,26 @@
 # Token Sale
 
-**IDO Date:** April 7th\
-**IDO Platforms:** Seedify + more TBA.
+**Total IDO Sale:** $720,000\
+**IDO Price**: $0.008\
+**IDO Dates**: April 5-7\
+**FDV**: $8,000,000\
+**IMC** (excl. liquidity): $194,400\
+**Network**: Binance Smart-Chain
 
-**Listing Date:** April 10th\
-**Exchanges:** PancakeSwap + more TBA.\
-\
-**Initial Blockchain Network**: Binance Smart-Chain
+### IDO Platforms:
+
+**Seedify \[Incubator] :** April 7th - $400k allocation\
+****[https://launchpad.seedify.fund/pool\_detail/upcoming/64185a6845dc0401eeb1e530](https://launchpad.seedify.fund/pool\_detail/upcoming/64185a6845dc0401eeb1e530)
+
+**Poolz Finance:** April 5th - $120k allocation\
+**Link:** [https://www.poolz.finance/project-details/about/142](https://www.poolz.finance/project-details/about/142)
+
+**EnjinStarter**: April 6th - $100k\
+**Link**: [https://launchpad.enjinstarter.com/projectcoming/ea755d48-06aa-4f43-808f-3aa178c8cb25](https://launchpad.enjinstarter.com/projectcoming/ea755d48-06aa-4f43-808f-3aa178c8cb25)
+
+**WePad**: April 6th - $100k allocation\
+**Link**: TBA\
+
 
 For more information visit our website & follow ChainGPT on social media platforms to stay up-to-date with the latest news!
 
