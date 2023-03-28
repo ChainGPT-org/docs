@@ -17,7 +17,7 @@ The scope of the bounty program includes the following:
 * DevAssist Browser Extension
 * ChainGPT Blockchain (Layer 1 & Layer 2)
 * ChainGPT Blockchain Ecosystem (web wallet, wallet extension, explorer, Wormhole, DEX)
-* ChainGPT Documentation: [https://github.com/chaingpt-org/](https://github.com/chaingpt/chaingpt-docs)docs
+* ChainGPT Documentation: [https://github.com/ChainGPT-org/docs](https://github.com/ChainGPT-org/docs)
 
 
 
