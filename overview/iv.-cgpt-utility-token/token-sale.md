@@ -7,19 +7,21 @@
 **IMC** (excl. liquidity): $194,400\
 **Network**: Binance Smart-Chain
 
+<figure><img src="../../.gitbook/assets/New_Twitter_Posts (2).png" alt=""><figcaption></figcaption></figure>
+
 ### IDO Platforms:
 
 **Seedify \[Incubator] :** April 7th - $400k allocation\
 ****[https://launchpad.seedify.fund/pool\_detail/upcoming/64185a6845dc0401eeb1e530](https://launchpad.seedify.fund/pool\_detail/upcoming/64185a6845dc0401eeb1e530)
 
+**WePad**: April 6th - $100k allocation\
+**Link**: [https://wepad.io/project/chain-gpt](https://wepad.io/project/chain-gpt)
+
 **Poolz Finance:** April 5th - $120k allocation\
 **Link:** [https://www.poolz.finance/project-details/about/142](https://www.poolz.finance/project-details/about/142)
 
 **EnjinStarter**: April 6th - $100k\
-**Link**: [https://launchpad.enjinstarter.com/projectcoming/ea755d48-06aa-4f43-808f-3aa178c8cb25](https://launchpad.enjinstarter.com/projectcoming/ea755d48-06aa-4f43-808f-3aa178c8cb25)
-
-**WePad**: April 6th - $100k allocation\
-**Link**: TBA\
+**Link**: [https://launchpad.enjinstarter.com/projectcoming/ea755d48-06aa-4f43-808f-3aa178c8cb25](https://launchpad.enjinstarter.com/projectcoming/ea755d48-06aa-4f43-808f-3aa178c8cb25)\
 
 
 For more information visit our website & follow ChainGPT on social media platforms to stay up-to-date with the latest news!

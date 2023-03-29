@@ -3,6 +3,8 @@
 Links: | [ChainGPT Beta App](https://app.chaingpt.org) | [Blog](https://chaingpt.org) | [GitHub](https://github.com/chaingpt-org) | [Linkedin](https://www.linkedin.com/company/chaingpt) | [Medium](https://medium.com/@chaingpt) |\
 Community: | [Telegram-Chat](https://t.me/chaingpt) | [Telegram-News](https://t.me/chaingptnews) | [Discord ](https://discord.com/invite/sv2NfqSgVW)| [Twitter ](https://twitter.com/Chain\_GPT)| [Instagram](https://www.instagram.com/chaingpt) |
 
+<figure><img src=".gitbook/assets/Untitled design.gif" alt=""><figcaption></figcaption></figure>
+
 ## Introduction to ChainGPT
 
 Unleash the **power** of **Blockchain** AI with ChainGPT. An advanced AI model explicitly designed for Blockchain Technology and Crypto-related topics. It uses the latest algorithms and high-speed computing capabilities to address challenging issues in the Blockchain and Crypto space. Using ChainGPT, users may quickly obtain whatever knowledge and information they require. With many other unique features designed for individuals, developers, and businesses, ChainGPT is an essential tool for all in the Blockchain space.
