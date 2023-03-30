@@ -4,6 +4,8 @@
 
 ## Introduction to ChainGPT Token
 
+**Contract Address**: `0x9840652DC04fb9db2C43853633f0F62BE6f00f98`
+
 ChainGPT Token ($CGPT) is the backbone of the ChainGPT ecosystem. It is the medium of exchange that individuals and businesses must use to access the advanced AI model that powers the ecosystem. In addition, the token offers a variety of benefits to its holders, making it a valuable asset for those looking to participate in the future of AI in the crypto and blockchain space. CGPT will give holders & stakers access to the DAO system (proposal casting & voting).
 
 ## Key Features
