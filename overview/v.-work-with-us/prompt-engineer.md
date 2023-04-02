@@ -21,6 +21,8 @@ We are looking for a highly motivated and analytical individual to join our team
 * Ability to work independently and as part of a team.
 * A degree in Computer Science, Artificial Intelligence, or a related field is optional but optional. Benefits:
 
-Competitive salary and benefits package. Opportunity to work on cutting-edge AI technology. A chance to make a significant impact on the growth and success of the company
+Competitive salary and benefits package. Opportunity to work on cutting-edge AI technology. A chance to make a significant impact on the growth and success of the company.
+
+A KYC must be passed for an offer of employment. In addition, all Employees are required to sign an NDA.
 
 We would love to hear from you if you are passionate about AI and blockchain technology and have the drive to work in a fast-paced, innovative environment. Please send us your resume, LinkedIn, and GitHub if you have it via email at: jobs@chaingpt.org

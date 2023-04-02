@@ -25,4 +25,6 @@ We are looking for a highly motivated and experienced content creator and social
 
 This is a full-time position with a competitive salary and benefits. We would love to hear from you if you are passionate about content creation and social media management and would like to work with a dynamic and growing company.
 
+A KYC must be passed for an offer of employment. In addition, all Employees are required to sign an NDA.
+
 To apply, please send your resume, portfolio, and cover letter to: jobs@chaingpt.org&#x20;

@@ -29,6 +29,8 @@ We seek a talented Social Media Manager to join our team and help manage our soc
 
 This is a full-time position with a competitive salary and benefits. We would love to hear from you if you are passionate about social media and would like to work with a dynamic and growing company.
 
+A KYC must be passed for an offer of employment. In addition, all Employees are required to sign an NDA.
+
 To apply, please send your resume, portfolio, and cover letter to jobs@chaingpt.org&#x20;
 
 We are excited to hear from you.
