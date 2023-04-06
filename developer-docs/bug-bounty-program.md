@@ -12,7 +12,7 @@ In addition to these measures, we offer a bug bounty for the core components of 
 
 The scope of the bounty program includes the following:
 
-* ChainGPT AI Model & Chatbot
+* ChainGPT AI Model & Chatbot (\* Incorrect answers given by the chatbot do not count toward the bounty)
 * ChainGPT AI-Based Tools & Utilities
 * DevAssist Browser Extension
 * ChainGPT Blockchain (Layer 1 & Layer 2)
@@ -25,11 +25,11 @@ The scope of the bounty program includes the following:
 
 #### Critical Bugs (awards up to $5,000 in CGPT tokens)
 
-&#x20;Critical bugs result in loss of funds or cause network downtime. These may include vulnerabilities in the deployed and supported versions of the blockchain client, smart contracts, or other software outlined in the Scope section.
+Critical bugs result in loss of funds or cause network downtime. These may include vulnerabilities in the deployed and supported versions of the blockchain client, smart contracts, or other software outlined in the Scope section.
 
 #### Non-Critical Bugs (awards up to $500 in CGPT tokens)
 
-&#x20;Non-critical bugs do not cause financial loss or harm to the network's availability. These may impact the experience of developers or users and have a workaround.
+Non-critical bugs do not cause financial loss or harm to the network's availability. However, these may impact the experience of developers or users and have a workaround.
 
 Awards are subject to reclassification and verification by the ChainGPT team.
 
@@ -39,13 +39,13 @@ Awards are subject to reclassification and verification by the ChainGPT team.
 
 To report a bug, please follow these steps:
 
-1. Could you describe the issue clearly in an email, including a reference to the source code and classifying the bug as Critical or Non-critical?
-2. Could you attach all relevant information needed to reproduce the bug in a test environment?
+1. Could you describe the issue clearly in an email, referencing the source code and classifying the bug as Critical or Non-critical?
+2. Could you attach all the relevant information needed to reproduce the bug in a test environment?
 3. Include the version information for the faulty software component and any other relevant system information (e.g., OS version).
 4. Could you provide suggested solutions or mitigations, if known?
 5. Email your report to info@chaingpt.org with the subject line starting with either "Critical" or "Non-critical," followed by a brief title of the bug.
 
-The ChainGPT team will look over your report and classification, and then respond within two business days to confirm if the bug qualifies for the bounty program or request more information. Updates on the bug fix will be posted on our Discord server and Telegram channel.&#x20;
+The ChainGPT team will review your report and classification and respond within two business days to confirm if the bug qualifies for the bounty program or if you'd like more information. Updates on the bug fix will be posted on our Discord server and Telegram channel.&#x20;
 
 For non-critical bugs, the ChainGPT team will create an issue or pull request that you can track. For critical bugs that could result in funds loss, the fix will be shared after the code has been patched to prevent exploitation.
 
@@ -54,9 +54,10 @@ For non-critical bugs, the ChainGPT team will create an issue or pull request th
 ### Terms and Conditions
 
 * Bounty awards are made at the sole discretion of ChainGPT and are subject to change and verification.
-* We will make every effort to respond to all submissions promptly and provide rewards in a timely manner, but we cannot guarantee processing time for claims.
-* Participants warrant that they are legally able to receive bounties and that the work submitted is their own original work. Additionally, participants must reside in a territory that allows payment of such rewards.
-* Participants must be willing to undergo any necessary KYC or AML checks as required.
+* We will respond to all submissions as soon as possible and give rewards promptly, but we cannot promise processing time for claims.
+* Participants warrant that they can legally receive bounties and that the work submitted is their original work. Additionally, participants must reside in a territory that allows payment of such rewards.
+* Participants must be willing to undergo necessary KYC or AML checks.
 * This program is not open to current or former employees or contractors of ChainGPT.
-* ChainGPT reserves the right to alter or discontinue the Bounty Program at any time without notice.
-* Rewards will be paid out in $GPT tokens.
+* ChainGPT reserves the right to alter or discontinue the Bounty Program without notice.
+* Rewards will be paid out in $CGPT tokens.
+* **Only bounties submitted to info@chaingpt.org will be considered. DO NOT DM the team.**
