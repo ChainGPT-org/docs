@@ -1,10 +1,11 @@
-# Token Sale
+# Token Sale (IDO)
 
 **Total IDO Sale:** $720,000\
 **IDO Price**: $0.008\
 **IDO Dates**: April 5-7\
+**Listing Date**: April 10th, 12:00 PM (UTC)\
 **FDV**: $8,000,000\
-**IMC** (excl. liquidity): $194,400\
+**IMC** (excl. liquidity): $208,000\
 **Network**: Binance Smart-Chain
 
 <figure><img src="../../.gitbook/assets/New_Twitter_Posts (2).png" alt=""><figcaption></figcaption></figure>
@@ -12,7 +13,7 @@
 ### IDO Platforms:
 
 **Seedify \[Incubator] :** April 7th - $400k allocation\
-****[https://launchpad.seedify.fund/pool\_detail/upcoming/64185a6845dc0401eeb1e530](https://launchpad.seedify.fund/pool\_detail/upcoming/64185a6845dc0401eeb1e530)
+[https://launchpad.seedify.fund/pool\_detail/upcoming/64185a6845dc0401eeb1e530](https://launchpad.seedify.fund/pool\_detail/upcoming/64185a6845dc0401eeb1e530)
 
 **WePad**: April 6th - $100k allocation\
 **Link**: [https://wepad.io/project/chain-gpt](https://wepad.io/project/chain-gpt)

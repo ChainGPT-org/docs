@@ -1,7 +1,7 @@
-# 🟢 $5,000: Seedify x ChainGPT Airdrop Campaign \[Ends April 5th]
+# 🔴 $5,000: Seedify x ChainGPT Airdrop Campaign \[Ended]
 
 **ChainGPT & Seedify Airdrop Collaboration**\
-****Enjoy $2500 in SFUND & $2500 in CGPT.
+Enjoy $2500 in SFUND & $2500 in CGPT.
 
 💫 **Enter The Giveaway:** [https://gleam.io/erfYW/chaingpt-x-seedify-2500-cgpt-2500-sfund-giveaway](https://gleam.io/erfYW/chaingpt-x-seedify-2500-cgpt-2500-sfund-giveaway)
 

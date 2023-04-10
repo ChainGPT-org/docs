@@ -1,7 +1,7 @@
 # Smart-Contract
 
-**Certik Audit Report:** [**https://www.certik.com/projects/chaingpt**](https://www.certik.com/projects/chaingpt) **** \
-**Smart-Contract Address:** `0x9840652DC04fb9db2C43853633f0F62BE6f00f98`\
+&#x20;**Smart-Contract Address:**  ([Certik Audit](https://www.certik.com/projects/chaingpt)) ([Hacken Audit](https://hacken.io/audits/chaingpt/))\
+`0x9840652DC04fb9db2C43853633f0F62BE6f00f98`\
 **Initial Blockchain Network:** Binance Smart Chain
 
 **GitHub**: [https://github.com/ChainGPT-org/CGPT\_Token](https://github.com/ChainGPT-org/CGPT\_Token)

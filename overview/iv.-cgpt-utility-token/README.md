@@ -1,10 +1,13 @@
 # IV. CGPT Utility Token
 
-#### **Sub-menu: |** [**Token Sale**](token-sale.md) **|** [**Tokenomics**](cgpt-tokenomics.md) **|** [**Smart-Contract**](smart-contract.md) **|** [**Burn Mechanism**](./#burn-mechanism) **|**
+#### **Sub-menu: |** [**Token Sale**](token-sale-ido.md) **|** [**Tokenomics**](cgpt-tokenomics-utility-token.md) **|** [**Smart-Contract**](smart-contract.md) **|** [**Burn Mechanism**](./#burn-mechanism) **|**
+
+#### 🔥 ChainGPT token will list on ByBit, Bitget, Gateio, MEXC, and PancakeSwap, on April 10th at 12PM UTC.
 
 ## Introduction to ChainGPT Token
 
-**Contract Address**: `0x9840652DC04fb9db2C43853633f0F62BE6f00f98`
+**Contract Address**: ([Certik Audit](https://www.certik.com/projects/chaingpt)) ([Hacken Audit](https://hacken.io/audits/chaingpt/))\
+`0x9840652DC04fb9db2C43853633f0F62BE6f00f98`
 
 ChainGPT Token ($CGPT) is the backbone of the ChainGPT ecosystem. It is the medium of exchange that individuals and businesses must use to access the advanced AI model that powers the ecosystem. In addition, the token offers a variety of benefits to its holders, making it a valuable asset for those looking to participate in the future of AI in the crypto and blockchain space. CGPT will give holders & stakers access to the DAO system (proposal casting & voting).
 
@@ -54,12 +57,12 @@ $CGPT is an essential component of the ChainGPT ecosystem, providing individuals
 
 ## **Continue reading:**&#x20;
 
-{% content-ref url="token-sale.md" %}
-[token-sale.md](token-sale.md)
+{% content-ref url="token-sale-ido.md" %}
+[token-sale-ido.md](token-sale-ido.md)
 {% endcontent-ref %}
 
-{% content-ref url="cgpt-tokenomics.md" %}
-[cgpt-tokenomics.md](cgpt-tokenomics.md)
+{% content-ref url="cgpt-tokenomics-utility-token.md" %}
+[cgpt-tokenomics-utility-token.md](cgpt-tokenomics-utility-token.md)
 {% endcontent-ref %}
 
 {% content-ref url="smart-contract.md" %}

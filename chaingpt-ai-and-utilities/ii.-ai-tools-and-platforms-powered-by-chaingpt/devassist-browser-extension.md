@@ -7,7 +7,7 @@ DevAssist is a unique open-source browser extension powered by ChainGPT's advanc
 <figure><img src="../../.gitbook/assets/DevAssist Screenshots.png" alt=""><figcaption></figcaption></figure>
 
 **The Power of ChainGPT**\
-****By utilizing the advanced AI model, ChainGPT has to offer. Every smart contract is scanned live by ChainGPT's AI, analyzed, and then explained in a simple way that's easy to understand by all users. This is the first time non-developers with no-code knowledge can know what the smart contract they're about to interact with is doing.
+By utilizing the advanced AI model, ChainGPT has to offer. Every smart contract is scanned live by ChainGPT's AI, analyzed, and then explained in a simple way that's easy to understand by all users. This is the first time non-developers with no-code knowledge can know what the smart contract they're about to interact with is doing.
 
 **Your developer assistant at all times, free of charge.**
 
