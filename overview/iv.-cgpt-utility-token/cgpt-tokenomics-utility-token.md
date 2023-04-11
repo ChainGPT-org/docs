@@ -5,7 +5,6 @@
 | Initial market cap (EXCL LIQ/M) | $215,111                                                     |
 | ------------------------------- | ------------------------------------------------------------ |
 | Fully Diluted Market Cap        | $8,000,000                                                   |
-| Circulating supply TGE          | 101,688,923.08                                               |
 | Price variable (IDO/Listing)    | $0.008                                                       |
 | Pair - BSC                      | <p>CEX Pair: $CGPT / $USDT</p><p>DEX Pair: $CGPT / $BUSD</p> |
 
