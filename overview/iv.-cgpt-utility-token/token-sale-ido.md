@@ -22,8 +22,10 @@
 **Link:** [https://www.poolz.finance/project-details/about/142](https://www.poolz.finance/project-details/about/142)
 
 **EnjinStarter**: April 6th - $100k\
-**Link**: [https://launchpad.enjinstarter.com/projectcoming/ea755d48-06aa-4f43-808f-3aa178c8cb25](https://launchpad.enjinstarter.com/projectcoming/ea755d48-06aa-4f43-808f-3aa178c8cb25)\
+**Link**: [https://launchpad.enjinstarter.com/projectcoming/ea755d48-06aa-4f43-808f-3aa178c8cb25](https://launchpad.enjinstarter.com/projectcoming/ea755d48-06aa-4f43-808f-3aa178c8cb25)
 
+**Decubate(Private Round):** April 5th - 50K \
+**Link:** [https://platform.decubate.com/project/chaingpt](https://platform.decubate.com/project/chaingpt)
 
 For more information visit our website & follow ChainGPT on social media platforms to stay up-to-date with the latest news!
 
