@@ -41,7 +41,7 @@ The ChainGPT ecosystem offers various staking and farming opportunities to $CGPT
 
 <summary>Burn Mechanism</summary>
 
-Half of all the fees and profits collected by the ChainGPT tools & utilities within the ecosystem are burned, increasing the value of $CGPT for holders, and the other half is used for the growth and sustainability of the ChainGPT organization. This ensures that users continue to benefit from the use of the ChainGPT platform.
+Half of all the fees and profits collected by the ChainGPT tools & utilities within the ecosystem are burned, decreasing the circulating supply of $CGPT, and the other half is used for the growth and sustainability of the ChainGPT organization.&#x20;
 
 </details>
 

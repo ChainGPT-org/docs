@@ -1,6 +1,6 @@
 # Burn Mechanism
 
-The ChainGPT ecosystem features a unique burn mechanism that is vital to the platform's native token, $CGPT. This mechanism automatically burns half of each fee or profit the ChainGPT tools & utilities make. Thus reducing the overall supply of $CGPT and increasing its scarcity. For example, when a user pays 5 $CGPT for each request of ChainGPT AI, half of that is burnt out of the supply.&#x20;
+The ChainGPT ecosystem features a unique burn mechanism that is vital to the platform's native token, $CGPT. This mechanism automatically burns half of each fee or revnue the ChainGPT tools & utilities make. Thus reducing the overall supply of $CGPT and increasing its scarcity. For example, when a user pays 5 $CGPT for each request of ChainGPT AI, half of that is burnt out of the supply.&#x20;
 
 ## How does the burn apply in ChainGPT?
 

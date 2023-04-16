@@ -68,13 +68,13 @@ At ChainGPT, we are dedicated to ensuring the highest quality and security of ou
 
 <summary><strong>What is $CGPT token?</strong> </summary>
 
-$CGPT, or ChainGPT Token, is the utility token powering the ChainGPT ecosystem. ChainGPT is a futuristic AI chatbot designed to assist individuals, developers, and businesses with anything related to Blockchain Technology and Cryptocurrencies. The token is used for various purposes within the ChainGPT ecosystem and offers several benefits to its holders.
+$CGPT, or ChainGPT Token, is the utility token powering the ChainGPT ecosystem. ChainGPT is a futuristic AI chatbot designed to assist individuals, developers, and businesses with anything related to Blockchain Technology and Cryptocurrencies.&#x20;
 
 **Some of the key features and use cases of $CGPT token include:**
 
 1\. Access to ChainGPT services: Token holders can use $CGPT to access various ChainGPT services such as AI-generated news, AI smart contract generator and auditor tools, AI NFT Generator, and more.
 
-2\. Staking and Farming: Users can stake and farm their $CGPT tokens to earn passive income and participate in the growth of the ChainGPT ecosystem.
+2\. Staking and Farming: Users can stake and farm their $CGPT tokens.
 
 3\. Governance: $CGPT token holders have governance rights, allowing them to participate in voting on important decisions and proposals related to the development and future of ChainGPT.
 
