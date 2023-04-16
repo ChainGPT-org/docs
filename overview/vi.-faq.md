@@ -1,5 +1,9 @@
 # VI. FAQ
 
+**You can read this entire FAQ page, or just ask our AI Chatbot!**\
+Web: [https://app.ChainGPT.org](https://app.chaingpt.org)\
+Telegram: [https://t.me/ChainGPTAI\_Bot](https://t.me/ChainGPTAI\_Bot)
+
 ## About ChainGPT AI
 
 <details>
@@ -64,7 +68,19 @@ At ChainGPT, we are dedicated to ensuring the highest quality and security of ou
 
 <summary><strong>What is $CGPT token?</strong> </summary>
 
-$CGPT is the utility token behind the ChainGPT ecosystem. It is ultimately how individuals and businesses access the AI model, ChainGPT, and API.
+$CGPT, or ChainGPT Token, is the utility token powering the ChainGPT ecosystem. ChainGPT is a futuristic AI chatbot designed to assist individuals, developers, and businesses with anything related to Blockchain Technology and Cryptocurrencies. The token is used for various purposes within the ChainGPT ecosystem and offers several benefits to its holders.
+
+**Some of the key features and use cases of $CGPT token include:**
+
+1\. Access to ChainGPT services: Token holders can use $CGPT to access various ChainGPT services such as AI-generated news, AI smart contract generator and auditor tools, AI NFT Generator, and more.
+
+2\. Staking and Farming: Users can stake and farm their $CGPT tokens to earn passive income and participate in the growth of the ChainGPT ecosystem.
+
+3\. Governance: $CGPT token holders have governance rights, allowing them to participate in voting on important decisions and proposals related to the development and future of ChainGPT.
+
+4\. Discounts and exclusive features: Holding $CGPT tokens may grant users discounts on certain services within the ChainGPT ecosystem and access to exclusive features.
+
+The total supply of CGPT is 1 billion (1,000,000,000) tokens. It is currently deployed on the BSC (Binance Smart Chain) network, with plans to expand to other networks like Ethereum, Polygon Matic, Avalanche, and more in the future.
 
 </details>
 
@@ -72,7 +88,15 @@ $CGPT is the utility token behind the ChainGPT ecosystem. It is ultimately how i
 
 <summary><strong>How can I get $CGPT?</strong> </summary>
 
-The $CGPT token has yet to be released, and the official dates for the early sale and launch will be announced shortly. During the early sale phase, early adopters will get a window opportunity to obtain $CGPT before its launch on exchanges. Afterward, $CGPT will be available on decentralized and centralized exchanges.
+You can acquire $CGPT (ChainGPT Token) through various methods:
+
+1\. Centralized Exchanges: CGPT was listed on multiple centralized exchanges on April 10th, 2023, including KuCoin, MEXC, ByBit, GATE.io, BitGet. You can buy CGPT tokens by creating an account on one of these exchanges and trading it against other cryptocurrencies like BTC, ETH, or USDT.
+
+2\. Decentralized Exchanges: CGPT is also available on PancakeSwap, KyberSwap, and Thena decentralized exchanges. You can swap your tokens like BNB, BUSD, or other supported tokens for CGPT directly using these platforms
+
+3\. Staking and Farming: You can also earn CGPT tokens by participating in staking and farming programs. CGPT staking and farming are currently live on https://staking.chaingpt.org and will become available on PancakeSwap Syrup Farm, Kyber Network, Thena, KuCoin, and ByBit.
+
+Please ensure you're using the correct smart contract address for CGPT when interacting with decentralized exchanges: 0x9840652DC04fb9db2C43853633f0F62BE6f00f98. Always double-check the contract address to avoid scams or fake tokens.
 
 </details>
 

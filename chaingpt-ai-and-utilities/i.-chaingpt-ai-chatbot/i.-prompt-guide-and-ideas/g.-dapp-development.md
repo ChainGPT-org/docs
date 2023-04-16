@@ -10,7 +10,7 @@ ChainGPT provides users with a powerful text-based system for DApp development. 
 
 The AI can be asked to provide a step-by-step guide on creating a decentralized application like PancakeSwap. The AI will then generate a step-by-step guide on creating such a decentralized application.
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 ### Benefits of ChainGPT
 

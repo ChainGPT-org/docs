@@ -7,7 +7,7 @@ Enjoy $2500 in SFUND & $2500 in CGPT.
 
 📅 **Campaign Dates:** Live - Ending April 5th
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 #### **Welcome to ChainGPT's airdrop campaign in partnership with Seedify!**&#x20;
 

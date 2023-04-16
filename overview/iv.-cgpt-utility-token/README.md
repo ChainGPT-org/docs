@@ -1,6 +1,6 @@
 # IV. CGPT Utility Token
 
-#### **Sub-menu: |** [**Token Sale**](token-sale-ido.md) **|** [**Tokenomics**](cgpt-tokenomics.md) **|** [**Smart-Contract**](smart-contract.md) **|** [**Burn Mechanism**](./#burn-mechanism) **|**
+#### **Sub-menu: |** [**Token Sale**](token-sale-ido.md) **|** [**Tokenomics**](cgpt-tokenomics-utility-token.md) **|** [**Smart-Contract**](smart-contract.md) **|** [**Burn Mechanism**](./#burn-mechanism) **|**
 
 #### 🔥 ChainGPT token will list on ByBit, Bitget, Gateio, MEXC, and PancakeSwap, on April 10th at 12PM UTC.
 
@@ -73,8 +73,8 @@ $CGPT is an essential component of the ChainGPT ecosystem, providing individuals
 [staking-and-farming.md](staking-and-farming.md)
 {% endcontent-ref %}
 
-{% content-ref url="cgpt-tokenomics.md" %}
-[cgpt-tokenomics.md](cgpt-tokenomics.md)
+{% content-ref url="cgpt-tokenomics-utility-token.md" %}
+[cgpt-tokenomics-utility-token.md](cgpt-tokenomics-utility-token.md)
 {% endcontent-ref %}
 
 \---

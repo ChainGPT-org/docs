@@ -6,7 +6,7 @@
 
 The ChainGPT ecosystem offers multiple staking and farming options for $CGPT token holders, mainly used to access the AI model and farming to earn rewards in $CGPT tokens.
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 ### Staking: What It Is and How It Works
 

@@ -12,7 +12,7 @@ ChainGPT uses AI-driven technology to scan any code, program, or smart contract.
 
 To demonstrate the power of ChainGPT, we asked it to explain the ‘BSCValidatorSet’ contract on Binance Smart Chain. In seconds, we received a clear, concise response. Here’s the reaction from ChainGPT:
 
-<figure><img src="../../../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 "BSCValidatorSet is a smart contract that allows users to manage validator sets on Binance Smart Chain. It allows users to add, remove, and view validator sets and query the current validator set."
 

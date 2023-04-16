@@ -1,4 +1,4 @@
-# CGPT Tokenomics - Utility Token
+# CGPT Tokenomics
 
 ### **Initial Market Data**
 
