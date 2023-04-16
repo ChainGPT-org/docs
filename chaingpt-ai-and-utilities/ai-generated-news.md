@@ -1,6 +1,6 @@
 # 📰 AI Generated News
 
-ChainGPT is proud to offer an AI-powered news service that automates the process of generating news articles in the Blockchain and Crypto space. This service is designed to provide users with up-to-date and accurate information about the latest trends and developments in the sector.
+ChainGPT is proud to offer an AI-powered news service that automates the process of generating news articles in the Blockchain and Crypto space. This service is designed to provide users with up-to-date and accurate information about the latest trends and developments in the sector, all in one place. Our aim is to create short content rather than long articles in a form of a Twitter-like feed so that users can scroll and quickly learn about the latest events.&#x20;
 
 ### What is AI-Generated News?
 

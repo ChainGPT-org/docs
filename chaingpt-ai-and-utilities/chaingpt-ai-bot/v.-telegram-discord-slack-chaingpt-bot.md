@@ -1,5 +1,7 @@
 # V. Telegram, Discord, Slack - ChainGPT Bot
 
+#### Try ChainGPT on Telegram:[ https://t.me/ChainGPTAI\_Bot](https://t.me/ChainGPTAI\_Bot)
+
 ## ChainGPT Community Bot
 
 The ChainGPT Community Bot is a revolutionary AI model designed for Telegram, Discord, and Slack. It helps blockchain and crypto-related communities become more efficient and organized. The bot can answer questions, act as a community manager, analyze smart contracts, audit code, analyze markets, and more.

@@ -1,10 +1,13 @@
-# I. ChainGPT AI Chatbot
+# 🤖 ChainGPT AI Bot
 
-**Access ChainGPT beta**: [https://app.chaingpt.org](https://app.chaingpt.org)
+**Access ChainGPT beta (Web)**: [https://app.chaingpt.org](https://app.chaingpt.org)\
+**Try ChainGPT on Telegram:**[ https://t.me/ChainGPTAI\_Bot](https://t.me/ChainGPTAI\_Bot)
 
 "Unleash the power of Blockchain AI with ChainGPT" is our motto because with ChainGPT's powerful AI chatbot, individuals, developers, and businesses unlock a blockchain superpower.&#x20;
 
 ChainGPT is a powerful tool for individuals and organizations in the blockchain and cryptocurrency industry. With its cutting-edge AI algorithms and user-friendly APIs, it offers a wide range of solutions for optimizing success in the rapidly advancing tech world. Whether it’s generating smart contract code, providing code explanations, debugging smart contract code, generating code documentation, analyzing market trends, aiding in wallet development, or assisting in DApp development, ChainGPT is a must-have for those looking to succeed in this space. However, it’s important to remember that ChainGPT should be used as a tool to assist developers and market analysts, rather than replace them, and results should always be validated before implementation.
+
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 ### Featured Solutions
 

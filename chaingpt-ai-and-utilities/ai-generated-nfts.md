@@ -2,7 +2,7 @@
 
 ### Introduction
 
-AI-Generated NFTs (non-fungible tokens) are a new digital asset that utilizes AI-powered algorithms to create unique, one-of-a-kind NFTs based on user prompts. These NFTs have a variety of applications, such as digital art, in-game items, and digital collectibles. This document will discuss the concept of AI-Generated NFTs, their applications, and how they are created.
+AI-Generated NFTs (non-fungible tokens) are a new digital asset that utilizes AI-powered algorithms to create unique, one-of-a-kind NFTs based on user prompts. These NFTs have a variety of applications, such as digital art, in-game items, and digital collectibles. This document will discuss the concept of AI-Generated NFTs, their applications, and how they are created. Users with no graphic design or coding experience can now use ChainGPT to generate and deploy NFTs on the Blockchain within 30 seconds or less.&#x20;
 
 
 

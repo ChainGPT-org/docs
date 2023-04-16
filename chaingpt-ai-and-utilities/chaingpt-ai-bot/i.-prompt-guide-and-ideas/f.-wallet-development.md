@@ -6,7 +6,7 @@ ChainGPT provides an efficient and comprehensive solution for developing and tes
 
 We also support users deploying local crypto wallets such as XRP wallet, Bitcoin wallet, and more. Our team is well-versed in setting up wallets and can guide users through the process. For example, if a user is looking to run a Bitcoin wallet locally on their mac PC, ChainGPT can give them specific instructions on how to do so.
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (3).png" alt=""><figcaption></figcaption></figure>
 
 In addition, we provide testing services to ensure wallets are functioning correctly and securely. This includes validating wallet functionality, testing for security vulnerabilities, and more. We also support wallet integration with other services, such as exchanges and payment processors.
 

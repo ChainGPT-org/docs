@@ -28,11 +28,11 @@
   * [2023: Q1-Q2](overview/iii.-roadmap/2023-q1-q2.md)
   * [2023: Q3-Q4](overview/iii.-roadmap/2023-q3-q4.md)
 * [IV. CGPT Utility Token](overview/iv.-cgpt-utility-token/README.md)
-  * [CGPT Tokenomics - Utility Token](overview/iv.-cgpt-utility-token/cgpt-tokenomics-utility-token.md)
+  * [CGPT Tokenomics](overview/iv.-cgpt-utility-token/cgpt-tokenomics.md)
   * [Smart-Contract](overview/iv.-cgpt-utility-token/smart-contract.md)
-  * [Token Sale (IDO)](overview/iv.-cgpt-utility-token/token-sale-ido.md)
-  * [Burn Mechanism](overview/iv.-cgpt-utility-token/burn-mechanism.md)
   * [Staking & Farming](overview/iv.-cgpt-utility-token/staking-and-farming.md)
+  * [Burn Mechanism](overview/iv.-cgpt-utility-token/burn-mechanism.md)
+  * [Token Sale (IDO)](overview/iv.-cgpt-utility-token/token-sale-ido.md)
 * [🔥 Airdrop Campaign](overview/airdrop-campaign/README.md)
   * [🟢 $15,000 Airdrop Campaign - by ChainGPT \[Ends May 10th\]](overview/airdrop-campaign/usd15-000-airdrop-campaign-by-chaingpt-ends-may-10th.md)
   * [🔴 $5,000: Seedify x ChainGPT Airdrop Campaign \[Ended\]](overview/airdrop-campaign/usd5-000-seedify-x-chaingpt-airdrop-campaign-ended.md)
@@ -49,28 +49,27 @@
 
 ## ChainGPT AI & Utilities
 
+* [🤖 ChainGPT AI Bot](chaingpt-ai-and-utilities/chaingpt-ai-bot/README.md)
+  * [I. Prompt Guide & Ideas](chaingpt-ai-and-utilities/chaingpt-ai-bot/i.-prompt-guide-and-ideas/README.md)
+    * [A. No-Code Smart-Contract Programming](chaingpt-ai-and-utilities/chaingpt-ai-bot/i.-prompt-guide-and-ideas/a.-no-code-smart-contract-programming.md)
+    * [B. Analyze & Explain Code](chaingpt-ai-and-utilities/chaingpt-ai-bot/i.-prompt-guide-and-ideas/b.-analyze-and-explain-code.md)
+    * [C. Code Debugging](chaingpt-ai-and-utilities/chaingpt-ai-bot/i.-prompt-guide-and-ideas/c.-code-debugging.md)
+    * [D. Code Documentation](chaingpt-ai-and-utilities/chaingpt-ai-bot/i.-prompt-guide-and-ideas/d.-code-documentation.md)
+    * [E. Market Analysis](chaingpt-ai-and-utilities/chaingpt-ai-bot/i.-prompt-guide-and-ideas/e.-market-analysis.md)
+    * [F. Wallet Development](chaingpt-ai-and-utilities/chaingpt-ai-bot/i.-prompt-guide-and-ideas/f.-wallet-development.md)
+    * [G. DApp Development](chaingpt-ai-and-utilities/chaingpt-ai-bot/i.-prompt-guide-and-ideas/g.-dapp-development.md)
+  * [II. Access & Pricing](chaingpt-ai-and-utilities/chaingpt-ai-bot/ii.-access-and-pricing.md)
+  * [III. API Access for Developers & Businesses](chaingpt-ai-and-utilities/chaingpt-ai-bot/iii.-api-access-for-developers-and-businesses.md)
+  * [IV. Prompt Marketplace](chaingpt-ai-and-utilities/chaingpt-ai-bot/iv.-prompt-marketplace.md)
+  * [V. Telegram, Discord, Slack - ChainGPT Bot](chaingpt-ai-and-utilities/chaingpt-ai-bot/v.-telegram-discord-slack-chaingpt-bot.md)
+* [🔎 DevAssist Browser Extension](chaingpt-ai-and-utilities/devassist-browser-extension.md)
+* [📰 AI Generated News](chaingpt-ai-and-utilities/ai-generated-news.md)
+* [🖼 AI Generated NFTs](chaingpt-ai-and-utilities/ai-generated-nfts.md)
+* [🌐 ChainGPT Blockchain \[Layer-1 & Layer-2\]](chaingpt-ai-and-utilities/chaingpt-blockchain-layer-1-and-layer-2/README.md)
+  * [Introduction to ChainGPT Layer-1 Blockchain](chaingpt-ai-and-utilities/chaingpt-blockchain-layer-1-and-layer-2/introduction-to-chaingpt-layer-1-blockchain.md)
+  * [Introduction to ChainGPT Layer-2 Blockchain](chaingpt-ai-and-utilities/chaingpt-blockchain-layer-1-and-layer-2/introduction-to-chaingpt-layer-2-blockchain.md)
+  * [Initial Ecosystem](chaingpt-ai-and-utilities/chaingpt-blockchain-layer-1-and-layer-2/initial-ecosystem.md)
 * [ChatGPT vs ChainGPT](chaingpt-ai-and-utilities/chatgpt-vs-chaingpt.md)
-* [I. ChainGPT AI Chatbot](chaingpt-ai-and-utilities/i.-chaingpt-ai-chatbot/README.md)
-  * [I. Prompt Guide & Ideas](chaingpt-ai-and-utilities/i.-chaingpt-ai-chatbot/i.-prompt-guide-and-ideas/README.md)
-    * [A. No-Code Smart-Contract Programming](chaingpt-ai-and-utilities/i.-chaingpt-ai-chatbot/i.-prompt-guide-and-ideas/a.-no-code-smart-contract-programming.md)
-    * [B. Analyze & Explain Code](chaingpt-ai-and-utilities/i.-chaingpt-ai-chatbot/i.-prompt-guide-and-ideas/b.-analyze-and-explain-code.md)
-    * [C. Code Debugging](chaingpt-ai-and-utilities/i.-chaingpt-ai-chatbot/i.-prompt-guide-and-ideas/c.-code-debugging.md)
-    * [D. Code Documentation](chaingpt-ai-and-utilities/i.-chaingpt-ai-chatbot/i.-prompt-guide-and-ideas/d.-code-documentation.md)
-    * [E. Market Analysis](chaingpt-ai-and-utilities/i.-chaingpt-ai-chatbot/i.-prompt-guide-and-ideas/e.-market-analysis.md)
-    * [F. Wallet Development](chaingpt-ai-and-utilities/i.-chaingpt-ai-chatbot/i.-prompt-guide-and-ideas/f.-wallet-development.md)
-    * [G. DApp Development](chaingpt-ai-and-utilities/i.-chaingpt-ai-chatbot/i.-prompt-guide-and-ideas/g.-dapp-development.md)
-  * [II. Access & Pricing](chaingpt-ai-and-utilities/i.-chaingpt-ai-chatbot/ii.-access-and-pricing.md)
-  * [III. API Access for Developers & Businesses](chaingpt-ai-and-utilities/i.-chaingpt-ai-chatbot/iii.-api-access-for-developers-and-businesses.md)
-  * [IV. Prompt Marketplace](chaingpt-ai-and-utilities/i.-chaingpt-ai-chatbot/iv.-prompt-marketplace.md)
-  * [V. Telegram, Discord, Slack - ChainGPT Bot](chaingpt-ai-and-utilities/i.-chaingpt-ai-chatbot/v.-telegram-discord-slack-chaingpt-bot.md)
-* [II. AI Tools & Platforms Powered by ChainGPT](chaingpt-ai-and-utilities/ii.-ai-tools-and-platforms-powered-by-chaingpt/README.md)
-  * [🔎 DevAssist Browser Extension](chaingpt-ai-and-utilities/ii.-ai-tools-and-platforms-powered-by-chaingpt/devassist-browser-extension.md)
-  * [📰 AI Generated News](chaingpt-ai-and-utilities/ii.-ai-tools-and-platforms-powered-by-chaingpt/ai-generated-news.md)
-  * [🖼 AI Generated NFTs](chaingpt-ai-and-utilities/ii.-ai-tools-and-platforms-powered-by-chaingpt/ai-generated-nfts.md)
-* [III. ChainGPT Blockchain \[Layer-1 & Layer-2\]](chaingpt-ai-and-utilities/iii.-chaingpt-blockchain-layer1-and-layer2/README.md)
-  * [Introduction to ChainGPT Layer-1 Blockchain](chaingpt-ai-and-utilities/iii.-chaingpt-blockchain-layer-1-and-layer-2/introduction-to-chaingpt-layer-1-blockchain.md)
-  * [Introduction to ChainGPT Layer-2 Blockchain](chaingpt-ai-and-utilities/iii.-chaingpt-blockchain-layer-1-and-layer-2/introduction-to-chaingpt-layer-2-blockchain.md)
-  * [Initial Ecosystem](chaingpt-ai-and-utilities/iii.-chaingpt-blockchain-layer-1-and-layer-2/initial-ecosystem.md)
 
 ## Developer Docs
 
@@ -79,8 +78,9 @@
 
 ## Misc
 
-* [ChainGPT Beta App](https://app.chaingpt.org/)
 * [ChainGPT Website](https://www.chaingpt.org/)
+* [ChainGPT Beta App](https://app.chaingpt.org/)
+* [ChainGPT AI Telegram Bot](https://t.me/ChainGPTAI\_Bot)
 * [Telegram Chat](https://t.me/chaingpt)
 * [Telegram News](https://t.me/chaingptnews)
 * [Twitter](https://twitter.com/Chain\_GPT)
@@ -89,5 +89,4 @@
 
 ## Legal
 
-* [Agreement for Sale of Tokens](https://www.chaingpt.org/licences)
 * [Privacy Policy](https://www.chaingpt.org/privacy-policy)

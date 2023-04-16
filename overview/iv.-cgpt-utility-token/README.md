@@ -1,6 +1,6 @@
 # IV. CGPT Utility Token
 
-#### **Sub-menu: |** [**Token Sale**](token-sale-ido.md) **|** [**Tokenomics**](cgpt-tokenomics-utility-token.md) **|** [**Smart-Contract**](smart-contract.md) **|** [**Burn Mechanism**](./#burn-mechanism) **|**
+#### **Sub-menu: |** [**Token Sale**](token-sale-ido.md) **|** [**Tokenomics**](cgpt-tokenomics.md) **|** [**Smart-Contract**](smart-contract.md) **|** [**Burn Mechanism**](./#burn-mechanism) **|**
 
 #### 🔥 ChainGPT token will list on ByBit, Bitget, Gateio, MEXC, and PancakeSwap, on April 10th at 12PM UTC.
 
@@ -17,7 +17,7 @@ ChainGPT Token ($CGPT) is the backbone of the ChainGPT ecosystem. It is the medi
 
 <summary>Access The ChainGPT AI Model</summary>
 
-The main purpose of $CGPT is to provide access to the ChainGPT AI Model and all the utilities and tools powered by this model. This advanced AI model was designed specifically for the crypto and blockchain space, and is capable of assisting with code contracts, explaining concepts, answering questions, analyzing markets, and more.
+The main purpose of $CGPT is to provide access to the ChainGPT AI Model and all the utilities and tools powered by this model. Users can access our AI tools by paying per-prompt, or for free by staking CGPT tokens. Businesses are charged for each API call with $CGPT tokens.
 
 </details>
 
@@ -33,7 +33,7 @@ Participate in the ChainGPT DAO system by holding $CGPT tokens. By staking your 
 
 <summary>Staking &#x26; Farming Opportunities</summary>
 
-The ChainGPT ecosystem offers various staking and farming opportunities to $CGPT holders. Staking is a process that allows holders to lock up their tokens in exchange for access to the AI model, while farming involves earning rewards in $CGPT for providing liquidity to certain pools.
+The ChainGPT ecosystem offers various staking and farming opportunities to $CGPT holders. Staking is a process that allows holders to lock up their tokens in exchange for access to the AI model, while farming involves earning rewards in $CGPT for providing liquidity to certain pools. (Staking: [https://staking.chaingpt.org](https://staking.chaingpt.org))
 
 </details>
 
@@ -57,14 +57,6 @@ $CGPT is an essential component of the ChainGPT ecosystem, providing individuals
 
 ## **Continue reading:**&#x20;
 
-{% content-ref url="token-sale-ido.md" %}
-[token-sale-ido.md](token-sale-ido.md)
-{% endcontent-ref %}
-
-{% content-ref url="cgpt-tokenomics-utility-token.md" %}
-[cgpt-tokenomics-utility-token.md](cgpt-tokenomics-utility-token.md)
-{% endcontent-ref %}
-
 {% content-ref url="smart-contract.md" %}
 [smart-contract.md](smart-contract.md)
 {% endcontent-ref %}
@@ -73,8 +65,16 @@ $CGPT is an essential component of the ChainGPT ecosystem, providing individuals
 [burn-mechanism.md](burn-mechanism.md)
 {% endcontent-ref %}
 
+{% content-ref url="token-sale-ido.md" %}
+[token-sale-ido.md](token-sale-ido.md)
+{% endcontent-ref %}
+
 {% content-ref url="staking-and-farming.md" %}
 [staking-and-farming.md](staking-and-farming.md)
+{% endcontent-ref %}
+
+{% content-ref url="cgpt-tokenomics.md" %}
+[cgpt-tokenomics.md](cgpt-tokenomics.md)
 {% endcontent-ref %}
 
 \---
