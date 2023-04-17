@@ -1,6 +1,6 @@
 # V. Telegram, Discord, Slack - ChainGPT Bot
 
-#### Try ChainGPT on Telegram:[ https://t.me/ChainGPTAI\_Bot](https://t.me/ChainGPTAI\_Bot)
+#### Try ChainGPT on Telegram:[ https://t.me/ChainGPTAI\_Bot](https://t.me/ChainGPTAI\_Bot).
 
 ## ChainGPT Community Bot
 
@@ -11,7 +11,7 @@ The bot is free to use during the beta stage, and afterward, payments in $CGPT w
 ### Features:
 
 * Answers questions: The ChainGPT community bot can answer questions quickly and accurately. It is excellent for helping new community members get up to speed.
-* Acts as a community manager: The bot can help manage and moderate conversations and keep the community organized. This is especially helpful for larger gatherings.
+* Acts as a community manager: The bot can help manage and moderate conversations and organize the community. This is especially helpful for larger gatherings.
 * Analyzes smart contracts: The bot can analyze smart contracts and provide detailed feedback. This can help developers improve their contracts and ensure they are secure and reliable.
 * Audits code: The bot can audit code and provide feedback on potential improvements. This is great for developers who want to ensure their code is as secure and reliable as possible.
 * Analyzes markets: The bot can explore markets and provide insights on potential investments. This is great for investors who want to make informed decisions.

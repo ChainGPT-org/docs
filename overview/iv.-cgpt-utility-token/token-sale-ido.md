@@ -3,7 +3,7 @@
 **Total IDO Sale:** $720,000\
 **IDO Price**: $0.008\
 **IDO Dates**: April 5-7\
-**Listing Date**: April 10th, 12:00 PM (UTC)\
+**Listing Date**: April 10th, noon (UTC)\
 **FDV**: $8,000,000\
 **IMC** (excl. liquidity): $208,000\
 **Network**: Binance Smart-Chain
@@ -12,7 +12,7 @@
 
 ### IDO Platforms:
 
-**Seedify \[Incubator] :** April 7th - $400k allocation\
+**Seedify \[Incubator]:** April 7th - $400k allocation\
 [https://launchpad.seedify.fund/pool\_detail/upcoming/64185a6845dc0401eeb1e530](https://launchpad.seedify.fund/pool\_detail/upcoming/64185a6845dc0401eeb1e530)
 
 **WePad**: April 6th - $100k allocation\
@@ -27,7 +27,7 @@
 **Decubate(Private Round):** April 5th - 50K \
 **Link:** [https://platform.decubate.com/project/chaingpt](https://platform.decubate.com/project/chaingpt)
 
-For more information visit our website & follow ChainGPT on social media platforms to stay up-to-date with the latest news!
+For more information, visit our website & follow ChainGPT on social media platforms to stay up-to-date with the latest news!
 
 \---
 

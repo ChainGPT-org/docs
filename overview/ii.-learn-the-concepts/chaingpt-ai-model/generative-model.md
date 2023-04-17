@@ -10,9 +10,9 @@ A particular machine learning algorithm called a generative model produces new o
 
 ### How Does ChainGPT Use a Generative Model?
 
-ChainGPT creates text-based replies to user inputs using a generative model. The model can recognize the patterns and relationships in human language since it has been trained on a vast corpus of text data. Because of its comprehension, the model can provide accurate text-based replies pertinent to the input and consistent with human language.&#x20;
+ChainGPT creates text-based replies to user inputs using a generative model. The model can recognize the patterns and relationships in the human language since it has been trained on a vast corpus of text data. Because of its comprehension, the model can provide accurate text-based replies pertinent to the input and consistent with human language.&#x20;
 
-In ChainGPT, producing a response starts with the user submitting a prompt, such as a query or information request. The generative model then processes the question and creates a text-based answer using its knowledge of the human language. The user is subsequently presented with this response, which gives them a precise, pertinent, and persuasive response to their query or request.
+In ChainGPT, producing a response starts with the user submitting a prompt, such as a query or information request. The generative model then processes the question and creates a text-based answer using its knowledge of human language. The user is subsequently presented with this response, which gives them a precise, pertinent, and persuasive response to their query or request.
 
 
 

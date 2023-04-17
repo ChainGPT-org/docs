@@ -20,4 +20,4 @@ ChainGPT can quickly generate the code for this smart contract, along with code 
 
 ### Conclusion
 
-ChainGPT is a revolutionary AI-powered blockchain technology enabling users to quickly and easily develop smart contracts without coding experience or technical knowledge. With ChainGPT, users can input the parameters and conditions of a smart contract. Then, the AI model will generate the code for the contract, along with natural language explanations of the contract’s logic and purpose. ChainGPT also provides code snippets to demonstrate the contract’s sense, allowing developers to understand and implement the agreement quickly.
+ChainGPT is a revolutionary AI-powered blockchain technology enabling users to quickly and easily develop smart contracts without coding experience or technical knowledge. With ChainGPT, users can input the parameters and conditions of a smart contract. Then, the AI model will generate the code for the contract, along with natural language explanations of the contract’s logic and purpose. ChainGPT also provides code snippets to demonstrate the contract’s sense, allowing developers to quickly understand and implement the agreement.

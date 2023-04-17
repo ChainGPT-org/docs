@@ -12,7 +12,7 @@ The CGVM is built to be compatible with the EVM. This compatibility allows for e
 
 ### On-chain AI Inference
 
-One of the critical features of the CGVM is its support for on-chain AI inference. This means the CGVM can execute complex AI models using the GPU instead of the CPU. In addition, the CGVM also includes a deterministic AI inference engine, Synapse, that guarantees the same AI inference result across heterogenetic computing environments.
+One of the critical features of the CGVM is its support for on-chain AI inference. This means the CGVM can execute complex AI models using the GPU instead of the CPU. In addition, the CGVM also includes a deterministic AI inference engine, Synapse, that guarantees the same AI inference results across heterogenetic computing environments.
 
 
 

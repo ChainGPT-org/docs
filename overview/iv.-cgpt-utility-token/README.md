@@ -2,14 +2,14 @@
 
 #### **Sub-menu: |** [**Token Sale**](token-sale-ido.md) **|** [**Tokenomics**](cgpt-tokenomics-utility-token.md) **|** [**Smart-Contract**](smart-contract.md) **|** [**Burn Mechanism**](./#burn-mechanism) **|**
 
-#### 🔥 ChainGPT token will list on ByBit, Bitget, Gateio, MEXC, and PancakeSwap, on April 10th at 12PM UTC.
+#### 🔥 ChainGPT token was listed on ByBit, Bitget, Gateio, MEXC, and PancakeSwap, on April 10th at noon UTC.
 
 ## Introduction to ChainGPT Token
 
 **Contract Address**: ([Certik Audit](https://www.certik.com/projects/chaingpt)) ([Hacken Audit](https://hacken.io/audits/chaingpt/))\
 `0x9840652DC04fb9db2C43853633f0F62BE6f00f98`
 
-ChainGPT Token ($CGPT) is the backbone of the ChainGPT ecosystem. It is the medium of exchange that individuals and businesses must use to access the advanced AI model that powers the ecosystem. In addition, the token offers a variety of benefits to its holders, making it a valuable asset for those looking to participate in the future of AI in the crypto and blockchain space. CGPT will give holders & stakers access to the DAO system (proposal casting & voting).
+ChainGPT Token ($CGPT) is the backbone of the ChainGPT ecosystem. It is the medium of exchange that individuals and businesses must use to access the advanced AI model that powers the ecosystem. In addition, the token offers a variety of benefits to its holders, making it a valuable asset for those looking to participate in the future of AI in the crypto and blockchain space. For example, CGPT will give holders & stakers access to the DAO system (proposal casting & voting).
 
 ## Key Features
 

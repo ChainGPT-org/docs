@@ -2,7 +2,7 @@
 
 ### Introduction
 
-AI-Generated NFTs (non-fungible tokens) are a new digital asset that utilizes AI-powered algorithms to create unique, one-of-a-kind NFTs based on user prompts. These NFTs have a variety of applications, such as digital art, in-game items, and digital collectibles. This document will discuss the concept of AI-Generated NFTs, their applications, and how they are created. Users with no graphic design or coding experience can now use ChainGPT to generate and deploy NFTs on the Blockchain within 30 seconds or less.&#x20;
+AI-Generated NFTs (non-fungible tokens) are a new digital asset that utilizes AI-powered algorithms to create unique, one-of-a-kind NFTs based on user prompts. These NFTs have a variety of applications, such as digital art, in-game items, and digital collectibles. This document will discuss the concept of AI-Generated NFTs, their applications, and how they are created. Users without graphic design or coding experience can use ChainGPT to generate and deploy NFTs on the Blockchain within 30 seconds or less.&#x20;
 
 
 
@@ -20,7 +20,7 @@ AI-Generated NFTs have a variety of applications, including digital art, in-game
 
 ### How are AI-Generated NFTs Created?
 
-AI-Generated NFTs are created using an AI-powered algorithm. The algorithm is designed to generate unique, one-of-a-kind NFTs based on user input. The user can enter various parameters such as shapes, colors, and textures and more specific details such as the type of digital art, in-game item, or digital collectible they wish to create. The AI-powered algorithm generates a unique, one-of-a-kind NFT based on the user's input.
+AI-Generated NFTs are created using an AI-powered algorithm. The algorithm is designed to generate unique, one-of-a-kind NFTs based on user input. For example, users can enter parameters such as shapes, colors, and textures and more specific details such as the type of digital art, in-game item, or digital collectible they wish to create. The AI-powered algorithm generates a unique, one-of-a-kind NFT based on the user's input.
 
 
 

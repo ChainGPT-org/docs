@@ -2,7 +2,7 @@
 
 ### **Welcome to ChainGPT's Airdrop Campaigns List!**
 
-We're currently offering multiple Airdrop Campaigns hosted by us and our partners.&#x20;
+We're currently offering multiple Airdrop Campaigns hosted by our partners and us.&#x20;
 
 {% content-ref url="usd15-000-airdrop-campaign-by-chaingpt-ends-may-10th.md" %}
 [usd15-000-airdrop-campaign-by-chaingpt-ends-may-10th.md](usd15-000-airdrop-campaign-by-chaingpt-ends-may-10th.md)

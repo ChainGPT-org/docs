@@ -22,15 +22,15 @@ ChainGPT is a powerful tool for individuals and organizations in the blockchain 
 * Source of News
 * Documentations
 * Debugging
-* _and unlimited other solutions._
+* _And complete other solutions._
 
 ### **ChainGPT Beta vs. Official Version**
 
-ChainGPT Beta is already here, and It's free. It's the pilot version of ChainGPT AI, and it's extremely capable. If you love the beta, you'll be amazed by the official version, which is expected to be released by the end of Q2 / early Q3. The official version is trained on much more data than the beta version, with more capabilities when it comes to programming, is connected to the internet, can read blockchain live data, and much more!&#x20;
+ChainGPT Beta is already here, and It's free. It's the pilot version of ChainGPT AI and is competent. However, if you love the beta, you'll be amazed by the official version, which is expected to be released by the end of Q2 / early Q3. The official version is trained on much more data than the beta version, with more capabilities when it comes to programming, is connected to the internet, can read blockchain live data, and much more!&#x20;
 
 
 
-### Learn more about ChainGPT Chatbot.
+### You can learn more about ChainGPT Chatbot.
 
 {% content-ref url="i.-prompt-guide-and-ideas/" %}
 [i.-prompt-guide-and-ideas](i.-prompt-guide-and-ideas/)

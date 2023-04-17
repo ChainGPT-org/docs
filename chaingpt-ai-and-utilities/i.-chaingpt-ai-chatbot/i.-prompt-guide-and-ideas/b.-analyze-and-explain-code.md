@@ -2,7 +2,7 @@
 
 ## Introduction to ChainGPT
 
-ChainGPT is a revolutionary new way to make smart contracts and code accessible to non-developers. By utilizing advanced AI-driven technology, ChainGPT can audit any code, program, or smart contract within seconds and explain what each function / smart contract is meant to do. Furthermore, ChainGPT has developed a browser extension called "Dev Assist," which helps users with live web3 transactions and explains what they are about to agree to before they confirm the transaction.
+ChainGPT is a revolutionary new way to make smart contracts and code accessible to non-developers. Using advanced AI-driven technology, ChainGPT can audit any code, program, or smart contract within seconds and explain what each function / smart contract is meant to do. Furthermore, ChainGPT has developed a browser extension called "Dev Assist," which helps users with live web3 transactions and explains what they are about to agree to before they confirm the transaction.
 
 ### How ChainGPT Works
 

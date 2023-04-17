@@ -4,9 +4,9 @@
 
 ChainGPT's functioning depends heavily on tokenization, an essential part of Natural Language Processing (NLP). Tokenization is dividing the text into smaller pieces that can be analyzed by machine learning models that serve as the chatbot's brain. In addition, tokenization aims to prepare the text material for subsequent processing by transforming human language into a machine-understandable format.
 
-Word-level, subword-level, and character-level tokenization are only a few tokenization techniques that may be applied. The most basic form of tokenization, which separates the text into individual words, is word-level tokenization. By dividing expressions into subwords, a process known as subword-level tokenization or BPE (Byte-Pair Encoding), it is possible to capture additional information about a word's meaning. Tokenization at the character level requires dissecting the text into its parts.
+Word-level, subword-level, and character-level tokenization are only a few tokenization techniques that may be applied. The most basic form of tokenization, which separates the text into individual words, is word-level tokenization. By dividing expressions into subwords, a process known as subword-level tokenization or BPE (Byte-Pair Encoding), capturing additional information about a word's meaning is possible. Tokenization at the character level requires dissecting the text into its parts.
 
-A specific tokenization technique may be employed depending on the chatbot's job and the language model's particular needs. Using algorithms created expressly to handle NLP tasks, ChainGPT performs the tokenization process, enabling the chatbot to analyze text effectively and efficiently.
+Depending on the chatbot's job and the language model's particular needs, a specific tokenization technique may be employed. Using algorithms created expressly to handle NLP tasks, ChainGPT performs the tokenization process, enabling the chatbot to analyze text effectively and efficiently.
 
 
 

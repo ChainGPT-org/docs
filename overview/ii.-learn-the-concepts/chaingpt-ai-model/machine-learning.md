@@ -16,7 +16,7 @@ To generate text, ChainGPT employs several machine-learning methods. Transformer
 
 ### Tokenization
 
-Tokenization divides the text into more manageable chunks, such as words or subwords, so that the model can handle them. This enables the model better to comprehend the text's structure and word relationships. In the case of ChainGPT, the model uses tokenization to understand the conversation's context and produce appropriate responses.
+Tokenization divides the text into more manageable chunks, such as words or subwords so that the model can handle them. This enables the model to better comprehend the text's structure and word relationships. In the case of ChainGPT, the model uses tokenization to understand the conversation's context and produce appropriate responses.
 
 
 

@@ -1,6 +1,6 @@
 # D. Code Documentation
 
-ChainGPT is an innovative tool designed to generate comprehensive documentation for smart contract codes. It allows developers to quickly and easily create function, class, and variable descriptions, along with usage examples. This documentation feature is especially beneficial for projects with multiple developers, as it promotes consistency and facilitates understanding of the code base.
+ChainGPT is an innovative tool designed to generate comprehensive documentation for smart contract codes. It allows developers to quickly and easily create functions, class, variable descriptions, and usage examples. This documentation feature is especially beneficial for projects with multiple developers, as it promotes consistency and facilitates understanding of the code base.
 
 ### Function Descriptions
 
