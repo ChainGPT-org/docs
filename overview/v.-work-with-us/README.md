@@ -6,10 +6,6 @@ Join the forefront of AI and blockchain innovation by joining the ChainGPT team!
 
 #### Engineering
 
-{% content-ref url="prompt-engineer.md" %}
-[prompt-engineer.md](prompt-engineer.md)
-{% endcontent-ref %}
-
 {% content-ref url="full-stack-software-engineer.md" %}
 [full-stack-software-engineer.md](full-stack-software-engineer.md)
 {% endcontent-ref %}

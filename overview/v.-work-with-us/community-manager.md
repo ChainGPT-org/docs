@@ -1,6 +1,7 @@
 # Community Manager
 
-Location: Remote
+Location: Remote\
+**Language: Russian**
 
 We seek a highly motivated and experienced community manager to join our team and manage our Discord and Telegram groups. The ideal candidate will have a passion for building and nurturing online communities, be available 8 hours a day on our chat and voice chat, and have a strong understanding of our company and its products/services.
 
