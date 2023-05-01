@@ -16,7 +16,7 @@ ChainGPT is an advanced AI model that assists individuals and businesses with ev
 
 <details>
 
-<summary><strong>ChainGPT free?</strong> </summary>
+<summary>Is <strong>ChainGPT free?</strong> </summary>
 
 ChainGPT is currently in its beta stages, and we're working diligently to expand our final AI model. In its beta stage, ChainGPT is free for individuals and not yet accessible for developers and businesses via API. Once our utility token is released, we will make the 1.0 version available and SDK & API available for individuals, developers, and businesses. At that stage, ChainGPT will no longer be free, and users will have various pricing options.
 
