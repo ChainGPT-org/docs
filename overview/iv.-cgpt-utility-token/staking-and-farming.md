@@ -1,10 +1,10 @@
 # Staking & Farming
 
-#### Staking URL: [https://staking.chaingpt.org](staking-and-farming.md#staking-url-https-staking.chaingpt.org)
+#### Start Staking $CGPT: [https://staking.chaingpt.org](staking-and-farming.md#staking-url-https-staking.chaingpt.org)
 
-## ChainGPT Staking & Farming: An Overview
+## ChainGPT Staking Introduction
 
-The ChainGPT ecosystem offers multiple staking and farming options for $CGPT token holders, mainly used to access the AI model and farming to earn rewards in $CGPT tokens.
+The ChainGPT ecosystem offers multiple staking and farming options for $CGPT token holders, mainly used to access the AI model, gain DAO voting power, and earn rewards in $CGPT tokens.
 
 <figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 

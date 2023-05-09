@@ -1,6 +1,6 @@
 # IV. CGPT Utility Token
 
-#### **Sub-menu: |** [**Token Sale**](token-sale-ido.md) **|** [**Tokenomics**](cgpt-tokenomics-utility-token.md) **|** [**Smart-Contract**](smart-contract.md) **|** [**Burn Mechanism**](./#burn-mechanism) **|**
+#### **Sub-menu: |** [**Token Sale**](broken-reference) **|** [**Tokenomics**](cgpt-tokenomics-utility-token.md) **|** [**Smart-Contract**](smart-contract.md) **|** [**Burn Mechanism**](./#burn-mechanism) **|**
 
 #### 🔥 ChainGPT token was listed on ByBit, Bitget, Gateio, MEXC, and PancakeSwap, on April 10th at noon UTC.
 
@@ -25,7 +25,7 @@ The main purpose of $CGPT is to provide access to the ChainGPT AI Model and all 
 
 <summary>DAO Access &#x26; Voting</summary>
 
-Participate in the ChainGPT DAO system by holding $CGPT tokens. By staking your $CGPT, you'll gain voting power within the DAO, enabling you to create proposals and help shape the ecosystem. Additionally, via proposals holders get to choose how to allocate the DAO fund, and influence the future of ChainGPT. Join us in making a difference.
+Participate in the ChainGPT DAO system with $CGPT tokens. By staking your $CGPT, you'll gain voting power within the DAO, enabling you to create proposals and help shape the ecosystem. Additionally, via proposals holders get to choose how to allocate the DAO fund, and influence the future of ChainGPT. Join us in making a difference.
 
 </details>
 
@@ -65,8 +65,8 @@ $CGPT is an essential component of the ChainGPT ecosystem, providing individuals
 [burn-mechanism.md](burn-mechanism.md)
 {% endcontent-ref %}
 
-{% content-ref url="token-sale-ido.md" %}
-[token-sale-ido.md](token-sale-ido.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="staking-and-farming.md" %}

@@ -32,7 +32,6 @@
   * [Smart-Contract](overview/iv.-cgpt-utility-token/smart-contract.md)
   * [Staking & Farming](overview/iv.-cgpt-utility-token/staking-and-farming.md)
   * [Burn Mechanism](overview/iv.-cgpt-utility-token/burn-mechanism.md)
-  * [Token Sale (IDO)](overview/iv.-cgpt-utility-token/token-sale-ido.md)
 * [🔥 Airdrop Campaign](overview/airdrop-campaign/README.md)
   * [🟢 $15,000 Airdrop Campaign - by ChainGPT \[Ends May 10th\]](overview/airdrop-campaign/usd15-000-airdrop-campaign-by-chaingpt-ends-may-10th.md)
   * [🔴 $5,000: Seedify x ChainGPT Airdrop Campaign \[Ended\]](overview/airdrop-campaign/usd5-000-seedify-x-chaingpt-airdrop-campaign-ended.md)
@@ -46,6 +45,10 @@
   * [Illustrator (graphics)](overview/v.-work-with-us/illustrator-graphics.md)
   * [UI/UX Designer](overview/v.-work-with-us/ui-ux-designer.md)
 * [VI. FAQ](overview/vi.-faq.md)
+
+## CGPT Token
+
+* [🗳 DAO Governance](cgpt-token/dao-governance.md)
 
 ## ChainGPT AI & Utilities
 
