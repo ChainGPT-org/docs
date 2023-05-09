@@ -30,7 +30,7 @@ To gain voting power within the ChainGPT ecosystem, users are required to stake 
 
 * 15-day pool = 1x voting power per CGPT
 * 45-day pool = 2x voting power per CGPT
-* 185-day pool = 5x voting power per CGPT
+* 180-day pool = 5x voting power per CGPT
 * 365-day pool = 10x voting power per CGPT
 
 {% hint style="info" %}
