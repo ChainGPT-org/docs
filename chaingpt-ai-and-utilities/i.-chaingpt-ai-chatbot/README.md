@@ -7,7 +7,7 @@
 
 ChainGPT is a powerful tool for individuals and organizations in the blockchain and cryptocurrency industry. With its cutting-edge AI algorithms and user-friendly APIs, it offers a wide range of solutions for optimizing success in the rapidly advancing tech world. Whether it’s generating smart contract code, providing code explanations, debugging smart contract code, generating code documentation, analyzing market trends, aiding in wallet development, or assisting in DApp development, ChainGPT is a must-have for those looking to succeed in this space. However, it’s important to remember that ChainGPT should be used as a tool to assist developers and market analysts, rather than replace them, and results should always be validated before implementation.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Featured Solutions
 
