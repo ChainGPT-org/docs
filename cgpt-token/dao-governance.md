@@ -43,7 +43,7 @@ When a proposal is made, there's a 12-hour waiting period before DAO members can
 
 ### Create a Proposal
 
-DAO members possessing a minimum of 30,000 voting power have the ability to create proposals. To initiate this process, follow these steps:
+DAO members possessing a minimum of 100,000 voting power have the ability to create proposals. To initiate this process, follow these steps:
 
 1. Visit the proposal creation page: [https://dao.chaingpt.org/#/create](https://dao.chaingpt.org/#/create)
 2. Choose an informative title and a concise description that clearly communicates your proposal's objectives and desired outcomes.
