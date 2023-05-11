@@ -33,7 +33,7 @@
   * [Staking & Farming](overview/iv.-cgpt-utility-token/staking-and-farming.md)
   * [Burn Mechanism](overview/iv.-cgpt-utility-token/burn-mechanism.md)
 * [🔥 Airdrop Campaign](overview/airdrop-campaign/README.md)
-  * [🟢 $15,000 Airdrop Campaign - by ChainGPT \[Ends May 10th\]](overview/airdrop-campaign/usd15-000-airdrop-campaign-by-chaingpt-ends-may-10th.md)
+  * [🔴 $15,000 Airdrop Campaign - by ChainGPT \[Ended\]](overview/airdrop-campaign/usd15-000-airdrop-campaign-by-chaingpt-ends-may-10th.md)
   * [🔴 $5,000: Seedify x ChainGPT Airdrop Campaign \[Ended\]](overview/airdrop-campaign/usd5-000-seedify-x-chaingpt-airdrop-campaign-ended.md)
 * [V. Work With Us](overview/v.-work-with-us/README.md)
   * [Full-Stack Software Engineer](overview/v.-work-with-us/full-stack-software-engineer.md)
