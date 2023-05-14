@@ -65,10 +65,6 @@ $CGPT is an essential component of the ChainGPT ecosystem, providing individuals
 [burn-mechanism.md](burn-mechanism.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
 {% content-ref url="staking-and-farming.md" %}
 [staking-and-farming.md](staking-and-farming.md)
 {% endcontent-ref %}
