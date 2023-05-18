@@ -6,7 +6,7 @@ At ChainGPT, we make our powerful AI accessible to individuals and businesses al
 
 ![](<../../.gitbook/assets/image (1) (1).png>)
 
-### Pricing
+### Business Pricing
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-05-18 at 17.12.40.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-05-18 at 17.30.46.png" alt=""><figcaption></figcaption></figure>
 
