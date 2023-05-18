@@ -37,13 +37,8 @@
   * [🔴 $5,000: Seedify x ChainGPT Airdrop Campaign \[Ended\]](overview/airdrop-campaign/usd5-000-seedify-x-chaingpt-airdrop-campaign-ended.md)
 * [V. Work With Us](overview/v.-work-with-us/README.md)
   * [Full-Stack Software Engineer](overview/v.-work-with-us/full-stack-software-engineer.md)
-  * [Prompt Engineer](overview/v.-work-with-us/prompt-engineer.md)
   * [Machine Learning Engineer](overview/v.-work-with-us/machine-learning-engineer.md)
   * [Social Media Manager](overview/v.-work-with-us/social-media-manager.md)
-  * [Content Creator](overview/v.-work-with-us/content-creator.md)
-  * [Community Manager](overview/v.-work-with-us/community-manager.md)
-  * [Illustrator (graphics)](overview/v.-work-with-us/illustrator-graphics.md)
-  * [UI/UX Designer](overview/v.-work-with-us/ui-ux-designer.md)
 * [VI. FAQ](overview/vi.-faq.md)
 
 ## CGPT Token

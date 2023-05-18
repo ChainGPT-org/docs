@@ -20,20 +20,20 @@ Join the forefront of AI and blockchain innovation by joining the ChainGPT team!
 [social-media-manager.md](social-media-manager.md)
 {% endcontent-ref %}
 
-{% content-ref url="content-creator.md" %}
-[content-creator.md](content-creator.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="community-manager.md" %}
-[community-manager.md](community-manager.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 #### Graphic Design
 
-{% content-ref url="ui-ux-designer.md" %}
-[ui-ux-designer.md](ui-ux-designer.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="illustrator-graphics.md" %}
-[illustrator-graphics.md](illustrator-graphics.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
