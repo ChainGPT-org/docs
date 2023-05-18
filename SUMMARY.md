@@ -56,6 +56,7 @@
     * [E. Market Analysis](chaingpt-ai-and-utilities/i.-chaingpt-ai-chatbot/i.-prompt-guide-and-ideas/e.-market-analysis.md)
     * [F. Wallet Development](chaingpt-ai-and-utilities/i.-chaingpt-ai-chatbot/i.-prompt-guide-and-ideas/f.-wallet-development.md)
     * [G. DApp Development](chaingpt-ai-and-utilities/i.-chaingpt-ai-chatbot/i.-prompt-guide-and-ideas/g.-dapp-development.md)
+  * [II. Access & Pricing](chaingpt-ai-and-utilities/chaingpt-ai-bot/ii.-access-and-pricing.md)
   * [III. API Access for Developers & Businesses](chaingpt-ai-and-utilities/i.-chaingpt-ai-chatbot/iii.-api-access-for-developers-and-businesses.md)
   * [IV. Prompt Marketplace](chaingpt-ai-and-utilities/i.-chaingpt-ai-chatbot/iv.-prompt-marketplace.md)
   * [V. Telegram, Discord, Slack - ChainGPT Bot](chaingpt-ai-and-utilities/i.-chaingpt-ai-chatbot/v.-telegram-discord-slack-chaingpt-bot.md)

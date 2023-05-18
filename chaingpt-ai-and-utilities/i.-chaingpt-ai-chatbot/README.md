@@ -36,8 +36,8 @@ ChainGPT Beta is already here, and It's free. It's the pilot version of ChainGPT
 [i.-prompt-guide-and-ideas](i.-prompt-guide-and-ideas/)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../chaingpt-ai-bot/ii.-access-and-pricing.md" %}
+[ii.-access-and-pricing.md](../chaingpt-ai-bot/ii.-access-and-pricing.md)
 {% endcontent-ref %}
 
 {% content-ref url="iii.-api-access-for-developers-and-businesses.md" %}
