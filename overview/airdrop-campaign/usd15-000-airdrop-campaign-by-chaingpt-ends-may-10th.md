@@ -4,13 +4,17 @@
 
 📅 **Campaign Dates:** Live - Ending May 10th, 2023
 
+{% hint style="info" %}
+_Please note: This event is governed by our Terms & Conditions. We encourage a thorough read-through before participation. Your involvement signifies your acceptance of these terms._
+{% endhint %}
+
 <figure><img src="../../.gitbook/assets/8.png" alt=""><figcaption></figcaption></figure>
 
 **Here's how it works:** 1000 participants will be randomly selected to receive $10 worth of CGPT each. In addition, we're offering rewards for the top 50 referrers. The top referrer will receive $1500 worth of CGPT, with the second and third-place referrers receiving $750 and $400 worth of CGPT, respectively. The remaining 47 referrers in the top 50 will receive $50 worth of CGPT each.
 
-Distribution of rewards will occur over three months, with 33% of the bonus being released each month. We will purchase CGPT tokens with stablecoin at the value they are at the distribution date.
+Rewards earned from this campaign will be dispersed in three equal increments over a period of three months, with one-third of the total reward being made available for release each month. These rewards will be redeemed in CGPT tokens, with their corresponding value determined by the stablecoin rate at the precise date of distribution. Winners will have 7 days to pass a KYC & claim their reward.
 
-To participate in the airdrop campaign, follow the instructions on our website. Winners will be announced 30 days after launch, so watch for updates.
+The announcement of the winners will take place approx 30 days post-launch. Therefore, we highly recommend that participants keep a close eye on our updates for information about the campaign results and more. Your anticipation is greatly appreciated.
 
 **Thank you for being a part of the ChainGPT community. Good luck!**
 
