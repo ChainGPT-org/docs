@@ -32,9 +32,6 @@
   * [Smart-Contract](overview/iv.-cgpt-utility-token/smart-contract.md)
   * [Staking & Farming](overview/iv.-cgpt-utility-token/staking-and-farming.md)
   * [Burn Mechanism](overview/iv.-cgpt-utility-token/burn-mechanism.md)
-* [🔥 Airdrop Campaign](overview/airdrop-campaign/README.md)
-  * [🔴 $15,000 Airdrop Campaign - by ChainGPT \[Ends May 10th\]](overview/airdrop-campaign/usd15-000-airdrop-campaign-by-chaingpt-ends-may-10th.md)
-  * [🔴 $5,000: Seedify x ChainGPT Airdrop Campaign \[Ended\]](overview/airdrop-campaign/usd5-000-seedify-x-chaingpt-airdrop-campaign-ended.md)
 * [V. Work With Us](overview/v.-work-with-us/README.md)
   * [Full-Stack Software Engineer](overview/v.-work-with-us/full-stack-software-engineer.md)
   * [Machine Learning Engineer](overview/v.-work-with-us/machine-learning-engineer.md)
@@ -75,6 +72,9 @@
 
 ## Misc
 
+* [🔥 Airdrop Campaign](misc/airdrop-campaign/README.md)
+  * [🔴 $15,000 Airdrop Campaign - by ChainGPT \[Ends May 10th\]](misc/airdrop-campaign/usd15-000-airdrop-campaign-by-chaingpt-ends-may-10th.md)
+  * [🔴 $5,000: Seedify x ChainGPT Airdrop Campaign \[Ended\]](misc/airdrop-campaign/usd5-000-seedify-x-chaingpt-airdrop-campaign-ended.md)
 * [ChainGPT Website](https://www.chaingpt.org/)
 * [ChainGPT Beta App](https://app.chaingpt.org/)
 * [ChainGPT AI Telegram Bot](https://t.me/ChainGPTAI\_Bot)

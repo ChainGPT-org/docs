@@ -1,4 +1,4 @@
-# 🟢 $15,000 Airdrop Campaign - by ChainGPT \[Ends May 10th]
+# 🔴 $15,000 Airdrop Campaign - by ChainGPT \[Ends May 10th]
 
 **Welcome to ChainGPT's airdrop campaign!** We're excited to offer our community an opportunity to win a share of our $15,000 airdrop pool.
 
