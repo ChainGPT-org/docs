@@ -1,5 +1,7 @@
 # CGPT Tokenomics
 
+###
+
 ### **Initial Market Data**
 
 | Initial market cap (EXCL LIQ/M) | $215,111                                                                                       |
@@ -11,31 +13,13 @@
 
 ### **CGPT Token Sale**
 
-| Stage     | Raise total | % supply   | Tokens       | Price $ | Discount on public | TGE Unlock | TGE Tokens  |
-| --------- | ----------- | ---------- | ------------ | ------- | ------------------ | ---------- | ----------- |
-| PrivateA  | $570K       | 11.40%     | 114m         | $0.0050 | -37.50%            | 3.50%      | 3.99m       |
-| PrivateB  | $292.4K     | 4.50%      | 44.984m      | $0.0065 | -18.75%            | 7.00%      | 3.148m      |
-| KOLs      | $450k       | 6.25%      | 62.5m        | $0.0072 | -10.00%            | 10.00%     | 6.25m       |
-| Public    | $720k       | 9.00%      | 90m          | $0.0080 |                    | 15.00%     | 13.5m       |
-| **Total** | **$2.032m** | **31.15%** | **311.484m** |         |                    |            | **26.888m** |
+<table><thead><tr><th width="124">Stage</th><th width="107">Raise total</th><th>% supply</th><th width="117">Tokens</th><th width="100">Price $</th><th>Discount on public</th><th width="121">TGE Unlock</th><th>TGE Tokens</th></tr></thead><tbody><tr><td>PrivateA</td><td>$570K</td><td>11.40%</td><td>114m</td><td>$0.0050</td><td>-37.50%</td><td>3.50%</td><td>3.99m</td></tr><tr><td>PrivateB</td><td>$292.4K</td><td>4.50%</td><td>44.984m</td><td>$0.0065</td><td>-18.75%</td><td>7.00%</td><td>3.148m</td></tr><tr><td>KOLs</td><td>$450k</td><td>6.25%</td><td>62.5m</td><td>$0.0072</td><td>-10.00%</td><td>10.00%</td><td>6.25m</td></tr><tr><td>Public</td><td>$720k</td><td>9.00%</td><td>90m</td><td>$0.0080</td><td></td><td>15.00%</td><td>13.5m</td></tr><tr><td><strong>Total</strong></td><td><strong>$2.032m</strong></td><td><strong>31.15%</strong></td><td><strong>311.484m</strong></td><td></td><td></td><td></td><td><strong>26.888m</strong></td></tr></tbody></table>
+
+_Private A, Private B, KOLs, and Public rounds are all unlocked with linear vesting (block to block)._
 
 ### CGPT Token Distribution
 
-| Towards     | Percentage  | Vesting | Cliff | Total | TGE Unlock | After cliff release PM | Cliff / Total | % of all PM | AVG released PM    | TGE-Tokens Release  | Initial market cap |
-| ----------- | ----------- | ------- | ----- | ----- | ---------- | ---------------------- | ------------- | ----------- | ------------------ | ------------------- | ------------------ |
-| PrivateA    | 11.40%      | 18      | 3     | 21    | 3.50%      | 5.36%                  | 0.40%         | 0.61%       | 6,111,666.67       | 3.99m               | $31.9k             |
-| PrivateB    | 4.50%       | 14      | 3     | 17    | 7.00%      | 6.64%                  | 0.31%         | 0.30%       | 2,988,263.74       | 3.148m              | $25.191k           |
-| Public      | 9.00%       | 8       | 2     | 10    | 15.00%     | 10.63%                 | 1.35%         | 0.96%       | 9,562,500.00       | 13.5m               | $108k              |
-| Liquidity   | 20.00%      | 12      | 0     | 12    | 28.00%     | 6.0%                   | 5.6%          | 1.20%       | 12,000,000.00      | 56m                 | $448k              |
-| Team        | 10.00%      | 36      | 6     | 42    | 0.00%      | 2.78%                  | 0.00%         | 0.28%       | 2,777,777.78       | 0.00                | $0.00              |
-| Development | 4.00%       | 24      | 3     | 27    | 0.00%      | 4.17%                  | 0.00%         | 0.17%       | 1,666,666.67       | 0.00                | $0.00              |
-| Advisory    | 3.00%       | 24      | 5     | 29    | 0.00%      | 4.17%                  | 0.00%         | 0.13%       | 1,250,000.00       | 0.00                | $0.00              |
-| DAO         | 9.00%       | 54      | 6     | 60    | 0.00%      | 1.85%                  | 0.00%         | 0.17%       | 1,666,666.67       | 0.00                | $0.00              |
-| Reserve     | 9.85%       | 36      | 6     | 42    | 0.00%      | 2.78%                  | 0.00%         | 0.27%       | 2,736,000.00       | 0.00                | $0.00              |
-| Marketing   | 9.00%       | 24      | 1     | 25    | 7.00%      | 3.88%                  | 0.63%         | 0.35%       | 3,487,500.00       | 6.3m                | $50.4              |
-| KOLs        | 6.25%       | 10      | 2     | 12    | 10.00%     | 9.00%                  | 0.63%         | 0.56%       | 5,625,000.00       | 6.25m               | $50k               |
-| Farm        | 5.00%       | 48      | 1     | 49    | 25.00%     | 1.58%                  | 0.00%         | 0.08%       | 781,250            | 12.5M               | $100K              |
-| **Total**   | **100.00%** |         |       |       |            |                        |               | **5.05%**   | **50,375,624.85m** | **101,688,923.08m** | **$813.5K**        |
+<table><thead><tr><th width="159">Towards</th><th width="125">Percentage</th><th width="91">Vesting</th><th width="71">Cliff</th><th width="78">Total</th><th width="90">TGE Unlock</th><th width="108">After cliff release PM</th><th width="116">Cliff / Total</th><th width="113">% of all PM</th><th width="164">AVG released PM</th><th width="210">TGE-Tokens Release</th><th>Initial market cap</th></tr></thead><tbody><tr><td>PrivateA</td><td>11.40%</td><td>18</td><td>3</td><td>21</td><td>3.50%</td><td>5.36%</td><td>0.40%</td><td>0.61%</td><td>6,111,666.67</td><td>3.99m</td><td>$31.9k</td></tr><tr><td>PrivateB</td><td>4.50%</td><td>14</td><td>3</td><td>17</td><td>7.00%</td><td>6.64%</td><td>0.31%</td><td>0.30%</td><td>2,988,263.74</td><td>3.148m</td><td>$25.191k</td></tr><tr><td>Public</td><td>9.00%</td><td>8</td><td>2</td><td>10</td><td>15.00%</td><td>10.63%</td><td>1.35%</td><td>0.96%</td><td>9,562,500.00</td><td>13.5m</td><td>$108k</td></tr><tr><td>Liquidity</td><td>20.00%</td><td>12</td><td>0</td><td>12</td><td>28.00%</td><td>6.0%</td><td>5.6%</td><td>1.20%</td><td>12,000,000.00</td><td>56m</td><td>$448k</td></tr><tr><td>Team</td><td>10.00%</td><td>36</td><td>6</td><td>42</td><td>0.00%</td><td>2.78%</td><td>0.00%</td><td>0.28%</td><td>2,777,777.78</td><td>0.00</td><td>$0.00</td></tr><tr><td>Development</td><td>4.00%</td><td>24</td><td>3</td><td>27</td><td>0.00%</td><td>4.17%</td><td>0.00%</td><td>0.17%</td><td>1,666,666.67</td><td>0.00</td><td>$0.00</td></tr><tr><td>Advisory</td><td>3.00%</td><td>24</td><td>5</td><td>29</td><td>0.00%</td><td>4.17%</td><td>0.00%</td><td>0.13%</td><td>1,250,000.00</td><td>0.00</td><td>$0.00</td></tr><tr><td>DAO</td><td>9.00%</td><td>54</td><td>6</td><td>60</td><td>0.00%</td><td>1.85%</td><td>0.00%</td><td>0.17%</td><td>1,666,666.67</td><td>0.00</td><td>$0.00</td></tr><tr><td>Reserve</td><td>9.85%</td><td>36</td><td>6</td><td>42</td><td>0.00%</td><td>2.78%</td><td>0.00%</td><td>0.27%</td><td>2,736,000.00</td><td>0.00</td><td>$0.00</td></tr><tr><td>Marketing</td><td>9.00%</td><td>24</td><td>1</td><td>25</td><td>7.00%</td><td>3.88%</td><td>0.63%</td><td>0.35%</td><td>3,487,500.00</td><td>6.3m</td><td>$50.4</td></tr><tr><td>KOLs</td><td>6.25%</td><td>10</td><td>2</td><td>12</td><td>10.00%</td><td>9.00%</td><td>0.63%</td><td>0.56%</td><td>5,625,000.00</td><td>6.25m</td><td>$50k</td></tr><tr><td>Farm</td><td>5.00%</td><td>48</td><td>1</td><td>49</td><td>25.00%</td><td>1.58%</td><td>0.00%</td><td>0.08%</td><td>781,250</td><td>12.5M</td><td>$100K</td></tr><tr><td><strong>Total</strong></td><td><strong>100.00%</strong></td><td></td><td></td><td></td><td></td><td></td><td></td><td><strong>5.05%</strong></td><td><strong>50,375,624.85m</strong></td><td><strong>101,688,923.08m</strong></td><td><strong>$813.5K</strong></td></tr></tbody></table>
 
 \---
 
