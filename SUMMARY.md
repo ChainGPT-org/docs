@@ -42,6 +42,10 @@
 
 * [🗳 DAO Governance](cgpt-token/dao-governance.md)
 
+## ChainGPT Pad
+
+* [Overview](chaingpt-pad/overview.md)
+
 ## ChainGPT AI & Utilities
 
 * [🤖 ChainGPT AI Bot](chaingpt-ai-and-utilities/i.-chaingpt-ai-chatbot/README.md)
