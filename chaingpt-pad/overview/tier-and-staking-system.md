@@ -69,3 +69,6 @@ Private group for private sale access & voting (council) Freemium access to Chai
 
 ## Pool Weights Explained
 
+{% hint style="info" %}
+Coming Soon
+{% endhint %}
