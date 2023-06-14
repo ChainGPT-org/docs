@@ -44,7 +44,11 @@
 
 ## ChainGPT Pad
 
-* [Overview](chaingpt-pad/overview.md)
+* [Overview](chaingpt-pad/overview/README.md)
+  * [Tier & Staking System](chaingpt-pad/overview/tier-and-staking-system.md)
+  * [Refund Policy](chaingpt-pad/overview/refund-policy.md)
+  * [Incubation Program](chaingpt-pad/overview/incubation-program.md)
+  * [Apply for an IDO](chaingpt-pad/overview/apply-for-an-ido.md)
 
 ## ChainGPT AI & Utilities
 
