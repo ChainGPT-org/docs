@@ -1,4 +1,13 @@
+---
+description: >-
+  As a provider of AI powered infrastructure for the crypto, blockchain, and
+  Web3 industry, ChainGPT looks to support burgeoning projects interested in
+  building on top of our technology.
+---
+
 # Incubation Program
+
+<figure><img src="../../.gitbook/assets/photo_2023-06-15_19-55-29.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Objective
 

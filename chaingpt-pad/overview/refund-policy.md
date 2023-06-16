@@ -1,6 +1,13 @@
+---
+description: >-
+  As a mechanism to mitigate risks, protect against malicious activity, and
+  align the behaviors of projects that list on the launchpad, a novel refund
+  policy has been implemented.
+---
+
 # Refund Policy
 
-
+<figure><img src="../../.gitbook/assets/1klmDSKQOtQPEQVidNV_8oQ.jpg" alt=""><figcaption></figcaption></figure>
 
 To accommodate the changing needs of market participants and unexpected situations, ChainGPT has introduced a "refund" feature.
 

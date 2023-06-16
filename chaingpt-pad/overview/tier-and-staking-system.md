@@ -1,6 +1,12 @@
+---
+description: >-
+  Breaking down the specifications around staking, point systems, and the tier
+  structure for the ChainGPT Launchpad.
+---
+
 # Tier & Staking System
 
-
+<figure><img src="../../.gitbook/assets/15qXeyezTIcV4b0tDwS3uzA.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Staking & Points System
 
