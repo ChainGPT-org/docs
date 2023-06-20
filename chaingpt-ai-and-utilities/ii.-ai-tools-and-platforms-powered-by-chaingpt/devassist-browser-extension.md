@@ -2,8 +2,6 @@
 
 DevAssist is a unique open-source browser extension powered by ChainGPT's advanced AI technology, created to provide users with additional information regarding any smart contract they are interacting with. Explaining the code they agree to in plain English. For example, suppose a user uses a meta mask to interact with a smart contract through a DApp or a web application. In that case, the DevAssist extension will pop up with easy to understand explanation of what the smart contract the user is about to interact with is doing.&#x20;
 
-<figure><img src="../../.gitbook/assets/DevAssist Screenshots.png" alt=""><figcaption></figcaption></figure>
-
 **The Power of ChainGPT**\
 By utilizing the advanced AI model, ChainGPT has to offer. Every smart contract is scanned live by ChainGPT's AI, analyzed, and then explained simply so that it's easy to understand by all users. This is the first time non-developers with no-code knowledge can know what the smart contract they're about to interact with is doing.
 
