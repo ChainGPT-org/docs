@@ -72,7 +72,7 @@ $CGPT, or ChainGPT Token, is the utility token powering the ChainGPT ecosystem. 
 
 **Some of the key features and use cases of $CGPT token include:**
 
-1\. Access to ChainGPT services: Token holders can use $CGPT to access various ChainGPT services such as AI-generated news, AI smart contract generator and auditor tools, AI NFT Generator, and more.
+1\. Access to ChainGPT services: Token holders can use $CGPT to access various ChainGPT services such as AI-generated news, AI smart contract generator and auditor tools, AI NFT Generator, Launchpad, and more.
 
 2\. Staking and Farming: Users can stake and farm their $CGPT tokens.
 
@@ -90,7 +90,7 @@ The total supply of CGPT is 1 billion (1,000,000,000) tokens. It is currently de
 
 You can acquire $CGPT (ChainGPT Token) through various methods:
 
-1\. Centralized Exchanges: CGPT was listed on multiple centralized exchanges on April 10th, 2023, including KuCoin, MEXC, ByBit, GATE.io, BitGet. You can buy CGPT tokens by creating an account on one of these exchanges and trading it against other cryptocurrencies like BTC, ETH, or USDT.
+1\. Centralized Exchanges: CGPT was listed on multiple centralized exchanges on April 10th, 2023, including KuCoin, MEXC, ByBit, and BitGet. You can buy CGPT tokens by creating an account on one of these exchanges and trading it against other cryptocurrencies like BTC, ETH, or USDT.
 
 2\. Decentralized Exchanges: CGPT is also available on PancakeSwap, KyberSwap, and Thena decentralized exchanges. You can swap your tokens like BNB, BUSD, or other supported tokens for CGPT directly using these platforms
 

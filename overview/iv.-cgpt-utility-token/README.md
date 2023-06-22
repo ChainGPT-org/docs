@@ -57,20 +57,20 @@ $CGPT is an essential component of the ChainGPT ecosystem, providing individuals
 
 ## **Continue reading:**&#x20;
 
-{% content-ref url="smart-contract.md" %}
-[smart-contract.md](smart-contract.md)
+{% content-ref url="cgpt-tokenomics-utility-token.md" %}
+[cgpt-tokenomics-utility-token.md](cgpt-tokenomics-utility-token.md)
 {% endcontent-ref %}
 
-{% content-ref url="burn-mechanism.md" %}
-[burn-mechanism.md](burn-mechanism.md)
+{% content-ref url="smart-contract.md" %}
+[smart-contract.md](smart-contract.md)
 {% endcontent-ref %}
 
 {% content-ref url="staking-and-farming.md" %}
 [staking-and-farming.md](staking-and-farming.md)
 {% endcontent-ref %}
 
-{% content-ref url="cgpt-tokenomics-utility-token.md" %}
-[cgpt-tokenomics-utility-token.md](cgpt-tokenomics-utility-token.md)
+{% content-ref url="burn-mechanism.md" %}
+[burn-mechanism.md](burn-mechanism.md)
 {% endcontent-ref %}
 
 \---
