@@ -49,6 +49,7 @@
   * [Refund Policy](chaingpt-pad/overview/refund-policy.md)
   * [Incubation Program](chaingpt-pad/overview/incubation-program.md)
   * [Apply for an IDO](chaingpt-pad/overview/apply-for-an-ido.md)
+  * [FAQ](chaingpt-pad/overview/faq.md)
 
 ## ChainGPT AI & Utilities
 
