@@ -116,6 +116,54 @@ Individuals can access ChainGPT without spending $CGPT tokens by simply staking 
 
 </details>
 
+<details>
+
+<summary>What can I do with the $CGPT token?</summary>
+
+$CGPT is required in order to gain access to all of ChainGPT network’s applications including the AI model, the API, tier level for the ChainGPT Pad, and the DAO.
+
+</details>
+
+<details>
+
+<summary>What blockchain network is $CGPT deployed on?</summary>
+
+The $CGPT token is a BEP-20 standard token on the Binance smart chain. It has also been bridged to the Ethereum network as an ERC-20. As the project continues to mature, the token will be bridged over to other EVM-compatible chains.
+
+</details>
+
+<details>
+
+<summary>What is $CGPT's supply policy?</summary>
+
+Fixed maximum supply with deflation via burn.
+
+</details>
+
+<details>
+
+<summary>How does $CGPT's burn mechanism work?</summary>
+
+Every transaction that is paid for the use of the ChainGPT network applications incurs a cost of $CGPT. 50% is burned, 25% is sent to ChainGPT operational Treasury, and 25% is sent to ChainGPT DAO Treasury.
+
+</details>
+
+<details>
+
+<summary>Is the $CGPT Contract audited?</summary>
+
+Yes, $CGPT has dual audits from [Certik](https://skynet.certik.com/projects/chaingpt) and [Hacken](https://hacken.io/audits/chaingpt/).
+
+</details>
+
+<details>
+
+<summary>Is there a $CGPT bug bounty program?</summary>
+
+Yes. You can find it in the developer docs [here](https://docs.chaingpt.org/developer-docs/bug-bounty-program) and on the Certik Website [here](https://skynet.certik.com/projects/chaingpt?utm\_source=CMC\&utm\_campaign=AuditByCertiKLink).
+
+</details>
+
 ## About Staking & Farming
 
 <details>
@@ -130,7 +178,7 @@ Staking and farming are generally ways to earn rewards in the blockchain space. 
 
 <summary><strong>What is ChainGPT Staking?</strong> </summary>
 
-Staking offers individuals free and unlimited access to ChainGPT without spending their $CGPT tokens with each request. On the other hand, businesses and developers interested in using the ChainGPT API must stake a spendable amount of $CGPT that will reduce each API request.
+Staking offers individuals free and unlimited access to ChainGPT without spending their $CGPT tokens with each request. On the other hand, businesses and developers interested in using the ChainGPT API must stake a spendable amount of $CGPT that will reduce each API request. ChainGPT staking dashboard is available [here](https://staking.chaingpt.org/).
 
 </details>
 
@@ -144,9 +192,9 @@ Farming offers all $CGPT holders ways to earn additional rewards in $CGPT by sim
 
 <details>
 
-<summary><strong>When will staking &#x26; farming become available?</strong> </summary>
+<summary><strong>Why stake $CGPT?</strong></summary>
 
-Both staking & farming decentralized applications will become available with the launch
+Staking serves four crucial functions within the ChainGPT Ecosystem.  Firstly, it offers individuals free and unlimited access to ChainGPT without spending their $CGPT tokens with each request.  Second, in order for businesses and developers to build commercial products with the ChainGPT API, they must commit a pool of $CGPT tokens which will serve as the reservoir of purchasing power for their API requests. Third, $CGPT staking provides access to the ChainGPT DAO. Forth, $CGPT staking is necessary to accumulate tier points to access the ChaingGPT Pad.
 
 </details>
 
@@ -154,10 +202,16 @@ Both staking & farming decentralized applications will become available with the
 
 <summary><strong>Which pairs will the farming platform support?</strong> </summary>
 
-The farming platform will support a variety of pairs, including stable coins, popular blockchain coins, and exchange tokens.
+$CGPT will be paired with a variety of tokens, including stablecoins, popular blockchain coins, and exchange tokens. The exact token pairing will depend on their underlying platforms availability and be changing based on popular demand and market forces so be sure to stay up to date on our [Twitter](https://twitter.com/Chain\_GPT).
 
 </details>
 
 
 
-Did we miss anything? let us know: info@chaingpt.org
+
+
+
+
+
+
+Did we miss anything? Let us know: info@chaingpt.org
