@@ -26,7 +26,6 @@ The IDO process consists of three rounds:
 
 * Round #1 (Guaranteed Allocation) This round is reserved for top staking tier groups, namely Silver, Gold, and Diamond Tier.
 * Round #2 (FCFS) In this round, allocations are offered on a first-come, first-serve basis to participants across all tiers.
-* Round #3 (FCFS+) This round extends the first-come, first-serve allocation to include participants from all tiers, as well as Key Opinion Leaders (KOLs), Venture Capital (VC) Partners, and KYC'ed members.
 
 {% hint style="info" %}
 Note: If a project reaches its maximum IDO capacity at any point, the IDO process will immediately halt, and no further rounds will be conducted.
