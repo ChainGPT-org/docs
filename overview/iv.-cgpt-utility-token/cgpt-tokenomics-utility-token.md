@@ -4,12 +4,13 @@
 
 ### **Initial Market Data**
 
-| Initial market cap (EXCL LIQ/M) | $215,111                                                                                       |
-| ------------------------------- | ---------------------------------------------------------------------------------------------- |
-| Fully Diluted Market Cap        | $8,000,000                                                                                     |
-| Price variable (IDO/Listing)    | $0.008                                                                                         |
-| Live Circulating Supply         | [https://cgpt-circulating-supply.onrender.com/](https://cgpt-circulating-supply.onrender.com/) |
-| Pair - BSC                      | <p>CEX Pair: $CGPT / $USDT</p><p>DEX Pair: $CGPT / $BUSD</p>                                   |
+| Initial market cap (EXCL LIQ/M) | $215,111                                                                                        |
+| ------------------------------- | ----------------------------------------------------------------------------------------------- |
+| Fully Diluted Market Cap        | $8,000,000                                                                                      |
+| Price variable (IDO/Listing)    | $0.008                                                                                          |
+| Circulating Supply (Incl.LPs)   | [https://supply-excluding-lps.onrender.com/](https://supply-excluding-lps.onrender.com/)        |
+| Circulating Supply (Excl.LPs)   | [https://cgpt-circulating-supply.onrender.com/](https://cgpt-circulating-supply.onrender.com/)  |
+| Pair - BSC                      | <p>CEX Pair: $CGPT / $USDT</p><p>DEX Pair: $CGPT / $BUSD</p>                                    |
 
 ### **CGPT Token Sale**
 
