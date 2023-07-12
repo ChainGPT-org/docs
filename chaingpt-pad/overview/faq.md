@@ -77,9 +77,7 @@ The entry level tier is Bronze, it requires 2,000 points. Based on the maximum m
 
 <summary>What countries are restricted from IDOs?</summary>
 
-Individuals that reside with the sanctioned countries in accordance to OFAC and FATF are restricted from participation.
-
-_Afghanistan, Albania, Belarus, Bosnia and Herzegovina, Central African Republic, China, Cuba, Democratic Republic of Congo, Democratic People’s Republic of Korea, Ethiopia, Hong Kong, Iran, Iraq, Kosovo, Lebanon, Libya, Mali, Montenegro, Myanmar, Nicaragua, North Macedonia, Oman, Russia, Serbia, Somalia, Sudan, Sudan, South, Syria, Ukraine, Venezuela, Yemen, Zimbabwe_
+As of now, everyone can pass a KYC & sign up for ChainGPT Pad. However, countries that have banned cryptocurrencies will not be eligible to participate in IDOs. Restricted countries: Bangladesh, China, Algeria, Egypt, Iraq, Morocco, Nepal, Qatar, Tunisia
 
 For a full list of sanctioned countries please refer to the directory provided by our KYC partner BlockPass: [**https://www.blockpass.org/major-sanctioned-countries-lists/**](https://www.blockpass.org/major-sanctioned-countries-lists/)
 
