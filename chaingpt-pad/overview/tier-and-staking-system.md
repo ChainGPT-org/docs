@@ -73,8 +73,15 @@ Token airdrops from incubated projects (Portion of TTs we charge).\
 Occasional airdrops in the form of NFTs from our partnership network.\
 Private group for private sale access & voting (council) Freemium access to ChainGPT’s AI Tools.
 
-## Pool Weights Explained
+## Pool Weight Allocation Multiplier Explained
 
-{% hint style="info" %}
-Coming Soon
-{% endhint %}
+The allocation multiplier specifies the amount of tokens that participants will be able to purchase at the different tier levels. Every tier has its own corresponding allocation multiplier, Bronze: 1, Silver: 4+, Gold: 10+, Diamond 40+.
+
+Pool weight is calculated based on the distribution of tier points among participating members and their corresponding tier levels. Every pool has a structured base range that is dependent on their staking tier points.
+
+* Bronze | 1x | 2,000 points — 19,999 points
+* Silver | 4x — 9.99x | 20,000 points — 49,999 points\
+  Gold | 10x — 39.99x | 50,000 points — 199,999 points\
+  Diamond | 40x + | 200,000 points +
+
+The pool weight indicates how much multiplier is applied to that specific tier level’s allocation capacity. Bronze maintains a base level of 1x multiplier throughout its entire point range. The Silver, Gold, and Diamond levels pool weights are scaled proportionally to the individual stakers point position within its range. To best understand the mechanism is through an empirical example: In the event of a Silver tier with 20,000 points, they have a 4x multiplier. In the event of a Silver tier with 35,000 points, they have a 7x multiplier. In the event of a Silver tier with 49,999 points, they have a 9.99x multiplier. This logic applies to the Gold tier equally. Given that Diamond level can theoretically have no point limit, the cap on the multiplier for them is logarithmically relational to the total IDO’s upper bound.
