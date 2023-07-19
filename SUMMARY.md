@@ -27,6 +27,7 @@
   * [2022: Q3-Q4](overview/iii.-roadmap/2022-q2-q4.md)
   * [2023: Q1-Q2](overview/iii.-roadmap/2023-q1-q2.md)
   * [2023: Q3-Q4](overview/iii.-roadmap/2023-q3-q4.md)
+  * [2024-2025](overview/iii.-roadmap/2024-2025.md)
 * [IV. CGPT Utility Token](overview/iv.-cgpt-utility-token/README.md)
   * [CGPT Tokenomics](overview/iv.-cgpt-utility-token/cgpt-tokenomics-utility-token.md)
   * [Smart-Contract](overview/iv.-cgpt-utility-token/smart-contract.md)
