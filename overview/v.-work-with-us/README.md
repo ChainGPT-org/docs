@@ -20,4 +20,3 @@ Join the forefront of AI and blockchain innovation by joining the ChainGPT team!
 [social-media-manager.md](social-media-manager.md)
 {% endcontent-ref %}
 
-#### Graphic Design
