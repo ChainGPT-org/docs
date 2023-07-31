@@ -73,7 +73,6 @@
   * [Introduction to ChainGPT Layer-1 Blockchain](chaingpt-ai-and-utilities/iii.-chaingpt-blockchain-layer-1-and-layer-2/introduction-to-chaingpt-layer-1-blockchain.md)
   * [Introduction to ChainGPT Layer-2 Blockchain](chaingpt-ai-and-utilities/iii.-chaingpt-blockchain-layer-1-and-layer-2/introduction-to-chaingpt-layer-2-blockchain.md)
   * [Initial Ecosystem](chaingpt-ai-and-utilities/iii.-chaingpt-blockchain-layer-1-and-layer-2/initial-ecosystem.md)
-* [ChatGPT vs ChainGPT](chaingpt-ai-and-utilities/chatgpt-vs-chaingpt.md)
 
 ## Developer Docs
 
