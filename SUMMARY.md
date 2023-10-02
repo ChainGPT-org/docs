@@ -79,7 +79,7 @@
   * [Ads Manager](misc/work-with-us/ads-manager.md)
   * [Chief Financial Officer](misc/work-with-us/chief-financial-officer.md)
   * [Chief Technology Officer](misc/work-with-us/chief-technology-officer.md)
-  * [Copywriter & SMM](misc/work-with-us/copywriter-and-smm.md)
+  * [Copywriter & Social Media Manager](misc/work-with-us/copywriter-and-social-media-manager.md)
   * [Full-Stack Web3 Developer](misc/work-with-us/full-stack-web3-developer.md)
   * [Senior ML Engineer](misc/work-with-us/senior-ml-engineer.md)
   * [Senior Full-Stack Web3 Developer](misc/work-with-us/senior-full-stack-web3-developer.md)
