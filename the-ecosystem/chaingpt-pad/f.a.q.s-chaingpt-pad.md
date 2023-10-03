@@ -12,7 +12,7 @@ description: Frequently Asked Questions about ChainGPT Pad
 
 <summary>What is the ChainGPT Pad?</summary>
 
-It is a platform for incubating promising projects that are looking to introduce a token into their ecosystems and launching them via IDOs.
+It is a platform for incubating promising projects that are looking to introduce a token into their ecosystems and launch them via IDOs.
 
 </details>
 
@@ -20,9 +20,9 @@ It is a platform for incubating promising projects that are looking to introduce
 
 <summary>What is an IDO?</summary>
 
-IDO stands for Initial DEX Offering. It is a method of public fundraising that pools capital from retail users by utilizing a decentralized platform as the venue for facilitating the transactions.
+IDO stands for Initial DEX Offering. It is a public fundraising method that pools retail users' capital by utilizing a decentralized platform to facilitate transactions.
 
-This model is superior to the preceding ICO model because the platform can provide a higher degree of security for end users by collecting the funding and only releasing to the projects after the satisfaction of a certain criteria.
+This model is superior to the preceding ICO model because the platform can provide a higher degree of security for end users by collecting the funding and only releasing the projects after the satisfaction of specific criteria.
 
 </details>
 
@@ -32,7 +32,7 @@ This model is superior to the preceding ICO model because the platform can provi
 
 The crowdfunding/private sale is a very early round of fundraising that takes place right before an IDO.
 
-Typically just a day or so before an IDO launch. These rounds tend to offer superior rates but also incur prolonged vesting periods.
+Typically, just a day or so before an IDO launch. These rounds tend to offer superior rates but also incur prolonged vesting periods.
 
 </details>
 
@@ -42,7 +42,7 @@ Typically just a day or so before an IDO launch. These rounds tend to offer supe
 
 FCFS is the acronym for First-Come-First-Serve, and it refers to the round of fundraising that becomes available to the general public after the guaranteed round.
 
-As the name might suggest, FCFS rounds are based on timing, available token supplies are sold to participants that arrive ahead of others.
+As the name might suggest, FCFS rounds are based on timing; available token supplies are sold to participants who arrive ahead of others.
 
 </details>
 
@@ -60,11 +60,11 @@ Providing support, guidance, and accelerating excellence, the ChainGPT Incubatio
 
 <summary>Can I participate in IDOs right after purchasing $CGPT?</summary>
 
-Almost. Before being able to participate in the IDO’s users must do two more actions.\
+Almost. Before being able to participate in the IDOs, users must do two more actions.\
 \
-First, once $CGPT is acquired, users must make sure to have enough tier points for inclusion, if yes, then simply staking their tokens in the official [Staking Dashboard](https://pad.chaingpt.org/staking-pools)\
+First, once $CGPT is acquired, users must make sure to have enough tier points for inclusion; if yes, then simply staking their tokens in the official [Staking Dashboard](https://pad.chaingpt.org/staking-pools).\
 \
-Second, they must pass KYC [http://url.chaingpt.org/kyc](http://url.chaingpt.org/kyc)
+Second, they must pass KYC [http://url.chaingpt.org/kyc](http://url.chaingpt.org/kyc).
 
 </details>
 
@@ -72,7 +72,7 @@ Second, they must pass KYC [http://url.chaingpt.org/kyc](http://url.chaingpt.org
 
 <summary>Is there a refund policy?</summary>
 
-Yes. Every IDO launch will have a “refund grace period” lasting 7–14 days on average that allows participating users added time to evaluate their decisions before finalizing the commitments.
+Yes. Every IDO launch will have a “refund grace period” of 7–14 days, allowing participating users added time to evaluate their decisions before finalizing the commitments.
 
 </details>
 
@@ -80,7 +80,7 @@ Yes. Every IDO launch will have a “refund grace period” lasting 7–14 days 
 
 <summary>Do I have to KYC in order to access the Launchpad?</summary>
 
-Yes. KYC is required for participating at any teir level. The KYC process has been made maximally simple through our partner Blockpass. To sign up please follow our official link: [http://url.chaingpt.org/kyc](http://url.chaingpt.org/kyc)
+Yes. KYC is required for participating at any tier level. The KYC process has been made maximally simple through our partner, Blockpass. To sign up, please follow our official link: [http://url.chaingpt.org/kyc](http://url.chaingpt.org/kyc).
 
 </details>
 
@@ -94,7 +94,7 @@ Every pool has a structured base range that is dependent on their staking tier p
 
 Bronze | 1x | 2,000 points — 19,999 points Silver | 4x — 9.99x | 20,000 points — 49,999 points Gold | 10x — 39.99x | 50,000 points — 199,999 points Diamond | 40x + | 200,000 points +
 
-The pool weight indicates how much multiplier is applied to that specific teir level’s allocation capacity.
+The pool weight indicates how much multiplier is applied to that specific tier level’s allocation capacity.
 
 Bronze maintains a base level of 1x multiplier throughout its entire point range. The Silver, Gold, and Diamond levels pool weights are scaled proportionally to the individual stakers point position within its range. To best understand the mechanism is through an empirical example:
 
@@ -119,9 +119,9 @@ Cryptocurrencies: BNB, ETH
 
 <summary>What countries are restricted from IDOs?</summary>
 
-As of now, everyone can pass a KYC & sign up for ChainGPT Pad. However, countries that have banned cryptocurrencies will not be eligible to participate in IDOs.\
+Currently, everyone can pass a KYC & sign up for ChainGPT Pad. However, countries that have banned cryptocurrencies will not be eligible to participate in IDOs.\
 \
-Restricted countries: Bangladesh, China, Algeria, Iraq, Morocco, Nepal, Qatar, Tunisia .\
+Restricted countries: Bangladesh, China, Algeria, Iraq, Morocco, Nepal, Qatar, Tunisia.\
 \
 For a full list of sanctioned countries please refer to the directory provided by our KYC partner BlockPass:[https://www.blockpass.org/major-sanctioned-countries-lists/](https://www.blockpass.org/major-sanctioned-countries-lists/)
 
@@ -133,9 +133,9 @@ For a full list of sanctioned countries please refer to the directory provided b
 
 <summary>Can I stake into multiple Pools and still acquire points?</summary>
 
-Yes. If you wish to split up your $CGPT stake across different pools, then the Launchpad will calculate your point based on their individual placements.
+Yes. If you wish to split up your $CGPT stake across different pools, the launchpad will calculate your points based on their individual placements.
 
-As an example, if you stake 2,500 $CGPT into the 45-day pool for 2,500 points and 2,500 $CGPT into the 180-day pool for 3,750 points, then your associated wallet will be attributed the aggregated 6,250 tier points.
+For example, if you stake 2,500 $CGPT into the 45-day pool for 2,500 points and 2,500 $CGPT into the 180-day pool for 3,750 points, your associated wallet will be attributed the aggregated 6,250 tier points.
 
 </details>
 
@@ -147,9 +147,15 @@ Tier points are calculated based on two simple factors: the number of tokens sta
 
 1 $CGPT = 1 point
 
-45 day = 1 : 1 points, 90 days = 1 : 1.3 points, 180 days = 1 : 1.5 points365 days = 1 : 2 points
+45 days.  = 1:1 point
 
-So, 1,000 $CGPT in the 180-day pool would yield 1,500 points.
+90 days = 1:1.3 points,&#x20;
+
+180 days = 1:1.5 points
+
+365 days = 1:2 points
+
+Example: 1,000 $CGPT in the 180-day pool would yield 1,500 points.
 
 </details>
 
@@ -157,7 +163,7 @@ So, 1,000 $CGPT in the 180-day pool would yield 1,500 points.
 
 <summary>How many different tiers are there?</summary>
 
-There are four tiers in the launchpad system: Bronze, Silver, Gold, and Diamond. To understand how tier levels are calculated, please refer to our dedicated post: [ChainGPT Launch Pad — Tier System & Staking](https://medium.com/chaingpt-blog/chaingpt-launch-pad-tier-system-staking-364d2a63a10e)
+There are four tiers in the launchpad system: Bronze, Silver, Gold, and Diamond. To understand how tier levels are calculated, please refer to our dedicated post: [ChainGPT Launch Pad — Tier System & Staking](https://medium.com/chaingpt-blog/chaingpt-launch-pad-tier-system-staking-364d2a63a10e).
 
 </details>
 
@@ -165,7 +171,7 @@ There are four tiers in the launchpad system: Bronze, Silver, Gold, and Diamond.
 
 <summary>What does Allocation Multiplier mean?</summary>
 
-The allocation multiplier specifies the amount of tokens that participants will be able to purchase at the different tier levels. Every tier has its own corresponding allocation multiplier: Bronze: 1, Silver: 4+, Gold: 10+, Diamond 40+.
+The allocation multiplier specifies the amount of tokens that participants can purchase at the different tier levels. Every tier has its own corresponding allocation multiplier: Bronze: 1, Silver: 4+, Gold: 10+, Diamond 40+.
 
 </details>
 
@@ -193,7 +199,7 @@ Yes. ChainGPT upholds high-quality standards that must be met in order for a pro
 
 <summary>What is the onboarding process for applying?</summary>
 
-After submitting an application, they will undergo an initial screening by the ChainGPT Team. Following the screening, projects will be put through an in depth due-diligence process. Only projects that pass the rigorous qualitative assessment are inducted into the incubator and given the rights to list their IDO on the Launchpad.
+After submitting an application, they will undergo an initial screening by the ChainGPT Team. Following the screening, projects will be put through an in-depth due-diligence process. Only projects that pass the rigorous qualitative assessment are inducted into the incubator and allowed to list their IDOs on the Launchpad.
 
 </details>
 
@@ -209,7 +215,7 @@ The incubation program is a system to support the early stages of a project's de
 
 <summary>How long is the Incubation Program?</summary>
 
-The duration of the incubation program depends on the individual needs of a project, averaging around 12 months but can be as long as 18–24 months.
+The incubation program's duration depends on the project's individual needs, averaging around 12 months but can be as long as 18–24 months.
 
 </details>
 
@@ -217,7 +223,7 @@ The duration of the incubation program depends on the individual needs of a proj
 
 <summary>Is Incubation necessary or can we just apply for IDO?</summary>
 
-Projects are not required to be incubated in order to apply for an IDO listing. However, if a project decides to go through the incubation program, then they must IDO via the ChainGPT Pad.
+Projects are not required to be incubated to apply for an IDO listing. However, if a project decides to go through the incubation program, then it must IDO via the ChainGPT Pad.
 
 </details>
 
@@ -225,7 +231,7 @@ Projects are not required to be incubated in order to apply for an IDO listing. 
 
 <summary>What is the max cap on what projects can raise during IDO?</summary>
 
-There is so set maximum. The capacity is based on a project-to-project basis. A multitude of factors will be taken into account, which help gauge potential outcomes whenever the fundraising goals are being set, which will dictate the maximum capacity.
+There is no set maximum. The capacity is based on a project-to-project basis. Many factors will be considered, which help gauge potential outcomes whenever the fundraising goals are being set, which will dictate the maximum capacity.
 
 </details>
 

@@ -20,13 +20,13 @@ Pattern Recognition at its core, the AI Trading assistant provides a 360-degree 
 
 **Price Analysis**
 
-Historic and current price activity is the single most important variable when it comes to technical analysis, especially with regard to the pursuits of trading, investing, and so on. The ChainGPT AI Trading Assistant is familiar with the market data for thousands of digital assets and it constantly tracking their transformations over the course of time.
+Historic and current price activity is the single most important variable when it comes to technical analysis, especially with regard to the pursuits of trading, investing, and so on. The ChainGPT AI Trading Assistant is familiar with the market data for thousands of digital assets and constantly tracking their transformations over time.
 
 
 
 **Indicator Application**
 
-Leverages the endless kit of indicator tools (RSI, EMA, SMA, Bollinger bands, and so on) to track second-degree variables and detect patterns not otherwise visible. ChainGPT's trading assistant can process a multitude of indicators to distill noise and speed up the discover process.
+Leverages the endless kit of indicator tools (RSI, EMA, SMA, Bollinger bands, and so on) to track second-degree variables and detect patterns not otherwise visible. ChainGPT's trading assistant can process many indicators to distill noise and speed up the discovery process.
 
 
 
@@ -38,9 +38,7 @@ Plugged into the vast matrix of data sources that is applicable to crypto, Chain
 
 **Live News Updates**
 
-News may not always be the dominant force behind the market, but its presence and the correlations between the two have proven time and time again to have close relationships. The Trading Assitant will be monitoring news as they happen and providing it on-demand to users in succinct, concise, easy-to-comprehend bites of information.&#x20;
-
-
+News may not always be the dominant force behind the market, but its presence and the correlations between the two have proven time and time again to have close relationships. The Trading Assitant will be monitoring news as it happens and providing it on-demand to users in succinct, concise, easy-to-comprehend bites of information.&#x20;
 
 
 

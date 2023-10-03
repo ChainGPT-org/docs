@@ -12,35 +12,35 @@ description: ChainGPT's Decentralized Autonomous Organization
 
 The ChainGPT DAO is the vehicle for supporting decision-making regarding the development and direction of the project. It is the focal point for rallying the community around important decisions and coordinating member efforts to enable or deny any changes from taking place.
 
-Every member of the ChainGPT DAO has the unique ability to contribute their thoughts and exert influence over how ChainGPT's products are built, what path it travels, and a multitude of other technical matters.
+Every member of the ChainGPT DAO has the unique ability to contribute their thoughts and exert influence over how ChainGPT's products are built, what path they travel, and many other technical matters.
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 **How to become a DAO Member:**
 
-The user journey of Induction into the ChainGPT DAO starts at the point of them accruing the $CGPT token.&#x20;
+The user journey of Induction into the ChainGPT DAO starts when they accrue the $CGPT token.&#x20;
 
 Becoming a DAO member has been made maximally accessible by introducing a 1-token threshold level. That means in order to become a member with a degree of influence on the platform; users are required to own and stake just a single $CGPT token.
 
 * Obtain $CGPT tokens ([list of exchanges](https://chaingpt.org/#buy))
-* Stake $CGPT for on [https://app.chaingpt.org/staking](https://app.chaingpt.org/staking)
+* Stake $CGPT on [https://app.chaingpt.org/staking](https://app.chaingpt.org/staking)
 * Join the ChainGPT DAO on [https://app.chaingpt.org/dao](https://app.chaingpt.org/dao)
 
 ### ChainGPT DAO Fund Explained
 
 Containing 9% of the total token supply (\~90,000,000 $CGPT), the ChainGPT DAO has a treasury dedicated for use by the community.&#x20;
 
-Initially, the fund will be locked, but starting on October 10th, 2023, 90 million $CGPT tokens will gradually become available over 4.5 years, injected on a rolling monthly basis.
+Initially, the fund will be locked, but starting on October 10th, 2023, 90 million $CGPT tokens will gradually become available over 4.5 years, injected monthly.
 
-This unlocking process follows a schedule of 0% at the Token Generation Event (TGE), a 6-month waiting period, and then 54 months of vesting. So no tokens are allocated at the moment of its creation; after a six-month cliff, a monthly release will begin and last for 54 months (until all 90,000,000 $CGPT are in the possession of the DAO).
+This unlocking process follows a schedule of 0% at the Token Generation Event (TGE), a 6-month waiting period, and then 54 months of vesting. So, no tokens are allocated at the moment of its creation; after a six-month cliff, a monthly release will begin and last for 54 months (until all 90,000,000 $CGPT are in the possession of the DAO).
 
-DAO members have full control over when, how, and for what these tokens will be used for by participating in the creation of and voting on proposals. In tune with the vision of a decentralized future, there will not be any base limitations set up around their utilization, anything from setting up new staking pools, moving tokens to a different blockchain network, distributing airdrops to qualified stakers; the possibilities are solely in the hands of the DAO members.&#x20;
+DAO members have full control over when, how, and for what these tokens will be used by participating in creating and voting on proposals. In tune with the vision of a decentralized future, there will not be any base limitations set up around their utilization, anything from setting up new staking pools, moving tokens to a different blockchain network, or distributing airdrops to qualified stakers; the possibilities are solely in the hands of the DAO members.&#x20;
 
 _Learn more about CGPT token economics_ [_(click here)_](cgpt-utility-token/)_._
 
 ### Voting&#x20;
 
-The ability to participate in the deliberations is a function made available to absolutely every member of the ChainGPT DAO. Regardless of the capital capabilities, voting is the base right given to all community members.&#x20;
+The ability to participate in the deliberations is a function made available to every ChainGPT DAO member. Regardless of the capital capabilities, voting is the base right given to all community members.&#x20;
 
 In order to make sure voters adhere to quality decision-making processes rather than simply assuming, the voting mechanism has been purposely designed so that voting can only be submitted once per proposal, per account. Users cannot switch their voting decisions after they have already locked in an initial vote.
 
@@ -48,10 +48,10 @@ In order to make sure voters adhere to quality decision-making processes rather 
 
 In order to create/submit a proposal to the DAO, members must satisfy the criteria to become classified as Diamond tier (accruing over 200,000 CGPTsp).
 
-1. Visit the proposal creation page: [https://app.chaingpt.org/dao](https://app.chaingpt.org/dao)
+1. Visit the proposal creation page: [https://app.chaingpt.org/dao](https://app.chaingpt.org/dao).
 2. Choose an informative title and a concise description that clearly communicates your proposal's objectives and desired outcomes.
 3. Offer multiple options for DAO members to consider, ensuring a comprehensive approach to decision-making.
-4. Once you have finalized the proposal, submit it and deploy on-chain.&#x20;
+4. Once you have finalized the proposal, submit it and deploy it on-chain.&#x20;
 
 {% hint style="info" %}
 **Note:** _When a proposal is created, a snapshot is taken of all CGPT stakers and their voting power at that moment. If someone stakes more tokens later, it won't change their voting power for proposals that already exist, even if those proposals are still live._

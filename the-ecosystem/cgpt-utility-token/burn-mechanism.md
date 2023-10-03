@@ -18,7 +18,7 @@ Burning has been applied to every commercial-grade transaction taking place with
 
 ### The Six Touchpoints of $CGPT's Fee Burn Mechanism
 
-There are a total of six different vectors that are tied to the burning.&#x20;
+Six different vectors are tied to the burning.&#x20;
 
 **Prompt Marketplace:** 100% burn \
 _All of the fees paid within the prompt marketplace are removed from the circulating supply._\
@@ -33,13 +33,13 @@ _Half of all fees attributable to the AI NFT Generator are removed from the circ
 _Whenever a project hosts their IDO on the ChainGPT Pad, 1% of the amount it raises will be used to buy back $CGPT tokens from the open markets and burn them._\
 \
 **Whitelabel Solutions:** 10% buy-back & burn \
-_Every time a B2B transaction takes place where another project or company decides to purchase any whitelabel solutions / software / software licenses from ChainGPT, 10% of the total transaction cost will be used to buy back $CGPT tokens from the open markets and burn them._ \
+_Every time a B2B transaction takes place where another project or company decides to purchase any white label solutions/software/software licenses from ChainGPT, 10% of the total transaction cost will be used to buy back $CGPT tokens from the open markets and burn them._ \
 \
 **ChainGPT NFT Collection Sales:** 20% buy-back & burn\
-_Any time ChainGPT will be selling their own NFTs, 20% of the proceeds will be used to buy back $CGPT tokens from the open markets and burn them._
+_Any time ChainGPT sells its own NFTs, 20% of the proceeds will be used to buy back $CGPT tokens from the open markets and burn them._
 
 \
-Any $CGPT tokens are accrued back to ChainGPT or the DAO will be distributed proportionately between the two entities and leveraged for purposes of development, marketing, and a slew of ancillary community and brand-building initiatives to propel ChainGPT.\
+Any $CGPT tokens are accrued back to ChainGPT, or the DAO will be distributed proportionately between the two entities and leveraged for purposes of development, marketing, and a slew of ancillary community and brand-building initiatives to propel ChainGPT.\
 
 
 ### Thesis
@@ -56,7 +56,6 @@ To view all previous $CGPT burn events on BSC's on-chain explorer, use the link 
 
 </details>
 
-\
 \
 \---
 

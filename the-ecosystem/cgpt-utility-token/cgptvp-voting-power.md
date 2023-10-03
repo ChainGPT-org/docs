@@ -8,7 +8,7 @@ CGPTvp stands for ChainGPT Voting Power. It is a metric used within the ChainGPT
 
 #### **Relation to CGPTsp**
 
-CGPTvp has a direct and linear relationship with CGPTsp. Simply put, 1 CGPTvp is equal to 1 CGPTsp. To understand the importance of CGPTvp, one must first grasp the significance of CGPTsp in the ChainGPT ecosystem. CGPTsp, or ChainGPT staking points, is a weighted accounting system that assesses the commitment a user has to the ChainGPT ecosystem based on factors such as the amount of tokens they have staked and the duration of their stakes.
+CGPTvp has a direct and linear relationship with CGPTsp. Simply put, 1 CGPTvp is equal to 1 CGPTsp. To understand the importance of CGPTvp, one must first grasp the significance of CGPTsp in the ChainGPT ecosystem. CGPTsp, or ChainGPT staking points, is a weighted accounting system that assesses a user's commitment to the ChainGPT ecosystem based on factors such as the number of tokens they have staked and the duration of their stakes.
 
 ***
 
@@ -20,9 +20,9 @@ The importance of CGPTvp lies in its function as a voting metric. With the rise 
 
 #### **How is CGPTvp Calculated?**
 
-The calculation of CGPTvp is straightforward, as it derives its value from CGPTsp. If a user wishes to understand their CGPTvp, they can calculate their CGPTsp based on:
+The calculation of CGPTvp is straightforward, as it derives its value from CGPTsp. If a user wishes to understand their CGPTvp, they can calculate their CGPTsp based on the total
 
-* **Total $CGPT tokens staked** (1 staked $CGPT token equals one staking point)
+* **.$CGPT tokens staked** (1 staked $CGPT token equals one staking point)
 * **Pool Multiplier Weight** (This varies based on the lockup duration and the yield)
 
 For example, staking in a pool with a 90-day duration would grant the user a 1.3x points multiplier.
@@ -31,7 +31,7 @@ For example, staking in a pool with a 90-day duration would grant the user a 1.3
 
 #### **Use in ChainGPT DAO Governance**
 
-CGPTvp is pivotal in the ChainGPT DAO Governance system. Users with a higher CGPTvp will naturally have more influence in votes, decisions, and proposals within the ChainGPT ecosystem. This ensures that decisions made within the DAO are representative of those who are deeply engaged with the platform.
+CGPTvp is pivotal in the ChainGPT DAO Governance system. Users with a higher CGPTvp will naturally have more influence in votes, decisions, and proposals within the ChainGPT ecosystem. This ensures that decisions made within the DAO represent those deeply engaged with the platform.
 
 ***
 

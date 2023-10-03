@@ -4,9 +4,9 @@ description: Facilitating the exchange of generative ideas
 
 # Prompt Marketplace
 
-Rooted in the concept of I/O where the quality of an input directly influences the quality of an output; prompts are the foundation of generative AI capabilities.&#x20;
+Rooted in the concept of I/O, where an input's quality directly influences the output's quality, prompts are the foundation of generative AI capabilities.&#x20;
 
-Carefully crafted instruction sets used to interact with a generative Artificial Intelligence software/agent, prompts are a novel type of digital asset that radical new economic opportunities are springing up around it.&#x20;
+Carefully crafted instruction sets used to interact with a generative Artificial Intelligence software/agent, prompts are a novel type of digital asset that radical new economic opportunities are springing up around.&#x20;
 
 As AI becomes more ingrained in commercial and personal life, the demand for understanding how to interact with it grows accordingly. The ability to create effective, accurate prompts has unlocked new revenue sources for individuals around the world.
 
@@ -16,7 +16,7 @@ As AI becomes more ingrained in commercial and personal life, the demand for und
 
 
 
-Denominating the marketplace activities is the $CGPT token, which acts as the unit of account within the marketplace; The ChainGPT Prompt Marketplace is a peer-to-peer platform that allows users to exchange prompts directly with one another. It has been designed as a two-sided marketplace connecting individuals or businesses that need generative ideas with prompt engineers that create them.&#x20;
+Denominating the marketplace activities is the $CGPT token, which acts as the unit of account within the marketplace. The ChainGPT Prompt Marketplace is a peer-to-peer platform that allows users to exchange prompts directly with one another. It has been designed as a two-sided marketplace connecting individuals or businesses that need generative ideas with prompt engineers who create them.&#x20;
 
 ### Features
 
@@ -28,9 +28,9 @@ Users can trade any variation of prompts on the marketplace, including AI Tradin
 
 The ChainGPT Prompt Marketplace offers several benefits to its users.
 
-**1) First and foremost,** the marketplace enables freelance prompt engineers with an extra source of income. The capability to utilize prompts has become so valuable as to give rise to an entirely new class of labor known as "prompt engineering". Users can explore new professional skill development and receive payments for their work through $CGPT tokens.&#x20;
+**1) First and foremost,** the marketplace enables freelance prompt engineers with an extra source of income. The capability to utilize prompts has become so valuable as to give rise to an entirely new class of labor known as "prompt engineering." Users can explore new professional skill development and receive payments for their work through $CGPT tokens.&#x20;
 
-**2) Second**, users can save an enormous amount of time by purchasing various prompts that are already tested and proven instead of having to guess and iterate on it themselves.
+**2) Second**, users can save enormous time by purchasing various tested and proven prompts instead of guessing and iterating on them.
 
 **3) Third,** All of the activity that is generated in the prompt marketplace ultimately contributes to the ChainGPT community by exerting positive pressure on the $CGPT token with the transaction fee burn.
 

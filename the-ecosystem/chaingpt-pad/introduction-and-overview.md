@@ -10,9 +10,9 @@ The ChainGPT Pad is a Launchpad and IDO platform for Web3 projects that are look
 
 ### How does it work?
 
-As a launchpad, ChainGPT Pad services two sides of the market, the "consumers {participants}" and the "producers {projects}.
+As a launchpad, ChainGPT Pad services two sides of the market: the "consumers {participants}" and the "producers {projects}.
 
-Projects apply to the ChainGPT Pad by going through a rigorous qualitative analysis process conducted by the ChainGPT team. Depending on the level of sophistication and ability of these projects to satisfy a diverse range of assessment criteria (such as product-market fit, concept viability, team aptitude, and so on) their inclusion will be deduced.&#x20;
+Projects apply to the ChainGPT Pad by going through a rigorous qualitative analysis process conducted by the ChainGPT team. Depending on these projects' level of sophistication and ability to satisfy a diverse range of assessment criteria (such as product-market fit, concept viability, team aptitude, and so on), their inclusion will be deduced.&#x20;
 
 If a project does not meet the threshold, it will not be allowed to list on ChainGPT Pad.
 
@@ -34,9 +34,9 @@ Acceleration is a condensed version of the incubation that is executed within 3�
 
 ### How does the IDO work?
 
-Whenever projects are ready to list on the platform and launch their token ecosystems, ChainGPT will help them prepare a campaign and connect them to the $CGPT community. After the specifications have been finalized, token supply, market rate, sale duration, etc. the project will be listed with a countdown to open.
+Whenever projects are ready to list on the platform and launch their token ecosystems, ChainGPT will help them prepare a campaign and connect them to the $CGPT community. After the specifications have been finalized, token supply, market rate, sale duration, etc., the project will be listed with a countdown to open.
 
-The IDO will be announced via social channels and news outlet press releases and then follow the two-round opening process.‍
+The IDO will be announced via social channels and news outlet press releases, followed by the two-round opening process.‍
 
 ### What role does $CGPT play?
 
@@ -44,10 +44,10 @@ $CGPT acts as the tool to facilitate community involvement in the bootstrapping 
 
 ### How to Participate as an Investor:
 
-In order to participate in the IDO's hosted on ChainGPT Pad, users are required to satisfy two simple criteria:
+In order to participate in the IDOs hosted on ChainGPT Pad, users are required to satisfy two simple criteria:
 
-_**1)**_ Complete KYC with our partners, Blockpass: [_**KYC Here**_ ](http://url.chaingpt.org/kyc)\
-_**2)**_ Stake $CGPT to accumulate enough points and attain a tier status: [_**Stake Here**_](https://pad.chaingpt.org/#/staking-pools)
+_**1)**_ Complete KYC with our partners, Blockpass: [_**KYC Here.**_ ](http://url.chaingpt.org/kyc)\
+_**2)**_ Stake $CGPT to accumulate enough points and attain a tier status: [_**Stake Here**_](https://pad.chaingpt.org/#/staking-pools)_**.**_
 
 {% hint style="warning" %}
 KYC must be passed in order to participate.

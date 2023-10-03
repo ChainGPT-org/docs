@@ -1,7 +1,5 @@
 # Pretrained Language Model
 
-####
-
 Pre-trained language models are artificial intelligence schemes that utilize existing databases of knowledge to seed their operational/functional understandings.
 
 Just as when a child is born, the language, culture, and upbringing that shape its worldview dictate the results in the capacity and development of that child.&#x20;

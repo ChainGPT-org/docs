@@ -10,25 +10,23 @@ description: ChainGPT Credits
 
 CGPTc or ChainGPT credits are the units of account and consumption for the ChainGPT ecosystem applications. Every function that is processed through the ChaingGPT AI model requires the consumption of resources during computations; therefore, to properly value this consumption, the ChainGPT credits system (which retains a stable value consistently) is used.
 
-_This fundamental unit that measures how much buying power a user has at any given moment._
+_This fundamental unit measures how much buying power a user has at any given moment._
 
 ### What is the value of CGPTc?
 
 In order to retain maximal simplicity for end users, the CGPTc value has been hard pegged to 1CGPTc equal to $0.01.
 
-Regardless of the possible fluctuations in the $CGPT token's price, once converted into CGPTc the amount of buying power remains consistent.
+Regardless of the possible fluctuations in the $CGPT token's price, once converted into CGPTc, the buying power remains consistent.
 
 ### How to Aquire CGPTc
 
 CGPTc’s are acquired by directly converting $CGPT tokens.
 
-Upon entering the ChainGPT application suite, users connect their Web3 wallets and will notice a section on the top right of their dashboards (slightly to the left of their account/address settings) that will explicitly state how much CGPTc they are balanced with. By simply clicking that balance button, a new window will appear, prompting users to make an exchange.
+Upon entering the ChainGPT application suite, users connect their Web3 wallets and notice a section on the top right of their dashboards (slightly to the left of their account/address settings) that will explicitly state how much CGPTc they are balanced with. By simply clicking that balance button, a new window will appear, prompting users to make an exchange.
 
 {% hint style="warning" %}
 **\*Be advised:** _All $CGPT to CGPTc conversions are final. There is no way to undo or trade out of CGPTc back into $CGPT tokens. This is a one-way action._&#x20;
 {% endhint %}
-
-
 
 \---
 

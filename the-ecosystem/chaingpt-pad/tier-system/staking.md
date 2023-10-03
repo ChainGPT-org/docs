@@ -2,7 +2,7 @@
 
 #### **Staking & Points System:**
 
-The staking system for becoming a Launchpad qualified member is based on a straightforward point system. Two factors come into the accounting of points; token amount staked and the duration of the stake. The combination of the two will place members into one of the four possible tier categories: Bronze/Silver/Gold/Diamond.
+The staking system for becoming a Launchpad-qualified member is based on a straightforward point system. Two factors come into the accounting of points: the token amount staked and the duration of the stake. Combining the two will place members into one of the four possible tier categories: Bronze/Silver/Gold/Diamond.
 
 _**1 $CGPT is equal to 1 point**_\
 Each stake pool duration will bring its own point multiplier:

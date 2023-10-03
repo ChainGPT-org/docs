@@ -4,13 +4,13 @@
 
 Smart contracts are the fundamental building blocks of decentralized applications.
 
-The development of Smart contracts is the cornerstone upon which Web3 relies on to bring the vision of a decentralized, digital economy to fruition.&#x20;
+The development of Smart contracts is the cornerstone upon which Web3 relies to bring the vision of a decentralized, digital economy to fruition.&#x20;
 
-Coding a smart contract from scratch is a labor-intensive, detail-oriented process that commonly includes large expenditures of time in the quality assurance processes prior to deployment.&#x20;
+Coding a smart contract from scratch is a labor-intensive, detail-oriented process that commonly includes large time expenditures in the quality assurance processes before deployment.&#x20;
 
-Aimed at accelerating innovation and improving prototyping quality by an order of magnitude, ChainGPT has tuned the capabilities of its AI model to create smart contracts on-demand.
+Aimed at accelerating innovation and improving prototyping quality by order of magnitude, ChainGPT has tuned the capabilities of its AI model to create smart contracts on demand.
 
-ChainGPT's AI Model has been fed all of the information that pertains to smart contract code, including best security practices, libraries, samples of standardization, effective live contracts, samples of failures, and a slew of micro-nuances (such as solidity syntax).&#x20;
+ChainGPT's AI Model has been fed all of the information pertaining to smart contract code, including best security practices, libraries, samples of standardization, effective live contracts, failures, and a slew of micro-nuances (such as solidity syntax).&#x20;
 
 ### Benefits:
 
@@ -22,13 +22,11 @@ Depending on the complexity of the smart contract code, it is within reason to a
 
 **Low Capital Expenditure**
 
-The ChainGPT Smart Contract Generator has a fixed, ultra-low (per call/prompt) cost. Falling into the sub $1 cost bracket, generating a smart contract will now become something accessible to a new generation of developers and entrepreneurs that do not have prior experience.
+The ChainGPT Smart Contract Generator has a fixed, ultra-low (per call/prompt) cost. Falling into the sub $1 cost bracket, generating a smart contract will now become something accessible to a new generation of developers and entrepreneurs who do not have prior experience.
 
 **Broad Contract Types**
 
-The ChainGPT Smart Contract Generator is capable of creating a wide range of application and logic types, including simpler, more common things, such as fungible tokens to more complex and sophisticated things, such as AMM DEXs for NFTs.
-
-
+The ChainGPT Smart Contract Generator can create a wide range of application and logic types, from simpler, more common things, such as fungible tokens, to more complex and sophisticated things, such as AMM DEXs for NFTs.
 
 
 
@@ -39,8 +37,6 @@ Interaction with the Smart Contract Generator happens in a chat-based interface.
 
 In order to get to the generator, a user will have to navigate to the official application dashboard located at: [https://app.chaingpt.org/](https://app.chaingpt.org/), connect their wallet (Web3 login), and open the chat box on the right-hand side of the screen.
 {% endhint %}
-
-
 
 \---
 

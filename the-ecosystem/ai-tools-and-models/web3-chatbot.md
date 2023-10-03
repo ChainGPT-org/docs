@@ -12,11 +12,9 @@ One of the most misunderstood and most powerful applications of artificial intel
 
 Intended to simulate (if not supersede) human conversation through an intuitive man-to-machine interface, chatbots are the first real AI applications that have direct social value for any grade of user (individual retail or enterprise conglomerate).
 
-Acting as the ultimate digital companion for navigating the volatile, digital world of crypto while being presented in the extremely familiar and user-friendly chat interface, ChainGPT has developed a domain-specific dynamic database that communicates in the most familiar digital format: text.
+Acting as the ultimate digital companion for navigating the volatile digital world of crypto while being presented in the highly familiar and user-friendly chat interface, ChainGPT has developed a domain-specific dynamic database that communicates in the most familiar digital format: text.
 
 Built on a foundational dataset of resources extracted from every corner of the crypto, blockchain, and Web3 industry, ChainGPT's AI model possesses all variants of historical knowledge (including market data, technology, architecture, regulation, and everything in between) and evolves alongside the industry.&#x20;
-
-
 
 ### Applications:
 
@@ -24,7 +22,7 @@ Flexible domain expert that provides unlimited, accurate information on demand. 
 
 **Community Manager**
 
-Autonomous Intelligent AI for communities to interact with and entertain with, the ChainGPT Web3 Chatbot serves as an independent agent for coordinating digital communities.
+Autonomous Intelligent AI for communities to interact with and entertain with, the ChainGPT Web3 Chatbot is an independent agent for coordinating digital communities.
 
 <details>
 
@@ -48,21 +46,17 @@ As can be seen with ChainGPT's native implementation in the [AI dashboard](https
 
 **Research Assistant**
 
-Information in the digital asset industry moves faster than it has ever before. With the continued digitization of human life, this trends does not seem to reverse anytime soon.&#x20;
+Information in the digital asset industry moves faster than it has ever before. With the continued digitization of human life, this trend does not seem to reverse anytime soon.&#x20;
 
-Researchers must have access to the most recent information and must digest volumes so large that time horizons are commonly measured in months or even years. With ChainGPT's AI Chatbot (that is plugging into the lively corners of Web3, constantly monitoring the state of the industry, and updating itself in real-time), researchers can reduce the time they would otherwise spend reading on more productive tasks (such as extrapolating value into tangible insights).
+Researchers must have access to the most recent information and digest volumes so large that time horizons are commonly measured in months or even years. With ChainGPT's AI Chatbot (that is plugging into the lively corners of Web3, constantly monitoring the state of the industry, and updating itself in real-time), researchers can reduce the time they would otherwise spend reading on more productive tasks (such as extrapolating value into tangible insights).
 
 **Trade Assistant**
 
 Conducting technical analysis and aggregating information is notoriously intellectually demanding. Traders, investors, and other grades of market participants would be able to accelerate the processes of analysis by asking for data rather than having to store it in thousands of tabs.
 
-
-
 {% hint style="info" %}
 _ChainGPT's Web3 AI Chatbot is currently in Beta form and can be interacted with in over 50 communities or in the official ChainGPT suite of application(s). The current form factor is still limited in its capabilities and is being iterated on day-to-day._
 {% endhint %}
-
-
 
 <details>
 
@@ -75,8 +69,6 @@ Discord: [https://discord.gg/chaingpt](https://discord.gg/chaingpt)
 Dashboard: [https://app.chaingpt.org/](https://app.chaingpt.org/)
 
 </details>
-
-
 
 \---
 
