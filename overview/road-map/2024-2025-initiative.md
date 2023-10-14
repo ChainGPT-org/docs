@@ -1,31 +1,13 @@
 # 2024-2025 Initiative
 
-**Q1-Q4, 2024:** Testnet and Mainnet Release of ChainGPT Blockchain!
+\
+**In 2024 and 2025**, our unwavering commitment is to expand our solutions, elevate existing LLMs, and tailor new ones to meet the specialized needs of web3 applications. Our pivotal endeavor is the creation of a bespoke Layer-1 blockchain meticulously designed for the training and execution of AI models. This blockchain is engineered with a primary focus on decentralized AI applications, diverging from the conventional emphasis on cryptocurrencies. It is conceived to be semi-EVM compatible, accommodating coding languages such as Solidity, Rust, and Python. Stay tuned for comprehensive insights through forthcoming research papers and developer documentation as our theory matures into concrete development.
 
-### **Q1-Q2 2024:**
+**2024 initiates the dynamic ChainGPT Blockchain & Ecosystem Development Phase**, commencing with the Testnet Phase. We introduce a dedicated Layer-1 blockchain meticulously designed for AI smart contracts and models. The rollout of the ChainGPT chain's testnet version marks a significant milestone, and we actively engage with our ecosystem partners to seamlessly integrate the chain into their protocols, soliciting their invaluable feedback. To foster innovation, a grant program incentivizes projects within the ChainGPT chain ecosystem. We also provide an array of indispensable tools, including an explorer, AI Models & Tools Marketplace, web wallet, wallet extension, mobile app integration, custom Remix for ChainGPT Blockchain, a wormhole (bridge) connecting to other chains, and integration with popular DEXs & CEXs.
 
-* [ ] Open-sourced "AI NFT Generator" built with ChainGPT's SDK
-* [ ] Open-sourced "Web3 AI Chatbot" built with ChainGPT's SDK
-* [ ] ChainGPT's RE:BOT NFT Collection \[revealed from the hidden road-map]&#x20;
-* [ ] Product release from the hidden road-map&#x20;
+**The subsequent Mainnet Phase spanning 2024-2025 involves** strategic collaborations with esteemed validators and capital providers to fortify the growth of our Layer-1 chain. Our foremost objectives encompass deploying the ChainGPT chain onto the mainnet, orchestrating the smooth migration of partner protocols from the testnet to the mainnet, and introducing all our in-house ecosystem applications to the mainnet, heralding a transformative era of AI-powered blockchain technology.
 
-
-
-**ChainGPT Blockchain & Ecosystem Development Phase**
-
-* [ ] Layer-1 Blockchain designed for AI smart contracts and models.
-* [ ] Explorer for ChainGPT Blockchain.
-* [ ] AI Models & Tools Marketplace.
-* [ ] Web Wallet for ChainGPT Blockchain.
-* [ ] Wallet Extension for ChainGPT Blockchain.
-* [ ] Wallet App (IOS & Android) for ChainGPT blockchain.
-* [ ] Custom Remix for ChainGPT Blockchain.
-* [ ] Wormhole (bridge).
-* [ ] Decentralized Exchange for ChainGPT Tokens.
-
-**Q1-Q4, 2025**: ChainGPT L1 Chain Release
-
-### Blockchain Engineer? Work with us!
+We aim to release the Layer-1 Chain (Mainnet Version) during the next "bull run" cycle or after the next Bitcoin halving.
 
 \---
 
