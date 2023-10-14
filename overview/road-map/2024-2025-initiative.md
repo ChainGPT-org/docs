@@ -2,6 +2,15 @@
 
 **Q1-Q4, 2024:** Testnet and Mainnet Release of ChainGPT Blockchain!
 
+### **Q1-Q2 2024:**
+
+* [ ] Open-sourced "AI NFT Generator" built with ChainGPT's SDK
+* [ ] Open-sourced "Web3 AI Chatbot" built with ChainGPT's SDK
+* [ ] ChainGPT's RE:BOT NFT Collection \[revealed from the hidden road-map]&#x20;
+* [ ] Product release from the hidden road-map&#x20;
+
+
+
 **ChainGPT Blockchain & Ecosystem Development Phase**
 
 * [ ] Layer-1 Blockchain designed for AI smart contracts and models.
@@ -17,8 +26,6 @@
 **Q1-Q4, 2025**: ChainGPT L1 Chain Release
 
 ### Blockchain Engineer? Work with us!
-
-
 
 \---
 
