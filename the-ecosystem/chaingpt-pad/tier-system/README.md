@@ -118,7 +118,7 @@ Diamond Tier members also happen to be the only group of community members who a
 
 </details>
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

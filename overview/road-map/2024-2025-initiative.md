@@ -1,4 +1,4 @@
-# 2024-2025 Initiative
+# 🔜 2024-2025 Initiative
 
 \
 **In 2024 and 2025**, our unwavering commitment is to expand our solutions, elevate existing LLMs, and tailor new ones to meet the specialized needs of web3 applications. Our pivotal endeavor is the creation of a bespoke Layer-1 blockchain meticulously designed for the training and execution of AI models. This blockchain is engineered with a primary focus on decentralized AI applications, diverging from the conventional emphasis on cryptocurrencies. It is conceived to be semi-EVM compatible, accommodating coding languages such as Solidity, Rust, and Python. Stay tuned for comprehensive insights through forthcoming research papers and developer documentation as our theory matures into concrete development.
