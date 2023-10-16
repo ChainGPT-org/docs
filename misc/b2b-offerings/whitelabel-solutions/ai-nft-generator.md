@@ -1,2 +1,0 @@
-# AI NFT Generator
-

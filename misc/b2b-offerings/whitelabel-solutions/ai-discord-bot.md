@@ -1,2 +1,0 @@
-# AI Discord Bot
-
