@@ -1,3 +1,0 @@
-# The Art
-
-Coming Soon.

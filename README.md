@@ -1,35 +1,60 @@
-# I. Introduction
+# Introduction
 
-Links: | [ChainGPT Beta App](https://app.chaingpt.org) | [Blog](https://chaingpt.org) | [GitHub](https://github.com/chaingpt-org) | [Linkedin](https://www.linkedin.com/company/chaingpt) | [Medium](https://medium.com/@chaingpt) |\
-Community: | [Telegram-Chat](https://t.me/chaingpt) | [Telegram-News](https://t.me/chaingptnews) | [Discord ](https://discord.com/invite/sv2NfqSgVW)| [Twitter ](https://twitter.com/Chain\_GPT)| [Instagram](https://www.instagram.com/chaingpt) |
+<figure><img src=".gitbook/assets/9.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/Untitled design.gif" alt=""><figcaption></figcaption></figure>
+### ChainGPT Overview:
 
-## Introduction to ChainGPT
+ChainGPT is an advanced AI infrastructure dedicated to developing AI-powered technologies for the Web3, Blockchain, and Crypto space. We aim to improve the Web3 space for retail users & startups by developing AI-powered solutions. From LLMs to Web aChainGPT is the go-to place for all Web3 AI, from LLMs to Web applications
 
-Unleash the **power** of **Blockchain** AI with ChainGPT. An advanced AI model explicitly designed for Blockchain Technology and Crypto-related topics. It uses the latest algorithms and high-speed computing capabilities to address challenging issues in the Blockchain and Crypto space. Using ChainGPT, users may quickly obtain whatever knowledge and information they require. With many other unique features designed for individuals, developers, and businesses, ChainGPT is an essential tool for all in the Blockchain space.
+### **ChainGPT's Solutions:**
 
-Among its unique features: Blockchain & Crypto information, no-code smart contract generator, smart-contract auditor, code debugger, code-to-words, documentation creator, chart analysis & technical analysis, AML features, Blockchain analytics, on-chain live data, source of news, and much more. By creating the most advanced AI model, we offer users unlimited use cases to which ChainGPT can be applied. Furthermore, our SDK & API service makes it possible to develop new applications powered by ChainGPT or integrate them into existing ones.&#x20;
+\- ChainGPT AI Chatbot ([Telegram](https://t.me/chaingptai\_bot), Discord, [Web](http://127.0.0.1:5000/o/fTvkvEH3C5Wk9LTutCYV/s/rfpYYsoCgHxbOIGhZ3WU/))\
+\- AI NFT Generator ([link](https://nft.chaingpt.org))\
+\- AI-Generated News ([link](https://app.chaingpt.org/news))\
+\- Smart-Contracts Generator ([link](https://app.chaingpt.org))\
+\- Smart-Contracts Auditor ([link](https://app.chaingpt.org))\
+\- AI Trading Assistant ([link](https://app.chaingpt.org))\
+\- ChainGPT Pad ([link](https://pad.chaingpt.org))\
+\- AI-Powered Security Extension\
+\- AI Blockchain Analytics\
+\- ChainGPT Labs (VC Arm)\
+\- Incubation & Acceleration Program for AI Startups\
+\- Whitelabels: AI Chatbot, Launchpad, & more!&#x20;
 
-ChainGPT is backed by the CGPT utility token, which is required to access various AI tools and products powered by ChainGPT. So it's playing a significant role in the ecosystem of ChainGPT.
+The solutions developed by ChainGPT are tailored for retail users and enterprises. ChainGPT believes in developing open technologies and does not gate-keep the LLMs & applications developed by ChainGPT from other Web3 companies. Everyone is welcome to access ChainGPT's API & SDKs.&#x20;
 
 
 
-### Here's a Quick Overview of What ChainGPT Has To Offer:
+**$CGPT Utility Token:**\
+The ecosystem is backed by the $CGPT utility token, the infrastructure's backbone. The $CGPT token grants holders & stakers access to DAO voting, staking, pad allocation, Freemium access to AI tools, airdrops & more. $CGPT is currently held on decentralized wallets by 16,000+ unique and active users.&#x20;
 
-* **AI Chatbot Assistant**: The ChainGPT AI Chatbot is a conversational AI-powered assistant that was designed specifically for Blockchain technology and crypto. Whether you're an individual, developer, or business, ChainGPT can assist you with a wide range of tasks: no-code smart-contract programming, debugging, market analysis, guidance, trading, and more. The beta version is currently live, and It's free: [https://app.chaingpt.org](https://app.chaingpt.org).\
-  To use ChainGPT AI Chatbot on Telegram, click here: [https://t.me/ChainGPTAI\_Bot](https://t.me/ChainGPTAI\_Bot)&#x20;
-* **AI-Solidity Smart Contracts Generator & Auditor**: ChainGPT simplifies smart contract creation and auditing, even for those without coding experience. Users can generate contracts by describing their desired features and quickly audit existing contracts by pasting the code into ChainGPT. In addition, the system stays up-to-date with the latest guidelines, Solidity pragma versions, and security vulnerabilities. (Available on: [https://app.chaingpt.org](https://app.chaingpt.org).)
-* **Dev Assist**: Dev Assist is an open-source browser extension that provides users with a comprehensive understanding of smart-contract interactions. The tool visually represents the code and its workings, making it easier for developers and non-developers alike to understand how the contracts work. ([V1.0 is live](https://chrome.google.com/webstore/detail/devassist-chaingpt/hdegcnnmimpfkeeodhihkiiocojgnpgg?hl=en), [Web Page](https://chaingpt.org/devassist),  [GitHub](https://github.com/ChainGPT-org/DevAssist-Extension), [Documentation Page](chaingpt-ai-and-utilities/ii.-ai-tools-and-platforms-powered-by-chaingpt/devassist-browser-extension.md))
-* **AI-Generated News**: ChainGPT offers an AI-powered news service that automates generating news articles in the Blockchain and Crypto space. The service is designed to provide users with up-to-date and accurate information about the latest trends and developments in the sector.
-* **AI-Generated NFTs**: AI-Generated NFTs are non-fungible tokens created based on user prompts using AI-powered algorithms. These NFTs are unique and can be used for various applications such as digital art, in-game items, and digital collectibles. Within 30-60 seconds, anyone can deploy their NFTs on the Blockchain.&#x20;
-* **AI Trading Assistant:** Explicitly designed for Crypto traders looking to improve their Technical Analysis experience. Easily apply TA parameters and strategies, ask ChainGPT to detect chart patterns, and analyze historical data with the help of our AI.
-* **ChainGPT (Layer-1 Blockchain) Virtual Machine**: The ChainGPT Virtual Machine is a next-generation virtual machine that offers a unique combination of EVM compatibility and on-chain AI inference. It is designed to enable the development of decentralized AI applications on the blockchain.
 
-Half of all the fees and profits collected by the ChainGPT tools & utilities within the ecosystem are burned, decreasing the supply of $CGPT. The other half is used for the growth and sustainability of the ChainGPT ecosystem.
 
-ChainGPT is also actively developing other innovative tools and utilities that will enable users to take advantage of the potential of blockchain-based AI. From on-chain AI inference and AI-generated NFTs to AI trading bots and decentralized AI application development, ChainGPT is at the forefront of the blockchain-AI revolution.
+**Quick Stats:**\
+**-** 100,000+ weekly active users\
+\- 16,000+ $CGPT token holders (decentralized)\
+\- Listed on top CEXs (ByBit, KuCoin, Gate \&more) \
+\- Backed by Google, BNB, Tron, & others\
+\- Partnered with 70+ leading Web3 companies ([full list](https://www.chaingpt.org/#team))
 
-\---
 
-**DISCLAIMER**: _The information contained in our whitepaper and roadmap is provided for informational purposes only and should not be construed as financial advice or an inducement to purchase our utility token, $CGPT, for any purpose other than to interact with the ChainGPT AI bot, which is available at the time of the token sale. $CGPT is intended solely for use within the ChainGPT AI ecosystem, and we make no representations or warranties regarding the value, security, or suitability of $CGPT for any other purpose. We strongly encourage you to conduct due diligence and seek professional advice before making investment decisions. By accessing our whitepaper, website, and roadmap, you agree to release and hold us and our affiliates harmless from any liability for using the information.  In addition, please read our_ [Agreement for Sale of Tokens](https://www.chaingpt.org/licences).
+
+**ChainGPT's recent awards & grants:**\
+\- BNB Chain Ecosystem Catalyst Award (Innovation Excellence)\
+\- BNB Chain Gas Grant Program\
+\- Google Cloud Grant ($350,000)\
+\- #1 Web3 App of April, 2023 (ProductHunt)\
+\- Website of the day by Awwwards\
+\- #4 ranked Web3 Telegram bot by Binance Research
+
+***
+
+**Official Links:**\
+[Website](https://www.chaingpt.org/) | [Crypto AI Hub](https://app.chaingpt.org/) | [AI NFT Generator](https://nft.chaingpt.org/) | [ChainGPT Pad](https://pad.chaingpt.org/) | [AI-Generated News](https://app.chaingpt.org/news) | [ChainGPT DAO](https://dao.chaingpt.org/) | [$CGPT Staking](https://staking.chaingpt.org/) | [Blog](https://www.chaingpt.org/blog) | [Brand-Kit](https://www.chaingpt.org/brand-kit) |&#x20;
+
+**Social Media Links - Join Our Community:**\
+[Twitter](https://twitter.com/Chain\_GPT) | [Pad Twitter](https://twitter.com/chaingpt\_pad) | [Telegram Group](https://t.me/chaingpt) | [Telegram Channel](https://t.me/chaingptnews) | [Discord](https://discord.gg/chaingpt) | [CMC](https://coinmarketcap.com/community/profile/ChainGPT/) | [Youtube](https://www.youtube.com/@ChainGPT) | [Instagram](https://instagram.com/ChainGPTAI) | [Medium](https://medium.com/@chaingpt) | [Linkedin](https://www.linkedin.com/company/chaingpt) |
+
+***
+
+**DISCLAIMER**: The information in our roadmap is based on estimates, is.  not a guaranteed release schedule and shall not be viewed as such.  _The information contained in our whitepaper and roadmap is provided for informational purposes only. It should not be construed as financial advice or an inducement to purchase our utility token, $CGPT, for any purpose other than to interact with the ChainGPT AI bot, which is available at the time of the token sale. $CGPT is intended solely for use within the ChainGPT AI ecosystem, and we make no representations or warranties regarding the value, security, or suitability of $CGPT for any other purpose. We strongly encourage you to conduct due diligence and seek professional advice before making investment decisions. By accessing our whitepaper, website, and roadmap, you agree to release and hold us and our affiliates harmless from any liability for using the information._&#x20;
