@@ -64,18 +64,18 @@
 
 ## Misc
 
+* [Ecosystem Partners](misc/ecosystem-partners.md)
+* [Incubation Program](misc/incubation-program.md)
 * [B2B Offerings](misc/b2b-offerings/README.md)
   * [List on ChainGPT's AI](misc/b2b-offerings/list-on-chaingpts-ai.md)
+  * [Launchpad Whitelabel](misc/b2b-offerings/launchpad-whitelabel.md)
   * [Whitelabel Solutions](misc/b2b-offerings/whitelabel-solutions/README.md)
     * [AI NFT Generator](misc/b2b-offerings/whitelabel-solutions/ai-nft-generator.md)
     * [AI Telegram Bot](misc/b2b-offerings/whitelabel-solutions/ai-telegram-bot.md)
     * [AI Discord Bot](misc/b2b-offerings/whitelabel-solutions/ai-discord-bot.md)
     * [AI Twitter Bot](misc/b2b-offerings/whitelabel-solutions/ai-twitter-bot.md)
-    * [Launchpad](misc/b2b-offerings/whitelabel-solutions/launchpad.md)
     * [Wallet App](misc/b2b-offerings/whitelabel-solutions/wallet-app.md)
   * [API & SDK](misc/b2b-offerings/api-and-sdk.md)
-* [Ecosystem Partners](misc/ecosystem-partners.md)
-* [Incubation Program](misc/incubation-program.md)
 * [Work With Us](misc/work-with-us/README.md)
   * [Ads Manager](misc/work-with-us/ads-manager.md)
   * [Chief Financial Officer](misc/work-with-us/chief-financial-officer.md)

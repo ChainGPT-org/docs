@@ -1,7 +1,5 @@
 # Ecosystem Partners
 
-
-
 ## Blockchain Networks
 
 * [BNB Chain](https://www.bnbchain.org/en)
@@ -10,14 +8,6 @@
 * [Alvey](https://www.alveychain.com/)
 * [Caduceus](https://caduceus.foundation/)
 
-
-
-## DeFi Platforms
-
-*
-
-
-
 ## AI / Machine Learning
 
 * [DexCheck](https://dexcheck.ai/info)
@@ -25,22 +15,17 @@
 * [Shockwaves](https://www.shockwaves.ai/)
 * [Solidus AI Tech](https://www.aitech.io/)
 
-
-
 ## NFT
 
 * [Prom](https://prom.io/)
 * [AirNFTs](https://www.airnfts.com/)
 * [NFTb](https://nftb.io/)
 
-
-
 ## Security
 
 * [CertiK](https://www.certik.com/)
 * [Lossless](https://lossless.io/)
-
-
+* Hacken
 
 ## Exchanges
 
@@ -58,8 +43,6 @@
 * [AscendEX](https://ascendex.com/en/cashtrade-spottrading/usdt/cgpt)
 * [CoinSpot](https://www.coinspot.com.au/buy/cgpt)
 * [PancakeSwap](https://pancakeswap.finance/swap?outputCurrency=0x9840652DC04fb9db2C43853633f0F62BE6f00f98\&inputCurrency=0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56)
-
-
 
 ## Other
 
@@ -108,14 +91,6 @@
 * [Gains Associates](https://www.gains-associates.com/)
 * [Unreal Capital](https://unrealcapital.com/)
 * [Castrum Capital](https://castrum.istanbul/)
-
-
-
-
-
-
-
-
 
 \---
 
