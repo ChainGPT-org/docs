@@ -1,3 +1,22 @@
+---
+cover: ../../.gitbook/assets/cgpt-bg-05-5120x2880.jpg.jpg
+coverY: 52.12799999999999
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # B2B Offerings
 
 ChainGPT is an advanced AI infrastructure dedicated to developing AI-powered technologies for the Web3, Blockchain, and Crypto space. Our mission is to improve the Web3 space for retail users & startups by developing AI-powered solutions.
