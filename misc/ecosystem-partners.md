@@ -25,7 +25,7 @@
 
 * [CertiK](https://www.certik.com/)
 * [Lossless](https://lossless.io/)
-* Hacken
+* [Hacken](https://hacken.io/)
 
 ## Exchanges
 
