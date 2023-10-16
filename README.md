@@ -4,7 +4,7 @@
 
 ### ChainGPT Overview:
 
-ChainGPT is an advanced AI infrastructure dedicated to developing AI-powered technologies for the Web3, Blockchain, and Crypto space. We aim to improve the Web3 space for retail users & startups by developing AI-powered solutions. From LLMs to Web aChainGPT is the go-to place for all Web3 AI, from LLMs to Web applications
+ChainGPT is an advanced AI infrastructure dedicated to developing AI-powered technologies for the Web3, Blockchain, and Crypto space. We aim to improve the Web3 space for retail users & startups by developing AI-powered solutions. From LLMs to Web a ChainGPT is the go-to place for all Web3 AI, from LLMs to Web applications
 
 ### **ChainGPT's Solutions:**
 
