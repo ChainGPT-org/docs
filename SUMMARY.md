@@ -56,7 +56,6 @@
   * [KOLs Program (Ambassadors)](the-ecosystem/chaingpt-pad/kols-program-ambassadors.md)
 * [Smart-Contracts](the-ecosystem/smart-contracts.md)
 * [RE:BOT NFTs](the-ecosystem/re-bot-nfts.md)
-* [Copy of RE:BOT NFTs](the-ecosystem/copy-of-re-bot-nfts.md)
 
 ## Misc
 
