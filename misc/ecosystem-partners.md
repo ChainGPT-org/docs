@@ -44,6 +44,18 @@
 * [CoinSpot](https://www.coinspot.com.au/buy/cgpt)
 * [PancakeSwap](https://pancakeswap.finance/swap?outputCurrency=0x9840652DC04fb9db2C43853633f0F62BE6f00f98\&inputCurrency=0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56)
 
+## Backers
+
+* [Founderheads](https://founderheads.com/)
+* [Castrum Capital](https://castrum.istanbul/)
+* [Fairum](https://www.fairumventures.com/)
+* [Mapleblock Capital](https://www.mapleblock.capital/)
+* [Halvings Capital](https://halvingscapital.com/)
+* [Kangaroo Capital](https://kangaroocapital.io/)
+* [Zephyrus Capital](https://zephyruscapital.com/)
+* [Gains Associates](https://www.gains-associates.com/)
+* [Unreal Capital](https://unrealcapital.com/)
+
 ## Other
 
 * [Decrypt](https://decrypt.co/)
@@ -82,15 +94,8 @@
 * [Hyve](https://www.hyve.works/)
 * [Mises Broswer](https://www.mises.site/)
 * [CyberConnect](https://link3.to/)
-* [Founderheads](https://founderheads.com/)
-* [Fairum](https://www.fairumventures.com/)
-* [Mapleblock Capital](https://www.mapleblock.capital/)
-* [Halvings Capital](https://halvingscapital.com/)
-* [Kangaroo Capital](https://kangaroocapital.io/)
-* [Zephyrus Capital](https://zephyruscapital.com/)
-* [Gains Associates](https://www.gains-associates.com/)
-* [Unreal Capital](https://unrealcapital.com/)
-* [Castrum Capital](https://castrum.istanbul/)
+
+
 
 \---
 
