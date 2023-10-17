@@ -4,7 +4,7 @@ description: The Tier system of ChainGPT Pad
 
 # Tier System
 
-In order to maintain maximal fairness among all users, ChainGPT employs a simple four-tier system for the ChainGPT Pad. This is the exact same tier model that is applicable to the general ecosystem which can be found here: <mark style="color:blue;">**Link to tier System & Benefits**</mark>&#x20;
+To maintain maximal fairness among all users, ChainGPT employs a simple four-tier system for the ChainGPT Pad. This is the same tier model applicable to the general ecosystem, which can be found here: [<mark style="color:blue;">**Link to tier System & Benefits.**</mark> ](https://www.chaingpt.org/blog/chaingpt-launchpad-tier-system-staking)
 
 <figure><img src="../../../.gitbook/assets/photo_2023-09-08_21-46-00.jpg" alt=""><figcaption></figcaption></figure>
 
