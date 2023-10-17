@@ -6,7 +6,7 @@ description: ChainGPT's Four Tier Membership Structure
 
 <figure><img src="../.gitbook/assets/Partnership announcement  [Template] (1).gif" alt=""><figcaption></figcaption></figure>
 
-A tier system with four levels has been implemented to balance the distribution of influence over the ChainGPT ecosystem among the members of the $CGPT holder community and provide an attractive incentive structure attainable within potential capital constraints of users from any grade of the economy.
+The ChainGPT ecosystem has implemented a four-tiered system. This structure aims to give every $CGPT token holder an equal voice, regardless of their token count. Moreover, it includes rewards suitable for individuals of varied financial backgrounds.
 
 Tiers represent the degree of a user's commitment to the ChainGPT ecosystem as defined by the simple formula of 1) capital in the form of $CGPT tokens and 2) the duration they get locked up for. The more tokens a user stakes, the more CGPTsp they acquire; the longer the duration of the stake, the higher the multiplier on their CGPTsp.
 
@@ -128,14 +128,18 @@ Diamond Tier members also happen to be the only group of community members who a
 
 </details>
 
+{% hint style="info" %}
+Read more about the Point System and Tier Allocation Multiplier [here](https://docs.chaingpt.org/the-ecosystem/chaingpt-pad/tier-system#point-system).
+{% endhint %}
+
 ***
 
 ### How to Earn a Tier?
 
-* Obtain $CGPT tokens ([list of exchanges](https://chaingpt.org/#buy))
-* Stake $CGPT for on [https://app.chaingpt.org/staking](https://app.chaingpt.org/staking)
-* You will automatically earn CGPTsp ([view your balance](https://app.chaingpt.org/profilepage))
-* Whenever the CGPTsp balance hits a threshold, the associated account address is automatically transferred into the corresponding tier.  ([view your](https://app.chaingpt.org/profilepage) tier)
+* Obtain $CGPT tokens. ([list of exchanges](https://chaingpt.org/#buy))
+* Stake $CGPT for on. [https://app.chaingpt.org/staking](https://app.chaingpt.org/staking)
+* You will automatically earn CGPTsp. ([view your balance](https://app.chaingpt.org/profilepage))
+* Whenever the CGPTsp balance hits a threshold, the associated account address is automatically transferred into the corresponding tier. ([view your tier](https://app.chaingpt.org/profilepage))
 
 {% hint style="warning" %}
 $CGPT tokens must be staked through the official ChainGPT application interface for users to accrue CGPTsp. Staking through 3rd parties (such as exchange campaigns) will not affect the tier ranking of a user.
