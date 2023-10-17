@@ -129,7 +129,7 @@ Diamond Tier members also happen to be the only group of community members who a
 </details>
 
 {% hint style="info" %}
-Read more about the Point System and Tier Allocation Multiplier [here](https://docs.chaingpt.org/the-ecosystem/chaingpt-pad/tier-system#point-system).
+Read more about the Point System and Tier Allocation Multiplier [here](chaingpt-pad/tier-system/).
 {% endhint %}
 
 ***
