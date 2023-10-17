@@ -27,6 +27,6 @@ Within this captivating collection of 10,000 NFTs, each piece is a testament to 
 
 <figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
-&#x20;Stay tuned for more information about the distribution of the RE:BOT NFT collection, as we are excited to unveil further details in the near future. These NFTs are not just pieces of digital art but gateways to an enhanced ChainGPT experience, offering their holders an array of privileges within our ecosystem.
+&#x20;Stay tuned for more information about the distribution of the RE:BOT NFT collection, as we are excited to unveil further details in the near future. These NFTs are not just digital art but gateways to an enhanced ChainGPT experience, offering their holders an array of privileges within our ecosystem.
 
 The RE:BOT NFT collection is a testament to our commitment to innovation and creativity, and we can't wait to share more about this remarkable addition to the ChainGPT family with our community. Stay tuned for updates on how you can join this exciting journey.

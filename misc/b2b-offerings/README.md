@@ -19,7 +19,7 @@ layout:
 
 # B2B Offerings
 
-ChainGPT is an advanced AI infrastructure dedicated to developing AI-powered technologies for the Web3, Blockchain, and Crypto space. Our mission is to improve the Web3 space for retail users & startups by developing AI-powered solutions.
+ChainGPT is an advanced AI infrastructure that develops AI-powered technologies for the Web3, Blockchain, and Crypto space. Our mission is to improve the Web3 space for retail users & startups by developing AI-powered solutions.
 
 Among its unique features:
 
@@ -38,24 +38,8 @@ Among its unique features:
 
 The solutions developed by ChainGPT are tailored for retail users and enterprises. ChainGPT believes in developing open technologies and does not gate-keep the LLMs & applications developed by ChainGPT from other Web3 companies. Everyone is welcome to access ChainGPT's API & SDKs.
 
-#### $CGPT Utility Token:
 
-The ecosystem is backed by the $CGPT utility token, the infrastructure's backbone. The $CGPT token grants holders & stakers access to DAO voting, staking, pad allocation, Freemium access to AI tools, airdrops & more. $CGPT is currently held on decentralized wallets by 16,000+ unique and active users.
 
-#### Quick Stats:
+### ChainGPT AI Chatbot
 
-✅ 100,000+ weekly active users\
-✅ 16,000+ $CGPT token holders (decentralized)\
-✅ Listed on top CEXs (ByBit, KuCoin, Gate & more)\
-✅ Backed by Google, BNB, Tron, & others\
-✅ Partnered with 70+ leading Web3 companies
-
-#### ChainGPT Recent Awards and Grants:
-
-* BNB Chain Ecosystem Catalyst Award (Innovation Excellence)
-* BNB Chain Gas Grant Program
-* Google Cloud Grant ($350,000)
-* \#1 Web3 App of April, 2023 (ProductHunt)
-* Website of the day by Awwwards
-* \#4 ranked Web3 Telegram bot by Binance Research
-
+We take the training of our Chatbot very seriously, especially for our partners. Our Chatbot is proficient in answering a wide range of queries related to partner projects, which helps to reduce the burden on Community Managers who would otherwise have to handle these often recurring responses. It can provide information on live pricing data, conduct market analysis, and offer other valuable insights. This resource is a valuable and indispensable asset for any Web3 community and is available at no additional charge. We offer a competitive price for those seeking a customized, white-label version.
