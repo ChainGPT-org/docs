@@ -2,9 +2,9 @@
 
 <figure><img src=".gitbook/assets/9.png" alt=""><figcaption></figcaption></figure>
 
-### ChainGPT Overview:
+### **Welcome to ChainGPT: Where AI Meets Web3**
 
-ChainGPT is an advanced AI infrastructure that develops AI-powered technologies for the Web3, Blockchain, and Crypto space. We aim to improve the Web3 space for retail users & startups by developing AI-powered solutions. From LLMs to Web3 AI Tools, ChainGPT is the go-to place to boost your Web3 flow with Artificial Intelligence.
+ChainGPT is an advanced AI infrastructure that develops AI-powered technologies for the Web3, Blockchain, and Crypto space. We aim to improve the Web3 space for retail users & startups by developing AI-powered solutions designed explicitly for Web3. From LLMs to Web3 AI Tools, ChainGPT is the go-to place to boost your Web3 flow with Artificial Intelligence.
 
 ### **ChainGPT's Solutions:**
 
@@ -23,11 +23,11 @@ ChainGPT is an advanced AI infrastructure that develops AI-powered technologies 
 
 The solutions developed by ChainGPT are tailored for retail users and enterprises. ChainGPT believes in developing open technologies and does not gate-keep the LLMs & applications developed by ChainGPT from other Web3 companies. Everyone is welcome to access ChainGPT's API & SDKs.&#x20;
 
-#### **$CGPT Utility Token:**
+### **$CGPT Utility Token:**
 
 The ecosystem is backed by the $CGPT utility token, the infrastructure's backbone. The $CGPT token grants holders & stakers access to DAO voting, staking, pad allocation, Freemium access to AI tools, airdrops & more. $CGPT is currently held on decentralized wallets by 16,000+ unique and active users.&#x20;
 
-#### **Quick Stats:**
+### **Quick Stats:**
 
 **-** 100,000+ weekly active users\
 \- 16,000+ $CGPT token holders (decentralized)\
@@ -35,7 +35,7 @@ The ecosystem is backed by the $CGPT utility token, the infrastructure's backbon
 \- Backed by Google, BNB, Tron & others\
 \- Partnered with 70+ leading Web3 companies ([full list](https://www.chaingpt.org/#team))
 
-#### **ChainGPT's recent awards & grants:**
+### **ChainGPT's recent awards & grants:**
 
 \- BNB Chain Ecosystem Catalyst Award (Innovation Excellence)\
 \- BNB Chain Gas Grant Program\
