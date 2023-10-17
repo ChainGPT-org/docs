@@ -315,7 +315,7 @@ In order to join the ChainGPT DAO, you must first participate by staking the $CG
 
 <summary>Is there a minimum $CGPT Requirement to join the DAO?</summary>
 
-All you need to become a member is just 1 $CGPT. For more information regarding voting power, visit the DAO Governance page [here](https://docs.chaingpt.org/cgpt-token/dao-governance).
+All you need to become a member is just 1 $CGPT. For more information regarding voting power, visit the DAO Governance page [here](../the-ecosystem/dao-governance.md).
 
 </details>
 
