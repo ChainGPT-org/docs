@@ -8,20 +8,21 @@ ChainGPT is an advanced AI infrastructure that develops AI-powered technologies 
 
 ### **ChainGPT's Solutions:**
 
-\- ChainGPT AI Chatbot ([Telegram](https://t.me/chaingptai\_bot), Discord, [Web](http://127.0.0.1:5000/o/fTvkvEH3C5Wk9LTutCYV/s/rfpYYsoCgHxbOIGhZ3WU/))\
-\- AI NFT Generator ([link](https://nft.chaingpt.org))\
-\- AI-Generated News ([link](https://app.chaingpt.org/news))\
-\- Smart-Contracts Generator ([link](https://app.chaingpt.org))\
-\- Smart-Contracts Auditor ([link](https://app.chaingpt.org))\
-\- AI Trading Assistant ([link](https://app.chaingpt.org))\
-\- ChainGPT Pad ([link](https://pad.chaingpt.org))\
-\- AI-Powered Security Extension\
-\- AI Blockchain Analytics\
-\- ChainGPT Labs (VC Arm)\
-\- Incubation & Acceleration Program for AI Startups\
-\- Whitelabels: AI Chatbot, Launchpad, & more!&#x20;
+* ChainGPT AI Chatbot ([Telegram](https://t.me/chaingptai\_bot), Discord, [Web](http://127.0.0.1:5000/o/fTvkvEH3C5Wk9LTutCYV/s/rfpYYsoCgHxbOIGhZ3WU/) - Read More: [ai-web3-chatbot.md](the-ecosystem/ai-tools-and-applications/ai-web3-chatbot.md "mention"))
+* AI NFT Generator ([Visit App](https://nft.chaingpt.org) - Read More: [ai-nft-generator.md](the-ecosystem/ai-tools-and-applications/ai-nft-generator.md "mention"))
+* AI-Generated News ([Visit App](https://app.chaingpt.org/news) - Read More: [ai-generated-news.md](the-ecosystem/ai-tools-and-applications/ai-generated-news.md "mention"))
+* Smart-Contracts Generator ([Visit App](https://app.chaingpt.org) -Read More: [ai-smart-contract-generator.md](the-ecosystem/ai-tools-and-applications/ai-smart-contract-generator.md "mention"))
+* Smart-Contracts Auditor ([Visit App](https://app.chaingpt.org) - Read More: [ai-smart-contract-auditor.md](the-ecosystem/ai-tools-and-applications/ai-smart-contract-auditor.md "mention"))
+* AI Trading Assistant ([Visit App](https://app.chaingpt.org) - Read More: [ai-trading-assistant.md](the-ecosystem/ai-tools-and-applications/ai-trading-assistant.md "mention"))
+* ChainGPT Pad ([Visit App](https://pad.chaingpt.org) - Read More: [chaingpt-pad](the-ecosystem/chaingpt-pad/ "mention"))
+* ChainGPT LLMs & TTIMs (Read More: [llms-and-ttims.md](the-ecosystem/llms-and-ttims.md "mention"))
+* AI-Powered Security Extension (Coming Soon)
+* AI Blockchain Analytics
+* ChainGPT Labs (VC Arm)
+* Incubation & Acceleration Program for AI Startups ([incubation-program.md](misc/incubation-program.md "mention"))
+* Whitelabels: AI Chatbot, Launchpad, & more!  (Read More: [b2b-offerings](misc/b2b-offerings/ "mention"))
 
-The solutions developed by ChainGPT are tailored for retail users and enterprises. ChainGPT believes in developing open technologies and does not gate-keep the LLMs & applications developed by ChainGPT from other Web3 companies. Everyone is welcome to access ChainGPT's API & SDKs.&#x20;
+The solutions developed by ChainGPT are tailored for retail users and enterprises. ChainGPT believes in developing open technologies and does not gate-keep the LLMs & applications developed by ChainGPT from other Web3 companies. Everyone is welcome to access ChainGPT's API & SDKs.
 
 ### **$CGPT Utility Token:**
 
