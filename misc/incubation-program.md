@@ -35,34 +35,34 @@ Projects of all stages of their lifecycles are welcome. Early-stage MVPs, proof-
 End-to-end guidance and support for every element of a project.\
 \
 **Product Development:**\
-Valuable insights and guidance on smart contract systems, covering their design, sustainability, implementation, and viability, ensuring your project's technical foundations are strong and resilient.\
+_Valuable insights and guidance on smart contract systems, covering their design, sustainability, implementation, and viability, ensuring your project's technical foundations are strong and resilient._\
 \
 **Launch Strategy:**\
-Advisory support to project teams, covering critical areas such as tokenomics, ensuring a well-planned token launch, defining listing strategies, and ensuring the overall success and sustainability of the project. \
+_Advisory support to project teams, covering critical areas such as tokenomics, ensuring a well-planned token launch, defining listing strategies, and ensuring the overall success and sustainability of the project._ \
 \
 **Marketing:** \
-Strategic, organized, and highly effective marketing methods to boost awareness of the project. With a deep understanding of the web3 audience, our team offers guidance on leveraging various communication channels to reach the target audience effectively.\
+_Strategic, organized, and highly effective marketing methods to boost awareness of the project. With a deep understanding of the web3 audience, our team offers guidance on leveraging various communication channels to reach the target audience effectively._\
 \
 **Visual Presence:**\
-Focusing on enhancing project's image and recognition, ChainGPT helps with branding improvements to create a strong and memorable identity, including web-design enhancements and content guidance. \
+_Focusing on enhancing project's image and recognition, ChainGPT helps with branding improvements to create a strong and memorable identity, including web-design enhancements and content guidance._ \
 \
 **Capital and Funding:**\
-Tapping into our deep network of partners and VC investors, we help coordinate relationships to bootstrap projects with the necessary capital to realize the project’s visions.\
+_Tapping into our deep network of partners and VC investors, we help coordinate relationships to bootstrap projects with the necessary capital to realize the project’s visions._\
 \
 **Operations:**\
-Facilitating connections with experienced advisors who can help them bolster team's skills, reputation, and overall experience. Moreover, we also offer expert regulatory guidance, ensuring legal compliance. In complex legal matters, we have established connections with blockchain-specialized law firms to protect project's integrity and longevity.\
+_Facilitating connections with experienced advisors who can help them bolster team's skills, reputation, and overall experience. Moreover, we also offer expert regulatory guidance, ensuring legal compliance. In complex legal matters, we have established connections with blockchain-specialized law firms to protect project's integrity and longevity._\
 \
 **Partnerships:**\
-Leveraging our extensive network and industry expertise, we can establish connections  with strategic partners, facilitating growth and extending project’s reach. These partnerships may encompass collaborations with other blockchain projects, exchanges, launchpads, or Key Opinion Leaders, all of which contribute to the success of the project.\
+_Leveraging our extensive network and industry expertise, we can establish connections  with strategic partners, facilitating growth and extending project’s reach. These partnerships may encompass collaborations with other blockchain projects, exchanges, launchpads, or Key Opinion Leaders, all of which contribute to the success of the project._\
 \
 **Market Presence:** \
-From listing on centralized exchanges (CEXs) to properly deploying asset liquidity pools on decentralized exchanges (DEXs), we streamline the often complex and time-consuming processes involved, allowing project to establish a strong market presence swiftly and efficiently, minimizing any unnecessary delays.\
+_From listing on centralized exchanges (CEXs) to properly deploying asset liquidity pools on decentralized exchanges (DEXs), we streamline the often complex and time-consuming processes involved, allowing project to establish a strong market presence swiftly and efficiently, minimizing any unnecessary delays._\
 \
 **User Acquisition:**\
-Helping projects attract and expand their user base by providing guidance and strategies for effectively reaching and engaging with your target audience, whether it's through community building, marketing campaigns, or other user acquisition methods.\
+_Helping projects attract and expand their user base by providing guidance and strategies for effectively reaching and engaging with your target audience, whether it's through community building, marketing campaigns, or other user acquisition methods._\
 \
 **IDO Crowdfunding Event on ChainGPT Pad:** \
-If incubated projects opt for the Initial DEX Offering (IDO) route, they can conduct their public crowdfunding round through ChainGPT Pad. This streamlined process simplifies fundraising and ensures a secure and effective launch by introducing the token to a broader web3 audience.&#x20;
+_If incubated projects opt for the Initial DEX Offering (IDO) route, they can conduct their public crowdfunding round through ChainGPT Pad. This streamlined process simplifies fundraising and ensures a secure and effective launch by introducing the token to a broader web3 audience._&#x20;
 
 ### How long does an incubation program last?&#x20;
 
