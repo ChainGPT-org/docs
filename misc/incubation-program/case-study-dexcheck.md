@@ -56,15 +56,15 @@ Leveraging our vibrant community, we were pollinating their social platforms by 
 
 ### Review by DexCheck
 
-ChainGPT has been a cornerstone in our journey, offering invaluable guidance across multiple aspects. Their expertise in go-to-market strategy and fundraising set us on a path for success, and the support we received on our launch day was second to none.
+_ChainGPT has been a cornerstone in our journey, offering invaluable guidance across multiple aspects. Their expertise in go-to-market strategy and fundraising set us on a path for success, and the support we received on our launch day was second to none._
 
-Their robust VC network of partners and connections were particularly helpful, allowing us to complete our fundraising stage fully, even during challenging bear market conditions.
+_Their robust VC network of partners and connections were particularly helpful, allowing us to complete our fundraising stage fully, even during challenging bear market conditions._
 
-The ChainGPT team has been an ideal partner, exemplifying professionalism and skill at every turn. Their collaborative approach complemented our efforts and made the whole process seamless.
+_The ChainGPT team has been an ideal partner, exemplifying professionalism and skill at every turn. Their collaborative approach complemented our efforts and made the whole process seamless._
 
-Special mention must go to Ilan, the CEO of ChainGPT. His leadership, kindness, and positivity have not only motivated us but instilled a sense of purpose and direction that has been invaluable.
+_Special mention must go to Ilan, the CEO of ChainGPT. His leadership, kindness, and positivity have not only motivated us but instilled a sense of purpose and direction that has been invaluable._
 
-I can't thank ChainGPT team and Ilan enough for their steadfast support. Our successful token launch is a direct result of the robust ecosystem they've created, and we wholeheartedly recommend their incubator program to any aspiring projects.
+_I can't thank ChainGPT team and Ilan enough for their steadfast support. Our successful token launch is a direct result of the robust ecosystem they've created, and we wholeheartedly recommend their incubator program to any aspiring projects._
 
 — Raph, DexCheck CEO
 
