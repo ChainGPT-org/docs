@@ -1,6 +1,11 @@
-# Incubation Program
+---
+description: >-
+  Providing a structured and supportive environment for early-stage startups and
+  entrepreneurs to nurture their ideas, develop their businesses, and accelerate
+  their growth.
+---
 
-_As a provider of AI-powered infrastructure for the crypto, blockchain, and Web3 industry, ChainGPT looks to support burgeoning projects interested in building on top of our technology._
+# Incubation Program
 
 There are abundant opportunities for builders, founders, and entrepreneurs in the Web3 space. There are always problems that need to be solved, communities that need to be built, and information that needs to be shared.
 
@@ -34,34 +39,34 @@ Projects of all stages of their lifecycles are welcome. Early-stage MVPs, proof-
 
 End-to-end guidance and support for every element of a project.\
 \
-**Product Development:**\
+**Product Development**\
 _Valuable insights and guidance on smart contract systems, covering their design, sustainability, implementation, and viability, ensuring your project's technical foundations are strong and resilient._\
 \
-**Launch Strategy:**\
+**Launch Strategy**\
 _Advisory support to project teams, covering critical areas such as tokenomics, ensuring a well-planned token launch, defining listing strategies, and ensuring the overall success and sustainability of the project._ \
 \
-**Marketing:** \
+**Marketing**\
 _Strategic, organized, and highly effective marketing methods to boost awareness of the project. With a deep understanding of the web3 audience, our team offers guidance on leveraging various communication channels to reach the target audience effectively._\
 \
-**Visual Presence:**\
+**Visual Presence**\
 _Focusing on enhancing project's image and recognition, ChainGPT helps with branding improvements to create a strong and memorable identity, including web-design enhancements and content guidance._ \
 \
-**Capital and Funding:**\
+**Capital and Funding**\
 _Tapping into our deep network of partners and VC investors, we help coordinate relationships to bootstrap projects with the necessary capital to realize the project’s visions._\
 \
-**Operations:**\
+**Operations**\
 _Facilitating connections with experienced advisors who can help them bolster team's skills, reputation, and overall experience. Moreover, we also offer expert regulatory guidance, ensuring legal compliance. In complex legal matters, we have established connections with blockchain-specialized law firms to protect project's integrity and longevity._\
 \
-**Partnerships:**\
+**Partnerships**\
 _Leveraging our extensive network and industry expertise, we can establish connections  with strategic partners, facilitating growth and extending project’s reach. These partnerships may encompass collaborations with other blockchain projects, exchanges, launchpads, or Key Opinion Leaders, all of which contribute to the success of the project._\
 \
-**Market Presence:** \
+**Market Presence**\
 _From listing on centralized exchanges (CEXs) to properly deploying asset liquidity pools on decentralized exchanges (DEXs), we streamline the often complex and time-consuming processes involved, allowing project to establish a strong market presence swiftly and efficiently, minimizing any unnecessary delays._\
 \
-**User Acquisition:**\
+**User Acquisition**\
 _Helping projects attract and expand their user base by providing guidance and strategies for effectively reaching and engaging with your target audience, whether it's through community building, marketing campaigns, or other user acquisition methods._\
 \
-**IDO Crowdfunding Event on ChainGPT Pad:** \
+**IDO Crowdfunding Event on ChainGPT Pad** \
 _If incubated projects opt for the Initial DEX Offering (IDO) route, they can conduct their public crowdfunding round through ChainGPT Pad. This streamlined process simplifies fundraising and ensures a secure and effective launch by introducing the token to a broader web3 audience._&#x20;
 
 ### How long does an incubation program last?&#x20;
