@@ -9,11 +9,11 @@ description: >-
 
 <figure><img src="../../.gitbook/assets/Dexcheck.png" alt=""><figcaption></figcaption></figure>
 
-## What is DexCheck? <a href="#ff4b" id="ff4b"></a>
+### What is DexCheck? <a href="#ff4b" id="ff4b"></a>
 
 Dexcheck is an AI-powered analytics platform and trading tool for blockchain-based assets. Every form of on-chain data, from cryptocurrencies and token pools, to NFTs and DEX trading volume the DexCheck platform is augmenting traditional research processes of analyzing information with machine learning. Additionally, DexCheck employs social intelligence functionality for evaluating sentiment and tracking capital flows known as “smart-money”. Intuitively packaged into a user-friendly interface, the platform acts as the ultimate assistant for traders and investors in their strategic decision-making.
 
-## What support ChainGPT has provided for DexCheck? <a href="#c7c4" id="c7c4"></a>
+### What support ChainGPT has provided for DexCheck? <a href="#c7c4" id="c7c4"></a>
 
 Being such a young industry, the crypto, blockchain, and Web3 space is notorious for its breakneck speed of evolution. In order to cater to the needs of the burgeoning digital economy it is quintessential that early stage projects develop nimble roadmaps and have intelligent contingency plans for maneuvering their product and communities. ChainGPT is providing guidance across every fundamental element vector of the crypto and blockchain industry.
 
@@ -23,7 +23,7 @@ Through our extensive network of partners, we were building relationships for in
 
 Leveraging our vibrant community, we were pollinating their social platforms by driving attention. Simultaneously, we were helping them establish community guidelines and organize their management systems to attract and retain users.
 
-## Results
+### Results
 
 * **IDO participants:** 1,550 token buyers via ChainGPT Pad;
 * **Funds raised via ChainGPT Pad IDO:** $200,000;
@@ -54,7 +54,7 @@ Leveraging our vibrant community, we were pollinating their social platforms by 
 * **Partner connections:**\
   BNB Chain, Kairon Labs, Kyber, ApeSwap, Thena, BiSwap, KCC, OKX Chain, Castrum, Unicrypt, GoPlus, Spicy Capital, FounderHeads, Ferrum, Decubate, Seedify, Star Protocol, Coinvestor, BitPanda, Baby Doge, zkSync, Laika AI, AITech, TaskOn, SpaceID, DotBit, ChainPort, PancakeSwap, AirNFTs, V3 Games, Fincake, chappyz, DCT, Metaverse, Openfabric, omnia, caduceus, Cryptomeda, HyperGPT, Open World, X-Metaverse, Polygon, Vauld, Cryptoiz, GameBoy, Karmaverse, Coveo Qubit, Samurai Versus,iGAMES, Acacia Digital, Indacoin, Born To Die, EDSX, Crowdcreate, Goldfingr, Brandless PH, ELLIPAL, Carbon, Mises, Plena, Assetux, certik, Synthswap, LFGSwap, NeoCortex AI, UNCX Network, CURATE, TrustFi, SPACE ID, OKT Chain, Landshare, Bitquery, KuCoin, DxSale Network, Bitgert, HorizonDEX, Base, Cronos, Fantom, AVStar, Herd Ventures.
 
-## Review by DexCheck
+### Review by DexCheck
 
 _ChainGPT has been a cornerstone in our journey, offering invaluable guidance across multiple aspects. Their expertise in go-to-market strategy and fundraising set us on a path for success, and the support we received on our launch day was second to none._
 
@@ -68,11 +68,11 @@ _I can't thank ChainGPT team and Ilan enough for their steadfast support. Our su
 
 — Raph, DexCheck CEO
 
-## Note by ChainGPT
+### Note by ChainGPT
 
 DexCheck was the first project tapping into the ChainGPT's extensive mentorship network of successful entrepreneurs and business leaders within Web3 that provided all of the necessary infrastructure for them to maximize their presence and come to market with an impact.&#x20;
 
-## DexCheck Resources
+### DexCheck Resources
 
 _**General:**_ [_Website_](https://dexcheck.io/)\
 _**Docs:**_ [_Whitepaper_ ](https://dexcheck.gitbook.io/whitepaper/general/about-dexcheck)_|_ [_PitchDeck_](https://docsend.com/view/vmsj3yik54xtrie5) _|_ [_Tokenomics_](https://docs.google.com/spreadsheets/d/1Xs2XukJirRPFABLxmta7WgI\_EjrXFXvV/edit?usp=sharing\&ouid=113353683765664790724\&rtpof=true\&sd=true)\
