@@ -19,10 +19,6 @@ As a provider of AI-powered infrastructure to the Web3 industry, ChainGPT steppe
 
 Through our incubator program's mentorship network, we opened doors and forged relationships with some of the industry's leading Venture Capital firms and decentralized service providers for Solidus AI Tech to integrate with. Leveraging ChainGPT's social media presence, we educated over 300,000 $CGPT community members about the potential of Solidus AI Tech. Spreading information far and wide proved successful in garnering attention for their project and attracting early supporters of their mission.
 
-## Synergies <a href="#54d8" id="54d8"></a>
-
-Solidus AI Tech is among an ultra-exclusive select group of projects that have been accepted into the first generation of incubation by ChainGPT. The nature of their project within the category of artificial intelligence creates powerful synergies between them and us, leading to promising, fruitful, long-term relationships that transcend market cycles.
-
 ## Results
 
 * **IDO participants:** 2,462 token buyers via ChainGPT Pad;
@@ -52,4 +48,24 @@ Solidus AI Tech is among an ultra-exclusive select group of projects that have b
 <figure><img src="https://lh4.googleusercontent.com/vCKBuJD6ZTC0dMlPaUFRs_MULawV1Q3WFTua3dG1Pj2EXsvVnZM29OwuBsiyqLG9UC0bHEmmuKWGwEdSTWpQ2ecyhaLSddAMdwSut-O8tMBWTpLukvPClC-PGwlmuSWL68Oas0tGVLKJm0n9LFdcaIRk5A=s2048" alt=""><figcaption><p>Solidus AI Tech Website After</p></figcaption></figure>
 
 * **Partner connections:**\
-  BNB Chain, Kairon Labs, Kyber, ApeSwap, Thena, BiSwap, KCC, OKX Chain, Castrum, Unicrypt, GoPlus, Spicy Capital, FounderHeads, Ferrum, Decubate, Seedify, Star Protocol, Coinvestor, BitPanda, Baby Doge, zkSync, Laika AI, AITech, TaskOn, SpaceID, DotBit, ChainPort, PancakeSwap, AirNFTs, V3 Games, Fincake, chappyz, DCT, Metaverse, Openfabric, omnia, caduceus, Cryptomeda, HyperGPT, Open World, X-Metaverse, Polygon, Vauld, Cryptoiz, GameBoy, Karmaverse, Coveo Qubit, Samurai Versus,iGAMES, Acacia Digital, Indacoin, Born To Die, EDSX, Crowdcreate, Goldfingr, DexCheck, Brandless PH, ELLIPAL, Carbon, Mises, Plena, Assetux, CertiK.\
+  BNB Chain, Kairon Labs, Kyber, ApeSwap, Thena, BiSwap, KCC, OKX Chain, Castrum, Unicrypt, GoPlus, Spicy Capital, FounderHeads, Ferrum, Decubate, Seedify, Star Protocol, Coinvestor, BitPanda, Baby Doge, zkSync, Laika AI, AITech, TaskOn, SpaceID, DotBit, ChainPort, PancakeSwap, AirNFTs, V3 Games, Fincake, chappyz, DCT, Metaverse, Openfabric, omnia, caduceus, Cryptomeda, HyperGPT, Open World, X-Metaverse, Polygon, Vauld, Cryptoiz, GameBoy, Karmaverse, Coveo Qubit, Samurai Versus,iGAMES, Acacia Digital, Indacoin, Born To Die, EDSX, Crowdcreate, Goldfingr, DexCheck, Brandless PH, ELLIPAL, Carbon, Mises, Plena, Assetux, CertiK.
+
+## Review by Solidus AI Tech
+
+_The ChainGPT team has played a pivotal role in our journey, offering invaluable support in various aspects of our business. They have been instrumental in helping us establish strategic partnerships with key players in the market, introducing and securing funding from venture capitalists, and providing guidance on a wide range of applications and tools. Their expertise in assisting us with the selection of key opinion leaders has been particularly impactful, enhancing our decision-making processes significantly._\
+\
+_What sets the ChainGPT team apart is their unwavering commitment to excellence. They consistently went above and beyond to ensure that our needs were not only met but exceeded. Their dedication to delivering exceptional service was evident in every interaction we had with them._\
+\
+_We are extremely grateful for the support from ChainGPT and look forward to continuing to collaborate with them in the future. Their contributions have been invaluable to our success, and we highly recommend their services to anyone seeking strategic support and expert guidance._
+
+– Paul, Solidus AI Tech CEO
+
+## Note by ChainGPT
+
+Solidus AI Tech is among an ultra-exclusive select group of projects that have been accepted into the first generation of incubation by ChainGPT. The nature of their project within the category of artificial intelligence creates powerful synergies between them and us, leading to promising, fruitful, long-term relationships that transcend market cycles.
+
+## Solidus AI Tech Resources <a href="#c8e2" id="c8e2"></a>
+
+_**General:**_ [_Website_](https://www.aitech.io/)\
+_**Docs:**_ [_Whitepaper_](https://docs.aitech.io/overview/i.-introduction) \
+_**Social Media:**_ [_Twitter_](https://twitter.com/AITECHio) _|_ [_Telegram_](https://t.me/solidusaichat) _|_ [_Discord_](https://discord.com/invite/solidusai)
