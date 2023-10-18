@@ -63,7 +63,8 @@
 ## Misc
 
 * [Ecosystem Partners](misc/ecosystem-partners.md)
-* [Incubation Program](misc/incubation-program.md)
+* [Incubation Program](misc/incubation-program/README.md)
+  * [Case Study: DexCheck](misc/incubation-program/case-study-dexcheck.md)
 * [B2B Offerings](misc/b2b-offerings/README.md)
   * [Launchpad Whitelabel](misc/b2b-offerings/launchpad-whitelabel.md)
   * [API & SDK](misc/b2b-offerings/api-and-sdk.md)
