@@ -34,7 +34,7 @@ Among its unique features:
 * ChainGPT Pad
 * ChainGPT Labs (we invest in AI!)
 * Incubation Program for AI Startups
-* Whitelabel Solutions
+* Launchpad Whitelabel Solution
 
 The solutions developed by ChainGPT are tailored for retail users and enterprises. ChainGPT believes in developing open technologies and does not gate-keep the LLMs & applications developed by ChainGPT from other Web3 companies. Everyone is welcome to access ChainGPT's API & SDKs.
 
