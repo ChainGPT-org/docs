@@ -6,14 +6,14 @@ description: Empowering Web3 launchpads and ecosystems with ChainGPT Whitelabel 
 
 The concept of our whitelabel launchpad revolves around offering a versatile, customizable, and efficient solution, catering to the needs of entrepreneurs and organizations seeking to establish their own web3 launchpad. This approach eliminates the need to build everything from scratch, allowing businesses to align the launchpad with their specific requirements and branding, simplifying the process and saving valuable time and resources.
 
-### Key challenges in building your own launchpad:&#x20;
+## Key challenges in building your own launchpad:&#x20;
 
 * Complex technical requirements: time consuming setup causing delays, potential errors.
 * Limited resources for development: compromised development, delays.&#x20;
 * Security Vulnerabilities: lost funds and tarnished reputation.
 * Interfaces for investors: clunky, unengaging dashboards that are not aesthetically pleasing.
 
-### ChainGPT's solution to address the challenges:&#x20;
+## ChainGPT's solution to address the challenges:&#x20;
 
 * Simplified token sale launch process: save time, reduce errors, accelerate launches.
 * Robust security and smart contract auditing: third-party audits, code reviews, real-time monitoring.
@@ -22,7 +22,7 @@ The concept of our whitelabel launchpad revolves around offering a versatile, cu
 * Customizability and branding options for launchpads: maintain a consistent brand image throughout the platform.
 * User friendly admin panel: staking pools, vesting, IDO pools.
 
-### Advantages of adding launchpad to the ecosystem:
+## Advantages of adding launchpad to the ecosystem:
 
 **Extra token utility**\
 _Introducing a new use case for the project's native token that can be utilized for participation in token sales, which boosts its value and utility._\
@@ -48,7 +48,7 @@ Extending the ecosystem's capabilities, making it more diverse by adding launchp
 **Additional source of capital**\
 _By incorporating a launchpad into the ecosystem, project extends the possibilities of securing additional capital ensuring long-term sustainability._&#x20;
 
-### Why ChainGPT's Launchpad Whitelabel solution?&#x20;
+## Why ChainGPT's Launchpad Whitelabel solution?&#x20;
 
 * Cutting-edge technology stack for seamless operations;
 * Proven track record in Web3 development;
@@ -60,7 +60,7 @@ _By incorporating a launchpad into the ecosystem, project extends the possibilit
 * Accessibility to admin panel;
 * Smart Contracts: IDO sale, token distribution and vesting, token claim, refund process, KYC contracts.
 
-### **Full scale features and functionality**
+## **Full scale features and functionality**
 
 * Token Sale Configuration;
 * Smart Contract Integration;
@@ -81,7 +81,7 @@ _By incorporating a launchpad into the ecosystem, project extends the possibilit
 * Future Updates & Features;
 * ChainGPT UI/UX designers support in case of any changes to the front-end.
 
-### Launchpad User Experience&#x20;
+## Launchpad User Experience&#x20;
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-10-18 at 11.10.28.png" alt=""><figcaption><p>User Dashboard: My Profile</p></figcaption></figure>
 
