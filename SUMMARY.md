@@ -68,7 +68,7 @@
   * [Case Study: Solidus AI Tech](misc/incubation-program/case-study-solidus-ai-tech.md)
 * [B2B Offerings](misc/b2b-offerings/README.md)
   * [Launchpad Whitelabel](misc/b2b-offerings/launchpad-whitelabel.md)
-  * [API & SDK](misc/b2b-offerings/api-and-sdk.md)
+  * [APIs & SDKs](misc/b2b-offerings/apis-and-sdks.md)
 * [Work With Us](misc/work-with-us/README.md)
   * [Ads Manager](misc/work-with-us/ads-manager.md)
   * [Chief Financial Officer](misc/work-with-us/chief-financial-officer.md)

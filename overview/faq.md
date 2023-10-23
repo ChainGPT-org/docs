@@ -106,7 +106,7 @@ For a deeper dive into our services or to engage with our community, you can exp
 
 <summary>Are the LLMs (AI-Models) developed by ChainGPT Open-Sourced?</summary>
 
-No, the LLMs (AI Models) developed by ChainGPT are not open-sourced. However, ChainGPT is committed to fostering innovation and collaboration within the community. While the underlying models aren't open-sourced, ChainGPT ensures that other projects, startups, and enterprises can easily and affordably access all ChainGPT-developed products and LLMs through SDK & API access.
+No, the LLMs (AI Models) developed by ChainGPT are not open-sourced. However, ChainGPT is committed to fostering innovation and collaboration within the community. While the underlying models aren't open-sourced, ChainGPT ensures that other projects, startups, and enterprises can easily and affordably access all ChainGPT-developed products and LLMs through [API & SDK](learn-the-concepts/apis-and-sdks.md) access.
 
 </details>
 
@@ -273,7 +273,7 @@ All news articles are aggregated in real-time.
 
 <summary>Do I have to pay the network fees in order to interact with ChainGPT?</summary>
 
-If on a per-prompt basis, yes. If you are staking, no, users who stake 10,000 $CGPT will be given Freemium access.
+If on a per-prompt basis, yes. If you are staking, no, users who have staked enough to achieve Diamond Tier are given Freemium access.
 
 </details>
 
@@ -339,7 +339,7 @@ Navigate to the DAO forum[ ](https://dao.chaingpt.org/#/)[here](https://dao.chai
 
 <details>
 
-<summary>How do I generate realistic mid-journey like images and do you plan to add this feature?</summary>
+<summary>How do I generate realistic Midjourney like images and do you plan to add this feature?</summary>
 
 The output results of picture quality and style from generated images depend on the accuracy of the input prompt you provide.
 
