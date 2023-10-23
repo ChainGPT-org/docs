@@ -273,7 +273,11 @@ All news articles are aggregated in real-time.
 
 <summary>Do I have to pay the network fees in order to interact with ChainGPT?</summary>
 
-If on a per-prompt basis, yes. If you are staking, no, users who have staked enough to achieve Diamond Tier are given Freemium access.
+General interactions such as single generations are free and do not require any fees.
+
+Interactions such as minting NFT's, staking, trading, etc. will require the appropriate gas fees to interact on chain
+
+Please note, users with 200,000 staking points (CGPTsp) will receive diamond tier, in turn giving them Freemium access to our products. This will not cover on-chain network fees as these are not within our control. Learn more about Freemium here
 
 </details>
 
