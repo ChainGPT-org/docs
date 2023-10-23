@@ -277,7 +277,7 @@ General interactions such as single generations are free and do not require any 
 
 Interactions such as minting NFT's, staking, trading, etc. will require the appropriate gas fees to interact on chain
 
-Please note, users with 200,000 staking points (CGPTsp) will receive diamond tier, in turn giving them Freemium access to our products. This will not cover on-chain network fees as these are not within our control. Learn more about Freemium here
+Please note, users with 200,000 staking points (CGPTsp) will receive diamond tier, in turn giving them Freemium access to our products. This will not cover on-chain network fees as these are not within our control. Learn more about Freemium [here](https://www.chaingpt.org/pricing).
 
 </details>
 
