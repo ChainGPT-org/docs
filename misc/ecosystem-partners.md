@@ -14,6 +14,10 @@
 * [Orbofi](https://www.orbofi.com/)
 * [Shockwaves](https://www.shockwaves.ai/)
 * [Solidus AI Tech](https://www.aitech.io/)
+* [Openfabric AI](https://openfabric.ai/)
+* [Chappyz](https://chappyz.com/)
+* [GT-Protocol](https://www.gt-protocol.io/)
+* [DMAIL](https://dmail.ai/)
 
 ## NFT
 
@@ -94,6 +98,8 @@
 * [Hyve](https://www.hyve.works/)
 * [Mises Broswer](https://www.mises.site/)
 * [CyberConnect](https://link3.to/)
+* [FoxWallet](https://foxwallet.com/)
+* [Katana Inu](https://www.katanainu.com/)
 
 
 
