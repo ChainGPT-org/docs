@@ -28,7 +28,7 @@ This model is superior to the preceding ICO model because the platform can provi
 
 <details>
 
-<summary>What is Crowdfuning / Private Sales?</summary>
+<summary>What is Crowdfunding / Private Sales?</summary>
 
 The crowdfunding/private sale is a very early round of fundraising that takes place right before an IDO.
 

@@ -143,7 +143,7 @@ If a user stakes _**1,000 $CGPT**_ into a _**365-day pool**_, they have _**2,000
 
 ### **Tier Allocation Multiplier**
 
-Allocation multipliers are the parameter that dictates the absolute size of a user's allocation is relative to the total token allocation (as measured by the base 1x multiplier available for bronze tier members.
+Allocation multipliers are the parameter that dictates the absolute size of a user's allocation relative to the total token allocation (as measured by the base 1x multiplier available for bronze tier members).
 
 _**Bronze Tier**_ multiplier is fixed at _**1x**_ for all participants, regardless of whether they have 2,000 points or 10,000 points.
 

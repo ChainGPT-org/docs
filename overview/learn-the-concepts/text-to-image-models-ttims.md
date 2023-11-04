@@ -2,7 +2,7 @@
 
 ### **What are Text to Image Models (TTIMs)?**
 
-Text to Text-to-image models, commonly known as TTIMs, represent an innovative intersection of natural language processing and computer vision in artificial intelligence. TTIMs take descriptive text as input and generate a corresponding visual representation or image. This transformation from textual description to visual imagery showcases the confluence of understanding language and creating visual content.
+Text-to-image models, commonly known as TTIMs, represent an innovative intersection of natural language processing and computer vision in artificial intelligence. TTIMs take descriptive text as input and generate a corresponding visual representation or image. This transformation from textual description to visual imagery showcases the confluence of understanding language and creating visual content.
 
 ***
 

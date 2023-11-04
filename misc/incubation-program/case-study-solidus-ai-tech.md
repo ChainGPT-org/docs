@@ -11,7 +11,7 @@ description: >-
 
 ### What is Solidus AI Tech? <a href="#ff4b" id="ff4b"></a>
 
-Based in Europe, Solidus AI Tech is a Web3 infrastrucutre and AI services company that has built their own 8,000 square foot facility to house the hardware that provisions their computational services. They are developing a full stack of cutting-edge software solutions including Artificial-Intelligence-as-a-service (AIaaS), Blockchain-as-a-Service (BaaS), High Performance Computing power (HPC), and an Artificial Intelligence marketplace.
+Based in Europe, Solidus AI Tech is a Web3 infrastructure and AI services company that has built their own 8,000 square foot facility to house the hardware that provisions their computational services. They are developing a full stack of cutting-edge software solutions including Artificial-Intelligence-as-a-service (AIaaS), Blockchain-as-a-Service (BaaS), High Performance Computing power (HPC), and an Artificial Intelligence marketplace.
 
 ### What support ChainGPT has provided to Solidus AI Tech? <a href="#c7c4" id="c7c4"></a>
 
