@@ -2,7 +2,7 @@
 
 **Location: Remote**
 
-**Position: Remote Full-Time - Contractor**
+**Location: Remote Full-Time**&#x20;
 
 **Position: Senior Machine Learning Engineer**
 
