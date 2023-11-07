@@ -1,20 +1,20 @@
 # Senior Full-Stack Web3 Developer
 
-Location: Remote - Full Time
+**Location: Remote - Full Time**
 
-Position: Senior Full Stack Web3 Developer
+**Position: Senior Full Stack Web3 Developer**
 
-Company: ChainGPT
+**Company: ChainGPT**
 
-About ChainGPT:
 
-ChainGPT is at the forefront of AI and Blockchain Technology, providing advanced solutions to complex issues in the Crypto space. Our AI-powered tools equip users with fast and accurate information to navigate the dynamic Blockchain industry. We're now seeking a knowledgeable individual with a deep understanding of finance, web3 and cryptocurrency to join our expanding team.
 
-About the Role:
+**About ChainGPT:**
+
+ChainGPT is at the forefront of AI and Blockchain Technology, enabling and transforming Web3 through AI. Our AI-powered tools equip users with fast and accurate information to navigate the dynamic Blockchain industry. We're now seeking a knowledgeable individual with a deep understanding of finance, web3, and cryptocurrency to join our expanding team.**About the Role:**
 
 Are you ready to shape the future of Artificial Intelligence, blockchain, and crypto technology as our Senior Full Stack Web3 Developer? Join us at ChainGPT and be at the forefront of pioneering web3 development and decentralized solutions. As a key technical team member, you will play a critical role in designing, developing, and optimizing our web3 applications, driving strategic tech decisions, and growing with our dynamic company.
 
-Key Responsibilities:
+**Key Responsibilities:**
 
 * Web3 Integration: Develop, test, and deploy decentralized applications (DApps) using frameworks like Truffle or Hardhat on blockchain platforms such as Ethereum and Binance Smart Chain.
 * Front-end Development: Design and implement user interfaces using React, Vue.js, or Angular. Ensure integration with web3.js or ethers.js for blockchain interactions.
@@ -28,7 +28,7 @@ Key Responsibilities:
 * Mentorship: Guide junior developers in understanding blockchain intricacies, share knowledge on forums like Stack Overflow, and conduct internal tech talks.
 * Problem-solving: Debug issues using tools like Chrome DevTools, Metamask Inspector, or Infura. Ensure high availability and fault tolerance of applications.
 
-Requirements:
+**Requirements:**
 
 * Educational Background: Bachelor's or Master's degree in Computer Science, Software Engineering, or a related field.
 * Web3 Proficiency: Solid experience with web3 frameworks like Truffle, Hardhat, or Drizzle. Familiarity with blockchain platforms such as Ethereum and Binance Smart Chain.

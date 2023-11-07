@@ -1,23 +1,20 @@
 # Senior ML Engineer
 
-Location: Remote
+**Location: Remote**
 
-Position: Location: Remote
+**Position: Remote Full-Time - Contractor**
 
-Position: Senior Machine Learning Engineer
+**Position: Senior Machine Learning Engineer**
 
-Company: ChainGPT &#x20;
-
-Position Type: Full-Time - Contractor
+**Company: ChainGPT** &#x20;
 
 
 
-About ChainGPT: &#x20;
+**About ChainGPT:** &#x20;
 
-ChainGPT creates advanced AI models explicitly designed for Blockchain Technology and Crypto-related topics. We use the latest algorithms and high-speed computing capabilities to address challenging issues in the Blockchain and Crypto space. Using ChainGPT, users may quickly obtain whatever knowledge and information they require for web3 and blockchain technologies. With many other unique features designed for individuals, developers, and businesses, ChainGPT is an essential tool for all in the Blockchain space.\
+ChainGPT is at the forefront of AI and Blockchain Technology, enabling and transforming Web3 through AI. Our AI-powered tools equip users with fast and accurate information to navigate the dynamic Blockchain industry. We're now seeking a knowledgeable individual with a deep understanding of finance, web3, and cryptocurrency to join our expanding team.
 
-
-About the Role:
+**About the Role:**
 
 As a Senior Machine Learning Engineer at ChainGPT, you will hold a pivotal role in our mission to develop cutting-edge AI models tailored explicitly for Blockchain Technology and Crypto-related topics. Your role will encompass a range of challenging and impactful responsibilities that contribute directly to our success.
 

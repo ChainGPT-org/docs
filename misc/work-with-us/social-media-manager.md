@@ -1,20 +1,20 @@
-# Copywriter & Social Media Manager
+# Social Media Manager
 
-Location: Remote
+**Location: Remote**
 
-Position: Social Media Manager
+**Position: Social Media Manager**
 
-Company: ChainGPT&#x20;
+**Company: ChainGPT**&#x20;
 
-Position Type: Full-Time - Contractor
-
-About ChainGPT: &#x20;
-
-ChainGPT creates advanced AI models explicitly designed for Blockchain Technology and Crypto-related topics. We use the latest algorithms and high-speed computing capabilities to address challenging issues in the Blockchain and Crypto space. Using ChainGPT, users may quickly obtain whatever knowledge and information they require for web3 and blockchain technologies. With many other unique features designed for individuals, developers, and businesses, ChainGPT is an essential tool for all in the Blockchain space.
+**Position Type: Full-Time - Contractor**
 
 
 
-About the Role:\
+**About ChainGPT:** &#x20;
+
+ChainGPT is at the forefront of AI and Blockchain Technology, enabling and transforming Web3 through AI. Our AI-powered tools equip users with fast and accurate information to navigate the dynamic Blockchain industry. We're now seeking a knowledgeable individual with a deep understanding of finance, web3, and cryptocurrency to join our expanding team.
+
+**About the Role:**\
 As a Social Media Manager at ChainGPT, you will be at the forefront of our online presence, playing a pivotal role in shaping our brand's image and connecting with our target audience.
 
 #### Responsibilities:
