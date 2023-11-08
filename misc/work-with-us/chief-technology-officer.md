@@ -1,8 +1,8 @@
-# Senior Technical Lead
+# Chief Technology Officer
 
 **Location: Remote**
 
-**Position: Senior Technical Lead**
+**Position: Chief Technology Officer**
 
 **Company: ChainGPT**
 
@@ -14,7 +14,7 @@
 ChainGPT is at the forefront of AI and Blockchain Technology, enabling and transforming Web3 through AI. Our AI-powered tools equip users with fast and accurate information to navigate the dynamic Blockchain industry. We're now seeking a knowledgeable individual with a deep understanding of finance, web3, and cryptocurrency to join our expanding team.\
 
 
-**About the Role – Senior Technical Lead:**
+**About the Role – Chief Technology Officer:**
 
 In this key leadership role, you'll bridge our vision and the technology needed to achieve it. You'll work directly with the CEO and executive team to develop and execute our technical strategy.\
 
@@ -35,7 +35,7 @@ In this key leadership role, you'll bridge our vision and the technology needed 
 
 * Experience with AI/ML and Large Language Models (LLMs).
 * Degree in Computer Science, Engineering, or related field, or equivalent experience.
-* Minimum three years in a technological leadership role.
+* Minimum four years in a senior technological leadership role or above.
 * Strong background in software engineering and infrastructure.
 * Demonstrated success in building and managing high-performing development teams.
 * Comprehensive understanding of blockchain technology and its applications.
