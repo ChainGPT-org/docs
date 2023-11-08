@@ -1,20 +1,23 @@
 # Full-Stack Web3 Developer
 
-**Location: Remote - Full Time**
+**Location: Remote**
 
 **Position: Full Stack Web3 Developer**
 
 **Company: ChainGPT**
 
+**Position Type: Full-Time**\
 
 
 **About ChainGPT:**
 
-ChainGPT is at the forefront of AI and Blockchain Technology, enabling and transforming Web3 through AI. Our AI-powered tools equip users with fast and accurate information to navigate the dynamic Blockchain industry. We're now seeking a knowledgeable individual with a deep understanding of finance, web3, and cryptocurrency to join our expanding team.
+ChainGPT is at the forefront of AI and Blockchain Technology, enabling and transforming Web3 through AI. Our AI-powered tools equip users with fast and accurate information to navigate the dynamic Blockchain industry. We're now seeking a knowledgeable individual with a deep understanding of finance, web3, and cryptocurrency to join our expanding team.\
+
 
 **About the Role:**
 
-Are you ready to shape the future of Artificial Intelligence, blockchain, and crypto technology as our Full Stack Web3 Developer? Join us at ChainGPT and be at the forefront of pioneering web3 development and decentralized solutions. As a key technical team member, you will play a critical role in designing, developing, and optimizing our web3 applications, driving strategic tech decisions, and growing with our dynamic company.
+Are you ready to shape the future of Artificial Intelligence, blockchain, and crypto technology as our Full Stack Web3 Developer? Join us at ChainGPT and be at the forefront of pioneering web3 development and decentralized solutions. As a key technical team member, you will play a critical role in designing, developing, and optimizing our web3 applications, driving strategic tech decisions, and growing with our dynamic company.\
+
 
 **Key Responsibilities:**
 
@@ -28,7 +31,8 @@ Are you ready to shape the future of Artificial Intelligence, blockchain, and cr
 * Security: Implement security best practices, conduct regular smart contract audits, and safeguard applications against common vulnerabilities.
 * Documentation: Document codebase, API endpoints, and smart contract functionalities using tools like Swagger or Postman. Maintain clear READMEs for repositories.
 * Mentorship: Guide junior developers in understanding blockchain intricacies, share knowledge on forums like Stack Overflow, and conduct internal tech talks.
-* Problem-solving: Debug issues using tools like Chrome DevTools, Metamask Inspector, or Infura. Ensure high availability and fault tolerance of applications.
+* Problem-solving: Debug issues using tools like Chrome DevTools, Metamask Inspector, or Infura. Ensure high availability and fault tolerance of applications.\
+
 
 **Requirements:**
 
@@ -44,7 +48,8 @@ Are you ready to shape the future of Artificial Intelligence, blockchain, and cr
 * Continuous Learning: Commitment to staying updated with the rapidly evolving blockchain and web3 domain. Participation in hackathons, workshops, or online courses is a plus.
 * Communication Skills: Strong written and verbal communication skills, with the ability to explain complex technical concepts to non-technical stakeholders.
 * Problem-solving Aptitude: Demonstrated ability to troubleshoot and resolve technical challenges efficiently.
-* Professional Experience: A minimum of 3-5 years of experience in full-stack development, with at least 2 years focused on web3 and blockchain technologies.
+* Professional Experience: A minimum of 3-5 years of experience in full-stack development, with at least 2 years focused on web3 and blockchain technologies.\
+
 
 At ChainGPT, we value Trust, Effective Speed, Innovation, and Growth. As our Full Stack Developer, you will exemplify these core values and play a pivotal role in shaping our technological landscape. Your expertise will be instrumental in enhancing our platform and influencing our company's direction. Join us on this thrilling journey as we push the boundaries of blockchain and crypto technology.
 

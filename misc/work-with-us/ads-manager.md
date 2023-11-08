@@ -1,16 +1,18 @@
 # Ads Manager
 
-**Job Posting: Ads Manage**
+**Location: Remote**
+
+**Position: Ads Manage**
 
 **Company: ChainGPT**
 
-**Position: Part-Time**
-
+**Position: Part-Time**\
 
 
 **About ChainGPT**
 
-ChainGPT is at the forefront of AI and Blockchain Technology, enabling and transforming Web3 through AI. Our AI-powered tools equip users with fast and accurate information to navigate the dynamic Blockchain industry. We're now seeking a knowledgeable individual with a deep understanding of finance, web3, and cryptocurrency to join our expanding team.
+ChainGPT is at the forefront of AI and Blockchain Technology, enabling and transforming Web3 through AI. Our AI-powered tools equip users with fast and accurate information to navigate the dynamic Blockchain industry. We're now seeking a knowledgeable individual with a deep understanding of finance, web3, and cryptocurrency to join our expanding team.\
+
 
 **Responsibilities:**
 
@@ -42,14 +44,16 @@ ChainGPT is at the forefront of AI and Blockchain Technology, enabling and trans
 
 * Develop B2B promotional campaigns.
 * Target specific industries, job roles, and company sizes for maximum lead generation.
-* Monitor and adjust campaigns for optimal lead conversion.
+* Monitor and adjust campaigns for optimal lead conversion.\
+
 
 **Preferred Qualifications:**
 
 * Experience with Crypto ads is a plus.
 * Proven track record in managing multiple ad platforms.
 * Ability to analyze and interpret ad performance metrics.
-* Strong communication and collaboration skills.
+* Strong communication and collaboration skills.\
+
 
 Interested candidates are encouraged to apply with their updated CV and cover letter. Thank you for considering a career with ChainGPT.
 

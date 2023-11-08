@@ -1,20 +1,23 @@
 # Chief Technology Officer
 
-**Location: Remote - Full-Time**\
-\
-**Position: Chief Technical Officer**
+**Location: Remote**
+
+**Position: Chief Technology Officer**
 
 **Company: ChainGPT**
 
+**Position Type: Full-Time**\
 
 
 **About ChainGPT:**
 
-ChainGPT is at the forefront of AI and Blockchain Technology, enabling and transforming Web3 through AI. Our AI-powered tools equip users with fast and accurate information to navigate the dynamic Blockchain industry. We're now seeking a knowledgeable individual with a deep understanding of finance, web3, and cryptocurrency to join our expanding team.
+ChainGPT is at the forefront of AI and Blockchain Technology, enabling and transforming Web3 through AI. Our AI-powered tools equip users with fast and accurate information to navigate the dynamic Blockchain industry. We're now seeking a knowledgeable individual with a deep understanding of finance, web3, and cryptocurrency to join our expanding team.\
+
 
 **About the Role – Chief Technical Officer:**
 
-In this key leadership role, you'll bridge our vision and the technology needed to achieve it. You'll work directly with the CEO and executive team to develop and execute our technical strategy.
+In this key leadership role, you'll bridge our vision and the technology needed to achieve it. You'll work directly with the CEO and executive team to develop and execute our technical strategy.\
+
 
 **Key Responsibilities:**
 
@@ -40,7 +43,8 @@ In this key leadership role, you'll bridge our vision and the technology needed 
 * Proficient in software development tools, version control (GitHub/GitLab), cloud services (AWS/Google Cloud), and proficiency in javascript, typescript, and python.
 * Excellent communication and leadership skills.
 * Fluency in English.
-* Ability to manage pressure, work within time constraints, and ability to work in a fast-paced environment.
+* Ability to manage pressure, work within time constraints, and ability to work in a fast-paced environment.\
+
 
 Our products often use ML/DL Training, NodeJS, Typescript, React, Python, MongoDB, and Solidity.
 
