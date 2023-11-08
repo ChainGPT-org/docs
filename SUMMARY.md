@@ -71,7 +71,7 @@
   * [APIs & SDKs](misc/b2b-offerings/apis-and-sdks.md)
 * [Work With Us](misc/work-with-us/README.md)
   * [Chief Financial Officer](misc/work-with-us/chief-financial-officer.md)
-  * [Chief Technology Officer](misc/work-with-us/chief-technology-officer.md)
+  * [Senior Technical Lead](misc/work-with-us/senior-technical-lead.md)
   * [Ads Manager](misc/work-with-us/ads-manager.md)
   * [Long-Form Content Writer](misc/work-with-us/long-form-content-writer.md)
   * [Social Media Manager](misc/work-with-us/social-media-manager.md)
