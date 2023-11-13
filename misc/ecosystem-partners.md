@@ -24,6 +24,7 @@
 * [Prom](https://prom.io/)
 * [AirNFTs](https://www.airnfts.com/)
 * [NFTb](https://nftb.io/)
+* [NFTScan](https://www.nftscan.com/)
 
 ## Security
 
@@ -35,6 +36,7 @@
 
 * [KuCoin](https://www.kucoin.com/trade/CGPT-USDT)
 * [KyberSwap](https://kyberswap.com/swap/bnb/usdt-to-cgpt)
+* [HTX (Huobi)](https://www.htx.com/en-us/trade/cgpt\_usdt?invite\_code=865b8223)
 * [Biswap](https://biswap.org/swap?inputCurrency=0x55d398326f99059fF775485246999027B3197955\&outputCurrency=0x9840652DC04fb9db2C43853633f0F62BE6f00f98)
 * [Thena](https://www.thena.fi/swap?inputCurrency=0x55d398326f99059ff775485246999027b3197955\&outputCurrency=0x9840652dc04fb9db2c43853633f0f62be6f00f98)
 * [BabyDoge](https://babydoge.com/)
@@ -47,6 +49,29 @@
 * [AscendEX](https://ascendex.com/en/cashtrade-spottrading/usdt/cgpt)
 * [CoinSpot](https://www.coinspot.com.au/buy/cgpt)
 * [PancakeSwap](https://pancakeswap.finance/swap?outputCurrency=0x9840652DC04fb9db2C43853633f0F62BE6f00f98\&inputCurrency=0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56)
+
+## Marketing / Learn
+
+* [Decrypt](https://decrypt.co/)
+* [DappRadar](https://dappradar.com/)
+* [Cryptorank](https://cryptorank.io/)
+* [Altcoin Buzz](https://www.altcoinbuzz.io/)
+* [TaskOn](https://taskon.xyz/)
+
+## DeFi
+
+*
+
+## Wallets
+
+* [Ellipal](https://www.ellipal.com/)
+* [FoxWallet](https://foxwallet.com/)
+* [Bitget Wallet](https://web3.bitget.com/)
+
+## Browsers
+
+* [Carbon Browser](https://carbon.website/)
+* [Mises Broswer](https://www.mises.site/)
 
 ## Backers
 
@@ -62,13 +87,10 @@
 
 ## Other
 
-* [Decrypt](https://decrypt.co/)
 * [Decubate](https://www.decubate.com/)
 * [Team Finance](https://www.team.finance/)
 * [Space ID](https://space.id/)
-* [Seedify](https://seedify.fund/)
 * [Star Protocol](https://star.co/)
-* [Carbon Browser](https://carbon.website/)
 * [Tonstarter](https://tonstarter.com/)
 * [Yay Network](https://yay.network/)
 * [Ferrum Network](https://ferrum.network/)
@@ -77,7 +99,6 @@
 * [WePad](https://wepad.io/)
 * [Poolz](https://www.poolz.finance/)
 * [Enjinstarter](https://enijnstarter.com/)
-* [Altcoin Buzz](https://www.altcoinbuzz.io/)
 * [Corners of Space](https://cornersofspace.com/)
 * [Cookie3](https://www.cookie3.co/)
 * [RocketX](https://www.rocketx.exchange/)
@@ -85,21 +106,16 @@
 * [Cryptomus](https://cryptomus.com/)
 * [Alphagram](https://alphagram.app)
 * [ChainPort](https://www.chainport.io/)
-* [DappRadar](https://dappradar.com/)
-* [Cryptorank](https://cryptorank.io/)
-* [Ellipal](https://www.ellipal.com/)
 * [LitLab Games](https://litlabgames.com/)
 * [Tradetomato](https://www.tradetomato.com/)
 * [ApeSwap](https://apeswap.finance/)
 * [D.id](https://d.id/)
-* [Bitget Wallet](https://web3.bitget.com/)
 * [SecondLive](https://secondlive.world/)
-* [TaskOn](https://taskon.xyz/)
+*
 * [Hyve](https://www.hyve.works/)
-* [Mises Broswer](https://www.mises.site/)
 * [CyberConnect](https://link3.to/)
-* [FoxWallet](https://foxwallet.com/)
 * [Katana Inu](https://www.katanainu.com/)
+* [Moralis](https://moralis.io/)
 
 
 
