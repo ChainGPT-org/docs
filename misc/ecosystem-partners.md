@@ -58,10 +58,6 @@
 * [Altcoin Buzz](https://www.altcoinbuzz.io/)
 * [TaskOn](https://taskon.xyz/)
 
-## DeFi
-
-*
-
 ## Wallets
 
 * [Ellipal](https://www.ellipal.com/)
@@ -111,7 +107,6 @@
 * [ApeSwap](https://apeswap.finance/)
 * [D.id](https://d.id/)
 * [SecondLive](https://secondlive.world/)
-*
 * [Hyve](https://www.hyve.works/)
 * [CyberConnect](https://link3.to/)
 * [Katana Inu](https://www.katanainu.com/)
