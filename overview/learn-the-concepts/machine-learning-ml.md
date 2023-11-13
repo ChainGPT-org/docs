@@ -9,3 +9,7 @@ Based on neural networks that replicate human thought processes, ML is an aggreg
 Depending on who you ask, there are three general classes of learning models: Supervised, Unsupervised, and semi-supervised, each containing a multitude of hybrid alternative sub-models (reinforcement, temporal, etc.) within them.
 
 ChainGPT’s AI leverages all of the leading open standards in machine learning to optimize its model’s aptitude to evolve alongside ingesting new data.
+
+
+
+[**Disclaimer**](../../misc/legal-docs/disclaimer.md)

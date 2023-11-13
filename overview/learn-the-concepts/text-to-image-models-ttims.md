@@ -39,3 +39,7 @@ TTIMs have a burgeoning array of applications in the modern digital landscape:
 ### **In Conclusion**
 
 Text to Image Models stand as a testament to AI's leaps in bridging the gap between language and vision. They promise a future where ideas, stories, and descriptions can be instantly visualized, opening doors to new ways of communication, creation, and understanding. As the technology behind TTIMs continues to mature, we can expect even more accurate and detailed visual translations of our textual expressions.
+
+
+
+[**Disclaimer**](../../misc/legal-docs/disclaimer.md)

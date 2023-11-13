@@ -7,3 +7,7 @@ Superseding its predecessor architecture known as RNN (Recurrent Neural Networks
 Rooted in identifying core concepts by accurately allocating its focus, transformer architecture displaces excessive processing by applying four components: Attention Mechanisms, Multi-head Attention, Feed-Forward Layers, and Normalization Layers.&#x20;
 
 ChainGPT makes good use of the transformer architecture in the design of its AI by allowing users the ability to provide theoretically unlimited input requests and being able to handle them aptly.
+
+
+
+[**Disclaimer**](../../misc/legal-docs/disclaimer.md)
