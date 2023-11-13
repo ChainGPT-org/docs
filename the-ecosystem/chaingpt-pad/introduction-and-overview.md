@@ -52,3 +52,5 @@ _**2)**_ Stake $CGPT to accumulate enough points and attain a tier status: [_**S
 {% hint style="warning" %}
 KYC must be passed in order to participate.
 {% endhint %}
+
+[**Disclaimer**](../../misc/legal-docs/disclaimer.md)

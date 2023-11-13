@@ -11,3 +11,7 @@ Each stake pool duration will bring its own point multiplier:
 **90 days** (3% APY) = **1.3x** points multiplier\
 **180 days** (5% APY) = **1.5x** points multiplier\
 **365 days** (8% APY) = **2x** points multiplier
+
+
+
+[**Disclaimer**](../../../misc/legal-docs/disclaimer.md)

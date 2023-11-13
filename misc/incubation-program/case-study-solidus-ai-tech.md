@@ -69,3 +69,6 @@ Solidus AI Tech is among an ultra-exclusive select group of projects that have b
 _**General:**_ [_Website_](https://www.aitech.io/)\
 _**Docs:**_ [_Whitepaper_](https://docs.aitech.io/overview/i.-introduction) \
 _**Social Media:**_ [_Twitter_](https://twitter.com/AITECHio) _|_ [_Telegram_](https://t.me/solidusaichat) _|_ [_Discord_](https://discord.com/invite/solidusai)\
+
+
+[**Disclaimer**](../legal-docs/disclaimer.md)

@@ -44,6 +44,8 @@ We take the training of our Chatbot very seriously, especially for our partners.
 
 
 
-
-
 Find us on [Telegram ](https://t.me/ChainGPT)or [Discord ](https://discord.gg/chaingpt)for more information regarding our different solutions and possible partnership synergies!
+
+
+
+[**Disclaimer**](../legal-docs/disclaimer.md)

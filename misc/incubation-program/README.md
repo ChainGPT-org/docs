@@ -78,4 +78,6 @@ The ChainGPT Incubation Program provides a flexible time frame that can span any
 ChainGPT Incubation Program offers a comprehensive suite of services to support and empower blockchain and web3 projects. From advisory support and go-to market strategies to connections with strategic partners and other crucial guidance, our program is designed to facilitate success in the complex and rapidly evolving blockchain ecosystem. With a commitment to decentralization, innovation, and responsible growth, ChainGPT is here to help projects navigate challenges, build strong foundations, and reach their full potential in the web3 space.\
 
 
+[**Disclaimer**](../legal-docs/disclaimer.md)
+
 [^1]: 

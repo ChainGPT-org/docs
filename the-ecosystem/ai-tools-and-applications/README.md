@@ -33,3 +33,5 @@
 {% content-ref url="pricing-and-membership-plans.md" %}
 [pricing-and-membership-plans.md](pricing-and-membership-plans.md)
 {% endcontent-ref %}
+
+[**Disclaimer**](../../misc/legal-docs/disclaimer.md)

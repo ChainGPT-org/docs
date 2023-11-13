@@ -77,3 +77,8 @@ DexCheck was the first project tapping into the ChainGPT's extensive mentorship 
 _**General:**_ [_Website_](https://dexcheck.io/)\
 _**Docs:**_ [_Whitepaper_ ](https://dexcheck.gitbook.io/whitepaper/general/about-dexcheck)_|_ [_PitchDeck_](https://docsend.com/view/vmsj3yik54xtrie5) _|_ [_Tokenomics_](https://docs.google.com/spreadsheets/d/1Xs2XukJirRPFABLxmta7WgI\_EjrXFXvV/edit?usp=sharing\&ouid=113353683765664790724\&rtpof=true\&sd=true)\
 _**Social Media:**_ [_Twitter_](https://twitter.com/dexcheck\_io) _|_ [_Telegram_](https://t.me/dexcheck) _|_ [_Medium_](https://medium.com/@DexCheck)\
+
+
+
+
+[**Disclaimer**](../legal-docs/disclaimer.md)

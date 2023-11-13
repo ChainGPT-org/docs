@@ -94,3 +94,7 @@ _By incorporating a launchpad into the ecosystem, project extends the possibilit
 <figure><img src="../../.gitbook/assets/Screenshot 2023-10-18 at 11.12.05.png" alt=""><figcaption><p>Admin Panel</p></figcaption></figure>
 
 ChainGPT's Whitelabel Launchpad solution represents the ultimate choice for projects in pursuit of a streamlined and adaptable path towards conducting token or NFT sales. This offering affords projects the ability to tailor the launchpad experience to their unique needs, ensuring a seamless and user-friendly journey for both project teams and participants. By adopting our Launchpad Whitelabel solution, projects gain a powerful tool to fuel their growth and success in the Web3 space, elevating it to a foundational element of a flourishing ecosystem.
+
+
+
+[**Disclaimer**](../legal-docs/disclaimer.md)

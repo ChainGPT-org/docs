@@ -35,3 +35,7 @@ ChainGPT offers SDKs to allow businesses to build custom applications harnessing
 ### **In the B2B Context:**
 
 For businesses, the combination of ChainGPT's APIs and SDKs offers a robust toolkit to harness the power of AI. Whether a company is looking for a plug-and-play solution via the API or a more tailored approach using the SDK, ChainGPT ensures that businesses of all sizes and technical expertise can benefit from the advancements in AI technology.
+
+
+
+[**Disclaimer**](../legal-docs/disclaimer.md)
