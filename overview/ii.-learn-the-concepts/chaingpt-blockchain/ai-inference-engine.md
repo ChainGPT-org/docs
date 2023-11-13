@@ -17,3 +17,7 @@ The ChainGPT platform's crucial AI Inference Engine makes on-chain AI inference 
 ### Conclusion
 
 The AI Inference Engine is a critical component of the ChainGPT platform that enables on-chain AI inference and delivers deterministic results. The engine provides a foundation for creating reliable AI-enhanced smart contracts and DApps, eliminating the need for off-chain solutions.  It doesn't matter if you're a developer, a business, an organization, or a Crypto enthusiast. ChainGPT's AI technology is your go-to option to improve your workflow in this space.
+
+
+
+[**DISCLAIMER**](../../../legal/disclaimer.md)

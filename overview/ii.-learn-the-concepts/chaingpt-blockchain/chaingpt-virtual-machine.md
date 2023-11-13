@@ -39,3 +39,7 @@ The CGVM is well-suited for a wide range of use cases, including:
 ### Conclusion
 
 The ChainGPT Virtual Machine (CGVM) offers a unique combination of EVM compatibility and on-chain AI inference, making it an ideal solution for organizations looking to harness the power of AI and blockchain technology. Furthermore, by offering an open-source ecosystem for AI research, ChainGPT has the potential to drive innovation and collaboration in AI.
+
+
+
+[**DISCLAIMER**](../../../legal/disclaimer.md)

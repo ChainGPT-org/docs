@@ -16,4 +16,8 @@ This document is a legal notice for users of ChainGPT's materials, including the
 
 By continuing to access or use our information, you acknowledge and accept this disclaimer.
 
+
+
+_In addition, please read our_ [Agreement for Sale of Tokens](https://www.chaingpt.org/licences).
+
 \

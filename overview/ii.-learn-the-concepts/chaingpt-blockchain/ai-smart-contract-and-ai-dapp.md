@@ -31,3 +31,7 @@ For example, an AI-enabled DApp could use machine learning algorithms to analyze
 ### Conclusion
 
 The AI Smart Contract and AI DApp features of the ChainGPT platform make it possible for developers to create innovative solutions that leverage the power of AI and blockchain technology. With the support for Solidity and access to off-the-shelf AI models, developers can build cutting-edge applications that deliver significant user value.
+
+
+
+[**DISCLAIMER**](../../../legal/disclaimer.md)

@@ -33,3 +33,7 @@ Choosing the appropriate learning rate is a crucial component of fine-tuning. Po
 ### Conclusion
 
 Developing a good language model like ChainGPT requires fine-tuning. The model may better comprehend the job it is being trained for and produce more accurate and pertinent replies by retraining on a smaller, more relevant dataset. By fine-tuning the model, users may guarantee that ChainGPT offers the optimum experience for the work.
+
+
+
+[**DISCLAIMER**](../../../legal/disclaimer.md)

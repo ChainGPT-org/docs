@@ -26,3 +26,5 @@ Using a generative model in ChainGPT has several significant benefits, including
 4. Customization: The model may be modified to fulfill specific user requirements tailored to particular jobs and datasets.
 5. Efficiency: The generative model's deep learning algorithms enable quick and effective text production, reducing the time and resources needed to create high-quality replies. Constant Improvement: The model's ability to iteratively retrain on new data enables it to improve in terms of precision and response quality continually.&#x20;
 6. Creativity: ChainGPT uses a generative model to provide innovative solutions and fresh concepts in response to input.
+
+[**DISCLAIMER**](../../../legal/disclaimer.md)

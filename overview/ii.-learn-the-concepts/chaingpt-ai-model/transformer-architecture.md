@@ -32,3 +32,7 @@ Normalization Layers: The model's performance is enhanced by using normalization
 ### Conclusion
 
 Transformer architecture is an effective method for analyzing sequential input and producing appropriate and coherent responses. ChainGPT can answer high-quality questions and prompts thanks to transformer architecture, which uses attention mechanisms, multi-head attention, feed-forward layers, and normalization layers. It is an essential part of ChainGPT's AI-based technology because of its cutting-edge performance and capacity for handling lengthy sequences.
+
+
+
+[**DISCLAIMER**](../../../legal/disclaimer.md)

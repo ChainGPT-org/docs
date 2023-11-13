@@ -25,3 +25,7 @@ By decentralizing AI research, ChainGPT can help organizations to reduce their d
 ### Conclusion
 
 In conclusion, ChainGPT's vision of decentralizing AI research could revolutionize how organizations access and utilize AI technologies. Furthermore, ChainGPT is well-positioned to become a leading player in AI research and development by creating an open-source ecosystem that incentivizes innovation and collaboration.
+
+
+
+[**DISCLAIMER**](../../../legal/disclaimer.md)

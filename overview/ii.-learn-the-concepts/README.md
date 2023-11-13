@@ -44,3 +44,6 @@ ChainGPT is a cutting-edge AI model created to help with anything cryptocurrency
 2. AI Inference Engine
 3. AI Smart Contract and AI DApp
 4. Decentralizing AI Research\
+
+
+[**DISCLAIMER**](../../legal/disclaimer.md)

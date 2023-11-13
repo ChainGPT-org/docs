@@ -54,3 +54,4 @@ In this guide, you will learn about the following:
 [contextual-awareness.md](contextual-awareness.md)
 {% endcontent-ref %}
 
+[**DISCLAIMER**](../../../legal/disclaimer.md)

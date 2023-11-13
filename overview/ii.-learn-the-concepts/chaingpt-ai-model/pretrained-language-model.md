@@ -23,3 +23,7 @@ ChainGPT's success depends on a pre-trained language model since it lays the gro
 In addition, what makes ChainGPT so adaptable and powerful is the capability to tailor the model for particular requirements. ChainGPT can be customized to specific use cases, such as responding to inquiries regarding blockchain and cryptocurrency subjects, by fine-tuning the model on smaller datasets. This enables the chatbot to answer extremely pertinent and accurate queries. It is a priceless tool for anyone wishing to learn more about or explore the world of blockchain and cryptocurrency.
 
 In conclusion, the pre-trained language model, which lays the groundwork for ChainGPT's capacity to comprehend and process human language and produce pertinent and correct answers to various inquiries, is, in short, a crucial element of its success. As a result, ChainGPT is the ideal resource for you if you want to discover or learn more about the world of blockchain and cryptocurrencies.
+
+
+
+[**DISCLAIMER**](../../../legal/disclaimer.md)

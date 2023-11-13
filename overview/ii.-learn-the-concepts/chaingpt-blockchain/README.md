@@ -47,3 +47,7 @@ ChainGPT aims to create an open-source environment where AI developers and acade
 ### Conclusion
 
 The ChainGPT virtual machine offers a unique combination of EVM compatibility and on-chain AI inference, making it an ideal solution for organizations looking to harness the power of AI and blockchain technology. In addition, the deterministic AI inference engine and the support for AI-enhanced smart contracts and DApps make it an attractive platform for developers and researchers. By fostering an open-source ecosystem for AI research, ChainGPT has the potential to drive innovation and collaboration in AI.
+
+
+
+[**DISCLAIMER**](../../../legal/disclaimer.md)

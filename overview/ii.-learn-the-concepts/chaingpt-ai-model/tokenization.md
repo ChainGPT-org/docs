@@ -24,3 +24,7 @@ Depending on the chatbot's job and the language model's particular needs, a spec
 ### Conclusion
 
 Tokenization is an essential part of the pipeline for Natural Language Processing and is critical to the operation of ChainGPT. The chatbot can better grasp and analyze human language by dividing the text into smaller components, improving its answers' accuracy and efficiency.
+
+
+
+[**DISCLAIMER**](../../../legal/disclaimer.md)

@@ -13,3 +13,6 @@ ChainGPT Token ($CGPT) is the backbone of the ChainGPT ecosystem. It is the medi
 
 $CGPT is an essential component of the ChainGPT ecosystem, providing individuals and businesses access to the advanced AI model and various benefits and opportunities. So whether you are a crypto or blockchain enthusiast or simply looking to invest in the future of AI, $CGPT is a token worth considering.
 
+
+
+[**DISCLAIMER**](../../../legal/disclaimer.md)

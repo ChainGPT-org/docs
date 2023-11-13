@@ -29,3 +29,7 @@ Retraining an existing language model on a smaller dataset for a particular purp
 ### Conclusion
 
 A large data set of Blockchain-related information, resources, and research papers trained ChainGPT. Thanks to that and a mix of training data, tokenization, and fine-tuning., ChainGPT is capable of understanding and answering a large variety of questions in this field.&#x20;
+
+
+
+[**DISCLAIMER**](../../../legal/disclaimer.md)

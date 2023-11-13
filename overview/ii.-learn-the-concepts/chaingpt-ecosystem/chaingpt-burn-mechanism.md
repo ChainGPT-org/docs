@@ -11,3 +11,7 @@ The remaining half of the transaction income is used for the growth and sustaina
 ### Conclusion
 
 In conclusion, the ChainGPT burn mechanism is a unique and powerful feature that drives up the value of $CGPT by reducing its available supply. In addition, this mechanism incentivizes using the platform's AI tools and utilities and provides a valuable investment opportunity for those looking to get involved in the crypto and blockchain space.
+
+
+
+[**DISCLAIMER**](../../../legal/disclaimer.md)
