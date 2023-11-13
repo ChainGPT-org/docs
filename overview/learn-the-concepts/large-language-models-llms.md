@@ -38,3 +38,7 @@ Due to their impressive capabilities, LLMs have a wide range of applications:
 ### **Conclusion**
 
 Large Language Models, with their immense capabilities, are reshaping our interaction with technology. They bridge the gap between human communication and computational understanding. As they continue to evolve, the potential applications and benefits of LLMs in our daily lives and industries are boundless. However, as with any technology, a balanced and informed approach ensures that we harness their potential while being aware of their limitations.
+
+
+
+[**Disclaimer**](../../misc/legal-docs/disclaimer.md)

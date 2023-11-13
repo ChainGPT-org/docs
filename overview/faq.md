@@ -378,3 +378,6 @@ Beta Version: up to 100, Version 1.0: up to 10,000
 Did we miss anything? \
 Let us know: info@chaingpt.org
 
+
+
+[**Disclaimer**](../misc/legal-docs/disclaimer.md)
