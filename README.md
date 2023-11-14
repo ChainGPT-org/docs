@@ -38,9 +38,10 @@ The ecosystem is backed by the $CGPT utility token, the infrastructure's backbon
 
 ### **ChainGPT's recent awards & grants:**
 
+\- Google Cloud Grant ($350,000)\
+\- NVIDIA Grant ($100,000)\
 \- BNB Chain Ecosystem Catalyst Award (Innovation Excellence)\
 \- BNB Chain Gas Grant Program\
-\- Google Cloud Grant ($350,000)\
 \- #1 Web3 App of April, 2023 (ProductHunt)\
 \- Website of the day by Awwwards\
 \- #4 ranked Web3 Telegram bot by Binance Research
