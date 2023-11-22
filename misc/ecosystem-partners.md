@@ -57,6 +57,7 @@
 * [Cryptorank](https://cryptorank.io/)
 * [Altcoin Buzz](https://www.altcoinbuzz.io/)
 * [TaskOn](https://taskon.xyz/)
+* [BSC.News](https://www.bsc.news/)
 
 ## Wallets
 
