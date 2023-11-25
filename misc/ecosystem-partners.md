@@ -4,9 +4,6 @@
 
 * [BNB Chain](https://www.bnbchain.org/en)
 * [Tron](https://trondao.org/)
-* [Bitgert](https://bitgert.com/)
-* [Alvey](https://www.alveychain.com/)
-* [Caduceus](https://caduceus.foundation/)
 
 ## AI / Machine Learning
 
@@ -87,6 +84,9 @@
 * [Decubate](https://www.decubate.com/)
 * [Team Finance](https://www.team.finance/)
 * [Space ID](https://space.id/)
+* [Bitgert](https://bitgert.com/)
+* [Alvey](https://www.alveychain.com/)
+* [Caduceus](https://caduceus.foundation/)
 * [Star Protocol](https://star.co/)
 * [Tonstarter](https://tonstarter.com/)
 * [Yay Network](https://yay.network/)
