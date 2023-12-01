@@ -112,6 +112,7 @@
 * [CyberConnect](https://link3.to/)
 * [Katana Inu](https://www.katanainu.com/)
 * [Moralis](https://moralis.io/)
+* [Li.Fi](https://li.fi/)
 
 
 
