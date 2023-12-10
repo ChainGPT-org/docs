@@ -38,7 +38,7 @@ _\* Collections size will vary based on user preference/specification, with a ma
 The ChainGPT AI NFT generator utilizes the familiar chat-based chat box interface that takes user text as inputs. Built to complement the most abstract thinkers and realize the imaginations of the most arbitrary concepts, there is no hardcoded universal framework for perfect prompting; the best prompts are those that produce the desired results.
 
 {% hint style="info" %}
-For Prompt ideas, check out the ChainGPT Prompt Marketplace available in the Dapp dashboard: [https://app.chaingpt.org/promptmarket](https://app.chaingpt.org/promptmarket) or view the "all NFTs" tab in the generator [https://nft.chaingpt.org/](https://nft.chaingpt.org/) to get some inspiration from community creations
+For Prompt ideas, check out the ChainGPT Prompt Marketplace available in the Dapp dashboard: [https://app.chaingpt.org/promptmarket](https://app.chaingpt.org/promptmarket) or view the "all NFTs" tab in [https://nft.chaingpt.org/](https://nft.chaingpt.org/) to get some inspiration from community creations
 {% endhint %}
 
 \---

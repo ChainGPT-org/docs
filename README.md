@@ -8,7 +8,7 @@ ChainGPT is an advanced AI infrastructure that develops AI-powered technologies 
 
 ### **ChainGPT's Solutions:**
 
-* ChainGPT AI Chatbot ([Telegram](https://t.me/chaingptai\_bot), Discord, [Web](http://127.0.0.1:5000/o/fTvkvEH3C5Wk9LTutCYV/s/rfpYYsoCgHxbOIGhZ3WU/) - Read More: [ai-web3-chatbot.md](the-ecosystem/ai-tools-and-applications/ai-web3-chatbot.md "mention"))
+* ChainGPT AI Chatbot ([Telegram](https://t.me/chaingptai\_bot), Discord, [Web](https://app.gitbook.com/o/fTvkvEH3C5Wk9LTutCYV/s/rfpYYsoCgHxbOIGhZ3WU/) - Read More: [ai-web3-chatbot.md](the-ecosystem/ai-tools-and-applications/ai-web3-chatbot.md "mention"))
 * AI NFT Generator ([Visit App](https://nft.chaingpt.org) - Read More: [ai-nft-generator.md](the-ecosystem/ai-tools-and-applications/ai-nft-generator.md "mention"))
 * AI-Generated News ([Visit App](https://app.chaingpt.org/news) - Read More: [ai-generated-news.md](the-ecosystem/ai-tools-and-applications/ai-generated-news.md "mention"))
 * Smart-Contracts Generator ([Visit App](https://app.chaingpt.org) -Read More: [ai-smart-contract-generator.md](the-ecosystem/ai-tools-and-applications/ai-smart-contract-generator.md "mention"))

@@ -34,6 +34,7 @@
   * [AI Trading Assistant](the-ecosystem/ai-tools-and-applications/ai-trading-assistant.md)
   * [Prompt Marketplace](the-ecosystem/ai-tools-and-applications/prompt-marketplace.md)
   * [Pricing & Membership Plans](the-ecosystem/ai-tools-and-applications/pricing-and-membership-plans.md)
+  * [AI Cross-Chain Swap](the-ecosystem/ai-tools-and-applications/ai-cross-chain-swap.md)
 * [LLMs & TTIMs](the-ecosystem/llms-and-ttims.md)
 * [CGPT Utility Token](the-ecosystem/cgpt-utility-token/README.md)
   * [Tokenomics](the-ecosystem/cgpt-utility-token/tokenomics.md)
