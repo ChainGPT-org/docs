@@ -34,4 +34,8 @@
 [pricing-and-membership-plans.md](pricing-and-membership-plans.md)
 {% endcontent-ref %}
 
+{% content-ref url="ai-cross-chain-swap.md" %}
+[ai-cross-chain-swap.md](ai-cross-chain-swap.md)
+{% endcontent-ref %}
+
 [**Disclaimer**](../../misc/legal-docs/disclaimer.md)
