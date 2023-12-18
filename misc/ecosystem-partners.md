@@ -113,6 +113,7 @@
 * [Katana Inu](https://www.katanainu.com/)
 * [Moralis](https://moralis.io/)
 * [Li.Fi](https://li.fi/)
+* [Dechat](https://www.dechat.io/)
 
 
 
