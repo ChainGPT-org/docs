@@ -83,3 +83,7 @@ For detailed SDK code documentation, visit [npm package documentation](https://w
 ### **3.8 Support/Help**
 
 For additional assistance, refer to the support channels on our website [https://www.chaingpt.org/](https://www.chaingpt.org/).
+
+
+
+[**Disclaimer**](../../../legal-docs/disclaimer.md)

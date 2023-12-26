@@ -32,3 +32,4 @@ Before engaging with the SDK, ensure the following prerequisites are met:
 
 <figure><img src="../../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
+[**Disclaimer**](../../../legal-docs/disclaimer.md)

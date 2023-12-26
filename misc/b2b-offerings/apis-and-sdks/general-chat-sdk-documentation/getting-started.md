@@ -32,3 +32,7 @@ To install the General Chatbot SDK, follow these steps:
   * Avoid exposing the API keys in your code or public repositories.
   * Store them in a secure location, and use environment variables or a secret management service for exposure to your application.
   * This method ensures that you do not need to hard-code them in your codebase, enhancing security.
+
+
+
+[**Disclaimer**](../../../legal-docs/disclaimer.md)

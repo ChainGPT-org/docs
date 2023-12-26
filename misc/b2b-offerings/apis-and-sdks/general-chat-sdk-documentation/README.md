@@ -24,3 +24,7 @@ Before engaging with the SDK, ensure the following prerequisites are met:
 * **Credits**: Availability of credits in the web application [https://app.chaingpt.org/](https://app.chaingpt.org/).
 
 <figure><img src="../../../../.gitbook/assets/image (10).png" alt="" width="419"><figcaption></figcaption></figure>
+
+
+
+[**Disclaimer**](../../../legal-docs/disclaimer.md)
