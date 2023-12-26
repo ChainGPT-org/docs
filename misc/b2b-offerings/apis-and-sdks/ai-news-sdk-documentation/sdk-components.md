@@ -36,7 +36,125 @@ ChainGPT AI News SDK provides several advanced features:
 
 <figure><img src="https://lh7-us.googleusercontent.com/y1B0I8kgVFNCWz6jQ07aIyFHmd8NhLB9Oo1jk-1gf8TCT5WnnxthZog78Dlh9auvHS0YPgBTIVgnG3Y4jT4CUPKUQaqWUJI2aavxc40CbLhqXhwBw4Kw7Nwzdp77_tnDRZdXG5AAuYBm-kCPXZUGIyc" alt="" width="563"><figcaption></figcaption></figure>
 
-_<mark style="background-color:red;">**ADD THE TABLES BELOW**</mark>_&#x20;
+Users can access different categories using the following IDs:
+
+| Category                    | ID |
+| --------------------------- | -- |
+| Blockchain Gaming           | 2  |
+| DAO                         | 3  |
+| DApps                       | 4  |
+| DeFi                        | 5  |
+| Lending                     | 6  |
+| Metaverse                   | 7  |
+| NFT                         | 8  |
+| Stablecoins                 | 9  |
+| Cryptocurrency              | 64 |
+| Decentralized               | 65 |
+| Smart Contracts             | 66 |
+| Distributed Ledger          | 67 |
+| Cryptography                | 68 |
+| Digital Assets              | 69 |
+| Tokenization                | 70 |
+| Consensus Mechanisms        | 71 |
+| ICO (Initial Coin Offering) | 72 |
+| Crypto Wallets              | 73 |
+| Web3.0                      | 74 |
+| Interoperability            | 75 |
+| Mining                      | 76 |
+| Cross-Chain Transactions    | 77 |
+| Exchange                    | 78 |
+
+Users can access the following sub-categories using the specified IDs:
+
+| Sub-Category        | ID |
+| ------------------- | -- |
+| Bitcoin             | 11 |
+| BNB Chain           | 12 |
+| Celo                | 13 |
+| Cosmos              | 14 |
+| Ethereum            | 15 |
+| Fantom              | 16 |
+| Flow                | 17 |
+| Litecoin            | 18 |
+| Monero              | 19 |
+| Polygon             | 20 |
+| XRP Ledger          | 21 |
+| Solana              | 22 |
+| Tron                | 23 |
+| Terra               | 24 |
+| Tezos               | 25 |
+| WAX                 | 26 |
+| Algorand            | 27 |
+| Arbitrum            | 28 |
+| Astar               | 29 |
+| Aurora              | 30 |
+| Avalanche           | 31 |
+| Base                | 32 |
+| Binance Smart Chain | 33 |
+| Cardano             | 34 |
+| Celo                | 35 |
+| Cronos              | 36 |
+| Moonbeam            | 37 |
+| Dep                 | 38 |
+| Ethereum            | 39 |
+| Fantom              | 40 |
+| Harmony             | 41 |
+| Oasis               | 42 |
+| Oasis Sapphire      | 43 |
+| Ontology            | 44 |
+| Optimism            | 45 |
+| Other               | 46 |
+| Platon              | 47 |
+| Polygon             | 48 |
+| Rangers             | 49 |
+| Ronin               | 50 |
+| Shiden              | 51 |
+| Skale               | 52 |
+| Solana              | 53 |
+| Stacks              | 54 |
+| Stargaze            | 55 |
+| Steem               | 56 |
+| SXNetwork           | 57 |
+| Telos               | 58 |
+| TelosEVM            | 59 |
+| Tezos               | 60 |
+| Theta               | 61 |
+| Thundercore         | 62 |
+
+Users can access the following tokens using the specified IDs:
+
+| Token                  | ID  |
+| ---------------------- | --- |
+| Bitcoin - BTC          | 79  |
+| Ethereum - ETH         | 80  |
+| Tether USDt - USDT     | 81  |
+| BNB - BNB              | 82  |
+| XRP - XRP              | 83  |
+| USDC - USDC            | 84  |
+| Solana - SOL           | 85  |
+| Cardano - ADA          | 86  |
+| Dogecoin - DOGE        | 87  |
+| TRON - TRX             | 88  |
+| Toncoin - TON          | 89  |
+| Dai - DAI              | 90  |
+| Polygon - MATIC        | 91  |
+| Polkadot - DOT         | 92  |
+| Litecoin - LTC         | 93  |
+| Wrapped Bitcoin - WBTC | 94  |
+| Bitcoin Cash - BCH     | 95  |
+| Chainlink - LINK       | 96  |
+| Shiba Inu - SHIB       | 97  |
+| UNUS SED LEO - LEO     | 98  |
+| TrueUSD - TUSD         | 99  |
+| Avalanche - AVAX       | 100 |
+| Stellar - XLM          | 101 |
+| Monero - XMR           | 102 |
+| OKB - OKB              | 103 |
+| Cosmos - ATOM          | 104 |
+| Uniswap - UNI          | 105 |
+| Ethereum Classic - ETC | 106 |
+| BUSD - BUSD            | 107 |
+| Hedera - HBAR          | 108 |
 
 ### **3.3 Error Handling**
 
