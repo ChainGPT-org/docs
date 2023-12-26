@@ -19,11 +19,11 @@ To install the General Chatbot SDK, follow these steps:
 #### **Credits System**
 
 * **Initial Setup**: Start by acquiring credits in the web application [https://app.chaingpt.org/](https://app.chaingpt.org/). These credits are necessary for creating an API key and accessing the SDK functionalities.
-* **Usage and Deduction**: Credits will be deducted with each request made using the SDK.
+* **Usage and Deduction**: Credits will be deducted with each request using the SDK.
 
 #### **Setup API Key**
 
-* **Generating API Key**: Utilize the ChainGPT API SDK for authentication. In the web application, navigate to the API Dashboard, and use the 'Create Secret Key' feature to generate and copy your API key.
+* **Generating API Key**: Utilize the ChainGPT API SDK for authentication. In the web application, navigate to the API Dashboard and use the 'Create Secret Key' feature to generate and copy your API key.
 
 <figure><img src="https://lh7-us.googleusercontent.com/DkCb0arDB_K2KasqeW3cfDJ0GX7oRFCrGmT7lU8YcCeaOEPJtBPpOiMY7TE4lM319xnutqHI2LRsBqoUiHJ9laROTzD2b-l3ook0AZ4ujkVC8qYE4xyYipT_6H_dPVeSf_8wIInPD8K5Ju07YtubCFY" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -31,7 +31,7 @@ To install the General Chatbot SDK, follow these steps:
   * It is crucial to secure your API keys to control access effectively.
   * Avoid exposing the API keys in your code or public repositories.
   * Store them in a secure location, and use environment variables or a secret management service for exposure to your application.
-  * This method ensures that you do not need to hard-code them in your codebase, enhancing security.
+  * This method ensures you do not need to hard-code them in your codebase, enhancing security.
 
 
 

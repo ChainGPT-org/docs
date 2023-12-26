@@ -158,7 +158,7 @@ Users can access the following tokens using the specified IDs:
 
 ### **3.3 Error Handling**
 
-In case of connection issues to the API or non-success status codes (4xx or 5xx responses), an `AINewsError` class error will be thrown.
+In case of connection issues to the API or non-success status codes (4xx or 5xx responses), an `AINewsError` a class error will be thrown.
 
 <figure><img src="https://lh7-us.googleusercontent.com/zpJyGP_1TI_dAdGXNfbZ0ySewiXG6vhfFEg3j0IyRVvttlG-gWPZ2M2YQ8ubxaSqwqmvQxTxeaOroKbPG28szsC2Y5OwEbYviWYJkktHGS6tmxRzdFYnH3Sd0RKj67WewvjiMn-317G0Kp-KYO5PMfc" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -183,7 +183,7 @@ For detailed SDK code documentation, visit [npm package documentation](https://w
 
 ### **3.8 Support/Help**
 
-For additional assistance, refer to the support channels on our website [https://www.chaingpt.org/](https://www.chaingpt.org/).
+For additional assistance, refer to the support channels on our website: [https://www.chaingpt.org/](https://www.chaingpt.org/).
 
 
 

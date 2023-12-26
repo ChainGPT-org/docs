@@ -57,7 +57,7 @@ ChainGPT General Chatbot SDK provides the following features:
 
 ### **3.3 Error Handling**
 
-If there is a failure in connecting to the API, or if the API returns a non-success status code (4xx or 5xx), a `GeneralChatError` class error will be thrown.
+If there is a failure in connecting to the API or if the API returns a non-success status code (4xx or 5xx), a `GeneralChatError` class error will be thrown.
 
 <figure><img src="https://lh7-us.googleusercontent.com/C2YghndeJAOtlU-uKg5qfqFzVxfeEnOYS79aPm9Dj96WGhBrkHc3oxlrh8-8UU_pzhAuH0HzNdFTwl-hkKBfzfjBwJnV4YPIdsGZ1qCnygDcw4Gp5JKWyhX1S1TprYFzr57Mpvqp8wP5N47fss0fT9A" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -82,7 +82,7 @@ For detailed SDK code documentation, visit [npm package documentation](https://w
 
 ### **3.8 Support/Help**
 
-For additional assistance, refer to the support channels on our website [https://www.chaingpt.org/](https://www.chaingpt.org/).
+For additional assistance, refer to the support channels on our website: [https://www.chaingpt.org/](https://www.chaingpt.org/).
 
 
 
