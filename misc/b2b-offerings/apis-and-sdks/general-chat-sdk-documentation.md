@@ -1,2 +1,0 @@
-# General Chat SDK Documentation
-
