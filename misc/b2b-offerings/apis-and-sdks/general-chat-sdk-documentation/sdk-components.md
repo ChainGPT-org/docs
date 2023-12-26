@@ -40,16 +40,26 @@ ChainGPT General Chatbot SDK provides the following features:
 #### **Blob Response**
 
 * **Functionality**: Retrieve the chat response in the form of a Blob.
+
+<figure><img src="https://lh7-us.googleusercontent.com/8FXYAANKeB13zn4DwsMBxH9bKXyKVyAuRNyhRTU8b1oVPp3TVgyRIhyffD4tnGhXRN0Nny2fE8kS9_JF5iCS5gQJO6ILK4dOG0cQWs4SR7BUfZyasULi7_i80h97WV0FsFj_waFewG2_iV3ebOT0zzk" alt="" width="563"><figcaption></figcaption></figure>
+
 * **Credit Deduction**: Same as Stream Response.
+
+<figure><img src="https://lh7-us.googleusercontent.com/vFx3oM3HmSdyEw_IWKpU8q_UvKgLUsGR53T2dpGQ-ccDsIOhSwkCoPHCs2o7rsrFoYpejeOimn-OmZ4UQQBqiSgtHKqAo5elhmpChvuO3lptfmfIunctdLwjvl70_eYTlECezadaGblh_ToEwXfNcIs" alt="" width="563"><figcaption></figcaption></figure>
 
 #### **Get Chat History**
 
 * **Functionality**: The SDK stores chat history for later use, retrievable by specific code.
+
+<figure><img src="https://lh7-us.googleusercontent.com/aoolDVcdSuj0eRiWNEjMmMH2FBk8VCmvfQ9wPZO6DpNPQq7g7n6cTH7QpB_JZRTQFPu6A0TmBB4t09xFpqZal2Jvbjb7LO-VrQdy-8LjTz_W-RL-G6erpXIYc8wdUFQBevT40lwQSbyM5wagAxODwD4" alt="" width="563"><figcaption></figcaption></figure>
+
 * **Credit Deduction**: No additional credits are deducted if the chat history feature was enabled during Stream/Blob response API calls.
 
 ### **3.3 Error Handling**
 
 If there is a failure in connecting to the API, or if the API returns a non-success status code (4xx or 5xx), a `GeneralChatError` class error will be thrown.
+
+<figure><img src="https://lh7-us.googleusercontent.com/C2YghndeJAOtlU-uKg5qfqFzVxfeEnOYS79aPm9Dj96WGhBrkHc3oxlrh8-8UU_pzhAuH0HzNdFTwl-hkKBfzfjBwJnV4YPIdsGZ1qCnygDcw4Gp5JKWyhX1S1TprYFzr57Mpvqp8wP5N47fss0fT9A" alt="" width="563"><figcaption></figcaption></figure>
 
 ### **3.4 Language/Framework Compatibility**
 
