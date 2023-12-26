@@ -23,7 +23,7 @@ The ChainGPT AI NFT Generator allows for creating art in two distinct formats ba
 * **Option 1:** Single NFT
 * **Option 2:** Collection
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Option 1: Single NFT:** \
 Best for ultra-custom requests that benefit from individual maximal attention to detail and limitations in supply. Whether for an artist to express their thoughts or feelings through a visual medium or a business that needs abstract imagery for its content, ChainGPT’s single NFT generator option caters to the most complex demands with the highest quality results.

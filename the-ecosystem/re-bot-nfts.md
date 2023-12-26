@@ -1,10 +1,10 @@
 # RE:BOT NFTs
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 The RE:BOT NFT collection stands as a distinctive set of 10,000 NFTs intricately woven into the fabric of the ChainGPT ecosystem. These NFTs not only offer users a myriad of benefits within the ecosystem but also bestow upon them exclusive privileges. This remarkable NFT collection was one of the three hidden gems in our roadmap, and it proudly takes the lead as the first to be unveiled. While the exact release dates of the RE:BOT collection remain shrouded in mystery, we are committed to updating this documentation page as soon as more information becomes available to the public.
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **The Art:**
 

@@ -10,7 +10,7 @@ Carefully crafted instruction sets used to interact with a generative Artificial
 
 As AI becomes more ingrained in commercial and personal life, the demand for understanding how to interact with it grows accordingly. The ability to create effective, accurate prompts has unlocked new revenue sources for individuals around the world.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 Denominating the marketplace activities is the $CGPT token, which acts as the unit of account within the marketplace. The ChainGPT Prompt Marketplace is a peer-to-peer platform that allows users to exchange prompts directly with one another. It has been designed as a two-sided marketplace connecting individuals or businesses that need generative ideas with prompt engineers who create them.&#x20;
 

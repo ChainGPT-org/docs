@@ -14,7 +14,7 @@ The ChainGPT DAO is the vehicle for supporting decision-making regarding the dev
 
 Every member of the ChainGPT DAO has the unique ability to contribute their thoughts and exert influence over how ChainGPT's products are built, what path they travel, and many other technical matters.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 **How to become a DAO Member:**
 
