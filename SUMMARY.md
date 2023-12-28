@@ -19,7 +19,8 @@
 * [Road Map](overview/road-map/README.md)
   * [✔ 2022: Q3-Q4](overview/road-map/2022-q3-q4.md)
   * [✔ 2023: Q1-Q2](overview/road-map/2023-q1-q2.md)
-  * [🔛 2023: Q3-Q4](overview/road-map/2023-q3-q4.md)
+  * [✔ 2023: Q3-Q4](overview/road-map/2023-q3-q4.md)
+  * [🔛 2024: Q1-Q2](overview/road-map/2024-q1-q2.md)
   * [🔜 2024-2025 Initiative](overview/road-map/2024-2025-initiative.md)
 * [FAQ](overview/faq.md)
 
