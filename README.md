@@ -31,7 +31,7 @@ The ecosystem is backed by the $CGPT utility token, the infrastructure's backbon
 ### **Quick Stats:**
 
 **-** 120,000+ monthly active users\
-\- 27,000+ $CGPT token holders (decentralized)\
+\- 30,000+ $CGPT token holders (decentralized)\
 \- Listed on top CEXs (ByBit, KuCoin, Gate \&more) \
 \- Backed by Google, BNB, Tron & others\
 \- Partnered with 80+ leading Web3 companies ([full list](https://www.chaingpt.org/#team))
