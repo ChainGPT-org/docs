@@ -23,8 +23,8 @@ Before engaging with the SDK, ensure the following prerequisites are met:
 * **API Keys**: Acquisition of necessary API keys for seamless integration and functionality.
 * **Credits**: Credits are available in the web application [https://app.chaingpt.org/](https://app.chaingpt.org/).
 
-<figure><img src="../../../.gitbook/assets/image (10).png" alt="" width="419"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (10).png" alt="" width="419"><figcaption></figcaption></figure>
 
 
 
-[**Disclaimer**](../../../misc/legal-docs/disclaimer.md)
+[**Disclaimer**](../../../legal-docs/disclaimer.md)

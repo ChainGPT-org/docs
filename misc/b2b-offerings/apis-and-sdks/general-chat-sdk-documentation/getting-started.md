@@ -35,4 +35,4 @@ To install the General Chatbot SDK, follow these steps:
 
 
 
-[**Disclaimer**](../../../misc/legal-docs/disclaimer.md)
+[**Disclaimer**](../../../legal-docs/disclaimer.md)

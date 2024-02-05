@@ -187,4 +187,4 @@ For additional assistance, refer to the support channels on our website: [https:
 
 
 
-[**Disclaimer**](../../../misc/legal-docs/disclaimer.md)
+[**Disclaimer**](../../../legal-docs/disclaimer.md)

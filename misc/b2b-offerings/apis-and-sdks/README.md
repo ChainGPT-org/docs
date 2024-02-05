@@ -38,4 +38,4 @@ For businesses, the combination of ChainGPT's APIs and SDKs offers a robust tool
 
 
 
-[**Disclaimer**](../../misc/legal-docs/disclaimer.md)
+[**Disclaimer**](../../legal-docs/disclaimer.md)

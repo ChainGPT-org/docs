@@ -26,12 +26,12 @@ The solutions developed by ChainGPT are tailored for retail users and enterprise
 
 ### **$CGPT Utility Token:**
 
-The ecosystem is backed by the $CGPT utility token, the infrastructure's backbone. The $CGPT token grants holders & stakers access to DAO voting, staking, pad allocation, Freemium access to AI tools, airdrops & more. $CGPT is currently held on decentralized wallets by 27,000+ unique and active users.
+The ecosystem is backed by the $CGPT utility token, the infrastructure's backbone. The $CGPT token grants holders & stakers access to DAO voting, staking, pad allocation, Freemium access to AI tools, airdrops & more. $CGPT is currently held on decentralized wallets by 35,000+ unique and active users.
 
 ### **Quick Stats:**
 
 **-** 120,000+ monthly active users\
-\- 30,000+ $CGPT token holders (decentralized)\
+\- 35,000+ $CGPT token holders (decentralized)\
 \- Listed on top CEXs (ByBit, KuCoin, Gate \&more) \
 \- Backed by Google, BNB, Tron & others\
 \- Partnered with 80+ leading Web3 companies ([full list](https://www.chaingpt.org/#team))
