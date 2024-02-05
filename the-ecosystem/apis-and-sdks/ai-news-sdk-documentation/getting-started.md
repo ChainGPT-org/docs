@@ -10,7 +10,7 @@ To install the AI News SDK, please follow these steps:
    * For Windows, use the command prompt.
 3. **Run Installation Commands**: Execute the provided commands in your terminal or command prompt to install the SDK.
 
-<figure><img src="../../../../.gitbook/assets/image (6).png" alt="" width="527"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6).png" alt="" width="527"><figcaption></figcaption></figure>
 
 ### **2.2 Configuration**
 
@@ -28,4 +28,4 @@ The ChainGPT API SDK requires API keys for authentication. To set up your API ke
 
 
 
-[**Disclaimer**](../../../legal-docs/disclaimer.md)
+[**Disclaimer**](../../../misc/legal-docs/disclaimer.md)
