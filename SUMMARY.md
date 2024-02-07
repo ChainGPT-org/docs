@@ -24,10 +24,6 @@
   * [🔜 2024-2025 Initiative](overview/road-map/2024-2025-initiative.md)
 * [FAQ](overview/faq.md)
 
-***
-
-* [Untitled](untitled.md)
-
 ## The Ecosystem
 
 * [AI Tools & Applications](the-ecosystem/ai-tools-and-applications/README.md)
