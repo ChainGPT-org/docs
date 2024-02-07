@@ -24,6 +24,10 @@
   * [🔜 2024-2025 Initiative](overview/road-map/2024-2025-initiative.md)
 * [FAQ](overview/faq.md)
 
+***
+
+* [Untitled](untitled.md)
+
 ## The Ecosystem
 
 * [AI Tools & Applications](the-ecosystem/ai-tools-and-applications/README.md)
@@ -101,3 +105,10 @@
   * [Terms of Service](misc/legal-docs/terms-of-service.md)
   * [Cookies Policy](misc/legal-docs/cookies-policy.md)
   * [Disclaimer](misc/legal-docs/disclaimer.md)
+
+## Grant - $1M Ecosystem Fund
+
+* [Grant Mission and Scope](grant-usd1m-ecosystem-fund/grant-mission-and-scope.md)
+* [Grant Support](grant-usd1m-ecosystem-fund/grant-support.md)
+* [Application](grant-usd1m-ecosystem-fund/application.md)
+* [FAQ](grant-usd1m-ecosystem-fund/faq.md)
