@@ -8,6 +8,8 @@ coverY: 0
 
 ChainGPT is an advanced AI infrastructure that develops AI-powered technologies for the Web3, Blockchain, and Crypto space. We aim to improve the Web3 space for retail users & startups by developing AI-powered solutions designed explicitly for Web3. From LLMs to Web3 AI Tools, ChainGPT is the go-to place to boost your Web3 flow with Artificial Intelligence.
 
+To further empower innovation, **we've committed $1 million to our grant program**, supporting projects that leverage AI to advance the Web3 space.
+
 
 
 ### Grant Mission
