@@ -1,6 +1,6 @@
 # Getting Started
 
-### I**nstallation**
+## I**nstallation**
 
 To install the AI News SDK, please follow these steps:
 
@@ -18,14 +18,14 @@ yarn add ainews
 ```
 {% endcode %}
 
-### **Configuration**
+## **Configuration**
 
-#### **Credits System**
+### **Credits System**
 
 * **Initial Setup**: Start by acquiring credits in the web application [https://app.chaingpt.org/](https://app.chaingpt.org/). These credits are necessary to create an API key and access the SDK functionalities.
 * **Usage and Deduction**: Credits will be deducted with each request using the SDK.
 
-#### **Setup API Key**
+### **Setup API Key**
 
 * **Generating API Key**: Utilize the ChainGPT API SDK for authentication. In the web application, navigate to the API Dashboard and use the 'Create Secret Key' feature to generate and copy your API key.
 
@@ -33,7 +33,7 @@ yarn add ainews
 
 
 
-**Securing API Key**:
+### **Securing API Key**:
 
 * It is crucial to secure your API keys to control access effectively.
 * Avoid exposing the API keys in your code or public repositories.
@@ -42,12 +42,20 @@ yarn add ainews
 
 
 
-### Pricing
+#### Pricing
 
 The AI News SDK operates on a credit-based pricing model. Each request made through the SDK deducts one credit from the user's account. This model facilitates a pay-per-use structure, ensuring that users only pay for what they need, allowing for both flexibility and scalability.&#x20;
 
 Users can monitor and manage their credit usage via the [Webapp](https://app.chaingpt.org/), aligning with ChainGPT's user-centric approach to accessibility and transparency in service provision.&#x20;
 
 For additional details or to manage your credits, users should visit the [ChainGPT Webapp](https://app.chaingpt.org/).
+
+
+
+## Support
+
+For additional assistance, refer to Discord - [https://discord.gg/chaingpt](https://discord.gg/chaingpt)
+
+
 
 [**Disclaimer**](../../../legal-docs/disclaimer.md)

@@ -251,7 +251,7 @@ For detailed SDK code documentation, visit [npm package documentation](https://w
 
 ### **3.8 Support/Help**
 
-For additional assistance, refer to the support channels on our website: [https://www.chaingpt.org/](https://www.chaingpt.org/).
+For additional assistance, refer to Discord - [https://discord.gg/chaingpt](https://discord.gg/chaingpt)
 
 
 
