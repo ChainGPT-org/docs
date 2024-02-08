@@ -1,4 +1,4 @@
-# General Chat SDK Documentation
+# ChatBot SDK Documentation
 
 ## **1. Introduction**
 
@@ -12,19 +12,19 @@ This documentation offers an overview of the General Chatbot SDK, including its 
 
 * Developers
 * Software Engineers
-* System Integrators who are currently using or planning to utilize our SDK for their projects.
+* System Integrators currently use or plan to utilize our SDK for their projects.
 
 ### **1.3 Prerequisites**
 
 Before engaging with the SDK, ensure the following prerequisites are met:
 
-* **Supported Operating System**: Compatibility with operating systems like Windows, Linux, etc., with Node.js installed.
+* **Supported Operating System**: Compatibility with Windows, Linux, etc., with Node.js installed.
 * **Development Environment**: Access to an Integrated Development Environment (IDE), Node.js, etc.
 * **API Keys**: Acquisition of necessary API keys for seamless integration and functionality.
-* **Credits**: Credits are available in the web application [https://app.chaingpt.org/](https://app.chaingpt.org/).
+* **Credits**: Credits are available in the web application [https://app.chaingpt.org/addcredits](https://app.chaingpt.org/addcredits).
 
-<figure><img src="../../../../.gitbook/assets/image (10).png" alt="" width="419"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10).png" alt="" width="419"><figcaption></figcaption></figure>
 
 
 
-[**Disclaimer**](../../../legal-docs/disclaimer.md)
+[**Disclaimer**](../../../misc/legal-docs/disclaimer.md)

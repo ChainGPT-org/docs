@@ -18,7 +18,7 @@ Acting as the ultimate digital companion for navigating the volatile digital wor
 
 Built on a foundational dataset of resources extracted from every corner of the crypto, blockchain, and Web3 industry, ChainGPT's AI model possesses all variants of historical knowledge (including market data, technology, architecture, regulation, and everything) and evolves alongside the industry.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Applications:
 

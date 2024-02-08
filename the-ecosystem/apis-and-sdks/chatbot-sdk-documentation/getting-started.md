@@ -1,8 +1,6 @@
 # Getting Started
 
-## **2. Getting Started**
-
-### **2.1 Installation**
+### **Installation**
 
 To install the General Chatbot SDK, follow these steps:
 
@@ -12,13 +10,17 @@ To install the General Chatbot SDK, follow these steps:
    * Use the command prompt for Windows.
 3. **Run Installation Commands**: Execute the specific commands provided to install the SDK.
 
-<figure><img src="https://lh7-us.googleusercontent.com/sJlJB1xOJySEjoYSYaFDYvu-kZsLEItm5W9VaNhT4U97aASgvBIrEKjFFhyTc63NkEFf1HhpO6QmYVzmWsQSrTF8krsDgjrl8fVh2rk4katrGXBPK93YvPuPvB1CQDlYB30IqZP0t9m4kxCGP3ShuB4" alt="" width="563"><figcaption></figcaption></figure>
+```
+pm install --save @chaingpt/generalchator
+#or
+yarn add generalchat
+```
 
-### **2.2 Configuration**
+### **Configuration**
 
 #### **Credits System**
 
-* **Initial Setup**: Start by acquiring credits in the web application [https://app.chaingpt.org/](https://app.chaingpt.org/). These credits are necessary for creating an API key and accessing the SDK functionalities.
+* **Initial Setup**: Start by acquiring credits in the web application [https://app.chaingpt.org/](https://app.chaingpt.org/). These credits are necessary to create an API key and access the SDK functionalities.
 * **Usage and Deduction**: Credits will be deducted with each request using the SDK.
 
 #### **Setup API Key**
@@ -33,6 +35,15 @@ To install the General Chatbot SDK, follow these steps:
   * Store them in a secure location, and use environment variables or a secret management service for exposure to your application.
   * This method ensures you do not need to hard-code them in your codebase, enhancing security.
 
+### Pricing
 
+The General Chatbot SDK from ChainGPT operates on a credit-based system. Each request made through the SDK deducts one credit from the user's account. This model facilitates a pay-per-use structure, ensuring that users only pay for what they need, allowing for both flexibility and scalability.&#x20;
 
-[**Disclaimer**](../../../legal-docs/disclaimer.md)
+1. **Stream Response**: Each chat API request costs 1 Credit. Enabling chat history will result in an additional credit deduction.
+2. **BLOB Response**: Similar to Stream Response, each request deducts 1 Credit, with chat history also incurring an extra credit cost.
+
+Users can monitor and manage their credit usage via [the Webapp](https://app.chaingpt.org/addcredits), aligning with ChainGPT's user-centric approach to accessibility and transparency in service provision.&#x20;
+
+For additional details or to manage your credits, users should visit the [ChainGPT Webapp](https://app.chaingpt.org/addcredits).
+
+[**Disclaimer**](../../../misc/legal-docs/disclaimer.md)

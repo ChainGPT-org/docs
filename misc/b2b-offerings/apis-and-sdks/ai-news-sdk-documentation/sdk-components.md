@@ -7,7 +7,20 @@ To use the API key:
 1. Execute the specified commands.
 2. Paste the generated API key in the placeholder “Your ChainGPT API key”.
 
-<figure><img src="https://lh7-us.googleusercontent.com/F498Tw2ub6OuhhIkSoUjWiUyDsz52cfOY8Qq9LjVB8MDIGvlCQqymMxXkyImOE0tKD3J6G8O7OrM2Z_YCrRtGtKgMShqY7fFbO2Ge_Z2fNU09wv3K83eFTO4jWdPxU7X3EjyY3qS8ygu-m3GgNCZVos" alt="" width="563"><figcaption></figcaption></figure>
+```javascript
+import { AInews } from '@chaingpt/ainews';
+
+const ainews = new AInews({
+  apiKey: 'Your ChainGPT API Key',
+});
+
+async function main() {
+  const response = await ainews.getNews({});
+  console.log(response.data.rows);
+}
+
+main();
+```
 
 ## **3. SDK Components**
 
@@ -17,11 +30,28 @@ Our SDK offers TypeScript/JavaScript libraries with support for Node.js. To inst
 
 1. Run the installation command.
 
-<figure><img src="https://lh7-us.googleusercontent.com/QZCztaaHPJE_XEsaXwp2BBeiQrBPQ5l6scnlskgr6I9laDE-ngS7og0xIUn4BAANt5yU7Gn4qnvokJ_iOhId-hyG3EWxdN2cN4V1YinhMthqWktiZXTsUDBIAhM8MsCmX20xkaCmSqd-BYxxUPnh8EM" alt="" width="563"><figcaption></figcaption></figure>
+```plaintext
+npm install --save @chaingpt/ainews
+# or
+yarn add ainews
+```
 
 2. Use the library and your secret key for further operations once installed.
 
-<figure><img src="https://lh7-us.googleusercontent.com/fgLQuiiaJ11-aN9P6apbQ0aoWy7ju8y2XbGDAXPot3soH20E6fy9HTUNrZ-UTZ56vmDuiuBcWCOPXJLJjmr0y0x1cVVJkMWhLPVvgSVilny7iXxygQhV0ZUU-esQDTOk57NtrDcttnHWs24RCAIYnDU" alt="" width="563"><figcaption></figcaption></figure>
+```javascript
+import { AInews } from '@chaingpt/ainews';
+
+const ainews = new AInews({
+  apiKey: 'Your ChainGPT API Key',
+});
+
+async function main() {
+  const response = await ainews.getNews({});
+  console.log(response.data.rows);
+}
+
+main();
+```
 
 ### **3.2 Advanced Features**
 
@@ -34,9 +64,28 @@ ChainGPT AI News SDK provides several advanced features:
 * **Date-Based News Retrieval**: Acquire AI news from a specific date, sorted by creation or publication date.
 * **ID Access for Categories, Subcategories, and Tokens**: Users can access these using specific IDs.
 
-<figure><img src="https://lh7-us.googleusercontent.com/y1B0I8kgVFNCWz6jQ07aIyFHmd8NhLB9Oo1jk-1gf8TCT5WnnxthZog78Dlh9auvHS0YPgBTIVgnG3Y4jT4CUPKUQaqWUJI2aavxc40CbLhqXhwBw4Kw7Nwzdp77_tnDRZdXG5AAuYBm-kCPXZUGIyc" alt="" width="563"><figcaption></figcaption></figure>
+```javascript
+ainews.getNews({
+  fetchAfter: new Date(''), // Fetch news after specific date
+  categoryId: [1], // Search AI News against specific category i.e NFT, Blockchain, DEFI etc
+  subCategoryId: [1], // Search AI News against subcategory i.e BNB chain, CELO, COSMOS etc.
+  searchQuery: "search text", // Search for News on the basis of title and description
+  limit: 10,
+  offset: 0,
+  tokenId: [1], // Search AINews against token i.e. BNB, Ethereum, Bitcoin etc
+  sortBy: 'createdAt', // sorting News by created date
+}).then((res) => {
+  console.log(res)
+}).catch((err) => {
+  if (err instanceof nErrors.AINewsError) {
+    console.log(err.message);
+  }
+});
+```
 
-Users can access different categories using the following IDs:
+
+
+#### **Users can access different categories using the following IDs:**
 
 | Category                    | ID |
 | --------------------------- | -- |
@@ -64,7 +113,9 @@ Users can access different categories using the following IDs:
 | Cross-Chain Transactions    | 77 |
 | Exchange                    | 78 |
 
-Users can access the following sub-categories using the specified IDs:
+
+
+#### **Users can access the following sub-categories using the specified IDs:**
 
 | Sub-Category        | ID |
 | ------------------- | -- |
@@ -121,7 +172,9 @@ Users can access the following sub-categories using the specified IDs:
 | Theta               | 61 |
 | Thundercore         | 62 |
 
-Users can access the following tokens using the specified IDs:
+
+
+#### Users can access the following tokens using the specified IDs:
 
 | Token                  | ID  |
 | ---------------------- | --- |
@@ -160,7 +213,22 @@ Users can access the following tokens using the specified IDs:
 
 In case of connection issues to the API or non-success status codes (4xx or 5xx responses), an `AINewsError` a class error will be thrown.
 
-<figure><img src="https://lh7-us.googleusercontent.com/zpJyGP_1TI_dAdGXNfbZ0ySewiXG6vhfFEg3j0IyRVvttlG-gWPZ2M2YQ8ubxaSqwqmvQxTxeaOroKbPG28szsC2Y5OwEbYviWYJkktHGS6tmxRzdFYnH3Sd0RKj67WewvjiMn-317G0Kp-KYO5PMfc" alt="" width="563"><figcaption></figcaption></figure>
+```javascript
+import { Errors } from '@chaingpt/ainews';
+
+async function main() {
+  try {
+    const response = await ainews.getNews({});
+    console.log(response.data.rows);
+  } catch (error) {
+    if (error instanceof Errors.AINewsError) {
+      console.log(error.message)
+    }
+  }
+}
+
+main();
+```
 
 ### **3.4 Language/Framework Compatibility**
 
@@ -170,7 +238,7 @@ Our SDK is compatible with JavaScript and is designed to run on Node.js applicat
 
 * **Authentication**: SDK access is secured via an authentication key.
 * **Credits System**: Users with credits and a valid API key can access the SDK.
-* **Request Limitation**: To prevent misuse, there is a limit of 200 requests per minute, with 1 credit deducted per request.
+* **Request Limitation**: To prevent misuse, 200 requests per minute are limited, with 1 credit deducted per request.
 
 ### **3.6 Release Version**
 

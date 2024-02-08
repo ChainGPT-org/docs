@@ -1,6 +1,6 @@
 # Getting Started
 
-### **2.1 Installation**
+### I**nstallation**
 
 To install the AI News SDK, please follow these steps:
 
@@ -10,22 +10,44 @@ To install the AI News SDK, please follow these steps:
    * For Windows, use the command prompt.
 3. **Run Installation Commands**: Execute the provided commands in your terminal or command prompt to install the SDK.
 
-<figure><img src="../../../../.gitbook/assets/image (6).png" alt="" width="527"><figcaption></figcaption></figure>
+{% code fullWidth="false" %}
+```plaintext
+npm install --save @chaingpt/ainews
+# or
+yarn add ainews
+```
+{% endcode %}
 
-### **2.2 Configuration**
+### **Configuration**
 
 #### **Credits System**
 
-Before using the SDK, ensure you have sufficient credits in the web application [https://app.chaingpt.org/](https://app.chaingpt.org/). These credits are essential for:
-
-* Generating an API key.
-* Accessing SDK features.
-* Deduction of credits occurs with each SDK request.
+* **Initial Setup**: Start by acquiring credits in the web application [https://app.chaingpt.org/](https://app.chaingpt.org/). These credits are necessary to create an API key and access the SDK functionalities.
+* **Usage and Deduction**: Credits will be deducted with each request using the SDK.
 
 #### **Setup API Key**
 
-The ChainGPT API SDK requires API keys for authentication. To set up your API key:
+* **Generating API Key**: Utilize the ChainGPT API SDK for authentication. In the web application, navigate to the API Dashboard and use the 'Create Secret Key' feature to generate and copy your API key.
+
+<figure><img src="../../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 
+
+**Securing API Key**:
+
+* It is crucial to secure your API keys to control access effectively.
+* Avoid exposing the API keys in your code or public repositories.
+* Store them in a secure location, and use environment variables or a secret management service for exposure to your application.
+* This method ensures you do not need to hard-code them in your codebase, enhancing security.
+
+
+
+### Pricing
+
+The AI News SDK operates on a credit-based pricing model. Each request made through the SDK deducts one credit from the user's account. This model facilitates a pay-per-use structure, ensuring that users only pay for what they need, allowing for both flexibility and scalability.&#x20;
+
+Users can monitor and manage their credit usage via [the Webapp](https://app.chaingpt.org/addcredits), aligning with ChainGPT's user-centric approach to accessibility and transparency in service provision.&#x20;
+
+For additional details or to manage your credits, users should visit the [ChainGPT Webapp](https://app.chaingpt.org/addcredits).
 
 [**Disclaimer**](../../../legal-docs/disclaimer.md)

@@ -16,7 +16,7 @@ Tiers represent the degree of a user's commitment to the ChainGPT ecosystem as d
 
 Four distinct tiers have been established: bronze, silver, gold, and diamond. Every tier has its own CGPT(sp) requirements and provides its own unique set of benefits.
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <details>
 
