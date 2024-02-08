@@ -46,8 +46,8 @@ yarn add ainews
 
 The AI News SDK operates on a credit-based pricing model. Each request made through the SDK deducts one credit from the user's account. This model facilitates a pay-per-use structure, ensuring that users only pay for what they need, allowing for both flexibility and scalability.&#x20;
 
-Users can monitor and manage their credit usage via [the Webapp](https://app.chaingpt.org/addcredits), aligning with ChainGPT's user-centric approach to accessibility and transparency in service provision.&#x20;
+Users can monitor and manage their credit usage via the [Webapp](https://app.chaingpt.org/), aligning with ChainGPT's user-centric approach to accessibility and transparency in service provision.&#x20;
 
-For additional details or to manage your credits, users should visit the [ChainGPT Webapp](https://app.chaingpt.org/addcredits).
+For additional details or to manage your credits, users should visit the [ChainGPT Webapp](https://app.chaingpt.org/).
 
 [**Disclaimer**](../../../legal-docs/disclaimer.md)

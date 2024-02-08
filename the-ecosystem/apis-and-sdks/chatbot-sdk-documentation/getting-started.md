@@ -42,8 +42,8 @@ The General Chatbot SDK from ChainGPT operates on a credit-based system. Each re
 1. **Stream Response**: Each chat API request costs 1 Credit. Enabling chat history will result in an additional credit deduction.
 2. **BLOB Response**: Similar to Stream Response, each request deducts 1 Credit, with chat history also incurring an extra credit cost.
 
-Users can monitor and manage their credit usage via [the Webapp](https://app.chaingpt.org/addcredits), aligning with ChainGPT's user-centric approach to accessibility and transparency in service provision.&#x20;
+Users can monitor and manage their credit usage via the [Webapp](https://app.chaingpt.org/), aligning with ChainGPT's user-centric approach to accessibility and transparency in service provision.&#x20;
 
-For additional details or to manage your credits, users should visit the [ChainGPT Webapp](https://app.chaingpt.org/addcredits).
+For additional details or to manage your credits, users should visit the ChainGPT [Webapp](https://app.chaingpt.org/).
 
 [**Disclaimer**](../../../misc/legal-docs/disclaimer.md)

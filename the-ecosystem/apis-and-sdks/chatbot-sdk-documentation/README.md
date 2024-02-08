@@ -21,7 +21,7 @@ Before engaging with the SDK, ensure the following prerequisites are met:
 * **Supported Operating System**: Compatibility with Windows, Linux, etc., with Node.js installed.
 * **Development Environment**: Access to an Integrated Development Environment (IDE), Node.js, etc.
 * **API Keys**: Acquisition of necessary API keys for seamless integration and functionality.
-* **Credits**: Credits are available in the web application [https://app.chaingpt.org/addcredits](https://app.chaingpt.org/addcredits).
+* **Credits**: Credits are available in the web application [https://app.chaingpt.org/](https://app.chaingpt.org/addcredits).
 
 <figure><img src="../../../.gitbook/assets/image (10).png" alt="" width="419"><figcaption></figcaption></figure>
 
