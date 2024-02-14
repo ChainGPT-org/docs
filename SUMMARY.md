@@ -43,6 +43,7 @@
   * [ChatBot SDK Documentation](the-ecosystem/apis-and-sdks/chatbot-sdk-documentation/README.md)
     * [Getting Started](the-ecosystem/apis-and-sdks/chatbot-sdk-documentation/getting-started.md)
     * [SDK Components](the-ecosystem/apis-and-sdks/chatbot-sdk-documentation/sdk-components.md)
+  * [Pricing and usage tracking](the-ecosystem/apis-and-sdks/pricing-and-usage-tracking.md)
 * [LLMs & TTIMs](the-ecosystem/llms-and-ttims.md)
 * [CGPT Utility Token](the-ecosystem/cgpt-utility-token/README.md)
   * [Tokenomics](the-ecosystem/cgpt-utility-token/tokenomics.md)
