@@ -41,7 +41,7 @@ Our support includes funding, promotion, technical assistance, and potential par
 
 ### Forms of Support
 
-* **Financial:** In the form of CGPT tokens or USDC (a stablecoin).
+* **Financial:** In the form of API Credits.
 * **Promotional:** Including promotion on social media and co-marketing efforts.
 * **Technical:** Offering tech support to integrate with or build on ChainGPT.
 * **Partnership:** The opportunity for an official collaboration with ChainGPT.
