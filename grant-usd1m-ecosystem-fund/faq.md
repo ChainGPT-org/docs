@@ -13,7 +13,7 @@
 6. **What do you mean by "legal status"?**
    * Indicate whether you're applying as an individual, a registered company, or a nonprofit. Include your country of registration.
 7. **Is an ETH Wallet Address required for all grants?**
-   * Yes, payment will be made in cryptocurrency (CGPT tokens/USDC), so an Ethereum wallet address is necessary for fund transfer.
+   * Yes, payment will be made in cryptocurrency, so an Ethereum wallet address is necessary for fund transfer.
 8. **Can I apply if I've previously received a grant from ChainGPT?**
    * Yes, but please detail the outcomes of your previous project and how this new proposal differs or builds upon your past work.
 9. **What if my project Twitter link or website is not ready?**
