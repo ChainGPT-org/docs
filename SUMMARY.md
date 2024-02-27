@@ -105,7 +105,7 @@
 
 ## Grant - $1M Ecosystem Fund
 
-* [Grant Mission and Scope](grant-usd1m-ecosystem-fund/grant-mission-and-scope.md)
-* [Grant Support](grant-usd1m-ecosystem-fund/grant-support.md)
+* [Grant Mission and Scope](grant-usd1m-ecosystem-fund/grant-mission-and-scope/README.md)
+  * [Grant Support](grant-usd1m-ecosystem-fund/grant-mission-and-scope/grant-support.md)
 * [Application](grant-usd1m-ecosystem-fund/application.md)
 * [FAQ](grant-usd1m-ecosystem-fund/faq.md)
