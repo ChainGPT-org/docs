@@ -61,6 +61,7 @@
 * [Ellipal](https://www.ellipal.com/)
 * [FoxWallet](https://foxwallet.com/)
 * [Bitget Wallet](https://web3.bitget.com/)
+* [iMe](https://imem.app/)
 
 ## Browsers
 
