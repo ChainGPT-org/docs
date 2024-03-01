@@ -19,7 +19,6 @@ const generalchat = new GeneralChat({
 async function main() {
   const stream = await generalchat.createChatStream({
     question: 'Explain quantum computing in simple terms',
-    model: "general_assistant",
     chatHistory: "off"
   });
   stream.on('data', (chunk: any) => console.log(chunk.toString()));
@@ -56,7 +55,6 @@ const generalchat = new GeneralChat({
 async function main() {
   const stream = await generalchat.createChatStream({
     question: 'Explain quantum computing in simple terms',
-    model: "general_assistant",
     chatHistory: "off"
   });
   stream.on('data', (chunk: any) => console.log(chunk.toString()));
@@ -84,7 +82,6 @@ const generalchat = new GeneralChat({
 async function main() {
   const stream = await generalchat.createChatStream({
     question: 'Explain quantum computing in simple terms',
-    model: "general_assistant",
     chatHistory: "off"
   });
   stream.on('data', (chunk: any) => console.log(chunk.toString()));
@@ -112,7 +109,6 @@ const generalchat = new GeneralChat({
 async function main() {
   const response = await generalchat.createChatBlob({
     question: 'Explain quantum computing in simple termsQQQ',
-    model: "general_assistant",
     chatHistory: "on"
   })
   console.log(response.data.bot);
@@ -162,7 +158,6 @@ async function main() {
   try {
     const stream = await generalchat.createChatStream({
       question: 'Explain quantum computing in simple terms',
-      model: "general_assistant",
       chatHistory: "off"
     });
     stream.on('data', (chunk: any) => console.log(chunk.toString()));
