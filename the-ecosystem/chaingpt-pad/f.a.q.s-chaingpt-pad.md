@@ -119,7 +119,7 @@ Cryptocurrencies: BNB, ETH
 
 <summary>What countries are restricted from IDOs?</summary>
 
-Currently, everyone can pass a KYC & sign up for ChainGPT Pad. However, countries that have banned cryptocurrencies will not be eligible to participate in IDOs.\
+Currently, everyone can pass a KYC & sign up for ChainGPT Pad. However, countries that have banned cryptocurrencies will not be eligible to participate in IDOs. Any countries not listed below, who do not have an outright crypto ban, will be determined by the project. This includes the US, Canada, and other countries where crypto regulations have not yet been clearly established.\
 \
 Restricted countries: Bangladesh, China, Algeria, Iraq, Morocco, Nepal, Qatar, Tunisia.\
 \
