@@ -31,7 +31,7 @@ Our support includes funding, promotion, technical assistance, and potential par
 1. **Growth Grants ($10K - $50K):** Designed for projects that already have some traction and are looking to:
    * Integrate with ChainGPT.
    * Enhance their product offerings with top-notch AI capabilities.
-   * Join ChainGTP [acceleration and incubation](../../the-ecosystem/chaingpt-pad/) programs.
+   * Join ChainGPT [acceleration and incubation](../../the-ecosystem/chaingpt-pad/) programs.
 2. **Builder Grants (up to $10K):** Aimed at early-stage projects focused on creating a minimum viable product (MVP), proof of concept, or experiments. It's especially suited for projects that are:
    * Testing integration with ChainGPT.
    * Time-sensitive with a small scope for execution.
