@@ -19,7 +19,7 @@ This documentation serves as a comprehensive guide to the features and usage of 
 * Software Engineers
 * System Integrators
 
-who are utilizing, or intend to use, our SDK for developing AI news applications.
+who are utilizing, or intend to use, our SDK to develop AI news applications.
 
 ### **1.3 Prerequisites**
 

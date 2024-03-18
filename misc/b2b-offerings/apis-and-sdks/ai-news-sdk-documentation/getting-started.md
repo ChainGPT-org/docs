@@ -42,7 +42,7 @@ yarn add ainews
 
 
 
-#### Pricing
+## Pricing
 
 The AI News SDK operates on a credit-based pricing model. Each request made through the SDK deducts one credit from the user's account. This model facilitates a pay-per-use structure, ensuring that users only pay for what they need, allowing for both flexibility and scalability.&#x20;
 

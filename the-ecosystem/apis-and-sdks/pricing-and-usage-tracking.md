@@ -21,6 +21,22 @@ For additional details or to manage your credits, users should visit the [ChainG
 
 
 
+### Smart contract auditor SDK
+
+#### Stream Response:
+
+1. On sending each chat API request, 5 Credits will be deducted from the user account in WebApp.&#x20;
+2. In addition, if the user enables the chat history feature, an additional 1 Credit will be deducted.
+
+#### Blob Response:
+
+1. On sending each API request, 5 Credits will be deducted from the user account in WebApp.&#x20;
+2. In addition, if the user enables the chat history feature, an additional 1 Credit will be deducted.
+
+#### Get Chat history:
+
+1. Since the user has already enabled the chat history feature while calling the stream/blob response chat API, no additional credits will be deducted for the Get credit history API.
+
 ### Trace your usage&#x20;
 
 To trace SDK  and API usage, follow your usage dashboard here - [https://app.chaingpt.org/apidashboard](https://app.chaingpt.org/apidashboard).&#x20;
