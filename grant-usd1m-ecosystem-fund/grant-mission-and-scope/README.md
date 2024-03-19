@@ -27,4 +27,4 @@ Chatbot, Trading tools, Dev tooling, NFT marketplace, community tooling, integra
 * Innovative projects backed by solid tech teams with creative ideas that harness the power of AI x Blockchain.
 * Projects that expand the capabilities of the ChainGPT ecosystem, community, and products.
 * Web3 and blockchain communities strive to boost their engagement through AI capabilities.
-* AI X Web3 researchers exploring cutting-edge technologies.
+* AI x Web3 researchers exploring cutting-edge technologies.
