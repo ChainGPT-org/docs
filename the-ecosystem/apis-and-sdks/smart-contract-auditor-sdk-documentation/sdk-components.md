@@ -8,35 +8,23 @@ To use the API key:
 2. Paste the generated API key in the “Your ChainGPT API key” placeholder.
 
 ```javascript
-import { SmartContractAuditor } from "@chaingpt/smartcontractauditor";
+import { GeneralChat } from '@chaingpt/smartcontractauditor';
 
-const smartcontractauditor = new SmartContractAuditor({
-  apiKey: "Your_ChaingPT_API_Key",
+const generalchat = new GeneralChat({
+  apiKey: 'Your ChainGPT API Key',
 });
 
 async function main() {
-  const stream = await smartcontractauditor.auditSmartContractStream({
-    question:
-      `Audit the following contract:
-      pragma solidity ^0.8.0;
-      contract Counter {
-        uint256 private count; // This variable will hold the count
-        constructor() {
-          count = 0; // Initialize count to 0
-        }
-        function increment() public {
-          count += 1;
-          emit CountChanged(count); // Emit an event whenever the count changes
-        }
-      }`,
-    chatHistory: "on"
+  const stream = await generalchat.createChatStream({
+    question: 'Explain quantum computing in simple terms',
+    chatHistory: "off"
   });
-
   stream.on('data', (chunk: any) => console.log(chunk.toString()));
   stream.on('end', () => console.log("Stream ended"));
 }
 
 main();
+
 ```
 
 ##
@@ -46,7 +34,7 @@ main();
 We provide TypeScript/ JavaScript libraries with support for Node.js. Install it by running:
 
 ```
-npm install --save @chaingpt/smartcontractgenerator
+npm install --save @chaingpt/smartcontractauditor
 # or
 yarn add smartcontractgenerator
 ```
