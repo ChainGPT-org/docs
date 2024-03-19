@@ -9,7 +9,7 @@ To install the SDK, follow the instructions, follow the steps below
 3. Run the following commands.
 
 ```
-npm install --save @chaingpt/smartcontractgenerator
+npm install --save @chaingpt/smartcontractauditor
 # or
 yarn add smartcontractgenerator
 ```
@@ -18,7 +18,7 @@ yarn add smartcontractgenerator
 
 ### Credits System&#x20;
 
-Users must start by having credits in the web app, https://app.chaingpt.org/. These credits will allow users to create API keys and access SDK. Credits will be deducted from each request made using SDK.
+Users must start by getting credits on the web app, https://app.chaingpt.org/. These credits will allow users to create API keys and access SDK. Credits will be deducted from each request made using SDK.
 
 
 
@@ -36,24 +36,24 @@ Users must start by having credits in the web app, https://app.chaingpt.org/. Th
 
 * It is crucial to secure your API keys to control access effectively.
 * Avoid exposing the API keys in your code or public repositories.
-* Store them in a secure location, and use environment variables or a secret management service for exposure to your application.
+* Store them in a secure location, and use environment variables or a secret management service to expose them to your application.
 * This method ensures you do not need to hard-code them in your codebase, enhancing security.
 
 ## Pricing
 
 #### Stream Response
 
-1. On sending each chat API request, 5 Credits will be deducted from the user account in WebApp.&#x20;
+1. On sending each chat API request, 1 Credit will be deducted from the user account in WebApp.&#x20;
 2. In addition, if the user enables the chat history feature, an additional 1 Credit will be deducted.
 
 #### Blob Response
 
-1. On sending each API request, 5 Credits will be deducted from the user account in WebApp.&#x20;
+1. On sending each API request, 1 Credit will be deducted from the user account in WebApp.&#x20;
 2. In addition, if the user enables the chat history feature, an additional 1 Credit will be deducted.
 
-#### Get Chat history
+#### Get Chat History
 
-1. Since the user has already enabled the chat history feature while calling stream/blob response chat API, no additional credits will be deducted on calling the Get credit history API.
+1. Since the user has already enabled the chat history feature while calling the stream/blob response chat API, no additional credits will be deducted for the Get credit history API.
 
 ## Support
 
