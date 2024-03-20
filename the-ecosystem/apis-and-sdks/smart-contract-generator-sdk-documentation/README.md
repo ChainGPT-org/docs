@@ -4,7 +4,7 @@
 
 ### 1.1    Purpose and Scope of Smart Contract Generator SDK
 
-Our mart Contract Generator SDK (Software Development Kit) serves as a library/ docs for developers to build and integrate our smart contract generator functionality into their applications, platforms, or services.&#x20;
+Our Smart Contract Generator SDK (Software Development Kit) serves as a library/ docs for developers to build and integrate our smart contract generator functionality into their applications, platforms, or services.&#x20;
 
 ### 1.2    Audience of document / SDK
 
