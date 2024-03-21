@@ -25,12 +25,12 @@ For additional details or to manage your credits, users should visit the [ChainG
 
 ### Stream Response:
 
-1. On sending each chat API request, 1 Credit will be deducted from the user account in WebApp.&#x20;
+1. On sending each chat API request, 5 Credits will be deducted from the user account in WebApp.&#x20;
 2. In addition, if the user enables the chat history feature, an additional 1 Credit will be deducted.
 
 ### Blob Response:
 
-1. On sending each API request, 1 Credit will be deducted from the user account in WebApp.&#x20;
+1. On sending each API request, 5 Credits will be deducted from the user account in WebApp.&#x20;
 2. In addition, if the user enables the chat history feature, an additional 1 Credit will be deducted.
 
 #### Get Chat history:
