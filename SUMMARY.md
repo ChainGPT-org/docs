@@ -36,7 +36,7 @@
   * [Prompt Marketplace](the-ecosystem/ai-tools-and-applications/prompt-marketplace.md)
   * [Pricing & Membership Plans](the-ecosystem/ai-tools-and-applications/pricing-and-membership-plans.md)
   * [AI Cross-Chain Swap](the-ecosystem/ai-tools-and-applications/ai-cross-chain-swap.md)
-  * [CryptoGuard: Web3 Shield](the-ecosystem/ai-tools-and-applications/cryptoguard-web3-shield.md)
+  * [CryptoGuard Extension: Your Web3 Shield](the-ecosystem/ai-tools-and-applications/cryptoguard-extension-your-web3-shield.md)
 * [APIs & SDKs](misc/b2b-offerings/apis-and-sdks/README.md)
   * [AI News SDK Documentation](misc/b2b-offerings/apis-and-sdks/ai-news-sdk-documentation/README.md)
     * [Getting Started](misc/b2b-offerings/apis-and-sdks/ai-news-sdk-documentation/getting-started.md)
