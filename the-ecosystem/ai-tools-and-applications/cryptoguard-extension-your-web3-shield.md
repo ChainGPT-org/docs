@@ -133,7 +133,7 @@ Here’s how it works:
 
 ## Getting started&#x20;
 
-[Download CryptoGaurd Extention](https://chromewebstore.google.com/search/CryptoGuard%20-%20by%20ChainGPT%20AI)
+[Download CryptoGaurd Extension](https://chromewebstore.google.com/search/CryptoGuard%20-%20by%20ChainGPT%20AI)
 
 [Get Support on Discord ](https://discord.com/invite/sv2NfqSgVW)
 
