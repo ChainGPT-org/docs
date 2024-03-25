@@ -43,11 +43,9 @@ The Senior Performance Marketer will play a pivotal role in our growth strategy,
 
 The Senior Performance Marketer will play a pivotal role in our growth strategy, focusing on the execution, optimization, and analysis of our paid advertising campaigns across various digital platforms. With a deep understanding of Google Analytics, Google Tag Manager, and on-chain data analytics and a proven track record in managing successful Paid campaigns with a budget of at least $500K and traffic of 1M/monthly visitors, the ideal candidate will drive our efforts to acquire high-quality leads and maximize ROI.
 
-####
-
 \
 
 
-Interested candidates are encouraged to apply with their updated CV and cover letter. Thank you for considering a career with ChainGPT.
+Interested candidates are encouraged to apply with their updated CV and cover letter to jobs@chaingpt.org. Thank you for considering a career with ChainGPT.
 
 \
