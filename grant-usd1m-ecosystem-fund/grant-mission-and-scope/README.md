@@ -16,7 +16,7 @@ To further empower innovation, **we've committed $1 million to our grant program
 
 ### Grant Mission
 
-Backing innovators in AI and blockchai&#x20;
+Backing innovators in AI and blockchain.
 
 ### Scope - AI X Blockchain:&#x20;
 
