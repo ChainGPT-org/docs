@@ -24,7 +24,7 @@ Round two, the First Come First Serve, is open to the broader ChainGPT community
 
 Round #2 will last for 12 hours unless otherwise specified.
 
-_In the event that a project meets its maximum IDO capacity during the first round of guaranteed allocations, the IDO shall immediately halt and complete. This renders the FCFS round no longer applicable to the IDO._
+_Should a project reach 99% of its maximum IDO capacity during the first round of guaranteed allocations, the IDO will immediately conclude the first round. At least 1% of the capacity will always be reserved for the second round, designated for First Come, First Serve (FCFS) participants._
 
 
 
