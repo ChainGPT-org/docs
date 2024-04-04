@@ -4,6 +4,8 @@
 
 * [BNB Chain](https://www.bnbchain.org/en)
 * [Tron](https://trondao.org/)
+* [Sei](https://www.sei.io/)
+* [Skale](https://skale.space/)
 
 ## AI / Machine Learning
 
@@ -62,6 +64,8 @@
 * [FoxWallet](https://foxwallet.com/)
 * [Bitget Wallet](https://web3.bitget.com/)
 * [iMe](https://imem.app/)
+* [imToken](https://token.im/)
+* [Coin98](https://coin98.com/)
 
 ## Browsers
 
@@ -115,6 +119,7 @@
 * [Moralis](https://moralis.io/)
 * [Li.Fi](https://li.fi/)
 * [Dechat](https://www.dechat.io/)
+* [RACA3](https://www.raca3.com/)
 
 
 
