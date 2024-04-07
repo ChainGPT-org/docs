@@ -35,15 +35,25 @@ Are you ready to shape the future of Artificial Intelligence, blockchain, and cr
 * Process-oriented Mindset: Thrive in a dynamic startup environment where you can contribute to creating and optimizing financial processes. Your ability to design and implement financial systems and controls will ensure operational efficiency and scalability. Embrace the opportunity to shape our financial operations as we grow.
 * Clear Communication and Leadership: Exhibit exceptional communication and leadership skills, enabling you to collaborate effectively with cross-functional teams and influence stakeholders at all levels. Your ability to build and inspire a finance team will contribute to our success.
 * Fluency in English: Possess strong communication skills in English, both written and verbal.
-* Thrives in a Fast-paced Startup Environment: Demonstrate the ability to thrive in a fast-paced, dynamic startup environment. Embrace ambiguity, adapt quickly to changing priorities, and excel under pressure. Your proactive mindset and willingness to learn and grow will be critical to your success.\
+* Thrives in a Fast-paced Startup Environment: Demonstrate the ability to thrive in a fast-paced, dynamic startup environment. Embrace ambiguity, adapt quickly to changing priorities, and excel under pressure. Your proactive mindset and willingness to learn and grow will be critical to your success.
 
+#### Company Culture and Values
 
-At ChainGPT, we value Trust, Effective Speed, Innovation, and Growth. As our CFO, you will embody these core values and have the opportunity to contribute to our culture and drive our financial success. Join us on this exciting journey as we shape the future of blockchain and crypto technology.
+At ChainGPT, we value Trust, Effective Speed, Innovation, and Growth. As our KOL Manager, you will embody these core values and have the opportunity to contribute to our culture and help drive our success. Join us on this exciting journey as we shape the future of blockchain and crypto technology.
 
-To apply, please submit your resume and a cover letter describing your relevant experience.
+#### Application Process
 
-This is a part-time position. We are looking for our CFO to work up to 20 hours weekly. We would love to hear from you if you are passionate about blockchain technology and would like to work with a dynamic and growing company.
+To apply, please submit your resume, cover letter describing your relevant experience, and LinkedIn to [jobs@chaingpt.org](mailto:jobs@chaingpt.org). We would love to hear from you if you are passionate about blockchain technology and would like to work with a dynamic and growing company.
 
-A KYC must be passed for an offer of employment. In addition, all employees are required to sign an NDA.
+#### Additional Information
+
+1. Employment Compliance and Confidentiality:
+   1. KYC and NDA Requirements: All candidates extended an offer of employment must complete a Know Your Customer (KYC) process and sign a Non-Disclosure Agreement (NDA) to protect sensitive company information.
+2. Employment Structure:
+   1. Contractor Status: All positions are offered on a contractor basis. As such, individuals will be responsible for their tax obligations in accordance with local, state, and federal law. We recommend consulting with a tax advisor to ensure compliance.
+3. Compensation:
+   1. Cryptocurrency Payments: Compensation is provided in cryptocurrency (USDT BEP20) to align with our company's focus on blockchain technology. Payments are issued bi-monthly, on the 1st and 16th of each month.
+4. Probationary Period:
+   1. Initial Assessment: All new hires will undergo a 60-day probationary period to ensure mutual compatibility. During this time, both the employee and ChainGPT can evaluate the employment relationship.
 
 \

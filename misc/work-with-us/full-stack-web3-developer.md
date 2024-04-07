@@ -31,8 +31,7 @@ Are you ready to shape the future of Artificial Intelligence, blockchain, and cr
 * Security: Implement security best practices, conduct regular smart contract audits, and safeguard applications against common vulnerabilities.
 * Documentation: Document codebase, API endpoints, and smart contract functionalities using tools like Swagger or Postman. Maintain clear READMEs for repositories.
 * Mentorship: Guide junior developers in understanding blockchain intricacies, share knowledge on forums like Stack Overflow, and conduct internal tech talks.
-* Problem-solving: Debug issues using tools like Chrome DevTools, Metamask Inspector, or Infura. Ensure high availability and fault tolerance of applications.\
-
+* Problem-solving: Debug issues using tools like Chrome DevTools, Metamask Inspector, or Infura. Ensure high availability and fault tolerance of applications.
 
 **Requirements:**
 
@@ -51,12 +50,23 @@ Are you ready to shape the future of Artificial Intelligence, blockchain, and cr
 * Professional Experience: A minimum of 3-5 years of experience in full-stack development, with at least 2 years focused on web3 and blockchain technologies.\
 
 
-At ChainGPT, we value Trust, Effective Speed, Innovation, and Growth. As our Full Stack Developer, you will exemplify these core values and play a pivotal role in shaping our technological landscape. Your expertise will be instrumental in enhancing our platform and influencing our company's direction. Join us on this thrilling journey as we push the boundaries of blockchain and crypto technology.
+#### Company Culture and Values
 
-To apply, please submit your resume and a cover letter describing your relevant experience.
+At ChainGPT, we value Trust, Effective Speed, Innovation, and Growth. As our KOL Manager, you will embody these core values and have the opportunity to contribute to our culture and help drive our success. Join us on this exciting journey as we shape the future of blockchain and crypto technology.
 
-This is a full-time position. We would love to hear from you if you are passionate about blockchain technology and would like to work with a dynamic and growing company.
+#### Application Process
 
-A KYC must be passed for an offer of employment. In addition, all employees are required to sign an NDA.
+To apply, please submit your resume, cover letter describing your relevant experience, and LinkedIn to [jobs@chaingpt.org](mailto:jobs@chaingpt.org). We would love to hear from you if you are passionate about blockchain technology and would like to work with a dynamic and growing company.
+
+#### Additional Information
+
+1. Employment Compliance and Confidentiality:
+   1. KYC and NDA Requirements: All candidates extended an offer of employment must complete a Know Your Customer (KYC) process and sign a Non-Disclosure Agreement (NDA) to protect sensitive company information.
+2. Employment Structure:
+   1. Contractor Status: All positions are offered on a contractor basis. As such, individuals will be responsible for their tax obligations in accordance with local, state, and federal law. We recommend consulting with a tax advisor to ensure compliance.
+3. Compensation:
+   1. Cryptocurrency Payments: Compensation is provided in cryptocurrency (USDT BEP20) to align with our company's focus on blockchain technology. Payments are issued bi-monthly, on the 1st and 16th of each month.
+4. Probationary Period:
+   1. Initial Assessment: All new hires will undergo a 60-day probationary period to ensure mutual compatibility. During this time, both the employee and ChainGPT can evaluate the employment relationship.
 
 \

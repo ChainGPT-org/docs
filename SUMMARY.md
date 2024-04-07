@@ -96,6 +96,7 @@
   * [Senior Full-Stack Web3 Developer](misc/work-with-us/senior-full-stack-web3-developer.md)
   * [Senior ML Engineer](misc/work-with-us/senior-ml-engineer.md)
   * [Senior Technical Lead](misc/work-with-us/senior-technical-lead.md)
+  * [KOL Manager](misc/work-with-us/kol-manager.md)
 * [Social Links](misc/social-links/README.md)
   * [Twitter](https://twitter.com/Chain\_GPT)
   * [Discord](https://discord.gg/chaingpt)
