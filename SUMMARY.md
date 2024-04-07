@@ -97,6 +97,7 @@
   * [Senior ML Engineer](misc/work-with-us/senior-ml-engineer.md)
   * [Senior Technical Lead](misc/work-with-us/senior-technical-lead.md)
   * [KOL Manager](misc/work-with-us/kol-manager.md)
+  * [Head of Product](misc/work-with-us/head-of-product.md)
 * [Social Links](misc/social-links/README.md)
   * [Twitter](https://twitter.com/Chain\_GPT)
   * [Discord](https://discord.gg/chaingpt)
