@@ -4,6 +4,7 @@
 
 * [BNB Chain](https://www.bnbchain.org/en)
 * [Tron](https://trondao.org/)
+* [Polygon](https://polygon.technology/)
 * [Sei](https://www.sei.io/)
 * [Skale](https://skale.space/)
 
@@ -86,6 +87,7 @@
 
 ## Other
 
+* [Chainlink](https://chain.link/)
 * [Decubate](https://www.decubate.com/)
 * [Team Finance](https://www.team.finance/)
 * [Space ID](https://space.id/)
