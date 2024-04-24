@@ -1,8 +1,8 @@
-# Business Development Manager
+# Business Development Associate
 
 Location: Remote
 
-Position: Business Development Manager
+Position: Business Development Associate
 
 Company: ChainGPT
 
@@ -12,7 +12,7 @@ Position Type: Full-Time
 
 ChainGPT is at the forefront of AI and Blockchain Technology, enabling and transforming Web3 through AI. Our AI-powered tools equip users with fast and accurate information to navigate the dynamic Blockchain industry. We're seeking knowledgeable individuals with a deep understanding of finance, technology, web3, AI, and cryptocurrency to join our expanding team.
 
-#### About the Role – Business Development Manager
+#### About the Role – Business Development Associate
 
 * This role is ideal for somebody with a strong Web3 network who can drive outreach, craft proposals, and negotiate to secure new partnerships.
 
@@ -37,7 +37,7 @@ ChainGPT is at the forefront of AI and Blockchain Technology, enabling and trans
 
 #### Company Culture and Values
 
-At ChainGPT, we value Trust, Effective Speed, Innovation, and Growth. As our BD Manager, you will embody these core values and have the opportunity to contribute to our culture and help drive our success. Join us on this exciting journey as we shape the future of blockchain and crypto technology.
+At ChainGPT, we value Trust, Effective Speed, Innovation, and Growth. As our BD Associate, you will embody these core values and have the opportunity to contribute to our culture and help drive our success. Join us on this exciting journey as we shape the future of blockchain and crypto technology.
 
 #### Application Process
 

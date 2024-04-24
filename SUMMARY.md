@@ -90,7 +90,7 @@
   * [Chief Technology Officer](misc/work-with-us/chief-technology-officer.md)
   * [Financial Controler](misc/work-with-us/financial-controler.md)
   * [Head of Product](misc/work-with-us/head-of-product.md)
-  * [Business Development Manager](misc/work-with-us/business-development-manager.md)
+  * [Business Development Associate](misc/work-with-us/business-development-associate.md)
   * [Senior Full-Stack Web3 Developer](misc/work-with-us/senior-full-stack-web3-developer.md)
   * [Senior ML Engineer](misc/work-with-us/senior-ml-engineer.md)
   * [Senior Technical Lead](misc/work-with-us/senior-technical-lead.md)
