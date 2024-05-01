@@ -1,6 +1,6 @@
 # CryptoGuard Extension: Your Web3 Shield
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ## Introduction
 
@@ -29,7 +29,7 @@ By incorporating insights from [CUBE3.AI](https://cube3.ai/), GoPlusSecurity, Et
 
 ### **Analyze Anything**
 
-<figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 CryptoGuard allows users to analyze malicious websites, transactions, tokens, and NFTs against wallet addresses. From wallet addresses to transaction hashes, quickly analyze and assess potential risks to make informed security decisions. Let’s review the four main features of this tab.
 
@@ -69,7 +69,7 @@ For token analysis:
 
 ## **My Wallet**
 
-<figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 Using CryptoGuard, you can achieve peace of mind with a detailed security overview of your Web3 wallet and assets. The My Wallet tab allows users to view transactions, NFTs, and tokens associated with their connected wallet address. If suspicious tokens or NFTs exist, CryptoGuard will assign them a warning.
 
@@ -98,7 +98,7 @@ In the Token Tab:
 
 ## **Live Tracker**
 
-<figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 Get instant feedback about transactions from our Live Tracker. CryptoGuard analyzes wallet addresses and instantly alerts you to suspected fraud before confirming. In the settings tab, users can activate the Active mode for Tracker:
 
@@ -115,7 +115,7 @@ Get instant feedback about transactions from our Live Tracker. CryptoGuard analy
 
 ## **Website Analysis**
 
-<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -133,7 +133,7 @@ Here’s how it works:
 
 ## Getting started&#x20;
 
-[Download CryptoGaurd Extension](https://chromewebstore.google.com/search/CryptoGuard%20-%20by%20ChainGPT%20AI)
+[Download CryptoGuard Extension](https://chromewebstore.google.com/search/CryptoGuard%20-%20by%20ChainGPT%20AI)
 
 [Get Support on Discord ](https://discord.com/invite/sv2NfqSgVW)
 

@@ -36,7 +36,7 @@
   * [Prompt Marketplace](the-ecosystem/ai-tools-and-applications/prompt-marketplace.md)
   * [Pricing & Membership Plans](the-ecosystem/ai-tools-and-applications/pricing-and-membership-plans.md)
   * [AI Cross-Chain Swap](the-ecosystem/ai-tools-and-applications/ai-cross-chain-swap.md)
-  * [CryptoGuard Extension: Your Web3 Shield](the-ecosystem/ai-tools-and-applications/cryptoguard-extension-your-web3-shield/README.md)
+  * [CryptoGuard Extension: Your Web3 Shield](the-ecosystem/ai-tools-and-applications/cryptoguard-extension-your-web3-shield.md)
     * [Web3 Safety Toolkit](the-ecosystem/ai-tools-and-applications/cryptoguard-extension-your-web3-shield/web3-safety-toolkit.md)
     * [Crypto Wallet Security 101](the-ecosystem/ai-tools-and-applications/cryptoguard-extension-your-web3-shield/crypto-wallet-security-101.md)
     * [Recognizing and Avoiding Scams in Web3](the-ecosystem/ai-tools-and-applications/cryptoguard-extension-your-web3-shield/recognizing-and-avoiding-scams-in-web3.md)
