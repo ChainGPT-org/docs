@@ -39,7 +39,7 @@ Are you ready to shape the future of Artificial Intelligence, blockchain, and cr
 
 #### Company Culture and Values
 
-At ChainGPT, we value Trust, Effective Speed, Innovation, and Growth. As our KOL Manager, you will embody these core values and have the opportunity to contribute to our culture and help drive our success. Join us on this exciting journey as we shape the future of blockchain and crypto technology.
+At ChainGPT, we value Trust, Effective Speed, Innovation, and Growth. As our CFO, you will embody these core values and have the opportunity to contribute to our culture and help drive our success. Join us on this exciting journey as we shape the future of blockchain and crypto technology.
 
 #### Application Process
 
