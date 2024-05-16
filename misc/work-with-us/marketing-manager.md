@@ -12,7 +12,7 @@ Position Type: Full-Time
 
 ChainGPT is at the forefront of AI and Blockchain Technology, enabling and transforming Web3 through AI. Our AI-powered tools equip users with fast and accurate information to navigate the dynamic Blockchain industry. We're seeking knowledgeable individuals with a deep understanding of finance, technology, web3, AI, and cryptocurrency to join our expanding team.
 
-#### About the Role – \[Insert Job Title]
+#### About the Role – Marketing Manager
 
 As the Marketing Manager at ChainGPT, you will be vital in coordinating and executing marketing strategies to enhance our presence in the AI and Blockchain sectors. Your responsibilities include managing PR activities, running email campaigns, overseeing ambassador programs, and planning events, ensuring they align with our strategic objectives. You will also collaborate with design agencies to maintain our website's design standards. This role demands strong organizational skills and the ability to work effectively with internal teams and external partners, contributing to our mission of innovation, effective speed, and growth in the blockchain and crypto landscape.
 
