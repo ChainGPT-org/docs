@@ -133,9 +133,9 @@ Here’s how it works:
 
 ## Getting started&#x20;
 
-[Download CryptoGuard Extension](https://chromewebstore.google.com/search/CryptoGuard%20-%20by%20ChainGPT%20AI)
+[Download CryptoGuard Extension](https://chromewebstore.google.com/detail/cryptoguard-by-chaingpt-a/eegoohfobcaegoeoakafgiljckfiajhl)
 
-[Get Support on Discord ](https://discord.com/invite/sv2NfqSgVW)
+[Get Support on Discord ](https://discord.com/invite/chaingpt)
 
 [CryptoGuard Website](https://www.cryptoguard.ai/)
 
