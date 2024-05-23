@@ -94,7 +94,7 @@
 * [Bitgert](https://bitgert.com/)
 * [Alvey](https://www.alveychain.com/)
 * [Caduceus](https://caduceus.foundation/)
-* [Star Protocol](https://star.co/)
+* [XSTAR](https://xstar.id/)
 * [Tonstarter](https://tonstarter.com/)
 * [Yay Network](https://yay.network/)
 * [Ferrum Network](https://ferrum.network/)
