@@ -11,7 +11,7 @@ To install the General Chatbot SDK, follow these steps:
 3. **Run Installation Commands**: Execute the specific commands provided to install the SDK.
 
 ```
-pm install --save @chaingpt/generalchator
+pm install --save @chaingpt/generalchat
 #or
 yarn add generalchat
 ```
