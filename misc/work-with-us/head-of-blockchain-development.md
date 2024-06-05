@@ -6,7 +6,7 @@
 
 **Company:** ChainGPT
 
-**Position Type:** Part-Time
+**Position Type:** Full-Time
 
 #### About ChainGPT
 
