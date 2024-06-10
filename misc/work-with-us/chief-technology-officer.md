@@ -81,7 +81,7 @@ In this key leadership role, you'll bridge our vision and the technology needed 
 
 #### Company Culture and Values
 
-At ChainGPT, we value Trust, Effective Speed, Innovation, and Growth. As our \[INSERT JOB TITLE], you will embody these core values and have the opportunity to contribute to our culture and help drive our success. Join us on this exciting journey as we shape the future of blockchain and crypto technology.
+At ChainGPT, we value Trust, Effective Speed, Innovation, and Growth. As our Chief Technology Officer, you will embody these core values and have the opportunity to contribute to our culture and help drive our success. Join us on this exciting journey as we shape the future of blockchain and crypto technology.
 
 #### Application Process
 
