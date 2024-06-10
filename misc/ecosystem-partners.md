@@ -5,8 +5,12 @@
 * [BNB Chain](https://www.bnbchain.org/en)
 * [Tron](https://trondao.org/)
 * [Polygon](https://polygon.technology/)
+* [Arbitrum](https://arbitrum.io/)
 * [Sei](https://www.sei.io/)
-* [Skale](https://skale.space/)
+* [Scroll](https://scroll.io/)
+* [Mantle](https://www.mantle.xyz/)
+* [SKALE](https://skale.space/)
+* [5ire](https://www.5ire.org/)
 
 ## AI / Machine Learning
 
@@ -18,6 +22,7 @@
 * [Chappyz](https://chappyz.com/)
 * [GT-Protocol](https://www.gt-protocol.io/)
 * [DMAIL](https://dmail.ai/)
+* [Sleepless AI](https://www.sleeplessai.net/)
 
 ## NFT
 
@@ -31,6 +36,7 @@
 * [CertiK](https://www.certik.com/)
 * [Lossless](https://lossless.io/)
 * [Hacken](https://hacken.io/)
+* [Cube3](https://www.cube3.ai/)
 
 ## Exchanges
 
@@ -52,6 +58,7 @@
 
 ## Marketing / Learn
 
+* [Hooked Protocol](https://hooked.io/)
 * [Decrypt](https://decrypt.co/)
 * [DappRadar](https://dappradar.com/)
 * [Cryptorank](https://cryptorank.io/)
@@ -93,6 +100,7 @@
 * [Space ID](https://space.id/)
 * [Bitgert](https://bitgert.com/)
 * [Alvey](https://www.alveychain.com/)
+* [Rollux](https://rollux.com/)
 * [Caduceus](https://caduceus.foundation/)
 * [XSTAR](https://xstar.id/)
 * [Tonstarter](https://tonstarter.com/)
@@ -122,6 +130,8 @@
 * [Li.Fi](https://li.fi/)
 * [Dechat](https://www.dechat.io/)
 * [RACA3](https://www.raca3.com/)
+* [Spintop](https://spintop.network/)
+* [Lovely.Finance](https://lovely.finance/)
 
 
 
