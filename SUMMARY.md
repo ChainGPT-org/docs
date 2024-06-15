@@ -82,6 +82,10 @@
 
 ## Misc
 
+* [$1M Web3 AI Grant Program](misc/usd1m-web3-ai-grant-program/README.md)
+  * [Grant Support](misc/usd1m-web3-ai-grant-program/grant-support.md)
+  * [Application](misc/usd1m-web3-ai-grant-program/application.md)
+  * [FAQ](misc/usd1m-web3-ai-grant-program/faq.md)
 * [Ecosystem Partners](misc/ecosystem-partners.md)
 * [Incubation Program](misc/incubation-program/README.md)
   * [Case Study: DexCheck](misc/incubation-program/case-study-dexcheck.md)
@@ -114,10 +118,3 @@
   * [Terms of Service](misc/legal-docs/terms-of-service.md)
   * [Cookies Policy](misc/legal-docs/cookies-policy.md)
   * [Disclaimer](misc/legal-docs/disclaimer.md)
-
-## Grant - $1M Ecosystem Fund
-
-* [Grant Mission and Scope](grant-usd1m-ecosystem-fund/grant-mission-and-scope/README.md)
-  * [Grant Support](grant-usd1m-ecosystem-fund/grant-mission-and-scope/grant-support.md)
-* [Application](grant-usd1m-ecosystem-fund/application.md)
-* [FAQ](grant-usd1m-ecosystem-fund/faq.md)
