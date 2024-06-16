@@ -8,8 +8,8 @@
 
 ### **Upcoming:**
 
-{% content-ref url="2024-2025-initiative.md" %}
-[2024-2025-initiative.md](2024-2025-initiative.md)
+{% content-ref url="2024-2025-aivm-blockchain-initiative.md" %}
+[2024-2025-aivm-blockchain-initiative.md](2024-2025-aivm-blockchain-initiative.md)
 {% endcontent-ref %}
 
 ### Completed:
@@ -21,3 +21,4 @@
 {% content-ref url="2023-q1-q2.md" %}
 [2023-q1-q2.md](2023-q1-q2.md)
 {% endcontent-ref %}
+
