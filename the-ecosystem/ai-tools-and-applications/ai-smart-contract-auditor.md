@@ -8,7 +8,7 @@ description: An added layer of Pre-emptive security for Smart Contracts
 **Web**: [https://app.chaingpt.org/](https://app.chaingpt.org/) | **Telegram**: [https://t.me/ChainGPT](https://t.me/ChainGPT) | [**Discord**](https://discord.gg/chaingpt)
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Screenshot from https://app.chaingpt.org</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Screenshot from https://app.chaingpt.org</p></figcaption></figure>
 
 In the decentralized digital economy, code is law. Mistakes are to be avoided at all costs. The permanence of data that has materialized in software with the advent of blockchain and distributed ledger technology has amplified the importance of security in open, global economic settings.
 
