@@ -64,6 +64,7 @@
   * [CGPTvp (Voting Power)](the-ecosystem/cgpt-utility-token/cgptvp-voting-power.md)
   * [Staking Dashboard](https://app.chaingpt.org/staking)
   * [Supply Dashboard](https://supply.chaingpt.org)
+  * [Burn Mechanism Dashboard ](https://app.chaingpt.org/burndashboard)
 * [Tier System & Benefits](the-ecosystem/tier-system-and-benefits.md)
 * [DAO Governance](the-ecosystem/dao-governance.md)
 * [ChainGPT Pad](the-ecosystem/chaingpt-pad/README.md)
