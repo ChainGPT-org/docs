@@ -14,6 +14,7 @@
 
 ## AI / Machine Learning
 
+* [io.net](https://io.net/)
 * [DexCheck](https://dexcheck.ai/info)
 * [Orbofi](https://www.orbofi.com/)
 * [Shockwaves](https://www.shockwaves.ai/)
