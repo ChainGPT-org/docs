@@ -18,6 +18,12 @@ ChainGPT AI Model is your go-to AI tool for anything related to Crypto and Block
 
 **Contextual Awareness**: ChainGPT is equipped with contextual awareness, allowing it to understand the context of a conversation and generate relevant responses.
 
+**Artificial Intelligence Virtual Machine (AIVM):** An Artificial Intelligence Virtual Machine (AIVM) is a specialized software environment designed to facilitate the development, testing, and deployment of AI applications.
+
+**GPU Computing Power:** GPU Computing Power refers to the use of Graphics Processing Units (GPUs) to perform complex computations and data processing tasks essential for AI applications, despite current market conditions making GPUs a scarce resource.
+
+**AI Data Marketplace:** An AI Data Marketplace is an online platform that facilitates the buying and selling of high-quality datasets needed to train and refine AI models.
+
 
 
 \---
