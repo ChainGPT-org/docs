@@ -18,6 +18,9 @@ At ChainGPT, we envision a future where advanced AI technologies power the decen
    * A**dvisory & Guidance**: We help AI startups in Web3 with advisory and guidance, preparing them for success and go-to-market strategy.
 4. &#x20;**Develop Open Technologies**: We staunchly believe in the power of open-source and collaborative technologies. ChainGPT stands against gatekeeping in the Web3 domain. Our solutions, LLMs, and applications are accessible to other Web3 companies, promoting a thriving, cooperative ecosystem.
 5. **Elevate the Role of the Community**: Powered by the $CGPT utility token, we aim to involve our community in the decision-making process. Token holders and stakers can participate in DAO voting, staking, pad allocation, and more, ensuring the ChainGPT ecosystem remains democratic, robust, and forward-moving.
+6. **Solve the GPU Shortage Issue With Decentralized GPU Network:** ChainGPT is dedicated to addressing the global GPU shortage by developing a decentralized GPU network. This network will harness underutilized GPU resources, providing efficient and accessible computing power for AI applications and blockchain operations.
+7. **Offer Decentralized On-Chain AI Models Deployment & Training:** We aim to enable the deployment and training of AI models directly on-chain, promoting decentralization and security. This approach will facilitate scalable, transparent, and tamper-proof AI model training and deployment, empowering developers and users alike.
+8. **AI Data Marketplace:** ChainGPT is creating an AI data marketplace where users and developers can contribute to AI models and earn rewards. This marketplace will also allow AI companies to utilize public contributions to train AI models faster, fostering a collaborative environment for rapid AI development and innovation.
 
 ***
 
