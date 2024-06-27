@@ -13,7 +13,7 @@ Telegram: [https://t.me/ChainGPTAI\_Bot](https://t.me/ChainGPTAI\_Bot)
 
 <details>
 
-<summary><strong>What is ChainGPT AI?</strong> </summary>
+<summary><strong>What is ChainGPT AI?</strong></summary>
 
 ChainGPT is a cutting-edge AI infrastructure that develops AI-enhanced solutions for the Web3, Blockchain, and Cryptocurrency sectors. It aims to make the decentralized digital space more accessible and efficient for users and startups by offering a suite of AI-powered tools and applications tailored to the evolving digital landscape.
 
@@ -478,6 +478,70 @@ These projects have benefited from the unparalleled resources and hands-on appro
 By leveraging the comprehensive support from ChainGPT Labs, Web3 startups can thrive and succeed, redefining what it means to support and accelerate blockchain innovation.
 
 For more information and to apply, visit the ChainGPT Labs page.
+
+</details>
+
+## About the ChainGPT AIVM Blockchain
+
+<details>
+
+<summary>What is ChainGPT's AI Virtual Machine (AIVM)? </summary>
+
+ChainGPT's AI Virtual Machine (AIVM) is a decentralized platform designed to develop, execute, and secure AI models on blockchain networks. It aims to address the limitations of centralized AI platforms by offering enhanced privacy, security, and trust through on-chain methodologies. Key innovations include zero-knowledge machine learning (ZKML), decentralized inference protocols, and a decentralized GPU support infrastructure.
+
+</details>
+
+<details>
+
+<summary><strong>How does AIVM enhance AI model execution and security?</strong></summary>
+
+Our AIVM enhances AI model execution and security by:
+
+* **On-Chain AI Model Execution:** Ensuring that model parameters and outputs remain confidential and verifiable through on-chain processing.
+* **Zero-Knowledge Consensus Mechanism:** Utilizing zero-knowledge proofs to safeguard data privacy and validate AI computations without compromising confidentiality.
+* **Decentralized GPU Support:** Providing access to decentralized GPU resources for AI computations, democratizing high-performance computing.
+* **Decentralized Query Marketplace:** Offering a global repository of AI models and tools, facilitating collaboration and curation among developers, miners, and reviewers.
+
+</details>
+
+<details>
+
+<summary><strong>What are some key features and initiatives of the AIVM?</strong></summary>
+
+Our AIVM includes several key features and ongoing initiatives:
+
+* **AI Data Marketplace:** Allows users to buy and sell datasets, collaborate on AI model training, and earn rewards for data contributions.
+* **GPU Computing Power Marketplace:** Facilitates access to decentralized GPU resources for efficient AI model training and execution.
+* **Inference Library (SDK):** Provides developers with tools to integrate smart contracts with AI models, supporting on-chain AI interactions.
+
+</details>
+
+<details>
+
+<summary>What's the roadmap for the ChainGPT AIVM?</summary>
+
+* **Q1-Q2, 2024: Phase 1**
+  * Research Phase and Early Stage Development
+  * Assembling the development team and initial network/product development
+* **Q3-Q4, 2024: Phase 2**
+  * Development of AI Data Marketplace (Phase 1)
+  * Development of GPU Computing Power Marketplace (Phase 1)
+  * Development of Inference Library (SDK) (Phase 1)
+* **Q1-Q2, 2025: Phase 3**
+  * Launch of Initial AIVM Base Network
+  * Introduction of CGPT Staking & Node Running Software
+  * Implementation of On-Chain AI Model Inference (Single Node)
+  * Integration of Decentralized GPU Support
+  * Adoption of Zero-Knowledge-Based Consensus Mechanism
+* **Q3-Q4, 2025: Phase 4**
+  * On-Chain AI Model Training
+  * Reward Mechanism for GPU & Node Providers
+  * Expansion of On-Chain AI Model Inference (Multiple Nodes)
+  * Testnet Release and Developer Hub Documentation
+* **Q1, 2026: Phase 5**
+  * Final Phase: Mainnet Release
+  * Deployment of ChainGPT’s LLMs & TTIMs on AIVM
+  * Ongoing Developer Feedback & Network Improvement
 
 </details>
 
