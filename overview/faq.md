@@ -4,7 +4,8 @@ description: Frequently Asked Questions about ChainGPT
 
 # FAQ
 
-**You can read this entire FAQ page, or just ask our AI Chatbot!**\
+**Got questions? Read the following FAQ page, or just ask our AI Chatbot!**\
+\
 Web: [https://app.ChainGPT.org](https://app.chaingpt.org)\
 Telegram: [https://t.me/ChainGPTAI\_Bot](https://t.me/ChainGPTAI\_Bot)
 
@@ -12,7 +13,7 @@ Telegram: [https://t.me/ChainGPTAI\_Bot](https://t.me/ChainGPTAI\_Bot)
 
 <details>
 
-<summary><strong>What is ChainGPT?</strong> </summary>
+<summary><strong>What is ChainGPT AI?</strong> </summary>
 
 ChainGPT is a cutting-edge AI infrastructure that develops AI-enhanced solutions for the Web3, Blockchain, and Cryptocurrency sectors. It aims to make the decentralized digital space more accessible and efficient for users and startups by offering a suite of AI-powered tools and applications tailored to the evolving digital landscape.
 
@@ -20,7 +21,7 @@ ChainGPT is a cutting-edge AI infrastructure that develops AI-enhanced solutions
 
 <details>
 
-<summary><strong>Can I use ChainGPT now?</strong></summary>
+<summary><strong>Can I use ChainGPT AI now?</strong></summary>
 
 Yes, ChainGPT AI products are fully available!
 
@@ -62,7 +63,9 @@ Please note that while users have a CGPTc balance to spend for the Freemium plan
 
 <summary><strong>How does ChainGPT work?</strong></summary>
 
-ChainGPT is a sophisticated AI platform crafted explicitly for Web3, Blockchain, and Cryptocurrency. Leveraging state-of-the-art AI techniques, it offers a suite of tools and applications tailored to the dynamic digital age. Depending on their needs, users can opt for the Free, PPP (Pay-Per-Prompt), or Freemium plans to tap into robust solutions, such as smart-contract generation, AI-based NFT creation, and trading aids. The plan choice dictates whether users can freely access tools, pay as they use, or enjoy premium features up to a monthly allowance. Additionally, ChainGPT's token system, represented by CGPT, provides added dimensions like staking and exclusive access, driven by accrued staking points (CGPTsp). With its holistic approach, ChainGPT is set on democratizing AI-enhanced tools for individuals, startups, and established entities in the decentralized web sphere.
+ChainGPT is a sophisticated AI platform crafted explicitly for Web3, Blockchain, and Cryptocurrency. Leveraging state-of-the-art AI techniques, it offers a suite of tools and applications tailored to the dynamic digital age. Depending on their needs, users can opt for the Free, PPP (Pay-Per-Prompt), or Freemium plans to tap into robust solutions, such as smart-contract generation, AI-based NFT creation, and trading aids.&#x20;
+
+The plan choice dictates whether users can freely access tools, pay as they use, or enjoy premium features up to a monthly allowance. Additionally, ChainGPT's token system, represented by CGPT, provides added dimensions like staking and exclusive access, driven by accrued staking points (CGPTsp). With its holistic approach, ChainGPT is set on democratizing AI-enhanced tools for individuals, startups, and established entities in the decentralized web sphere.
 
 **Explore ChainGPT offerings:**
 
@@ -82,15 +85,16 @@ ChainGPT stands at the intersection of AI and the Web3, Blockchain, and Cryptocu
 * ChainGPT AI Chatbot (Telegram, Discord, Web)
 * ChainGPT AI on Telegram (@ChainGPTAI\_Bot)
 * AI-Generated News
+* AI Cross-Chain Swap
 * Smart-Contracts Generator
 * Smart-Contracts Auditor
 * AI NFT Generator
 * AI Trading Assistant
-* AI-Powered Security Extension
+* CryptoGuard (AI-Powered Security Extension)
 * AI Blockchain Analytics
 * ChainGPT Pad
 * ChainGPT Labs (we invest in AI!)
-* Incubation Program for AI Startups
+* Incubation Program for AI Startups&#x20;
 
 Beyond these specific tools and solutions, ChainGPT promotes open technologies, allowing Web3 companies to access our API & SDKs. This approach ensures that our advancements benefit the broader ecosystem rather than being siloed.
 
@@ -125,8 +129,6 @@ Once an NFT is minted, it becomes a form of digital property owned by the mintin
 The user fully owns smart contracts that ChainGPT’s AI generates. Legality relating to IP, such as copyrights, trademarks, and so on, is subject to the laws of the jurisdiction where the user resides.
 
 </details>
-
-
 
 ## About $CGPT [Utility Token](https://docs.chaingpt.org/overview/iv.-cgpt-utility-token)
 
@@ -243,29 +245,11 @@ Staking serves four crucial functions within the ChainGPT Ecosystem. Firstly, it
 
 </details>
 
-## About [ChainGPT Apps](https://app.chaingpt.org/)
-
 <details>
 
 <summary><strong>Does ChainGPT have a prompt base?</strong></summary>
 
 Our prompt marketplace will be made available after the v1.0 release. Access can be found on the application [dashboard](https://app.chaingpt.org/).
-
-</details>
-
-<details>
-
-<summary>What is the DevAssist Browser Extension?</summary>
-
-A portable code translator that scans any desired smart contract in real-time and converts it into a clear, detailed, and simple-to-understand human legible text format. It disambiguates any uncertainties around Web3 applications and protects users from making decisions without fully comprehending the technology beforehand.
-
-</details>
-
-<details>
-
-<summary>What is the freshness delay on news provided by ChainGPT?</summary>
-
-All news articles are aggregated in real-time.
 
 </details>
 
@@ -295,7 +279,9 @@ ChainGPT scans the entire web for the most relevant information but publishes fr
 
 <summary>What is the ChainGPT DAO?</summary>
 
-The ChainGPT DAO is a digital social organization composed of dedicated community members who contribute to the protection, governance, and development of ChainGPT.
+The ChainGPT DAO is a digital social organization composed of dedicated community members who contribute to the protection, governance, and development of ChainGPT.\
+\
+[https://app.chaingpt.org/dao](https://app.chaingpt.org/dao)
 
 </details>
 
@@ -339,13 +325,177 @@ Navigate to the DAO forum[ ](https://dao.chaingpt.org/#/)[here](https://dao.chai
 
 </details>
 
-## Miscellaneous
+## About [ChainGPT Pad](https://pad.chaingpt.org/)
+
+<details>
+
+<summary>What is ChainGPT Pad?</summary>
+
+ChainGPT Pad is a launchpad and IDO platform for Web3 projects. It helps projects raise funds and build their token ecosystems through Initial DEX Offerings (IDOs).
+
+</details>
+
+<details>
+
+<summary>How does ChainGPT Pad work?</summary>
+
+Projects apply and go through a qualitative analysis process. Successful projects can launch their IDOs on ChainGPT Pad, where community members can participate in funding\
+\
+Learn more [here](https://www.chaingpt.org/blog/chaingpt-launchpad-f-a-q-s).
+
+</details>
+
+<details>
+
+<summary>How can I participate in IDOs?</summary>
+
+* **Register on ChainGPT Pad:**
+  * Visit [ChainGPT Pad](https://pad.chaingpt.org) and connect your Web3 wallet (e.g., MetaMask, Trust Wallet).
+* **Complete KYC Verification:**
+  * Undergo the KYC (Know Your Customer) verification process to comply with regulatory requirements. This involves providing personal identification documents and information.
+* **Stake $CGPT Tokens:**
+  * Stake a certain amount of $CGPT tokens to qualify for different tier levels. Staking increases your tier points, which determine your access and allocation in the IDOs.
+  * The more tokens you stake, the higher your tier and the better your chances of getting a larger allocation.
+* **Gain Tier Points:**
+  * Higher tier points give you better access to IDOs. The tiers are structured to reward those who stake more tokens with higher chances of allocation.
+  * Each tier has different benefits, including guaranteed allocation, early access, and additional perks.
+* **Participate in IDO Rounds:**
+  * Once you’ve qualified and completed the necessary steps, you can participate in the IDO rounds.
+  * Each IDO will have specific details, including the token sale price, allocation limits, and timelines.
+  * Ensure you review the project details and participate during the sale window.
+* **Claim Your Tokens:**
+  * After the IDO ends, and if you have participated successfully, you will be able to claim your allocated tokens from the ChainGPT Pad platform.
+  * These tokens will then be available in your connected wallet.
+
+</details>
+
+## About [CryptoGuard](https://www.cryptoguard.ai/)
+
+<details>
+
+<summary>What is CryptoGuard?</summary>
+
+CryptoGuard is a security extension by ChainGPT designed to protect your Web3 activities from phishing, malware, and other digital threats. It enhances your online security by analyzing transactions, websites, and tokens for potential risks.
+
+</details>
+
+<details>
+
+<summary>How do I install CryptoGuard?</summary>
+
+[Install CryptoGuard from our website](https://www.cryptoguard.ai/) and add it to your browser. Connect your wallet to start analyzing transactions, websites, and tokens for security risks.
+
+</details>
+
+<details>
+
+<summary>What are CryptoGuard's features?</summary>
+
+CryptoGuard provides a comprehensive suite of security features designed to protect your Web3 interactions. Here are the key features it offers:
+
+* **Wallet Analysis:**
+  * Scans your connected wallets for vulnerabilities and suspicious activities.
+  * Provides detailed reports on the security status of your wallets.
+  * Alerts you to any unauthorized access attempts.
+* **Transaction Tracking:**
+  * Monitors and verifies the safety of your blockchain transactions.
+  * Flags any transactions that seem unusual or potentially harmful.
+  * Ensures you are transacting with verified and secure addresses.
+* **URL Analysis:**
+  * Analyzes URLs in real-time to detect phishing sites and malicious links.
+  * Blocks access to known harmful websites to prevent scams.
+  * Offers a browser extension to automatically check the safety of URLs as you browse.
+* **Live Security Alerts:**
+  * Provides real-time alerts for any detected security threats.
+  * Keeps you informed of the latest security updates and potential vulnerabilities.
+  * Helps you stay proactive in protecting your digital assets.
+* **Token Analysis:**
+  * Evaluates the security and legitimacy of tokens before you interact with them.
+  * Identifies and warns against tokens associated with known scams or frauds.
+  * Provides safety ratings for new and existing tokens.
+
+</details>
+
+## About ChainGPT Labs
+
+<details>
+
+<summary>What is ChainGPT Labs?</summary>
+
+ChainGPT Labs is the venture capital and incubation arm of ChainGPT, dedicated to supporting and accelerating Web3 startups. It provides comprehensive resources, strategic guidance, and financial support to help emerging projects succeed in the blockchain space.
+
+</details>
+
+<details>
+
+<summary><strong>How can projects join ChainGPT Labs?</strong> </summary>
+
+Projects can apply through our website and undergo a rigorous selection process. Selected projects receive extensive support, including strategic guidance, marketing efforts, and financial backing, integrating them into the ChainGPT Labs ecosystem.
+
+</details>
+
+<details>
+
+<summary>What kind of support does ChainGPT Labs provide?</summary>
+
+ChainGPT Labs offers a holistic approach to support Web3 projects, including:
+
+* **Strategic Guidance:**
+  * Weekly meetings with the ChainGPT Labs team to ensure projects stay on track.
+  * Expert advice on market strategies, tokenomics, and exchange listings.
+  * Development of effective tokenomics and strategic partnerships through a vast network.
+* **Marketing Support:**
+  * Assistance with social media strategies, rebranding, website development, and content creation.
+  * Marketing campaigns, influencer connections, and substantial investment in each project’s marketing efforts, ranging from $50k to $150k.
+* **Financial Backing:**
+  * Investments typically range from $100k to $400k, plus additional credit lines.
+  * Comprehensive financial support to back the most promising ideas and ensure their growth.
+
+**4. Who is part of the ChainGPT Labs team?** The team at ChainGPT Labs includes:
+
+* Ilan Rakhmanov and Ariel Asafov, Co-Heads of Incubations
+* Vlad Fila, Head of Administration
+* Tomer Warschauer Nuni, Head of Investments
+* Gintare Kairyte, VC Network Manager
+* Nick Van Der Kolk, Ads & Marketing Management
+
+This diverse team brings a wealth of experience and dedication to every project they support.
+
+</details>
+
+<details>
+
+<summary>What are some of the projects supported by ChainGPT Labs?</summary>
+
+ChainGPT Labs has already made significant strides with several projects, including:
+
+* **Incubated Projects:** ChainGPT AI, ChainGPT Pad, AITech, DEXCheck, OMNIA Protocol, KIMA, Shieldium
+* **Accelerated Projects:** Cookie3, Engines of Fury
+* **Invested Projects:** Redbelly, Wisdomise, Atlas, Hana Network, Lumoz
+
+These projects have benefited from the unparalleled resources and hands-on approach provided by ChainGPT Labs, driving their success in the Web3 ecosystem.
+
+By leveraging the comprehensive support from ChainGPT Labs, Web3 startups can thrive and succeed, redefining what it means to support and accelerate blockchain innovation.
+
+For more information and to apply, visit the ChainGPT Labs page.
+
+</details>
+
+## About the [ChainGPT NFT Generator](https://nft.chaingpt.org/)
+
+<details>
+
+<summary>What is the ChainGPT NFT Generator?</summary>
+
+The ChainGPT NFT Generator is an advanced tool powered by ChainGPT AI, designed to create unique, high-quality NFTs (Non-Fungible Tokens). It simplifies the process of NFT creation by leveraging AI technologies, making it accessible for both novice and experienced users in the blockchain space. Here’s a detailed overview of its features and functionalities:
+
+</details>
 
 <details>
 
 <summary>How do I generate realistic Midjourney like images and do you plan to add this feature?</summary>
 
-The output results of picture quality and style from generated images depend on the accuracy of the input prompt you provide.
+We're always working on improving the NFT Generator and adding new models. Stay tuned!
 
 </details>
 
