@@ -13,7 +13,7 @@ Telegram: [https://t.me/ChainGPTAI\_Bot](https://t.me/ChainGPTAI\_Bot)
 
 <details>
 
-<summary><strong>What is ChainGPT AI?</strong></summary>
+<summary>What is ChainGPT AI?</summary>
 
 ChainGPT is a cutting-edge AI infrastructure that develops AI-enhanced solutions for the Web3, Blockchain, and Cryptocurrency sectors. It aims to make the decentralized digital space more accessible and efficient for users and startups by offering a suite of AI-powered tools and applications tailored to the evolving digital landscape.
 
@@ -21,7 +21,7 @@ ChainGPT is a cutting-edge AI infrastructure that develops AI-enhanced solutions
 
 <details>
 
-<summary><strong>Can I use ChainGPT AI now?</strong></summary>
+<summary>Can I use ChainGPT AI now?</summary>
 
 Yes, ChainGPT AI products are fully available!
 
@@ -36,7 +36,7 @@ _More info about our AI Tools can be found here:_ [_https://www.chaingpt.org_ ](
 
 <details>
 
-<summary><strong>What is the cost to use ChainGPT?</strong></summary>
+<summary>What is the cost to use ChainGPT?</summary>
 
 1. **Free Plan**: Provides limited access to specific AI tools and solutions at no cost. This includes:
    * General AI Model
@@ -61,7 +61,7 @@ Please note that while users have a CGPTc balance to spend for the Freemium plan
 
 <details>
 
-<summary><strong>How does ChainGPT work?</strong></summary>
+<summary>How does ChainGPT work?</summary>
 
 ChainGPT is a sophisticated AI platform crafted explicitly for Web3, Blockchain, and Cryptocurrency. Leveraging state-of-the-art AI techniques, it offers a suite of tools and applications tailored to the dynamic digital age. Depending on their needs, users can opt for the Free, PPP (Pay-Per-Prompt), or Freemium plans to tap into robust solutions, such as smart-contract generation, AI-based NFT creation, and trading aids.&#x20;
 
@@ -78,7 +78,7 @@ The plan choice dictates whether users can freely access tools, pay as they use,
 
 <details>
 
-<summary><strong>What services can ChainGPT help with?</strong></summary>
+<summary>What services can ChainGPT help with?</summary>
 
 ChainGPT stands at the intersection of AI and the Web3, Blockchain, and Cryptocurrency realms, offering many AI-powered tools tailored for retail users and enterprises. Here's a snapshot of the services and solutions offered by ChainGPT:
 
@@ -134,7 +134,7 @@ The user fully owns smart contracts that ChainGPT’s AI generates. Legality rel
 
 <details>
 
-<summary><strong>What is $CGPT token?</strong> </summary>
+<summary>What is $CGPT token? </summary>
 
 $CGPT, or ChainGPT Token, is the utility token powering the ChainGPT ecosystem. ChainGPT is a futuristic AI chatbot designed to assist individuals, developers, and businesses with anything related to Blockchain Technology and Cryptocurrencies.&#x20;
 
@@ -154,7 +154,7 @@ The total supply of CGPT is 1 billion (1,000,000,000) tokens. It is currently de
 
 <details>
 
-<summary><strong>How can I get $CGPT?</strong> </summary>
+<summary>How can I get $CGPT? </summary>
 
 There are two ways to acquire $CGPT tokens: buying and earning. \
 \
@@ -168,7 +168,7 @@ Please ensure you're using the correct smart contract address for CGPT when inte
 
 <details>
 
-<summary><strong>What blockchain network is $CGPT deployed on?</strong></summary>
+<summary>What blockchain network is $CGPT deployed on?</summary>
 
 The $CGPT token is a BEP-20 standard token on the Binance smart chain. It has also been deployed on the Ethereum network as an ERC-20. As the project matures, the token will be bridged to other EVM-compatible chains.
 
@@ -176,7 +176,7 @@ The $CGPT token is a BEP-20 standard token on the Binance smart chain. It has al
 
 <details>
 
-<summary><strong>What is $CGPT's Supply Policy?</strong></summary>
+<summary>What is $CGPT's Supply Policy?</summary>
 
 Fixed maximum supply with deflation via burn.
 
@@ -247,7 +247,7 @@ Staking serves four crucial functions within the ChainGPT Ecosystem. Firstly, it
 
 <details>
 
-<summary><strong>Does ChainGPT have a prompt base?</strong></summary>
+<summary>Does ChainGPT have a prompt base?</summary>
 
 Our prompt marketplace will be made available after the v1.0 release. Access can be found on the application [dashboard](https://app.chaingpt.org/).
 
@@ -493,7 +493,7 @@ ChainGPT's AI Virtual Machine (AIVM) is a decentralized platform designed to dev
 
 <details>
 
-<summary><strong>How does AIVM enhance AI model execution and security?</strong></summary>
+<summary>How does AIVM enhance AI model execution and security?</summary>
 
 Our AIVM enhances AI model execution and security by:
 
@@ -506,7 +506,7 @@ Our AIVM enhances AI model execution and security by:
 
 <details>
 
-<summary><strong>What are some key features and initiatives of the AIVM?</strong></summary>
+<summary>What are some key features and initiatives of the AIVM?</summary>
 
 Our AIVM includes several key features and ongoing initiatives:
 
