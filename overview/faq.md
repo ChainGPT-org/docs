@@ -428,7 +428,7 @@ ChainGPT Labs is the venture capital and incubation arm of ChainGPT, dedicated t
 
 <details>
 
-<summary><strong>How can projects join ChainGPT Labs?</strong> </summary>
+<summary>How can projects join ChainGPT Labs? </summary>
 
 Projects can apply through our website and undergo a rigorous selection process. Selected projects receive extensive support, including strategic guidance, marketing efforts, and financial backing, integrating them into the ChainGPT Labs ecosystem.
 
