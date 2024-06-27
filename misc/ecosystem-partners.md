@@ -11,6 +11,9 @@
 * [Mantle](https://www.mantle.xyz/)
 * [SKALE](https://skale.space/)
 * [5ire](https://www.5ire.org/)
+* [OKX  / X Layer](https://www.okx.com/nl/xlayer)
+* [Avalanche](https://www.avax.network/)
+* [Solana](https://solana.com/)
 
 ## AI / Machine Learning
 
