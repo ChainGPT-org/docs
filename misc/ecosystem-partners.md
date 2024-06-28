@@ -137,7 +137,34 @@
 * [Spintop](https://spintop.network/)
 * [Lovely.Finance](https://lovely.finance/)
 
+## ChainGPT Pad Projects&#x20;
 
+* [Patex](https://patex.io)
+* [Chappyz](https://chappyz.com)
+* [Open Fabric](https://openfabric.io)
+* [Friend3](https://friend3.io)
+* [Workx](https://workx.io)
+* [Dechat](https://dechat.io)
+* [Octavia](https://octavia.io)
+* [Gaimin](https://gaimin.io)
+* [Ordify](https://ordify.io)
+* [Exverse](https://exverse.io)
+* [Wisdomise AI](https://wisdomise.ai)
+* [Beoble](https://beoble.io)
+* [Aether Games](https://aethergames.io)
+* [Next Gem AI](https://nextgem.ai)
+* [NuklAI](https://nuklai.io)
+* [Omnia Protocol](https://omniaprotocol.io)
+* [Engines of Fury](https://www.eof.gg)
+* [Dexcheck](https://dexcheck.ai)
+* [Plena Finance](https://plena.finance)
+* [Cookie3](https://cookie3.io)
+* [AiTech](https://aitech.io)
+* [Hybrid](https://hybrid.io)
+* [GT ProtocoL](https://gtprotocol.io)
+* [Omnia Protocol](https://omniaprotocol.io)
+* [Kima Network](https://kima.network)
+* [Earn'm](https://earnm.io)
 
 \---
 
