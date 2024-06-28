@@ -136,6 +136,12 @@
 * [RACA3](https://www.raca3.com/)
 * [Spintop](https://spintop.network/)
 * [Lovely.Finance](https://lovely.finance/)
+* [CoinMarketCap (CMC)](https://coinmarketcap.com)
+* [CoinGecko](https://coingecko.com)
+* [CryptoRank](https://cryptorank.io)
+* [Gotbit](https://gotbit.io)
+* [Kairon Labs](https://kaironlabs.com)
+* [FlowDesk](https://flowdesk.co)
 
 ## ChainGPT Pad Projects&#x20;
 
