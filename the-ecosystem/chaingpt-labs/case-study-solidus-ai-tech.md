@@ -71,4 +71,4 @@ _**Docs:**_ [_Whitepaper_](https://docs.aitech.io/overview/i.-introduction) \
 _**Social Media:**_ [_Twitter_](https://twitter.com/AITECHio) _|_ [_Telegram_](https://t.me/solidusaichat) _|_ [_Discord_](https://discord.com/invite/solidusai)\
 
 
-[**Disclaimer**](../legal-docs/disclaimer.md)
+[**Disclaimer**](../../misc/legal-docs/disclaimer.md)

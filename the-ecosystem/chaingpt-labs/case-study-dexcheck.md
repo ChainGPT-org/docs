@@ -81,4 +81,4 @@ _**Social Media:**_ [_Twitter_](https://twitter.com/dexcheck\_io) _|_ [_Telegram
 
 
 
-[**Disclaimer**](../legal-docs/disclaimer.md)
+[**Disclaimer**](../../misc/legal-docs/disclaimer.md)

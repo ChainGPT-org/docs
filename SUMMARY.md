@@ -91,7 +91,10 @@
   * [KOLs Program (Ambassadors)](the-ecosystem/chaingpt-pad/kols-program-ambassadors.md)
 * [Smart-Contracts](the-ecosystem/smart-contracts.md)
 * [RE:BOT NFTs](the-ecosystem/re-bot-nfts.md)
-* [ChainGPT Labs](the-ecosystem/chaingpt-labs.md)
+* [ChainGPT Labs](the-ecosystem/chaingpt-labs/README.md)
+  * [Case Study: DexCheck](the-ecosystem/chaingpt-labs/case-study-dexcheck.md)
+  * [Case Study: Solidus AI Tech](the-ecosystem/chaingpt-labs/case-study-solidus-ai-tech.md)
+  * [Case Study: GT Protocol](the-ecosystem/chaingpt-labs/case-study-gt-protocol.md)
 
 ## Misc
 
@@ -100,10 +103,6 @@
   * [Application](misc/usd1m-web3-ai-grant-program/application.md)
   * [FAQ](misc/usd1m-web3-ai-grant-program/faq.md)
 * [Ecosystem Partners](misc/ecosystem-partners.md)
-* [Incubation Program](misc/incubation-program/README.md)
-  * [Case Study: DexCheck](misc/incubation-program/case-study-dexcheck.md)
-  * [Case Study: Solidus AI Tech](misc/incubation-program/case-study-solidus-ai-tech.md)
-  * [Case Study: GT Protocol](misc/incubation-program/case-study-gt-protocol.md)
 * [B2B Offerings](misc/b2b-offerings/README.md)
   * [Launchpad Whitelabel](misc/b2b-offerings/launchpad-whitelabel.md)
 * [Work With Us](misc/work-with-us/README.md)

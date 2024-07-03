@@ -122,4 +122,4 @@ GT Protocol distinguishes itself as one of the elite projects selected for our f
 
 
 
-[**Disclaimer**](../legal-docs/disclaimer.md)
+[**Disclaimer**](../../misc/legal-docs/disclaimer.md)
