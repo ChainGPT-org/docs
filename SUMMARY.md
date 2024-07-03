@@ -91,6 +91,7 @@
   * [KOLs Program (Ambassadors)](the-ecosystem/chaingpt-pad/kols-program-ambassadors.md)
 * [Smart-Contracts](the-ecosystem/smart-contracts.md)
 * [RE:BOT NFTs](the-ecosystem/re-bot-nfts.md)
+* [ChainGPT Labs](the-ecosystem/chaingpt-labs.md)
 
 ## Misc
 
