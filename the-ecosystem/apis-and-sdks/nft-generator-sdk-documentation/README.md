@@ -8,15 +8,15 @@ Our NFT Generator SDK (Software Development Kit) is a library/doc for developers
 
 ### 1.2    Audience of document / SDK
 
-This documentation will provide a brief overview of NFT Generator SDK,  its features and usage guidelines for developers, software engineers, and system integrators who are using or planning to use our SDK.
+This documentation is intended to provide a brief overview of NFT Generator SDK, its features and usage guidelines for developers, software engineers, and system integrators who are using or planning to use our SDK.
 
 ### 1.3  Prerequisites
 
 Before using the SDK, ensure that you have the following:
 
-* Supported operating system  ( Windows, Linux, etc.  having Node installed )
-* Development environment (IDE, Node, etc. )
-* Access to necessary API keys&#x20;
+* Supported operating system  (Windows, Linux etc.  having Node installed)
+* Development environment (IDE, Node etc.)
+* Access to necessary API keys
 * Credits in the web application [https://app.chaingpt.org/](https://app.chaingpt.org/)
 
 

@@ -8,22 +8,19 @@ To use the API key:
 2. Paste the generated API key in the “Your ChainGPT API key” placeholder.
 
 ```javascript
-import { GeneralChat } from '@chaingpt/smartcontractauditor';
+const { Nft } = require('@chaingpt/nft');
 
-const generalchat = new GeneralChat({
+const nftInstance = new Nft({
   apiKey: 'Your ChainGPT API Key',
 });
 
 async function main() {
-  const stream = await generalchat.createChatStream({
-    question: 'Explain quantum computing in simple terms',
-    chatHistory: "off"
+  const generatedImage = await nftInstance.generateNft({
+    walletAddress: "", // Public Key of the wallet that will mint NFT
+    prompt: "", // Prompt to be used to generate the NFT art
+    model: "" // Model to be used to generate the NFT art
   });
-  stream.on('data', (chunk: any) => console.log(chunk.toString()));
-  stream.on('end', () => console.log("Stream ended"));
 }
-
-main();
 
 ```
 
@@ -33,46 +30,27 @@ main();
 
 We provide TypeScript/ JavaScript libraries with support for Node.js. Install it by running:
 
-```
-npm install --save @chaingpt/smartcontractauditor
-# or
-yarn add smartcontractgenerator
-```
-
 
 
 Once installed, you can use the library and your secret key to run the following:
 
 ```javascript
-import { SmartContractAuditor } from "@chaingpt/smartcontractauditor";
+const { Nft } = require('@chaingpt/nft');
 
-const smartcontractauditor = new SmartContractAuditor({
+const nftInstance = new Nft({
   apiKey: 'Your ChainGPT API Key',
 });
 
 async function main() {
-  const stream = await smartcontractauditor.auditSmartContractStream({
-    question:
-      `Audit the following contract:
-      pragma solidity ^0.8.0;
-      contract Counter {
-        uint256 private count; // This variable will hold the count
-        constructor() {
-          count = 0; // Initialize count to 0
-        }
-        function increment() public {
-          count += 1;
-          emit CountChanged(count); // Emit an event whenever the count changes
-        }
-      }`,
-    chatHistory: "on"
+  const generatedImage = await nftInstance.generateNft({
+    walletAddress: "", // Public Key of the wallet that will mint NFT
+    prompt: "", // Prompt to be used to generate the NFT art
+    model: "" // Model to be used to generate the NFT art
   });
-
-  stream.on('data', (chunk: any) => console.log(chunk.toString()));
-  stream.on('end', () => console.log("Stream ended"));
 }
 
 main();
+
 ```
 
 
@@ -81,133 +59,162 @@ main();
 
 ## Advanced Features&#x20;
 
-ChainGPT Smart Contract Auditor SDK provides the following features:&#x20;
+ChainGPT NFT Generator SDK provides following features&#x20;
 
-### Stream Response
+### 1. Generate simple NFT
 
-Retrieve a chat response as a stream:
+#### Request Params:
+
+1. User’s wallet Address (String)
+2. User’s Prompt (String)
+3.  Model name (String)
+
+    1. ChainGPT
+    2. RealMimic
+    3. Animatrix
+    4. PixelMaster
+    5. ThreeDImageForge
+    6. DrawDreamer
+    7. DrawDreamerV2’
+    8. AnimeVerse
+    9. RealVision
+    10. FantasyVerse
+    11. VisionaryForge
+
+    Note: You must have to select any of the model above.\
+    \
+
+
+    \
+
 
 ```javascript
-import { SmartContractAuditor } from "@chaingpt/smartcontractauditor";
+const { Nft } = require('@chaingpt/nft');
 
-const smartcontractauditor = new SmartContractAuditor({
+const nftInstance = new Nft({
   apiKey: 'Your ChainGPT API Key',
 });
 
 async function main() {
-  const stream = await smartcontractauditor.auditSmartContractStream({
-    question: `Audit the following contract:
-      pragma solidity ^0.8.0;
-      contract Counter {
-        uint256 private count; // This variable will hold the count
-        constructor() {
-          count = 0; // Initialize count to 0
-        }
-        function increment() public {
-          count += 1;
-          emit CountChanged(count); // Emit an event whenever the count changes
-        }
-      }`,
-    chatHistory: "on"
+  const generatedImage = await nftInstance.generateNft({
+    walletAddress: "", // Public Key of the wallet that will mint NFT
+    prompt: "", // Prompt to be used to generate the NFT art
+    model: "" // Model to be used to generate the NFT art
   });
+}
 
-  stream.on('data', (chunk: any) => console.log(chunk.toString()));
-  stream.on('end', () => console.log("Stream ended"));
+main();
+
+```
+
+### &#x20;2. Generate an NFT and queue the generation instead of waiting for it to complete
+
+
+
+```javascript
+const { Nft } = require('@chaingpt/nft');
+
+const nftInstance = new Nft({
+  apiKey: 'Your ChainGPT API Key',
+});
+
+async function main() {
+  const generatedImageQueue = await nftInstance.generateNftWithQueue({
+    walletAddress: "", // Public Key of the wallet that will mint NFT
+    prompt: "", // Prompt to be used to generate the NFT art
+    model: "" // Model to be used to generate the NFT art
+  });
+}
+
+main();
+
+```
+
+
+
+### 3. Check the creation progress of your NFT Generation
+
+It's useful with the function: generateNftWithQueue(). It allows users to see the progress of their NFT generation. If users generate a huge amount of NFTs, they can always see how many NFTs are generated and remaining.
+
+```javascript
+const { Nft } = require('@chaingpt/nft');
+
+const nftInstance = new Nft({
+  apiKey: 'Your ChainGPT API Key',
+});
+
+async function main() {
+  const getProgress = await nftInstance.getNftProgress({
+    collectionId: "" // your NFT generation collection ID
+  });
+}
+
+main();
+
+```
+
+### 4. Retrieving the required data to mint the generated NFT
+
+After generating the NFT, users can now mint the NFT on the chain using the code below. This chunk of code will provide the required data for minting the generated NFT
+
+```javascript
+const { Nft } = require('@chaingpt/nft');
+
+const nftInstance = new Nft({
+  apiKey: 'Your ChainGPT API Key',
+});
+
+async function main() {
+  const mint = await nftInstance.mintNft({
+    collectionId: "", // Your NFT generation Collection ID
+    name: "", // A name for your NFT
+    description: "" // A description for your NFT
+  });
+}
+
+main();
+
+```
+
+### &#x20;5.  Retrieving the NFT Mint Factory Contract ABI to call the Mint function
+
+```javascript
+const { Nft } = require('@chaingpt/nft');
+
+const nftInstance = new Nft({
+  apiKey: 'Your ChainGPT API Key',
+});
+
+async function main() {
+  const abi = await nftInstance.abi();
 }
 
 main();
 ```
 
-### &#x20;Blob Response
-
-Retrieve the chat Response in the form of Blob&#x20;
-
-```javascript
-import { SmartContractAuditor } from "@chaingpt/smartcontractauditor";
-
-const smartcontractauditor = new SmartContractAuditor({
-  apiKey: 'Your ChainGPT API Key',
-});
-
-async function main() {
-  const response = await smartcontractauditor.auditSmartContractBlob({
-    question: `Audit the following contract:
-      pragma solidity ^0.8.0;
-      contract Counter {
-        uint256 private count; // This variable will hold the count
-        constructor() {
-          count = 0; // Initialize count to 0
-        }
-        function increment() public {
-          count += 1;
-          emit CountChanged(count); // Emit an event whenever the count changes
-        }
-      }`,
-    chatHistory: "off"
-  });
-
-  console.log(response.data.bot);
-}
-
-main();
-```
-
-### Get Chat history:
-
-Our Smart Contract Auditor SDK also stores the chat history for later usage and users can retrieve chat history by following the code:
-
-```javascript
-import { SmartContractAuditor } from "@chaingpt/smartcontractauditor";
-
-const smartcontractauditor = new SmartContractAuditor({
-  apiKey: 'Your ChainGPT API Key',
-});
-
-async function main() {
-  const response = await smartcontractauditor.getChatHistory({
-    limit: 10,
-    offset: 0,
-    sortBy: "createdAt",
-    sortOrder: "DESC"
-  });
-
-  console.log(response.data.rows);
-}
-
-main();
-```
+### &#x20;
 
 ## Error Handling
 
 When the library is unable to connect to the API, or if the API returns a non-success status code (i.e., 4xx or 5xx response), an error of the  class SmartContractAuditorError  will be thrown:
 
 ```javascript
-import { Errors } from "@chaingpt/smartcontractauditor";
+// Error handler of NFT SDK
+const { Nft } = require('@chaingpt/nft');
+
+const nftInstance = new Nft({
+  apiKey: 'Your ChainGPT API Key',
+});
 
 async function main() {
   try {
-    const stream = await smartcontractauditor.auditSmartContractStream({
-      question: `Audit the following contract:
-      pragma solidity ^0.8.0;
-      contract Counter {
-        uint256 private count; // This variable will hold the count
-        constructor() {
-          count = 0; // Initialize count to 0
-        }
-        function increment() public {
-          count += 1;
-          emit CountChanged(count); // Emit an event whenever the count changes
-        }
-      }`,
-      chatHistory: "on"
+    const mint = await nftInstance.mintNft({
+      collectionId: "", // Your NFT generation Collection ID
+      name: "", // A name for your NFT
+      description: "" // A description for your NFT
     });
-
-    stream.on('data', (chunk: any) => console.log(chunk.toString()));
-    stream.on('end', () => console.log("Stream ended"));
   } catch (error) {
-    if(error instanceof Errors.SmartContractAuditorError) {
-      console.log(error.message)
-    }
+    console.log("error", error.message);
   }
 }
 
@@ -224,8 +231,8 @@ Our SDK supports Javascript language and will run on Node applications.&#x20;
 
 ## Security Considerations
 
-1. To ensure security, the SDK is accessible using an authentication key. Users with credits in the web app and a valid API key can access the SDK.
-2. Request limitations have been handled to avoid misuse. Users can make 200 requests per minute, and 1 credit will be deducted for each request.&#x20;
+1. To ensure security, the SDK is made accessible using an authentication key. Users having credits in the web-app and a valid API key shall be able to access the SDK
+2. Request limitation has been handled to avoid any misuse. Users are allowed to generate 10 NFT per 24 hrs.
 
 ## Release Version&#x20;
 
@@ -235,7 +242,7 @@ Release history is maintained. However, this is the first release; in the future
 
 Please check out this link for SDK code documentation&#x20;
 
-https://www.npmjs.com/package/@chaingpt/smartcontractauditor
+[https://www.npmjs.com/package/@chaingpt/nft](https://www.npmjs.com/package/@chaingpt/nft)
 
 \
 Support/ Help&#x20;

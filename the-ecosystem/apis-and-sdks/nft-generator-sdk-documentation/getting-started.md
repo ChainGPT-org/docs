@@ -9,51 +9,35 @@ To install the SDK, follow the instructions, follow the steps below
 3. Run the following commands.
 
 ```
-npm install --save @chaingpt/smartcontractauditor
+npm install --save @chaingpt/nft
 # or
-yarn add smartcontractgenerator
+yarn add @chaingpt/nft
 ```
 
 ## Configuration
 
 ### Credits System&#x20;
 
-Users must start by getting credits on the web app, https://app.chaingpt.org/. These credits will allow users to create API keys and access SDK. Credits will be deducted from each request made using SDK.
+Users must start by getting credits on the web app: https://app.chaingpt.org/. These credits will allow users to create API keys and access SDK. Credits will be deducted from each request made using SDK.
 
 
 
 ### Setup API Key&#x20;
 
-**Generating API Key**: Utilize the ChainGPT API SDK for authentication. In the web application, navigate to the API Dashboard and use the 'Create Secret Key' feature to generate and copy your API key.
+The ChainGPT API SDK uses API keys for authentication. In the Web app, Go to the SDK/ API module from the header menu, generate an API Key using the create secret key feature, and copy it.
 
-
-
-**Secret key feature and copy.**  &#x20;
-
-<figure><img src="https://lh7-us.googleusercontent.com/JPzAcw4zRXGExj0Kubccsc41yLBVog50sjU_ws0eGcpt5BXq6CCpOe5gtfLqVF67H7BQ8MF1vkvc-VH-oRSN-tjCm5Dhdb6xjISRt0MNScKcsqPcsMFiGwuz2jeG_G8wucDR0urplhTjVAjifU12H-4" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXfICRQJeYt8Y2mQN3Y1qffpAG80R4oY2cGcJxDt33VVgFFgHz2mBaq57Ya0aQzCwgq-VVCirwbPG7_JVLB_xaUdh790ZJbfuhA-JMIAkKKoBV3M-zb-SjT6f_NA68wPu3UPl8dBM8gITlJyn_M2RyhdAX0?key=nktwEbJXblWcAqBuQwz8hg" alt=""><figcaption></figcaption></figure>
 
 ### **Securing API Key**:
 
 * It is crucial to secure your API keys to control access effectively.
 * Avoid exposing the API keys in your code or public repositories.
-* Store them in a secure location, and use environment variables or a secret management service to expose them to your application.
+* Store them in a secure location, and expose them to your application using environment variables or a secret management service.
 * This method ensures you do not need to hard-code them in your codebase, enhancing security.
 
 ## Pricing
 
-#### Stream Response
-
-1. On sending each chat API request, 5 Credits will be deducted from the user account in WebApp.&#x20;
-2. In addition, if the user enables the chat history feature, an additional 1 Credit will be deducted.
-
-#### Blob Response
-
-1. On sending each API request, 5 Credits will be deducted from the user account in WebApp.&#x20;
-2. In addition, if the user enables the chat history feature, an additional 1 Credit will be deducted.
-
-#### Get Chat History
-
-1. Since the user has already enabled the chat history feature while calling the stream/blob response chat API, no additional credits will be deducted for the Get credit history API.
+####
 
 Users can monitor and manage their credit usage via the [Webapp](https://app.chaingpt.org/), aligning with ChainGPT's user-centric approach to accessibility and transparency in service provision.&#x20;
 
