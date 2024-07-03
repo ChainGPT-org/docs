@@ -77,6 +77,10 @@
   * [Burn Mechanism Dashboard ](https://app.chaingpt.org/burndashboard)
 * [Tier System & Benefits](the-ecosystem/tier-system-and-benefits.md)
 * [DAO Governance](the-ecosystem/dao-governance.md)
+* [ChainGPT Labs](the-ecosystem/chaingpt-labs/README.md)
+  * [Case Study: DexCheck](the-ecosystem/chaingpt-labs/case-study-dexcheck.md)
+  * [Case Study: Solidus AI Tech](the-ecosystem/chaingpt-labs/case-study-solidus-ai-tech.md)
+  * [Case Study: GT Protocol](the-ecosystem/chaingpt-labs/case-study-gt-protocol.md)
 * [ChainGPT Pad](the-ecosystem/chaingpt-pad/README.md)
   * [Introduction & Overview](the-ecosystem/chaingpt-pad/introduction-and-overview.md)
   * [Tier System](the-ecosystem/chaingpt-pad/tier-system/README.md)
@@ -91,10 +95,6 @@
   * [KOLs Program (Ambassadors)](the-ecosystem/chaingpt-pad/kols-program-ambassadors.md)
 * [Smart-Contracts](the-ecosystem/smart-contracts.md)
 * [RE:BOT NFTs](the-ecosystem/re-bot-nfts.md)
-* [ChainGPT Labs](the-ecosystem/chaingpt-labs/README.md)
-  * [Case Study: DexCheck](the-ecosystem/chaingpt-labs/case-study-dexcheck.md)
-  * [Case Study: Solidus AI Tech](the-ecosystem/chaingpt-labs/case-study-solidus-ai-tech.md)
-  * [Case Study: GT Protocol](the-ecosystem/chaingpt-labs/case-study-gt-protocol.md)
 
 ## Misc
 

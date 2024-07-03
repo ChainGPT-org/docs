@@ -76,8 +76,9 @@ ChainGPT Labs has successfully supported a variety of projects, including:
 
 * ChainGPT AI
 * ChainGPT Pad
-* AITech
-* DEXCheck
+* [GT Protocol](case-study-gt-protocol.md) (Case Study)
+* [AITech](case-study-solidus-ai-tech.md) (Case Study)
+* [DEXCheck](case-study-dexcheck.md) (Case Study)
 * And more!
 
 Each project benefits from tailored support and strategic guidance aimed at fostering long-term success and innovation in the Web3 space. Apply today using [this link](https://labs.chaingpt.org/).
