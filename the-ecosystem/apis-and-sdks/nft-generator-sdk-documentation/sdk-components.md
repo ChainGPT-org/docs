@@ -196,7 +196,7 @@ main();
 
 ## Error Handling
 
-When the library is unable to connect to the API, or if the API returns a non-success status code (i.e., 4xx or 5xx response), an error of the  class SmartContractAuditorError  will be thrown:
+When the library is unable to connect to the API, or if the API returns a non-success status code (i.e., 4xx or 5xx response), an error will be thrown:
 
 ```javascript
 // Error handler of NFT SDK
@@ -232,7 +232,6 @@ Our SDK supports Javascript language and will run on Node applications.&#x20;
 ## Security Considerations
 
 1. To ensure security, the SDK is made accessible using an authentication key. Users having credits in the web-app and a valid API key shall be able to access the SDK
-2. Request limitation has been handled to avoid any misuse. Users are allowed to generate 10 NFT per 24 hrs.
 
 ## Release Version&#x20;
 
