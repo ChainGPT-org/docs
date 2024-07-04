@@ -16,10 +16,10 @@ ChainGPT is an advanced AI infrastructure that develops AI-powered technologies 
 * AI Trading Assistant ([Visit App](https://app.chaingpt.org) - Read More: [ai-trading-assistant.md](the-ecosystem/ai-tools-and-applications/ai-trading-assistant.md "mention"))
 * ChainGPT Pad ([Visit App](https://pad.chaingpt.org) - Read More: [chaingpt-pad](the-ecosystem/chaingpt-pad/ "mention"))
 * ChainGPT LLMs & TTIMs (Read More: [llms-and-ttims.md](the-ecosystem/llms-and-ttims.md "mention"))
-* AI-Powered Security Extension (Coming Soon)
+* CryptoGuard - AI-Powered Security Extension ([Visit App](https://cryptoguard.ai))
 * AI Blockchain Analytics
-* ChainGPT Labs (VC Arm)
-* Incubation & Acceleration Program for AI Startups (Read More: [Broken link](broken-reference "mention"))
+* ChainGPT Labs ([VC Arm](https://labs.chaingpt.org))
+* Incubation & Acceleration Program for AI Startups
 * Whitelabels: AI Chatbot, Launchpad, & more! (Read More: [b2b-offerings](misc/b2b-offerings/ "mention"))
 
 The solutions developed by ChainGPT are tailored for retail users and enterprises. ChainGPT believes in developing open technologies and does not gate-keep the LLMs & applications developed by ChainGPT from other Web3 companies. Everyone is welcome to access ChainGPT's API & SDKs.
