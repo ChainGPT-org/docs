@@ -7,7 +7,7 @@ description: ChainGPT's Artificially Intelligent Non-Fungible Token Generator
 {% hint style="info" %}
 Interact with the ChainGPT AI NFT Generator here: [https://nft.chaingpt.org/](https://nft.chaingpt.org/)
 
-A limited version of our NFT Generator is also available on [Telegram](https://t.me/chaingptai\_bot) & Discord.
+A limited version of our NFT Generator is also available on [Telegram](https://t.me/chaingptai\_bot) & [Discord](https://discord.com/invite/sv2NfqSgVW).
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/photo_2023-08-17_18-52-19.jpg" alt=""><figcaption></figcaption></figure>
@@ -42,7 +42,7 @@ Following recent updates, the platform now supports a variety of crypto payments
 * Crypto Payments (USDT, USDC, BTCB, ETH, and BNB)
 * Marketplace (Sell and Purchase NFTs)
 * Community Leaderboard
-* New Chain Integrations (Polygon, Scroll, Arbitrum, and Mantle)
+* &#x20;Chain Integrations (Ethereum, BNB Smart Chain, Polygon, Avalanche, opBNB Mainnet, Sepolia, SKALE | Titan AI Hub, Scroll, Arbitrum One, Mantle, X-Layer and Tron)
 
 ### Getting Started
 
