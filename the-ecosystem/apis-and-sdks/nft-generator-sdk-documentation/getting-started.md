@@ -37,13 +37,13 @@ The ChainGPT API SDK uses API keys for authentication. In the Web app, Go to the
 
 ## Pricing
 
-####
+On sending each API request for NFT generation, 2 Credits will be deducted from the user account in WebApp.
 
 Users can monitor and manage their credit usage via the [Webapp](https://app.chaingpt.org/), aligning with ChainGPT's user-centric approach to accessibility and transparency in service provision.&#x20;
 
 For additional details or to manage your credits, users should visit the [ChainGPT Webapp](https://app.chaingpt.org/).
 
-##
+
 
 ## Support
 

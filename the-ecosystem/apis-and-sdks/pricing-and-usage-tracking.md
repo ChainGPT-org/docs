@@ -37,6 +37,10 @@ For additional details or to manage your credits, users should visit the [ChainG
 
 1. Since the user has already enabled the chat history feature while calling the stream/blob response chat API, no additional credits will be deducted for the Get credit history API.
 
+## NFT Generator  SDK
+
+On sending each API request for NFT generation, 2 Credits will be deducted from the user account in WebApp.
+
 ## Trace your usage&#x20;
 
 To trace SDK  and API usage, follow your usage dashboard here - [https://app.chaingpt.org/apidashboard](https://app.chaingpt.org/apidashboard).&#x20;

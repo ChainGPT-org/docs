@@ -2,13 +2,13 @@
 
 ## 1. Introduction
 
-### 1.1    Purpose and Scope of Smart Contract Auditor SDK
+### 1.1    Purpose and Scope of NFT Generator SDK
 
 Our NFT Generator SDK (Software Development Kit) is a library/doc for developers to build and integrate our NFT Generator functionality into their applications, platforms, or services.&#x20;
 
 ### 1.2    Audience of document / SDK
 
-This documentation is intended to provide a brief overview of NFT Generator SDK, its features and usage guidelines for developers, software engineers, and system integrators who are using or planning to use our SDK.
+This documentation will provide a brief overview of NFT Generator SDK, its features, and usage guidelines for developers, software engineers, and system integrators using or planning to use our SDK.
 
 ### 1.3  Prerequisites
 
