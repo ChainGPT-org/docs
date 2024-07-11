@@ -107,7 +107,7 @@
   * [Launchpad Whitelabel](misc/b2b-offerings/launchpad-whitelabel.md)
 * [Work With Us](misc/work-with-us/README.md)
   * [Chief Technology Officer](misc/work-with-us/chief-technology-officer.md)
-  * [Head of Blockchain Development](misc/work-with-us/head-of-blockchain-development.md)
+  * [DevOps Engineer](misc/work-with-us/devops-engineer.md)
   * [Head of Product](misc/work-with-us/head-of-product.md)
   * [Business Development Associate](misc/work-with-us/business-development-associate.md)
   * [Senior Full-Stack Web3 Developer](misc/work-with-us/senior-full-stack-web3-developer.md)
