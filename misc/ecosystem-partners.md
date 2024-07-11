@@ -7,6 +7,7 @@
 * [Polygon](https://polygon.technology/)
 * [Arbitrum](https://arbitrum.io/)
 * [Sei](https://www.sei.io/)
+* [Core](https://coredao.org/)
 * [Scroll](https://scroll.io/)
 * [Mantle](https://www.mantle.xyz/)
 * [SKALE](https://skale.space/)
