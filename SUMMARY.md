@@ -116,6 +116,7 @@
   * [Full-Stack Web3 Developer](misc/work-with-us/full-stack-web3-developer.md)
   * [KOL Manager](misc/work-with-us/kol-manager.md)
   * [Marketing Manager](misc/work-with-us/marketing-manager.md)
+  * [Product Manager](misc/work-with-us/product-manager.md)
 * [Social Links](misc/social-links/README.md)
   * [Twitter AI](https://twitter.com/Chain\_GPT)
   * [Twitter ChainGPT Pad](https://x.com/ChainGPT\_Pad)
