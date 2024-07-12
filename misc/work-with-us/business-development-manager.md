@@ -1,8 +1,8 @@
-# Business Development Associate
+# Business Development Manager
 
 Location: Remote
 
-Position: Business Development Associate
+Position: Business Development Manager
 
 Company: ChainGPT
 
@@ -12,16 +12,18 @@ Position Type: Full-Time
 
 ChainGPT is at the forefront of AI and Blockchain Technology, enabling and transforming Web3 through AI. Our AI-powered tools equip users with fast and accurate information to navigate the dynamic Blockchain industry. We're seeking knowledgeable individuals with a deep understanding of finance, technology, web3, AI, and cryptocurrency to join our expanding team.
 
-#### About the Role – Business Development Associate
-
-* This role is ideal for somebody with a strong Web3 network who can drive outreach, craft proposals, and negotiate to secure new partnerships.
+#### About the Role – Business Development Manager: This role is ideal for somebody with a strong Web3 network who can drive outreach, craft proposals, and negotiate to secure new partnerships.
 
 #### Key Responsibilities
 
-* Perform market research to discover and follow up on potential business opportunities.
-* Create and manage strategic partnerships with other projects in the Web3 space.
-* Identify and approach potential partners within the Web3 ecosystem.
-* Collaborate with various internal departments, such as Marketing and Content teams.
+* Develop and implement a sales strategy to expand the company's clientele list.
+* Identify new business opportunities through market research and prospecting.
+* Build strong relationships with potential clients - blockchain and Web3 projects/companies.
+* Conduct outreach to potential clients via phone, email, and social media to establish rapport and arrange meetings.
+* Negotiate and close deals with new clients, ensuring profitability and the delivery of high-quality services.
+* Work closely with the internal team to create customized solutions that meet clients' needs.
+* Maintain accurate records of all client interactions.
+* Research emerging trends and recommend new ChainGPT services to satisfy clients’ needs.
 
 #### Requirements
 
@@ -32,8 +34,12 @@ ChainGPT is at the forefront of AI and Blockchain Technology, enabling and trans
 
 #### Preferred Qualifications (Optional)
 
-* A track record of generating new business opportunities and building strong relationships.
-* Ability to plan strategies and proposals to execute with relevant teams and partners.
+* Proven track record of "B2B" sales experience with at least 3 years of sales experience in the crypto sector.
+* Excellent knowledge of the blockchain and crypto industry.
+* Excellent communication and interpersonal skills, building and maintaining strong relationships with clients and team members.
+* Demonstrated ability to identify and pursue new business opportunities.
+* Strategic mindset and the ability to think creatively about solutions to complex problems.
+* Strong organizational skills and the ability to manage multiple projects simultaneously.
 
 #### Company Culture and Values
 
