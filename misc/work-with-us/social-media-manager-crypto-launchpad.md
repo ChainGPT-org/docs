@@ -37,7 +37,7 @@ Your responsibilities include creating engaging content, managing social media c
 * Strong understanding of crypto launchpads.
 * Preferred: Strong experience in web3 and crypto marketing.
 
-**Company Culture and Values At ChainGPT:** We value Trust, Effective Speed, Innovation, and Growth. As our Social Media Manager, you will embody these core values and have the opportunity to contribute to our culture and help drive our success. Join us on this exciting journey as we shape the future of blockchain and crypto technology.
+**Company Culture and Values:** At ChainGPT We value Trust, Effective Speed, Innovation, and Growth. As our Social Media Manager, you will embody these core values and have the opportunity to contribute to our culture and help drive our success. Join us on this exciting journey as we shape the future of blockchain and crypto technology.
 
 **Application Process:** To apply, please submit your resume, cover letter describing your relevant experience, and LinkedIn profile to jobs@chaingpt.org. We would love to hear from you if you are passionate about blockchain technology and would like to work with a dynamic and growing company.
 
