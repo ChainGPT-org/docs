@@ -10,19 +10,19 @@
 
 **About ChainGPT:** ChainGPT is at the forefront of AI and Blockchain Technology, enabling and transforming Web3 through AI. Our AI-powered tools equip users with fast and accurate information to navigate the dynamic Blockchain industry. We're seeking knowledgeable individuals with a deep understanding of finance, technology, web3, AI, and cryptocurrency to join our expanding team.
 
-**About the Role – Social Media Manager for Web3 Gaming:** As the Social Media Manager at ChainGPT for our new web3 game, you will be responsible for developing and executing social media strategies to promote our tap-to-earn game. Your role will focus on increasing user acquisition, engagement, and retention.&#x20;
+**About the Role—Social Media Manager for Web3 Gaming: As the Social Media Manager at ChainGPT, you will develop and execute** social media strategies to promote ChainGPT. Your role will focus on increasing user acquisition, engagement, and retention.&#x20;
 
-Your responsibilities include creating engaging content, managing social media campaigns, interacting with the gaming community, and monitoring analytics to ensure our strategies are effective. This role demands creativity, strong organizational skills, and the ability to work effectively with internal teams and external partners, contributing to our mission of innovation, effective speed, and growth in the blockchain and crypto landscape.
+Your responsibilities include creating engaging content, managing social media campaigns, interacting with the  community, and monitoring analytics to ensure our strategies are effective. This role demands creativity, strong organizational skills, and the ability to work effectively with internal teams and external partners, contributing to our mission of innovation, effective speed, and growth in the blockchain and crypto landscape.
 
 **Key Responsibilities:**
 
-* **Content Creation:** Develop and curate engaging content for the web3 game’s social media platforms, including Twitter, Telegram, and other relevant channels.
+* **Content Creation:** Develop and curate engaging content for our social media platforms, including Twitter, Telegram, and other relevant channels.
 * **Campaign Management:** Plan, execute, and monitor social media campaigns to drive engagement and user growth.
-* **Community Engagement:** Interact with the gaming community, responding to comments and messages and fostering a positive and active online community.
+* **Community Engagement:** Interact with the  community, responding to comments and messages and fostering a positive and active online community.
 * **Analytics and Reporting:** Monitor social media performance using analytics tools and provide regular reports to track progress and suggest improvements.
 * **Collaborations and Partnerships:** Work with influencers, gaming ambassadors, and partners to enhance brand visibility and reach.
-* **Brand Consistency:** Ensure all social media content aligns with the web3 game’s branding and messaging guidelines.
-* **Game Promotion:** Lead the social media efforts to promote the tap-to-earn game, create buzz, and attract users.
+* **Brand Consistency:** Ensure all social media content aligns with the web3 branding and messaging guidelines.
+* **Promotion:** Lead the social media efforts to promote, create buzz, and attract users.
 
 **Requirements:**
 
