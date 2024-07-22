@@ -119,6 +119,7 @@
   * [Product Manager](misc/work-with-us/product-manager.md)
   * [Social Media Manager - Crypto Launchpad](misc/work-with-us/social-media-manager-crypto-launchpad.md)
   * [Social Media Manager](misc/work-with-us/social-media-manager.md)
+  * [Email Marketeer](misc/work-with-us/email-marketeer.md)
 * [Social Links](misc/social-links/README.md)
   * [Twitter AI](https://twitter.com/Chain\_GPT)
   * [Twitter ChainGPT Pad](https://x.com/ChainGPT\_Pad)
