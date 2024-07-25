@@ -28,6 +28,8 @@
 * [GT-Protocol](https://www.gt-protocol.io/)
 * [DMAIL](https://dmail.ai/)
 * [Sleepless AI](https://www.sleeplessai.net/)
+* [Alaya AI](https://www.aialaya.io/)
+* [Tars Protocol](https://tars.pro/)
 
 ## NFT
 
