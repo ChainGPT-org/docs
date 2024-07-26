@@ -103,6 +103,7 @@
   * [Application](misc/usd1m-web3-ai-grant-program/application.md)
   * [FAQ](misc/usd1m-web3-ai-grant-program/faq.md)
 * [Ecosystem Partners](misc/ecosystem-partners.md)
+* [Bug Bounty](misc/bug-bounty.md)
 * [B2B Offerings](misc/b2b-offerings/README.md)
   * [Launchpad Whitelabel](misc/b2b-offerings/launchpad-whitelabel.md)
 * [Work With Us](misc/work-with-us/README.md)
