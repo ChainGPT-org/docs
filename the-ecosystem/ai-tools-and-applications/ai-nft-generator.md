@@ -102,12 +102,11 @@ Prompts can range from concrete and straightforward examples like "White Rhino I
 
 #### Costs <a href="#costs" id="costs"></a>
 
-To ensure accessibility, the ChainGPT AI NFT Generator has been designed with a cost structure that is significantly more affordable than traditional methods. Here are the current pricing details:
+To ensure accessibility, the ChainGPT AI NFT Generator has been designed with a cost structure that is significantly more affordable than traditional methods. Here are the current pricing details:​
 
-* Prototype (free for a limited time): [https://nft.chaingpt.org/](https://nft.chaingpt.org/)​
-* Users: 0.1 $CGPT per request
-* Stakers: 10,000 $CGPT staked = unlimited use
-* Business: 0.1 $CGPT per API call
+* Unlimited generations for free on our Telegram and Discord Chatbots!
+* 10 Single Image generations free daily.
+* 2 CGPTc per generation thereafter, or when using Multi-NFT Collection.
 
 #### Security Features <a href="#security-features" id="security-features"></a>
 
@@ -119,7 +118,7 @@ To maintain community standards and ensure a safe platform environment, administ
 
 The ChainGPT AI NFT Generator's outcomes depend on the creativity of the prompter. While the AI model is powerful, the quality and relevance of the generated images can vary based on the prompts provided. Feel free to try it out and explore the possibilities for yourself.
 
-Please note that free access to the prototype is available for a limited time only. Visit [https://nft.chaingpt.org/](https://nft.chaingpt.org/) now to experience the transformative power of the ChainGPT AI NFT Generator. For any further assistance or inquiries, please contact our support team at support@chaingpt.org. Thank you for choosing the ChainGPT AI NFT Generator!
+Visit [https://nft.chaingpt.org/](https://nft.chaingpt.org/) now to experience the transformative power of the ChainGPT AI NFT Generator. For any further assistance or inquiries, please contact our support team at support@chaingpt.org. Thank you for choosing the ChainGPT AI NFT Generator!
 
 {% hint style="info" %}
 For Prompt ideas, check out the ChainGPT Prompt Marketplace available in the Dapp dashboard: [https://app.chaingpt.org/promptmarket](https://app.chaingpt.org/promptmarket) or view the "all NFTs" tab in [https://nft.chaingpt.org/](https://nft.chaingpt.org/) to get some inspiration from community creations
