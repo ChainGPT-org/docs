@@ -2,8 +2,8 @@
 
 ### **Active:**
 
-{% content-ref url="2023-q3-q4.md" %}
-[2023-q3-q4.md](2023-q3-q4.md)
+{% content-ref url="2024-q3-q4.md" %}
+[2024-q3-q4.md](2024-q3-q4.md)
 {% endcontent-ref %}
 
 ### **Upcoming:**
@@ -14,11 +14,19 @@
 
 ### Completed:
 
-{% content-ref url="2022-q3-q4.md" %}
-[2022-q3-q4.md](2022-q3-q4.md)
+{% content-ref url="2024-q1-q2.md" %}
+[2024-q1-q2.md](2024-q1-q2.md)
+{% endcontent-ref %}
+
+{% content-ref url="2023-q3-q4.md" %}
+[2023-q3-q4.md](2023-q3-q4.md)
 {% endcontent-ref %}
 
 {% content-ref url="2023-q1-q2.md" %}
 [2023-q1-q2.md](2023-q1-q2.md)
+{% endcontent-ref %}
+
+{% content-ref url="2022-q3-q4.md" %}
+[2022-q3-q4.md](2022-q3-q4.md)
 {% endcontent-ref %}
 
