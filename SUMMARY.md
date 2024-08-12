@@ -91,7 +91,7 @@
   * [Leadership Team](the-ecosystem/chaingpt-pad/leadership-team.md)
   * [Flexible Refund Policy](the-ecosystem/chaingpt-pad/flexible-refund-policy/README.md)
     * [Claim & Refund Guide](the-ecosystem/chaingpt-pad/flexible-refund-policy/claim-and-refund-guide.md)
-  * [F.A.Q.s - ChainGPT Pad](the-ecosystem/chaingpt-pad/f.a.q.s-chaingpt-pad.md)
+  * [F.A.Q.s - DegenPad](the-ecosystem/chaingpt-pad/f.a.q.s-degenpad.md)
   * [KOLs Program (Ambassadors)](the-ecosystem/chaingpt-pad/kols-program-ambassadors.md)
 * [DegenPad](the-ecosystem/degenpad/README.md)
   * [Introduction & Overview](the-ecosystem/degenpad/introduction-and-overview.md)

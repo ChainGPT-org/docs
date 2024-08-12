@@ -26,8 +26,8 @@
 [flexible-refund-policy](../chaingpt-pad/flexible-refund-policy/)
 {% endcontent-ref %}
 
-{% content-ref url="../chaingpt-pad/f.a.q.s-chaingpt-pad.md" %}
-[f.a.q.s-chaingpt-pad.md](../chaingpt-pad/f.a.q.s-chaingpt-pad.md)
+{% content-ref url="../chaingpt-pad/f.a.q.s-degenpad.md" %}
+[f.a.q.s-degenpad.md](../chaingpt-pad/f.a.q.s-degenpad.md)
 {% endcontent-ref %}
 
 [**Disclaimer**](../../misc/legal-docs/disclaimer.md)
