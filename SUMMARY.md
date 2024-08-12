@@ -103,7 +103,7 @@
   * [Leadership Team](the-ecosystem/degenpad/leadership-team.md)
   * [Flexible Refund Policy](the-ecosystem/degenpad/flexible-refund-policy/README.md)
     * [Claim & Refund Guide](the-ecosystem/degenpad/flexible-refund-policy/claim-and-refund-guide.md)
-  * [F.A.Q.s - ChainGPT Pad](the-ecosystem/degenpad/f.a.q.s-chaingpt-pad.md)
+  * [F.A.Q.s - DegenPad](the-ecosystem/degenpad/f.a.q.s-degenpad.md)
   * [KOLs Program (Ambassadors)](the-ecosystem/degenpad/kols-program-ambassadors.md)
 * [Smart-Contracts](the-ecosystem/smart-contracts.md)
 * [RE:BOT NFTs](the-ecosystem/re-bot-nfts.md)
