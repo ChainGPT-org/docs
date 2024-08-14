@@ -22,6 +22,6 @@
 [flexible-refund-policy](flexible-refund-policy/)
 {% endcontent-ref %}
 
-{% content-ref url="degenpad-faqs.md" %}
-[degenpad-faqs.md](degenpad-faqs.md)
+{% content-ref url="f.a.q.s-degenpad.md" %}
+[f.a.q.s-degenpad.md](f.a.q.s-degenpad.md)
 {% endcontent-ref %}
