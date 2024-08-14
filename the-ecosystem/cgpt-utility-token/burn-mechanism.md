@@ -60,7 +60,7 @@ To view all previous $CGPT burn events on BSC's on-chain explorer, use the link 
 
 ### [https://app.chaingpt.org/burndashboard](https://app.chaingpt.org/burndashboard)
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 ### &#x20;---
 

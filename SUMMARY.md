@@ -94,7 +94,7 @@
   * [F.A.Q.s - DegenPad](the-ecosystem/chaingpt-pad/f.a.q.s-degenpad.md)
   * [KOLs Program (Ambassadors)](the-ecosystem/chaingpt-pad/kols-program-ambassadors.md)
 * [DegenPad](the-ecosystem/degenpad/README.md)
-  * [Introduction & Overview](the-ecosystem/degenpad/introduction-and-overview.md)
+  * [Introduction to DegenPad](the-ecosystem/degenpad/introduction-to-degenpad.md)
   * [Tier System](the-ecosystem/degenpad/tier-system/README.md)
     * [Staking](the-ecosystem/degenpad/tier-system/staking.md)
   * [KYC Onboarding Guide](the-ecosystem/degenpad/kyc-onboarding-guide.md)
