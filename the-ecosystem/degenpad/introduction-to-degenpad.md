@@ -1,6 +1,6 @@
 # Introduction to DegenPad
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Announcing DegenPad: A Launchpad Designed by Degens, for Degens <a href="#id-3970" id="id-3970"></a>
 
