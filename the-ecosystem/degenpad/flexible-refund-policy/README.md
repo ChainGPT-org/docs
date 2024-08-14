@@ -1,52 +1,37 @@
----
-description: ChainGPT Initial DEX Offering Refund System
----
-
 # Flexible Refund Policy
 
-<figure><img src="https://assets-global.website-files.com/64354b8ce4872a52ac1c7b06/648cd2afa08b27df921caac4_Refund%20Policy.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-_ChainGPT’s launchpad has been designed from the ground up with maximum security considerations on behalf of the users. As a mechanism to mitigate risks, protect against malicious activity, and align the behaviors of projects that get listed on the Launchpad, a novel refund policy has been implemented._
+[DegenPad](http://degenpad.com/) has been designed with maximum security considerations for its users. To mitigate risks, protect against malicious activity, and ensure that projects listed on the platform behave with integrity, DegenPad has implemented a novel refund policy.
 
-### **How The Refund Policy Works**
+### How Our Refund Policy Works <a href="#c38d" id="c38d"></a>
 
-Immediately following the successful completion of an IDO, a grace period begins.
+Following the successful completion of an IDO and the project’s token initial listing, the refund grace period begins.
 
-Grace periods will last anywhere from 7-14 days, as deemed necessary according to the risk evaluations conducted by ChainGPT Pad's administrative team. Under certain circumstances, this period may vary; if the grace period is outside of this range, clear communications about it shall be made available across all community social media channels.
+During the refund grace period, DegenPad users will have two options in their dashboard: “Claim” and “Refund.” At any point within the grace period, users have the right to withdraw from participation by simply selecting “Refund.” Once a user confirms a refund, their initial contributions will be released directly back to their wallet addresses.
 
-For the duration of the grace period, Launchpad users/IDO participants will be presented with two options in their dashboard: **“**_**Claim**_**”** and **“**_**Refund**_**”**.&#x20;
+Please note that if a user selects “Claim” at any point, they will collect their token allocation and, by default, will no longer be able to refund it.
 
-During any point within the grace period, users have the right to evaluate the market performance and inspect the team's intentions under greater scrutiny. Should any concerns (or personal circumstances) arise where the user no longer wants to participate in the token launch, they can withdraw from participation by simply selecting **“**_**Refund**_**.”** As soon as a user confirms a refund, the claim options will disappear, and after a short processing period, their initial contributions will be released directly back to their wallet addresses.
+Every IDO on the DegenPad platform undergoes a qualitative assessment before listing, which will determine the length of the refund grace period. Typically, this period spans 7 days, but under certain circumstances, the DegenPad team may adjust it as needed.
 
-Be advised the inverse logic holds true for the _**"Claim"** option_. If at any point a user selects **“**_**Claim**_**”** they will secure their tokens and begin collecting their token allocations (via the predefined vesting schedule); which would result in the voiding of the refund option completely.&#x20;
+### Refund Qualification <a href="#b501" id="b501"></a>
 
-{% hint style="warning" %}
-_Participation confirmations are FINAL._&#x20;
+Every participant tier, from Ape to Whale, qualifies for a 100% refund on their committed funds, as long as they make their request within the allotted refund period and do not claim before the period expires.
 
-Once claimed, refunds are voided. \
-Once refunded, claims are voided.
-{% endhint %}
+### Conclusion <a href="#id-1f19" id="id-1f19"></a>
 
-### **Refund Qualification**
+The presence of a refund policy is intended to protect the DegenPad community while incentivizing participating projects to operate with maximum integrity.
 
-Refunds are 100% recouped; there are no penalties for using it.&#x20;
+## Refund Policy FAQs: <a href="#f147" id="f147"></a>
 
-Every tier/grade of participant, from bronze all the way up to diamond, qualifies for a refund on their committed funds, so long as they make their request within the allotted refund period time frame and do not claim before its expiry.
+**1) For how long can I request a Refund?**\
+As long as you do not “Claim” within the refund grace period, you can request a refund anytime before the grace period elapses.
 
-### **Conclusion**
+**2) Do I get a full refund?**\
+Yes, refunds are 100% of your allocation.
 
-The presence of a Refund policy is intended to provide protection to both sides of the market's participants and uphold the high-quality standards and platform features of ChainGPT Pad.&#x20;
+**3) Can I request a refund after I “Claim”?**\
+No, by opting to claim, you forfeit the right to refunds.
 
-First and foremost, the refunds protect the $CGPT community, minimizing (if not neutralizing) any malicious intents from IDO projects. At the same time, the added time pressures incentivize higher degrees of behavioral alignment for the projects. Moreover, these extended parameters act as metaphoric guard rails that deter lower-quality projects from even attempting to infiltrate the ChainGPT ecosystem.
-
-
-
-{% hint style="info" %}
-Every IDO on the ChainGPT Launchpad has a qualitative assessment take place prior to listing that will, as part of its results, determine a “refund grace period”.&#x20;
-{% endhint %}
-
-
-
-\---
-
-[**Disclaimer**](../../../misc/legal-docs/disclaimer.md)
+**4) How is this beneficial to projects?**\
+With a refund policy in place, projects are provided with solid guidelines by which they must abide in order to offer the highest level of service to users. It acts as an automated security shield. With these guardrails in place, projects of lower quality will be discouraged from attempting to infiltrate our community.
