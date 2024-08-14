@@ -4,9 +4,7 @@ description: Participation Rounds for Initial Dex Offerings on ChainGPT
 
 # IDO Rounds Explained
 
-<figure><img src="../../.gitbook/assets/cgpt-pad-rounds.png" alt=""><figcaption></figcaption></figure>
-
-ChainGPT Pad leverages a two-phased approach for conducting the launches of IDO projects.&#x20;
+DegenPad leverages a two-phased approach for conducting the launches of IDO projects.&#x20;
 
 By having multiple rounds, a higher degree of commitment from the CGPT user base can be established, and a larger potential opportunity for projects to successfully complete their intended sales.&#x20;
 

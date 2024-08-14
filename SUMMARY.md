@@ -97,8 +97,6 @@
   * [Introduction to DegenPad](the-ecosystem/degenpad/introduction-to-degenpad.md)
   * [Tier System](the-ecosystem/degenpad/tier-system/README.md)
     * [Staking](the-ecosystem/degenpad/tier-system/staking.md)
-  * [KYC Onboarding Guide](the-ecosystem/degenpad/kyc-onboarding-guide.md)
-  * [Register Interest](the-ecosystem/degenpad/register-interest.md)
   * [IDO Rounds Explained](the-ecosystem/degenpad/ido-rounds-explained.md)
   * [Leadership Team](the-ecosystem/degenpad/leadership-team.md)
   * [Flexible Refund Policy](the-ecosystem/degenpad/flexible-refund-policy/README.md)
