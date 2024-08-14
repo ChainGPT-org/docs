@@ -84,7 +84,7 @@ The Ape tier has a fixed 1x multiplier, regardless of points. However, in the Ch
 
 * A Chad with 20,000 points has a 4x multiplier, while one with 35,000 points has a 7x multiplier.
 * A Shark with 50,000 points has a 10x multiplier, while one with 100,000 points has a 20x multiplier.
-* A Whale with 200,000 points has a 40x multiplier, while one with 400,000 points may have a 50x multiplier.
+* A Whale with 200,000 points has a 80x multiplier, while one with 400,000 points may have a 80x multiplier.
 
 The Whale tier has a theoretically limitless capacity, and multipliers are adjusted based on the final outcome of each IDO.
 
