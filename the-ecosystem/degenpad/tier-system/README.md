@@ -1,183 +1,97 @@
----
-description: The Tier system of ChainGPT Pad
----
-
 # Tier System
 
-To maintain maximal fairness among all users, ChainGPT employs a simple four-tier system for the ChainGPT Pad. This is the same tier model applicable to the general ecosystem, which can be found here: [<mark style="color:blue;">**Link to tier System & Benefits.**</mark> ](https://www.chaingpt.org/blog/chaingpt-launchpad-tier-system-staking)
+<figure><img src="../../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/photo_2023-09-08_21-46-00.jpg" alt=""><figcaption></figcaption></figure>
+Are you ready to access some of the most exclusive and promising crypto startups? [DegenPad](http://degenpad.com/) is your gateway to early-stage investment opportunities, which our team has thoroughly vetted.
 
-<details>
+To ensure fairness, we’ve implemented a tiered access system that rewards community members who are serious about investing and staking, regardless of their capital size.
 
-<summary>🥉 Bronze Tier</summary>
+**How does the Tier System work?**
 
-_This entry-level tier is explicitly designed for users with limited capital capacities._&#x20;
+The tier system at DegenPad is designed to reward participants based on their level of involvement in our platform. By staking $CGPT tokens, you can earn points that determine your tier, which in turn affects your access to different stages of investment opportunities. The more points you have, the higher your tier, and the greater your benefits.
 
-_**Points Required:** >2,000+_\
-\
-_**ChainGPT AI Ecosystem Benefits:**_\
-_- Freemium AI Tools Access: No_\
-_- DAO Voting Rights: Yes_\
-_- Can Create DAO Proposals: No_\
-_- Free Incubation Airdrops: No_\
-_- Early Access to ChainGPT Apps: No_\
-\
-_**ChainGPT Pad Benefits:**_\
-\- _Pool Weight: 1x Allocation Multiplier_\
-\- _Refund Eligibility: Yes, 100%_\
-\- _Participation rounds: #2 (FCFS)_&#x20;
+Whether you have $10 to stake or $20,000, our tier system is balanced to ensure everyone can participate and benefit according to their contributions. However, it’s important to note that staking points from other products like ChainGPT Pad will only reflect 50% on DegenPad, and vice versa.
 
-The Bronze tier does not provide access to the _**first/guaranteed round.** M_embers in this tier group are granted the right to only participate in the second/FCFS (First-Come-First-Serve) round. Occasionally, social campaigns (via Gleam / Galxe / TaskOn) will be launched in tandem with new IDO releases that will allow bronze-tier members to earn whitelist allocations for the first rounds.
+**Getting started on DegenPad**\
+To join DegenPad and start participating in sales, you need to meet two simple criteria:
 
-</details>
+* **Complete KYC**: Verify your identity with our KYC partner to keep the platform secure.
+* **Stake $CGPT**: Don’t be a Beta and stake the required amount of $CGPT to earn points and qualify for at least the Ape tier.
 
-<details>
+**Staking $CGPT**\
+Staking $CGPT tokens is a way of showing your commitment to the DegenPad ecosystem. By staking, you unlock access to various utilities and begin accumulating points that determine your tier level.\
+1 staked $CGPT = 1 tier point
 
-<summary>🥈 Silver Tier</summary>
+Staking is divided into four pools based on time frames, each with its own point multiplier:
 
-### 🥈 Silver Tier
+* 45 days = 1x multiplier
+* 90 days = 1.3x multiplier
+* 180 days = 1.5x multiplier
+* 365 days = 2x multiplier
 
-_Silver is the second level tier and the first one that provides guaranteed access to the first round of participation in IDOs._
+The longer you stake, the more points you earn, which boosts your tier status and rewards.
 
-_**Points Required:** 20,000+_\
-\
-_**ChainGPT AI Ecosystem Benefits:**_\
-_- Freemium AI Tools Access: No_\
-_- DAO Voting Rights: Yes_\
-_- Can Create DAO Proposals: No_\
-_- Free Incubation Airdrops: No_\
-_- Early Access to ChainGPT Apps: No_\
-\
-_**ChainGPT Pad Benefits:**_\
-\- _Pool Weight: Minimum 4x Allocation Multiplier_\
-\- _Refund Eligibility: Yes, 100%_\
-\- _Participation rounds: #1 and #2 (Guaranteed and FCFS)_
+**Point System**\
+The point system is the backbone of our tier structure. It calculates your participation impact based on the amount of $CGPT staked and the duration of your stake.
 
-The most commonly sought-after level due to the inclusion into all IDO rounds. Silver tier members are also granted a guaranteed whitelist placement for the launch of ChainGPT's official NFT collection.
+Total $CGPT tokens staked × pool multiplier = Tier Points
 
-</details>
+For example:
 
-<details>
+* Staking 1,000 $CGPT in the 45-day pool gives you 1,000 points.
+* Staking 1,000 $CGPT in the 90-day pool gives you 1,300 points.
+* Staking 1,000 $CGPT in the 180-day pool gives you 1,500 points.
+* Staking 1,000 $CGPT in the 365-day pool gives you 2,000 points.
 
-<summary>🥇 Gold Tier</summary>
+**Tier System**\
+DegenPad features four tiers, each offering unique benefits. As you stake more $CGPT and accumulate points, you can climb the tiers and gain access to better opportunities.
 
-### 🥇 Gold Tier
+## 🦧 **Ape** <a href="#id-472d" id="id-472d"></a>
 
-_Gold is the second highest tier and the first one that provides access to premium early-stage crowdfunding and private sales._
+* Points Required: 2,000+
+* Pool Weight: 1x Allocation Multiplier
+* Refund Eligibility: Yes, 100%
+* Participation Rounds: #2 (First-Come, First-Served)
+* Ape tier is designed for users with limited capital. Participation in the first round is not guaranteed, but select Ape users who complete social tasks can gain early access.
 
-_**Points Required:** 50,000+_\
-\
-_**ChainGPT AI Ecosystem Benefits:**_\
-_- Freemium AI Tools Access: No_\
-_- DAO Voting Rights: Yes_\
-_- Can Create DAO Proposals: No_\
-_- Free Incubation Airdrops: Yes_\
-_- Early Access to ChainGPT Apps: Yes_\
-\
-_**ChainGPT Pad Benefits:**_\
-\- _Pool Weight: Minimum 10x Allocation Multiplier_\
-\- _Refund Eligibility: Yes, 100%_\
-\- _Participation rounds: #1 and #2 (Guaranteed and FCFS)_
+## 🕺 **Chad** <a href="#e6db" id="e6db"></a>
 
-In the Gold Tier, benefits for members expand to include opportunities for participating in pre-public stages of new project launches (private sales). Likewise, the Gold tier members will be guaranteed whitelist placements for participating in the official ChainGPT NFT collection launch.
+* Points Required: 20,000+
+* Pool Weight: Minimum 4x Allocation Multiplier
+* Refund Eligibility: Yes, 100%
+* Participation Rounds: #1 and #2 (Guaranteed and FCFS)
+* Special Benefits: Guaranteed Whitelist for future NFT launches
+* Chad tier guarantees access to the first round of IDO participation, with higher allocation weights.
 
-One of the most appealing drivers of the Gold tier is the unlocked IDO allocation claims. For every IDO launched on ChainGPT Pad, a portion of the tokens collected will be distributed among gold & diamond tier members.
+## 🦈 **Shark** <a href="#id-2896" id="id-2896"></a>
 
-</details>
+* Points Required: 50,000+
+* Pool Weight: Minimum 10x Allocation Multiplier
+* Refund Eligibility: Yes, 100%
+* Participation Rounds: #1 and #2 (Guaranteed and FCFS)
+* Special Benefits: Inclusion in Crowdfunding & Private Sales, Exclusive privileges in airdrops, Guaranteed Whitelist for future NFT launches, Shark tier members gain access to premium early-stage crowdfunding and private sales, along with enhanced airdrop opportunities.
 
-<details>
+## 🐋 **Whale** <a href="#b6aa" id="b6aa"></a>
 
-<summary>💎 Diamond Tier</summary>
+* Points Required: 200,000+
+* Pool Weight: Minimum 40x Allocation Multiplier
+* Refund Eligibility: Yes, 100%
+* Participation Rounds: #1 and #2 (Guaranteed and FCFS)
+* Special Benefits: Token airdrops from incubated projects, Occasional NFT airdrops, Private group for sale access & voting, Freemium access to DegenPad’s AI Tools, Whale tier is the ultimate level, offering the most extensive benefits, including passive rewards through token and NFT airdrops, private sale access, and exclusive privileges.
 
-_Diamond is the highest and most desirable tier for launchpad participants, given the breadth of benefits it offers. Being the only tier that provides complementary tokens & NFT airdrops, Diamond tier users are reimbursed for their commitments passively._
+**Note on Tier Allocation Multiplier**\
+The Ape tier has a fixed 1x multiplier, regardless of points. However, in the Chad, Shark, and Whale tiers, the multiplier scales with your points within the tier. For example:
 
-_**Points Required:** 200,000+_\
-\
-_**ChainGPT AI Ecosystem Benefits:**_\
-_- Freemium AI Tools Access: Yes_\
-_- DAO Voting Rights: Yes_\
-_- Can Create DAO Proposals: Yes_\
-_- Free Incubation Airdrops: Yes_\
-_- Early Access to ChainGPT Apps: Yes_\
-\
-_**ChainGPT Pad Benefits:**_\
-\- _Pool Weight: Minimum 40x Allocation Multiplier_\
-\- _Refund Eligibility: Yes, 100%_\
-\- _Participation rounds: #1 and #2 (Guaranteed and FCFS)_
+* A Chad with 20,000 points has a 4x multiplier, while one with 35,000 points has a 7x multiplier.
+* A Shark with 50,000 points has a 10x multiplier, while one with 100,000 points has a 20x multiplier.
+* A Whale with 200,000 points has a 40x multiplier, while one with 400,000 points may have a 50x multiplier.
 
-As with earlier (non-bronze) levels, members of the Diamond tier receive access to both IDO rounds. Likewise with the preceding Gold Tier, one of the most appealing drivers for Diamond tier members is the unlocked IDO allocation claims. For every IDO launched on ChainGPT Pad, a portion of the tokens collected will be distributed among Gold & Diamond tier members. Of course, the proportional allocation is more significant for higher-tier members.
+The Whale tier has a theoretically limitless capacity, and multipliers are adjusted based on the final outcome of each IDO.
 
-Diamond tier members also receive additional incentives from the ChainGPT partnership network through priority NFT distributions and private token allocations.
+**Conclusion**\
+The tier system at [DegenPad](http://degenpad.com/) is more than just a way to allocate investment opportunities; it’s a gateway to becoming part of an exclusive community dedicated to finding and supporting the most promising projects in the crypto space.
 
-The Diamond Tier is the only one that pushes the benefits beyond the realm of the ChainGPT Pad and into other vectors of ChainGPT's ecosystem, namely Freemium tools and DAO proposal rights.&#x20;
+Whether you’re just starting or looking to maximize your involvement, our tier system offers a clear and rewarding path to success. Join us today and start climbing the ranks to unlock your full potential.
 
-Here, members are automatically granted unlimited access to all ChainGPT AI tools and receive monthly CGPTc balance refills of up to 20,000 credits. Thereby incentivizing membership at his level with ecosystemic participation in every possible manner.
-
-Diamond Tier members also happen to be the only group of community members who are endowed with the ability to submit proposals. While any $CGPT token holder is allowed to participate in steering the outcomes of decisions, only Diamond Tier members can push the suggestions for community deliberations.
-
-</details>
-
-<figure><img src="../../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-***
-
-### Point System:
-
-_The Point system is a method of calculating the impact a user’s stake has on their participation._
-
-Points within the tier system act as a mechanism to track the degree of a user’s commitment/reputation within the ChainGPT ecosystem and attribute accurate amplification weights to the staking user’s allocation rights.
-
-In an attempt to retain maximal simplicity and efficiency, points are calculated by taking the amount of tokens staked and multiplying them by the stake pool
-
-_Total $CGPT tokens staked **\*** the pool multiplier = Tier Points_
-
-_**1 staked $CGPT = 1 tier point**_
-
-If a user stakes _**1,000 $CGPT**_ into a _**45-day pool**_, they have _**1,000 Tier points**_\
-If a user stakes _**1,000 $CGPT**_ into a _**90-day pool**_, they have _**1,300 Tier points**_\
-If a user stakes _**1,000 $CGPT**_ into a _**180-day pool**_, they have _**1,500 Tier points**_\
-If a user stakes _**1,000 $CGPT**_ into a _**365-day pool**_, they have _**2,000 Tier points**_
-
-***
-
-### **Tier Allocation Multiplier**
-
-Allocation multipliers are the parameter that dictates the absolute size of a user's allocation relative to the total token allocation (as measured by the base 1x multiplier available for bronze tier members).
-
-_**Bronze Tier**_ multiplier is fixed at _**1x**_ for all participants, regardless of whether they have 2,000 points or 10,000 points.
-
-However, in the upper three tiers of Silver, Gold, and Diamond, multipliers are scaled proportionately within their according tier ranges according to the size of the stake/amount of points and the relative positioning of those points leading up to the next tier.
-
-**Examples of two people in 🥈 Silver tier:**
-
-Bobby has exactly _**20,000 points**_ from staking; his multiplier is _**4x.**_\
-Sally has _**35,000 points**_ from staking; her multiplier is _**7x**_.
-
-Examples of two people in 🥇Gold tier:
-
-Robert has exactly _**50,000 points**_ from staking; his multiplier is _**10x**_.\
-Georgette has _**100,000**_ points from staking; her multiplier is _**20x**_.
-
-Examples of two people in 💎 Diamond tier:
-
-Garry has exactly _**200,000 points**_ from staking; his multiplier is _**40x**_.\
-Elizabeth has _**400,000**_ points from staking; her multiplier might be _**50x**_.
-
-_Due to the theoretically limitless capacity of a Diamond Tier staker, the multiplier is correlated logarithmically based on the final outcome of each IDO._
-
-
-
-{% hint style="info" %}
-A minimal bronze-tier level is required in order to be admitted to the launchpad IDOs.
-{% endhint %}
-
-{% hint style="warning" %}
-Every tier is capable of requesting a refund, and the refunds are 100% of the allocated capital.
-{% endhint %}
-
-
-
-\---
-
-[**Disclaimer**](../../../misc/legal-docs/disclaimer.md)
+[\
+](https://medium.com/@degenpad?source=post\_page-----ec74d31f6371--------------------------------)
