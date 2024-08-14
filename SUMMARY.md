@@ -100,8 +100,9 @@
   * [IDO Rounds Explained](the-ecosystem/degenpad/ido-rounds-explained.md)
   * [Leadership Team](the-ecosystem/degenpad/leadership-team.md)
   * [Flexible Refund Policy](the-ecosystem/degenpad/flexible-refund-policy/README.md)
-  * [F.A.Q.s - DegenPad](the-ecosystem/degenpad/f.a.q.s-degenpad.md)
+  * [DegenPad FAQs](the-ecosystem/degenpad/degenpad-faqs.md)
   * [KOLs Program (Ambassadors)](the-ecosystem/degenpad/kols-program-ambassadors.md)
+  * [Understanding Low FDV Projects on DegenPad](the-ecosystem/degenpad/understanding-low-fdv-projects-on-degenpad.md)
 * [Smart-Contracts](the-ecosystem/smart-contracts.md)
 * [RE:BOT NFTs](the-ecosystem/re-bot-nfts.md)
 

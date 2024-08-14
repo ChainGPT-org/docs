@@ -1,6 +1,6 @@
-# F.A.Q.s - DegenPad
+# DegenPad FAQs
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ## **General** <a href="#add7" id="add7"></a>
 

@@ -1,8 +1,6 @@
----
-description: Participation Rounds for Initial Dex Offerings on ChainGPT
----
-
 # IDO Rounds Explained
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 DegenPad leverages a two-phased approach for conducting the launches of IDO projects.&#x20;
 

@@ -1,33 +1,27 @@
 # DegenPad
 
+<figure><img src="../../.gitbook/assets/_05. DAGEN PAD Announcements  (9).png" alt=""><figcaption></figcaption></figure>
 
-
-{% content-ref url="../chaingpt-pad/introduction-and-overview.md" %}
-[introduction-and-overview.md](../chaingpt-pad/introduction-and-overview.md)
+{% content-ref url="introduction-to-degenpad.md" %}
+[introduction-to-degenpad.md](introduction-to-degenpad.md)
 {% endcontent-ref %}
 
-{% content-ref url="../chaingpt-pad/tier-system/" %}
-[tier-system](../chaingpt-pad/tier-system/)
+{% content-ref url="tier-system/" %}
+[tier-system](tier-system/)
 {% endcontent-ref %}
 
-{% content-ref url="../chaingpt-pad/kyc-onboarding-guide.md" %}
-[kyc-onboarding-guide.md](../chaingpt-pad/kyc-onboarding-guide.md)
+{% content-ref url="understanding-low-fdv-projects-on-degenpad.md" %}
+[understanding-low-fdv-projects-on-degenpad.md](understanding-low-fdv-projects-on-degenpad.md)
 {% endcontent-ref %}
 
-{% content-ref url="../chaingpt-pad/register-interest.md" %}
-[register-interest.md](../chaingpt-pad/register-interest.md)
+{% content-ref url="ido-rounds-explained.md" %}
+[ido-rounds-explained.md](ido-rounds-explained.md)
 {% endcontent-ref %}
 
-{% content-ref url="../chaingpt-pad/ido-rounds-explained.md" %}
-[ido-rounds-explained.md](../chaingpt-pad/ido-rounds-explained.md)
+{% content-ref url="flexible-refund-policy/" %}
+[flexible-refund-policy](flexible-refund-policy/)
 {% endcontent-ref %}
 
-{% content-ref url="../chaingpt-pad/flexible-refund-policy/" %}
-[flexible-refund-policy](../chaingpt-pad/flexible-refund-policy/)
+{% content-ref url="degenpad-faqs.md" %}
+[degenpad-faqs.md](degenpad-faqs.md)
 {% endcontent-ref %}
-
-{% content-ref url="../chaingpt-pad/f.a.q.s-degenpad.md" %}
-[f.a.q.s-degenpad.md](../chaingpt-pad/f.a.q.s-degenpad.md)
-{% endcontent-ref %}
-
-[**Disclaimer**](../../misc/legal-docs/disclaimer.md)
