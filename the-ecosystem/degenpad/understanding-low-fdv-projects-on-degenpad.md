@@ -34,11 +34,15 @@ At DegenPad, we’ve made it our mission to identify and launch the most promisi
 
 ### Examples of Upcoming Low FDV Projects on DegenPad <a href="#id-9595" id="id-9595"></a>
 
-As we prepare to launch DegenPad, we’re excited to introduce three exceptional projects that embody the spirit of low FDV opportunities:
+As we launch DegenPad, we’re excited to introduce four exceptional projects that embody the spirit of low FDV opportunities:
 
-1. **Porta Wallet**: A comprehensive solution for digital asset management, Porta Wallet offers features like social trading, advanced wallet management, and high-speed sniping tools. Its low FDV makes it an attractive option for those looking to get in early on a project with significant utility and growth potential.
-2. **Stage**: Revolutionizing the music industry with Idol-style competitions and SocialFi elements, Stage allows fans to influence their favorite artists’ success while earning Real World Assets (RWAs). With its innovative approach and low FDV, Stage is poised to capture a significant market share in the interactive music space.
-3. **Polarise Protocol**: Backed by industry giants like Digital Currency Group and Animoca Brands, Polarise Protocol aims to redefine digital asset finance. Its multi-chain platform offers advanced financial tools, including nearly 100% Loan-to-Value (LTV) loans without mid-term liquidation risk. The protocol’s low FDV suggests substantial room for growth as it gains adoption.
+**Porta Wallet**: Porta Wallet is your comprehensive solution for digital asset management. With features like social trading, thorough wallet management, and high-speed sniping tools, Porta Wallet makes trading effortless and efficient.
+
+**Fanton:** The Next Evolution in Fantasy Sports and Gaming on Telegram. Leveraging the power of TON & Telegram’s rapidly expanding user base, Fanton provides an accessible and engaging fantasy sports experience.
+
+**Me3:** Me3 is revolutionizing Web3 community engagement with its flagship product, Gacha Galaxy. Gacha Galaxy’s mini arcade leverages addictive rewards mechanics inspired by Asian gacha games to make marketing campaigns exciting, rewarding users with exclusive randomized loot boxes.
+
+**Sapiens:** Sapiens AI combines privacy and decentralized technology, offering end-to-end encrypted AI-chat models for secure user interactions. The platform supports community-driven model training with data kept private through advanced encryption.
 
 ### Conclusion <a href="#a8ed" id="a8ed"></a>
 
