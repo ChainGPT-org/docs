@@ -103,6 +103,7 @@
   * [DegenPad FAQs](the-ecosystem/degenpad/f.a.q.s-degenpad.md)
   * [KOLs Program (Ambassadors)](the-ecosystem/degenpad/kols-program-ambassadors.md)
   * [Understanding Low FDV Projects on DegenPad](the-ecosystem/degenpad/understanding-low-fdv-projects-on-degenpad.md)
+  * [Airdrops and Giveaways](the-ecosystem/degenpad/airdrops-and-giveaways.md)
 * [Smart-Contracts](the-ecosystem/smart-contracts.md)
 * [RE:BOT NFTs](the-ecosystem/re-bot-nfts.md)
 
