@@ -34,15 +34,17 @@ At DegenPad, we’ve made it our mission to identify and launch the most promisi
 
 ### Examples of Upcoming Low FDV Projects on DegenPad <a href="#id-9595" id="id-9595"></a>
 
-As we launch DegenPad, we’re excited to introduce four exceptional projects that embody the spirit of low FDV opportunities:
+As we launch DegenPad, we’re excited to introduce five exceptional projects that embody the spirit of low FDV opportunities:
 
 **Porta Wallet**: Porta Wallet is your comprehensive solution for digital asset management. With features like social trading, thorough wallet management, and high-speed sniping tools, Porta Wallet makes trading effortless and efficient.
 
-**Fanton:** The Next Evolution in Fantasy Sports and Gaming on Telegram. Leveraging the power of TON & Telegram’s rapidly expanding user base, Fanton provides an accessible and engaging fantasy sports experience.
+**Fanton**: The next evolution in Fantasy Sports and Gaming on Telegram. Leveraging the power of TON & Telegram’s rapidly expanding user base, Fanton provides an accessible and engaging fantasy sports experience.
 
-**Me3:** Me3 is revolutionizing Web3 community engagement with its flagship product, Gacha Galaxy. Gacha Galaxy’s mini arcade leverages addictive rewards mechanics inspired by Asian gacha games to make marketing campaigns exciting, rewarding users with exclusive randomized loot boxes.
+**PolarFighter**: PolarFighter, the first-ever collection of ERC-1000 tokens from Polarise Protocol, is supported by major institutional investors. Polarise Protocol seeks to transform multi-form digital asset finance with its multi-chain platform and innovative financial tools, offering secure services such as realizing an asset’s rarity value with immediate floor price liquidity and nearly 100% LTV loans without mid-term risk.
 
-**Sapiens:** Sapiens AI combines privacy and decentralized technology, offering end-to-end encrypted AI-chat models for secure user interactions. The platform supports community-driven model training with data kept private through advanced encryption.
+**Stage**: Stage aims to transform the music industry by combining Idol-style captivating music competitions with SocialFi, empowering fans to influence artists’ success while earning Real World Assets (RWAs) as tangible stakes in their careers.
+
+**Shieldeum**: Shieldeum operates as an AI-powered Decentralized Physical Infrastructure Network (DePIN), specifically designed to enhance internet security for Web3 projects and cryptocurrency holders. It offers advanced security features, safeguarding digital assets and ensuring robust protection for users in the decentralized space.
 
 ### Conclusion <a href="#a8ed" id="a8ed"></a>
 
