@@ -30,8 +30,8 @@
 [flexible-refund-policy](flexible-refund-policy/)
 {% endcontent-ref %}
 
-{% content-ref url="f.a.q.s-degenpad.md" %}
-[f.a.q.s-degenpad.md](f.a.q.s-degenpad.md)
+{% content-ref url="faq.md" %}
+[faq.md](faq.md)
 {% endcontent-ref %}
 
 {% content-ref url="kols-program-ambassadors.md" %}
