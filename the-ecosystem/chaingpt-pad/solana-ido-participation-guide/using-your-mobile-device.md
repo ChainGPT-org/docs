@@ -1,6 +1,8 @@
 # Using Your Mobile Device
 
-You must use your Phantom Wallet and Metamusk Wallet to participate in an IDO on Solana for ChainGPT Pad.
+You must use your Phantom Wallet and MetaMask Wallet to participate in an IDO on Solana for ChainGPT Pad.&#x20;
+
+Ensure you enter your SeedPhrase of the wallet you KYC'd with into Phantom Wallet. If you do not use the same wallet you KYC'd with; you will not have a tier on the LaunchPad; therefore, you won't be able to register interest in the guaranteed rounds.
 
 For steps to set up Phantom Wallet, please view this [setup guide.](https://www.kucoin.com/learn/web3/how-to-create-a-phantom-wallet)
 
@@ -28,7 +30,7 @@ For steps to set up Phantom Wallet, please view this [setup guide.](https://www.
 \
 
 
-### Step 4: Copy the address AFTER the forward slash ( / ) in the search bar.&#x20;
+### Step 4: Copy the address AFTER the forward-slash ( / ) in the search bar.&#x20;
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD\_4nXfVMm7\_-Fc7ClhvZxS6tnXVoFrzvxaD7x0z5E5sYG8q\_cxnt22qX5ri36sSCJbDiDLSy5Jg2\_D65Ze5gbEQnW1-uRhhT49Tfdrg0QtLUPD-Q56xwRm0qKme4NwfRXtxP1cvTytoh0s\_MIDp3cYHFgD2eRQu?key=oK10reX-SyZxz0MCnUXWag)
 
