@@ -4,4 +4,4 @@ You must use your Phantom Wallet and Metamusk Wallet to participate in an IDO on
 
 
 
-**Please follow the** [**Desktop/PC Guide**](using-your-desktop-pc.md) **or the** [**Mobile Device Guide**](./#using-a-mobile-guide-to-connecting-with-phantom-wallet) **accordingly.**
+**Please follow the**[ **Desktop/PC Guide**](using-your-desktop-pc.md) **or the** [**Mobile Device Guide**](using-your-mobile-device.md) **accordingly.**
