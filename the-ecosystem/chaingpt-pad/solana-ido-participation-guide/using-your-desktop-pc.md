@@ -1,6 +1,8 @@
-# Solana IDO Participation - Guide
+# Using Your Desktop/PC
 
-**You must use your Phantom Wallet and Metamusk Wallet to participate in an IDO on Solana for ChainGPT Pad.**
+You must use your Phantom Wallet and Metamusk Wallet to participate in an IDO on Solana for ChainGPT Pad.
+
+
 
 ***
 
@@ -32,7 +34,7 @@
 
 
 
-### ."Step 6 - Press "View on Solscan."
+### Step 6 - Press "View on Solscan."
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcoxZo4hv79aO1bZjIQyjDFXbDhIx8-7hJ_FGfBeNW94MWcRC-_RkcejApc0VggEmCMV9BVnbuOlR0-XiA3P6K1OhN0BNK4cjXV_VUn8NDlRiG3xxtmCiUbkK1w4yVJco8f5j5695qIClC8IyzIwDVA8RE-?key=pJ11xngXYM0Ts19dj4Ieug" alt=""><figcaption></figcaption></figure>
 
@@ -62,8 +64,12 @@
 
 
 
-### Step 11—Now that you have connected your wallet, you can register interest in the IDO.&#x20;
+### Step 11 - Now that you have connected your wallet, you can register interest in the IDO.&#x20;
 
 (If you don’t see that screen, check that you followed all the steps correctly. If it still doesn’t appear, ask the CM on our [Telegram group](https://t.me/chaingpt) or [Discord](https://www.discord.gg/chaingpt) for help.)
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXd8-Phxn-ueXKYoIhkJqjSxjGceJ2DcyJUn05Uv_qEOrCgK6WD6TVqGrBfzns4PXCYNZmQfP2tsurRjftn1hHd2McyiNtxC_BTf4-_EDCnyspoRHobKeITSaKQy2wwFJ5110-C8Z_XUWk4mcjqYdMvOjNaW?key=pJ11xngXYM0Ts19dj4Ieug" alt=""><figcaption></figcaption></figure>
+
+### Step 12 - Click "Register interest"&#x20;
+
+<figure><img src="../../../.gitbook/assets/telegram-cloud-photo-size-5-6210573335251764677-y.jpg" alt=""><figcaption></figcaption></figure>
