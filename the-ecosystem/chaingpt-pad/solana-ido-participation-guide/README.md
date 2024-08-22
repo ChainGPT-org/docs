@@ -2,15 +2,15 @@
 
 You must use your Phantom Wallet and MetaMask Wallet to participate in an IDO on Solana for ChainGPT Pad.\
 \
-**Step #1:**\
+**Step #1 (Only for Mobile):**\
 \
-Log in to ChainGPT Pad using your KYC'd wallet via Phantom wallet - you must Import your EVM wallet to Phantom with the wallet you KYC'd and Staked $CGPT with.
+Log in to ChainGPT Pad using your KYC'd wallet via Phantom wallet. You must Import your EVM wallet to Phantom with the wallet you KYC'd and Staked $CGPT with.
 
-**Step #2:**
+**Step #2 (All Platforms):**
 
 Connect your Phantom wallet (it will be attached to your account automatically)
 
-**Step #3:**
+**Step #3 (All Platforms):**
 
 Register for Solana IDO
 
