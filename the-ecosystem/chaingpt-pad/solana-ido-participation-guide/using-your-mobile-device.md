@@ -4,7 +4,7 @@ You must use your Phantom Wallet and MetaMask Wallet to participate in an IDO on
 
 For steps to set up Phantom Wallet, please view this [setup guide.](https://www.kucoin.com/learn/web3/how-to-create-a-phantom-wallet)
 
-**Only for Mobile:** Log in to ChainGPT Pad using your KYC'd wallet via Phantom wallet. You must Import your EVM wallet to Phantom with the wallet you KYC'd and Staked $CGPT with.
+**Only for Mobile:** You must Import your EVM wallet to Phantom with the wallet you KYC'd and Staked $CGPT with.
 
 ***
 
