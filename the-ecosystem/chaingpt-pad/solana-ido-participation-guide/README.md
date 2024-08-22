@@ -4,7 +4,7 @@ You must use your Phantom Wallet and MetaMask Wallet to participate in an IDO on
 \
 **Step #1:**\
 \
-&#x20;Login to ChainGPT Pad using your EVM wallet
+Log in to ChainGPT Pad using your KYC'd wallet via Phantom wallet - you must Import your EVM wallet to Phantom with the wallet you KYC'd and Staked $CGPT with.
 
 **Step #2:**
 
