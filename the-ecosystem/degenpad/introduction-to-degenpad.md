@@ -49,7 +49,7 @@ With these advantages, $CGPT stakers are well-positioned to optimize their retur
 
 ## Meet Our Launch Projects <a href="#c63e" id="c63e"></a>
 
-We’re starting strong with five exceptional projects that embody the spirit of DegenPad, with plenty more to be announced:
+We’re starting strong with six exceptional projects that embody the spirit of DegenPad, with plenty more to be announced:
 
 **Porta Wallet**: Porta Wallet is your comprehensive solution for digital asset management. With features like social trading, thorough wallet management, and high-speed sniping tools, Porta Wallet makes trading effortless and efficient.
 
@@ -60,6 +60,8 @@ We’re starting strong with five exceptional projects that embody the spirit of
 **Stage**: Stage aims to transform the music industry by combining Idol-style captivating music competitions with SocialFi, empowering fans to influence artists’ success while earning Real World Assets (RWAs) as tangible stakes in their careers.
 
 **Shieldeum**: Shieldeum operates as an AI-powered Decentralized Physical Infrastructure Network (DePIN), specifically designed to enhance internet security for Web3 projects and cryptocurrency holders. It offers advanced security features, safeguarding digital assets and ensuring robust protection for users in the decentralized space.
+
+**NOTAI:** NOTAI simplifies the onboarding process through the Telegram mini-app, offering automated wallet creation, account abstraction, and an intuitive user interface. This makes web3 accessible even to users without a technical background​​​​.
 
 ## Join the DegenPad Community <a href="#id-9257" id="id-9257"></a>
 
