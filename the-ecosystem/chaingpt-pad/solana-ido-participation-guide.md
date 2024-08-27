@@ -1,6 +1,6 @@
 # Solana IDO Participation - Guide
 
-### **Please follow the 1)**[**Desktop/PC**](solana-ido-participation-guide.md#using-desktop-pc-guide-to-connecting-with-phantom-wallet) **Guide or  2)Mobile Device Guide accordingly.**
+### **Please follow the 1)**[**Desktop/PC**](solana-ido-participation-guide.md#using-desktop-pc-guide-to-connecting-with-phantom-wallet) **Guide or  2)**[**Mobile Device**](solana-ido-participation-guide.md#using-mobile-device-guide-to-connecting-with-phantom-wallet) **Guide accordingly.**
 
 
 
