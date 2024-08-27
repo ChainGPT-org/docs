@@ -218,14 +218,11 @@ You must Import your EVM wallet to Phantom with the wallet you KYC'd and Staked 
 \
 
 
-### 15: Click "Confirm."
+### Step 15: Click "Confirm."
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD\_4nXdxS8N0Lu-TIdHbsWJWw4Msi0hdiovgeqe1AamLoR1xMsQQv9ZoAE7DOJvZHelv2n-cz5xPQiTwEfIvvCuTLp7m2TYV4gKmI3Wq6rekZkebI4w181GJO8hKCDAju-FOUZw2bdOHXbB85YjASsD5QVw4GP4?key=oK10reX-SyZxz0MCnUXWag)
 
-\
-\
-Step 16: Now that you have connected your wallet, you can register interest for the IDO.&#x20;
-----------------------------------------------------------------------------------------------
+### &#x20; Step 16: Now that you have connected your wallet, you can register interest for the IDO.&#x20;
 
 (If you don’t see this screen, ensure you followed all the steps above correctly. If it still doesn’t appear, ask a CM for help in our [Telegram group](https://t.me/chaingpt) or [Discord](https://www.discord.gg/chaingpt).)
 
@@ -234,7 +231,7 @@ Step 16: Now that you have connected your wallet, you can register interest for 
 \
 
 
-### Step 18: From this point forward, the rest of the IDO will function as it does for all other chains.&#x20;
+### Step 17: From this point forward, the rest of the IDO will function as it does for all other chains.&#x20;
 
 You should now be able to register your interest in the IDO.&#x20;
 
