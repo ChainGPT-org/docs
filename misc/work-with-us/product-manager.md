@@ -25,15 +25,17 @@ As a Product Manager at ChainGPT, you will work closely with the Head of Product
 * Monitor and analyze product performance metrics using data-driven insights to inform product decisions and iterations.
 * Communicate product updates and progress to internal and external stakeholders, including the Head of Product, team members, and users.
 * Stay up-to-date with industry trends and emerging AI, Blockchain, and Web3 technologies to identify potential product opportunities.
+* Work closely with the tech leadership for tracking OKRs/ DORA metrics
 
 #### Requirements
 
 * 3+ years of product management experience, with a proven track record of delivering successful products in a fast-paced environment.
-* Strong understanding of AI, Blockchain, and Web3 technologies and their potential applications.
 * Excellent communication and collaboration skills, with the ability to work effectively with cross-functional teams.
 * Data-driven mindset, with experience using analytics and user feedback to inform product decisions.
 * Proven ability to prioritize and manage multiple projects in a fast-paced, dynamic environment.
 * Bachelor's degree in Computer Science, Business, or a related field; advanced degree is a plus.
+* Understand model training, performance, and evaluation, and be familiar with hyperparameter tuning cross-validation. Understand metrics like accuracy, precision, recall, F1 score, ROC-AUC, etc. Familiarity with popular AI frameworks and libraries, such as TensorFlow, PyTorch, Keras, and scikit-learn will be a big plus
+* Understand blockchain architecture, consensus mechanisms, smart contracts, bridges, and chain abstraction. It is a big plus if you have looked into other decentralized AI platforms like Fetch.ai, Ocean Protocol, or Bittensor.
 
 #### Preferred Qualifications (Optional)
 
