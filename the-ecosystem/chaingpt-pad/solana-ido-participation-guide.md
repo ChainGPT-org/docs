@@ -18,39 +18,39 @@ You must Import your EVM wallet to Phantom with the wallet you KYC'd and Staked 
 
 #### Step 2: Go to your Phantom Wallet and click "USDT." <a href="#step-2-go-to-your-phantom-wallet-and-click-usdt" id="step-2-go-to-your-phantom-wallet-and-click-usdt"></a>
 
-![](https://docs.chaingpt.org/\~gitbook/image?url=https%3A%2F%2Flh7-rt.googleusercontent.com%2Fdocsz%2FAD\_4nXdivbGut4JfDETb3glXoLq-pQTtNKGgaoA-pD90y6Tr\_1XnLyJuphQSpEzpd51sXVRicjDd-EuZfAowCBZEbi8YiOHM-ZwV6z7MsUhba2Nbxf8eP3ZQ-4Ul\_nY2lnJyGCWsWRPTOpwCfXn0-eSi4PzBVEuA%3Fkey%3DoK10reX-SyZxz0MCnUXWag\&width=300\&dpr=4\&quality=100\&sign=74136e05\&sv=1)
+![](https://lh7-rt.googleusercontent.com/docsz/AD\_4nXdw2XayWqkVTQO7AnlhgHGfB9xRequ0nH8dP890PMNMw3\_K0OGsROxiAaXySM1DeSLscEFImFukKLsia6It6zrv2cKisxINgVlCF6yNV1f06\_JHi\_UNJSoeWuHRhrl6baoI-LK8rZGUQWnVkpEj3jYIc5Vy?key=oK10reX-SyZxz0MCnUXWag)
 
-#### Step 3: Click "More." <a href="#step-3-click-more" id="step-3-click-more"></a>
+Step 3: Click "More."
 
-![](https://docs.chaingpt.org/\~gitbook/image?url=https%3A%2F%2Flh7-rt.googleusercontent.com%2Fdocsz%2FAD\_4nXfaldGYGpcYP2omeptkVdboxEVGBNiTKOD6qDL6ZDFVW8ufk\_zqMkjEHYCritDMx81q7Z68NTgww5PulK4pvaj781uZZYO\_eMiJKXAxbAvfZhvRIkds9KtTMz-FrUWEp7YQ2mBwx54bXpG6JXAy8pwTg6m9%3Fkey%3DoK10reX-SyZxz0MCnUXWag\&width=300\&dpr=4\&quality=100\&sign=33ebfac1\&sv=1)
+<img src="https://docs.chaingpt.org/~gitbook/image?url=https%3A%2F%2Flh7-rt.googleusercontent.com%2Fdocsz%2FAD_4nXfaldGYGpcYP2omeptkVdboxEVGBNiTKOD6qDL6ZDFVW8ufk_zqMkjEHYCritDMx81q7Z68NTgww5PulK4pvaj781uZZYO_eMiJKXAxbAvfZhvRIkds9KtTMz-FrUWEp7YQ2mBwx54bXpG6JXAy8pwTg6m9%3Fkey%3DoK10reX-SyZxz0MCnUXWag&#x26;width=300&#x26;dpr=4&#x26;quality=100&#x26;sign=33ebfac1&#x26;sv=1" alt="" data-size="original">
 
 #### Step 4: Click "View on Solscan." <a href="#step-4-click-view-on-solscan" id="step-4-click-view-on-solscan"></a>
 
-![](https://docs.chaingpt.org/\~gitbook/image?url=https%3A%2F%2Flh7-rt.googleusercontent.com%2Fdocsz%2FAD\_4nXdwti4EvoSxjSyjuoXfDf2AHr7f8kKU8\_O8otJpebPf5d\_D57y1SrpqeF8nTD5EVmNve0w4znx9mRWCPTAXFIcFzRK2eof4HBmIhDRgQW-LYel4Xqes3dhOXc4mf1FuEDwC\_U-DfJQU4yZSoEBpt7QEg64r%3Fkey%3DoK10reX-SyZxz0MCnUXWag\&width=300\&dpr=4\&quality=100\&sign=a8ede5ce\&sv=1)
+<img src="https://docs.chaingpt.org/~gitbook/image?url=https%3A%2F%2Flh7-rt.googleusercontent.com%2Fdocsz%2FAD_4nXdwti4EvoSxjSyjuoXfDf2AHr7f8kKU8_O8otJpebPf5d_D57y1SrpqeF8nTD5EVmNve0w4znx9mRWCPTAXFIcFzRK2eof4HBmIhDRgQW-LYel4Xqes3dhOXc4mf1FuEDwC_U-DfJQU4yZSoEBpt7QEg64r%3Fkey%3DoK10reX-SyZxz0MCnUXWag&#x26;width=300&#x26;dpr=4&#x26;quality=100&#x26;sign=a8ede5ce&#x26;sv=1" alt="" data-size="original">
 
 #### Step 5: Copy the address AFTER the forward-slash ( / ) in the search bar. <a href="#step-5-copy-the-address-after-the-forward-slash-in-the-search-bar" id="step-5-copy-the-address-after-the-forward-slash-in-the-search-bar"></a>
 
-![](https://docs.chaingpt.org/\~gitbook/image?url=https%3A%2F%2Flh7-rt.googleusercontent.com%2Fdocsz%2FAD\_4nXfVMm7\_-Fc7ClhvZxS6tnXVoFrzvxaD7x0z5E5sYG8q\_cxnt22qX5ri36sSCJbDiDLSy5Jg2\_D65Ze5gbEQnW1-uRhhT49Tfdrg0QtLUPD-Q56xwRm0qKme4NwfRXtxP1cvTytoh0s\_MIDp3cYHFgD2eRQu%3Fkey%3DoK10reX-SyZxz0MCnUXWag\&width=300\&dpr=4\&quality=100\&sign=a282d284\&sv=1)
+<img src="https://docs.chaingpt.org/~gitbook/image?url=https%3A%2F%2Flh7-rt.googleusercontent.com%2Fdocsz%2FAD_4nXfVMm7_-Fc7ClhvZxS6tnXVoFrzvxaD7x0z5E5sYG8q_cxnt22qX5ri36sSCJbDiDLSy5Jg2_D65Ze5gbEQnW1-uRhhT49Tfdrg0QtLUPD-Q56xwRm0qKme4NwfRXtxP1cvTytoh0s_MIDp3cYHFgD2eRQu%3Fkey%3DoK10reX-SyZxz0MCnUXWag&#x26;width=300&#x26;dpr=4&#x26;quality=100&#x26;sign=a282d284&#x26;sv=1" alt="" data-size="original">
 
 #### Step 6: Click the "Connect Wallet" button on the IDO page and connect your EVM wallet. <a href="#step-6-click-the-connect-wallet-button-on-the-ido-page-and-connect-your-evm-wallet" id="step-6-click-the-connect-wallet-button-on-the-ido-page-and-connect-your-evm-wallet"></a>
 
-![](https://docs.chaingpt.org/\~gitbook/image?url=https%3A%2F%2Flh7-rt.googleusercontent.com%2Fdocsz%2FAD\_4nXevT0Wma5I57MScVcv4jzpPokNU8yGvj-kZi0-QmzoHeIVfqixuSqwpMibhLqLPmkk5bvhPM2xc161wMECX-5tPgqkDNQ6gnj1mlTnT7ZPLigX9yg1dR6\_4f5RvKoKhvX\_ufiemiEt7\_rJ4LjZMsA5aR21o%3Fkey%3DoK10reX-SyZxz0MCnUXWag\&width=300\&dpr=4\&quality=100\&sign=54bbef67\&sv=1)
+<img src="https://docs.chaingpt.org/~gitbook/image?url=https%3A%2F%2Flh7-rt.googleusercontent.com%2Fdocsz%2FAD_4nXevT0Wma5I57MScVcv4jzpPokNU8yGvj-kZi0-QmzoHeIVfqixuSqwpMibhLqLPmkk5bvhPM2xc161wMECX-5tPgqkDNQ6gnj1mlTnT7ZPLigX9yg1dR6_4f5RvKoKhvX_ufiemiEt7_rJ4LjZMsA5aR21o%3Fkey%3DoK10reX-SyZxz0MCnUXWag&#x26;width=300&#x26;dpr=4&#x26;quality=100&#x26;sign=54bbef67&#x26;sv=1" alt="" data-size="original">
 
 #### Step 7: Choose any network, then click "MetaMask." <a href="#step-7-choose-any-network-then-click-metamask" id="step-7-choose-any-network-then-click-metamask"></a>
 
-![](https://docs.chaingpt.org/\~gitbook/image?url=https%3A%2F%2Flh7-rt.googleusercontent.com%2Fdocsz%2FAD\_4nXepK5eg5x6jgzPrFmMUvCX0VxLRyGFjzEhJq4bnM5gtrVfbQCvdAnsuR0Gq\_YdM6rktSRnOmXLFbYrTnkg03karPUrhnI00nuJlhaskPCtQmC98g21ICz8\_NOf2qI-VzCE86Tas1it\_VxEDIRrSpB6bwc1b%3Fkey%3DoK10reX-SyZxz0MCnUXWag\&width=300\&dpr=4\&quality=100\&sign=6cfe437e\&sv=1)
+<img src="https://docs.chaingpt.org/~gitbook/image?url=https%3A%2F%2Flh7-rt.googleusercontent.com%2Fdocsz%2FAD_4nXepK5eg5x6jgzPrFmMUvCX0VxLRyGFjzEhJq4bnM5gtrVfbQCvdAnsuR0Gq_YdM6rktSRnOmXLFbYrTnkg03karPUrhnI00nuJlhaskPCtQmC98g21ICz8_NOf2qI-VzCE86Tas1it_VxEDIRrSpB6bwc1b%3Fkey%3DoK10reX-SyZxz0MCnUXWag&#x26;width=300&#x26;dpr=4&#x26;quality=100&#x26;sign=6cfe437e&#x26;sv=1" alt="" data-size="original">
 
 #### Step 8: Click "Connect Phantom" at the top of the IDO page. <a href="#step-8-click-connect-phantom-at-the-top-of-the-ido-page" id="step-8-click-connect-phantom-at-the-top-of-the-ido-page"></a>
 
-![](https://docs.chaingpt.org/\~gitbook/image?url=https%3A%2F%2Flh7-rt.googleusercontent.com%2Fdocsz%2FAD\_4nXeZ1tZMb\_fEiyoYzpL\_wsnPPZwtHyJHe\_FJS-YWof\_FUK3MWJsh\_LGDjzTIy2SDHCCHnD7\_9IF81sgF7JwxW5Q5Vhake4Y2D-0wyQNQldLYkC7RXkrKcAcJ2CWOLvh-Gidtxsv718DXObI05ZR8kFHx35o%3Fkey%3DoK10reX-SyZxz0MCnUXWag\&width=300\&dpr=4\&quality=100\&sign=81472227\&sv=1)
+<img src="https://docs.chaingpt.org/~gitbook/image?url=https%3A%2F%2Flh7-rt.googleusercontent.com%2Fdocsz%2FAD_4nXeZ1tZMb_fEiyoYzpL_wsnPPZwtHyJHe_FJS-YWof_FUK3MWJsh_LGDjzTIy2SDHCCHnD7_9IF81sgF7JwxW5Q5Vhake4Y2D-0wyQNQldLYkC7RXkrKcAcJ2CWOLvh-Gidtxsv718DXObI05ZR8kFHx35o%3Fkey%3DoK10reX-SyZxz0MCnUXWag&#x26;width=300&#x26;dpr=4&#x26;quality=100&#x26;sign=81472227&#x26;sv=1" alt="" data-size="original">
 
 #### Step 9: Click "Phantom Wallet" at the bottom of the popup. <a href="#step-9-click-phantom-wallet-at-the-bottom-of-the-popup" id="step-9-click-phantom-wallet-at-the-bottom-of-the-popup"></a>
 
-![](https://docs.chaingpt.org/\~gitbook/image?url=https%3A%2F%2Flh7-rt.googleusercontent.com%2Fdocsz%2FAD\_4nXfAjB2iLOV-HP7gYrxIwglN3gCN33U\_p42MfYUYWnQB4hHYBrpuDSr8LD-3sYkxg84oqn0eQkWJ3Lok3LD0mFD35vugjrst8kJ3J9W-jRh5kO060SrWPUmLG6OCRVc26x4bpgW1yOV-6IS\_xKhSiNuo7ALQ%3Fkey%3DoK10reX-SyZxz0MCnUXWag\&width=300\&dpr=4\&quality=100\&sign=51c7364c\&sv=1)
+<img src="https://docs.chaingpt.org/~gitbook/image?url=https%3A%2F%2Flh7-rt.googleusercontent.com%2Fdocsz%2FAD_4nXfAjB2iLOV-HP7gYrxIwglN3gCN33U_p42MfYUYWnQB4hHYBrpuDSr8LD-3sYkxg84oqn0eQkWJ3Lok3LD0mFD35vugjrst8kJ3J9W-jRh5kO060SrWPUmLG6OCRVc26x4bpgW1yOV-6IS_xKhSiNuo7ALQ%3Fkey%3DoK10reX-SyZxz0MCnUXWag&#x26;width=300&#x26;dpr=4&#x26;quality=100&#x26;sign=51c7364c&#x26;sv=1" alt="" data-size="original">
 
 #### Step 10: Click "Continue." <a href="#step-10-click-continue" id="step-10-click-continue"></a>
 
-![](https://docs.chaingpt.org/\~gitbook/image?url=https%3A%2F%2Flh7-rt.googleusercontent.com%2Fdocsz%2FAD\_4nXdCwBUgNofyV8alzItLi\_SeF7f-BQ5n-7SziUDUJmYSf4PcJ51G8GpX3PXD4prUi02DOPG43lriGs33fHcd7BZNXXURQrFA1vrVncWTccmrMQ-m0Eg7z5\_nJXF4zU92Yx-maH1tE4nkLpJfVtGPQzY-HwvO%3Fkey%3DoK10reX-SyZxz0MCnUXWag\&width=300\&dpr=4\&quality=100\&sign=25075733\&sv=1)
+<img src="https://docs.chaingpt.org/~gitbook/image?url=https%3A%2F%2Flh7-rt.googleusercontent.com%2Fdocsz%2FAD_4nXdCwBUgNofyV8alzItLi_SeF7f-BQ5n-7SziUDUJmYSf4PcJ51G8GpX3PXD4prUi02DOPG43lriGs33fHcd7BZNXXURQrFA1vrVncWTccmrMQ-m0Eg7z5_nJXF4zU92Yx-maH1tE4nkLpJfVtGPQzY-HwvO%3Fkey%3DoK10reX-SyZxz0MCnUXWag&#x26;width=300&#x26;dpr=4&#x26;quality=100&#x26;sign=25075733&#x26;sv=1" alt="" data-size="original">
 
 #### Step 11: Click "Create Account." <a href="#step-11-click-create-account" id="step-11-click-create-account"></a>
 
