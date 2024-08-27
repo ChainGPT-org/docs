@@ -1,12 +1,12 @@
 # Solana IDO Participation - Guide
 
-## **Please follow the** [**Desktop/PC**](./#using-desktop-pc-guide-to-connecting-with-phantom-wallet) **Guide or the** [**Mobile Device Guide**](using-your-mobile-device.md) **accordingly.**
+### **Please follow the** [**Desktop/PC**](solana-ido-participation-guide.md#using-desktop-pc-guide-to-connecting-with-phantom-wallet) **Guide or the** [**Mobile Device**](solana-ido-participation-guide.md#mobile-device-guide-to-connecting-with-phantom-wallet) **Guide accordingly.**
 
 
 
 ***
 
-## <mark style="color:blue;background-color:red;">Using Desktop/PC -</mark>  Guide to connecting with Phantom Wallet:
+## Using <mark style="background-color:orange;">Desktop/PC</mark> -  Guide to connecting with Phantom Wallet:
 
 ### Step 1: Connect Phantom wallet.
 
@@ -118,7 +118,7 @@
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/telegram-cloud-photo-size-5-6210573335251764677-y.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/telegram-cloud-photo-size-5-6210573335251764677-y.jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -126,7 +126,7 @@
 
 ***
 
-## <mark style="background-color:red;">Mobile Device -</mark> Guide to connecting with Phantom Wallet:
+## Using <mark style="background-color:orange;">Mobile Device</mark> - Guide to connecting with Phantom Wallet:
 
 
 
