@@ -22,15 +22,15 @@ You must Import your EVM wallet to Phantom with the wallet you KYC'd and Staked 
 
 Step 3: Click "More."
 
-<img src="https://docs.chaingpt.org/~gitbook/image?url=https%3A%2F%2Flh7-rt.googleusercontent.com%2Fdocsz%2FAD_4nXfaldGYGpcYP2omeptkVdboxEVGBNiTKOD6qDL6ZDFVW8ufk_zqMkjEHYCritDMx81q7Z68NTgww5PulK4pvaj781uZZYO_eMiJKXAxbAvfZhvRIkds9KtTMz-FrUWEp7YQ2mBwx54bXpG6JXAy8pwTg6m9%3Fkey%3DoK10reX-SyZxz0MCnUXWag&#x26;width=300&#x26;dpr=4&#x26;quality=100&#x26;sign=33ebfac1&#x26;sv=1" alt="" data-size="original">
+![](https://lh7-rt.googleusercontent.com/docsz/AD\_4nXdFvOjIdISouTaG-Pc99qdtR2PNOdnvPMsIpSZN6Pg9mtW9khlUINbO-NpdGaOZfTBalMV8XVSe3BnMT-Wv-p-t056-f60XIxsicEywmMRxauB2Aj9VYeXMw4ko3pBIZ5kH8G3IaMHqRHcdTt\_6wmum0-U5?key=oK10reX-SyZxz0MCnUXWag)
 
-#### Step 4: Click "View on Solscan." <a href="#step-4-click-view-on-solscan" id="step-4-click-view-on-solscan"></a>
+Step 4: Click "View on Solscan."
 
-<img src="https://docs.chaingpt.org/~gitbook/image?url=https%3A%2F%2Flh7-rt.googleusercontent.com%2Fdocsz%2FAD_4nXdwti4EvoSxjSyjuoXfDf2AHr7f8kKU8_O8otJpebPf5d_D57y1SrpqeF8nTD5EVmNve0w4znx9mRWCPTAXFIcFzRK2eof4HBmIhDRgQW-LYel4Xqes3dhOXc4mf1FuEDwC_U-DfJQU4yZSoEBpt7QEg64r%3Fkey%3DoK10reX-SyZxz0MCnUXWag&#x26;width=300&#x26;dpr=4&#x26;quality=100&#x26;sign=a8ede5ce&#x26;sv=1" alt="" data-size="original">
+![](https://lh7-rt.googleusercontent.com/docsz/AD\_4nXd\_PVimRklqvTvjDbeHuCSqdu-fPzniyQ7apC\_w8rFONlFOUIOkGQJQf5kcnJEJ8X\_-ydP9cKrGdS9V-eZ7Suev91qAcI8-fcmUbuKzgJNaGLYNbPefYFStv2W5uRaRiIpcDsY4XMxBT3qsDAHu3b3eWN8f?key=oK10reX-SyZxz0MCnUXWag)
 
 #### Step 5: Copy the address AFTER the forward-slash ( / ) in the search bar. <a href="#step-5-copy-the-address-after-the-forward-slash-in-the-search-bar" id="step-5-copy-the-address-after-the-forward-slash-in-the-search-bar"></a>
 
-<img src="https://docs.chaingpt.org/~gitbook/image?url=https%3A%2F%2Flh7-rt.googleusercontent.com%2Fdocsz%2FAD_4nXfVMm7_-Fc7ClhvZxS6tnXVoFrzvxaD7x0z5E5sYG8q_cxnt22qX5ri36sSCJbDiDLSy5Jg2_D65Ze5gbEQnW1-uRhhT49Tfdrg0QtLUPD-Q56xwRm0qKme4NwfRXtxP1cvTytoh0s_MIDp3cYHFgD2eRQu%3Fkey%3DoK10reX-SyZxz0MCnUXWag&#x26;width=300&#x26;dpr=4&#x26;quality=100&#x26;sign=a282d284&#x26;sv=1" alt="" data-size="original">
+![](https://lh7-rt.googleusercontent.com/docsz/AD\_4nXe4jJAtPGGHPAiQtZ0s7KaRNlfA8hLrukF\_i1M8yFnDl5MN-6cPs\_O\_seSLZbAngURE7i441dgxp\_NfEAXscKcFGARELjTIRb08\_I5mg8HjmXjodQ-qOWeplkL-ufzpsdLROsECAyzb53PFI3h9l3v1E478?key=oK10reX-SyZxz0MCnUXWag)
 
 #### Step 6: Click the "Connect Wallet" button on the IDO page and connect your EVM wallet. <a href="#step-6-click-the-connect-wallet-button-on-the-ido-page-and-connect-your-evm-wallet" id="step-6-click-the-connect-wallet-button-on-the-ido-page-and-connect-your-evm-wallet"></a>
 
