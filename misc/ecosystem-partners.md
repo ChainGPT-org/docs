@@ -15,6 +15,7 @@
 * [OKX  / X Layer](https://www.okx.com/nl/xlayer)
 * [Avalanche](https://www.avax.network/)
 * [Solana](https://solana.com/)
+* [aelf](https://aelf.com/)
 
 ## AI / Machine Learning
 
