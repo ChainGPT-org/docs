@@ -134,6 +134,7 @@
   * [Content Writer](misc/work-with-us/content-writer.md)
   * [Public Relations Expert](misc/work-with-us/public-relations-expert.md)
   * [Social Media Manager (SMM) - Launchpad](misc/work-with-us/social-media-manager-smm-launchpad.md)
+  * [Marketing Project Manager](misc/work-with-us/marketing-project-manager.md)
 * [Social Links](misc/social-links/README.md)
   * [Twitter AI](https://twitter.com/Chain\_GPT)
   * [Twitter ChainGPT Pad](https://x.com/ChainGPT\_Pad)
