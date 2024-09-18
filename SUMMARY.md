@@ -130,6 +130,7 @@
   * [Social Media Manager (SMM) - DegenPad](misc/work-with-us/social-media-manager-smm-launchpad.md)
   * [Product Manager](misc/work-with-us/product-manager.md)
   * [Sr. InfoSec Engineer](misc/work-with-us/sr.-infosec-engineer.md)
+  * [Web2/Web3 Lead](misc/work-with-us/web2-web3-lead.md)
 * [Social Links](misc/social-links/README.md)
   * [Twitter AI](https://twitter.com/Chain\_GPT)
   * [Twitter ChainGPT Pad](https://x.com/ChainGPT\_Pad)
