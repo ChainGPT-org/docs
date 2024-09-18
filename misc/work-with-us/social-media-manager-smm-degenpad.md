@@ -1,6 +1,6 @@
-# Social Media Manager (SMM) - Launchpad
+# Social Media Manager (SMM) - DegenPad
 
-#### Social Media Manager - New Crypto Launchpad
+#### Social Media Manager - DegenPad
 
 **Location:** Remote
 
@@ -12,7 +12,7 @@
 
 **About ChainGPT:** ChainGPT is at the forefront of AI and Blockchain Technology, enabling and transforming Web3 through AI. Our AI-powered tools equip users with fast and accurate information to navigate the dynamic Blockchain industry. We're seeking knowledgeable individuals with a deep understanding of finance, technology, web3, AI, and cryptocurrency to join our expanding team.
 
-**About the Role –** Social Media Manager for New Crypto Launchpad: As the Social Media Manager at ChainGPT for our new crypto launchpad, you will be responsible for developing and executing social media strategies to enhance our presence in the AI and Blockchain sectors. You will play a pivotal role in launching our new crypto launchpad.\
+**About the Role –** Social Media Manager for DegenPad: As the Social Media Manager at ChainGPT for our new crypto launchpad, you will be responsible for developing and executing social media strategies to enhance our presence in the AI and Blockchain sectors. You will play a pivotal role in launching our new crypto launchpad.\
 \
 Your responsibilities include creating engaging content, managing social media campaigns, interacting with the community, and monitoring analytics to ensure our strategies are effective. This role demands creativity, strong organizational skills, and the ability to work effectively with internal teams and external partners, contributing to our mission of innovation, effective speed, and growth in the blockchain and crypto landscape.
 
