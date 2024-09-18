@@ -126,7 +126,6 @@
   * [Business Development Representative](misc/work-with-us/business-development-representative.md)
   * [Product Manager](misc/work-with-us/product-manager.md)
   * [Email Marketeer](misc/work-with-us/email-marketeer.md)
-  * [Content Writer](misc/work-with-us/content-writer.md)
   * [Public Relations Expert](misc/work-with-us/public-relations-expert.md)
   * [Social Media Manager (SMM) - DegenPad](misc/work-with-us/social-media-manager-smm-launchpad.md)
   * [Marketing Project Manager](misc/work-with-us/marketing-project-manager.md)
