@@ -123,7 +123,7 @@
 * [B2B Offerings](misc/b2b-offerings/README.md)
   * [Launchpad Whitelabel](misc/b2b-offerings/launchpad-whitelabel.md)
 * [Work With Us](misc/work-with-us/README.md)
-  * [Business Development Manager](misc/work-with-us/business-development-manager.md)
+  * [Business Development Representative](misc/work-with-us/business-development-representative.md)
   * [Product Manager](misc/work-with-us/product-manager.md)
   * [Email Marketeer](misc/work-with-us/email-marketeer.md)
   * [Content Writer](misc/work-with-us/content-writer.md)

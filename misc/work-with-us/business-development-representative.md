@@ -1,18 +1,18 @@
-# Business Development Manager
+# Business Development Representative
 
-Location: Remote
+**Location:** Remote
 
-Position: Business Development Manager
+**Position:** Business Development Representative
 
-Company: ChainGPT
+**Company:** ChainGPT
 
-Position Type: Full-Time
+**Position Type:** Full-Time
 
 #### About ChainGPT
 
 ChainGPT is at the forefront of AI and Blockchain Technology, enabling and transforming Web3 through AI. Our AI-powered tools equip users with fast and accurate information to navigate the dynamic Blockchain industry. We're seeking knowledgeable individuals with a deep understanding of finance, technology, web3, AI, and cryptocurrency to join our expanding team.
 
-#### About the Role – Business Development Manager: This role is ideal for somebody with a strong Web3 network who can drive outreach, craft proposals, and negotiate to secure new partnerships.
+#### About the Role – Business Development Representative: This role is ideal for somebody with a strong Web3 network who can drive outreach, craft proposals, and negotiate to secure new partnerships.
 
 #### Key Responsibilities
 

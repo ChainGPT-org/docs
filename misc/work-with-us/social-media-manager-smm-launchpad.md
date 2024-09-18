@@ -43,20 +43,17 @@ Company Culture and Values At ChainGPT, we value Trust, Effective Speed, Innovat
 
 Application Process To apply, please submit your resume, cover letter describing your relevant experience, and LinkedIn profile to jobs@chaingpt.org. We would love to hear from you if you are passionate about blockchain technology and would like to work with a dynamic and growing company.
 
-**Additional Information**
+#### Application Process
 
-**Employment Compliance and Confidentiality:**
+To apply, please submit your resume, cover letter describing your relevant experience, and LinkedIn to [jobs@chaingpt.org](mailto:jobs@chaingpt.org). We would love to hear from you if you are passionate about blockchain technology and would like to work with a dynamic and growing company.
 
-* KYC and NDA Requirements: All candidates extended an offer of employment must complete a Know Your Customer (KYC) process and sign a Non-Disclosure Agreement (NDA) to protect sensitive company information.
+#### Additional Information
 
-**Employment Structure:**
-
-* Contractor Status: All positions are offered on a contractor basis. As such, individuals will be responsible for their tax obligations in accordance with local, state, and federal law. We recommend consulting with a tax advisor to ensure compliance.
-
-**Compensation:**
-
-* Cryptocurrency Payments: Compensation is provided in cryptocurrency (USDT BEP20) to align with our company's focus on blockchain technology. Payments are issued bi-monthly, on the 1st and 16th of each month.
-
-**Probationary Period:**
-
-* Initial Assessment: All new hires will undergo a 60-day probationary period to ensure mutual compatibility. During this time, both the employee and ChainGPT can evaluate the employment relationship.
+1. Employment Compliance and Confidentiality:
+   1. KYC and NDA Requirements: All candidates extended an offer of employment must complete a Know Your Customer (KYC) process and sign a Non-Disclosure Agreement (NDA) to protect sensitive company information.
+2. Employment Structure:
+   1. Contractor Status: All positions are offered on a contractor basis. As such, individuals will be responsible for their tax obligations in accordance with local, state, and federal law. We recommend consulting with a tax advisor to ensure compliance.
+3. Compensation:
+   1. Cryptocurrency Payments: Compensation is provided in cryptocurrency (USDT BEP20) to align with our company's focus on blockchain technology. Payments are issued bi-monthly, on the 1st and 16th of each month.
+4. Probationary Period:
+   1. Initial Assessment: All new hires will undergo a 60-day probationary period to ensure mutual compatibility. During this time, both the employee and ChainGPT can evaluate the employment relationship.
