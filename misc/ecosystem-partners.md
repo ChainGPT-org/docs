@@ -6,6 +6,7 @@
 * [Tron](https://trondao.org/)
 * [Polygon](https://polygon.technology/)
 * [Arbitrum](https://arbitrum.io/)
+* [Base](https://www.base.org/)
 * [Sei](https://www.sei.io/)
 * [Core](https://coredao.org/)
 * [Scroll](https://scroll.io/)
