@@ -12,40 +12,41 @@
 
 ChainGPT is at the forefront of AI and Blockchain Technology, enabling and transforming Web3 through AI. Our AI-powered tools equip users with fast and accurate information to navigate the dynamic Blockchain industry. We're seeking knowledgeable individuals with a deep understanding of finance, technology, web3, AI, and cryptocurrency to join our expanding team.
 
-**About the Role – Business Development Representative**
+#### About the Role – Business Development Manager
 
-This role is ideal for somebody with a strong Web3 network who can drive outreach, craft proposals, and negotiate to secure new partnerships.
+This role is ideal for somebody with a strong Web3 network who can drive outreach, craft proposals, negotiate to secure new partnerships, and drive sales.
 
 #### Key Responsibilities
 
-* Develop and implement a sales strategy to expand the company's clientele list.
+* Develop and implement a sales strategy to expand the company's clientele list, focusing on selling SDKs, APIs, and close partnerships.
 * Identify new business opportunities through market research and prospecting.
-* Build strong relationships with potential clients - blockchain and Web3 projects/companies.
+* Manage the full sales and collaboration cycle, from prospecting and qualifying leads to closing deals and ensuring the delivery of high-quality solutions.
+* Prepare and present tailored presentations demonstrating beneficial collaboration or sales to prospective clients.
+* Build strong relationships with potential clients, specifically blockchain and Web3 projects/companies, to close partnerships and drive technical solutions sales.
 * Conduct outreach to potential clients via phone, email, and social media to establish rapport and arrange meetings.
 * Negotiate and close deals with new clients, ensuring profitability and the delivery of high-quality services.
 * Work closely with the internal team to create customized solutions that meet clients' needs.
-* Maintain accurate records of all client interactions.
+* Maintain accurate records of all client interactions, partnerships, sales, and contract details.
 * Research emerging trends and recommend new ChainGPT services to satisfy clients’ needs.
 
 #### Requirements
 
 * Minimum of 3 years of Business Development experience in the blockchain ecosystem.
+* Proven B2B sales experience, particularly in SDKs, APIs, or other technical products.
 * Verbal and written communication skills, with the ability to effectively communicate complex ideas and solutions to clients and teammates.
 * Able to work independently and as part of a team in a fast-paced environment.
 * Deep understanding of Web 3.0, including cryptocurrencies, NFTs, and blockchain technology.
 
 #### Preferred Qualifications (Optional)
 
-* Proven track record of "B2B" sales experience with at least 3 years of sales experience in the crypto sector.
-* Excellent knowledge of the blockchain and crypto industry.
-* Excellent communication and interpersonal skills, building and maintaining strong relationships with clients and team members.
-* Demonstrated ability to identify and pursue new business opportunities.
+* Demonstrated ability to identify, pursue, and close new business opportunities.
+* Strong negotiation skills and experience closing partnerships, collaborations, and sales.
 * Strategic mindset and the ability to think creatively about solutions to complex problems.
 * Strong organizational skills and the ability to manage multiple projects simultaneously.
 
 #### Company Culture and Values
 
-At ChainGPT, we value Trust, Effective Speed, Innovation, and Growth. As our BD Associate, you will embody these core values and have the opportunity to contribute to our culture and help drive our success. Join us on this exciting journey as we shape the future of blockchain and crypto technology.
+At ChainGPT, we value Trust, Effective Speed, Innovation, and Growth. As our BD Manager, you will embody these core values and have the opportunity to contribute to our culture and help drive our success. Join us on this exciting journey as we shape the future of blockchain and crypto technology.
 
 #### Application Process
 
