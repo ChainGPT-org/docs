@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Senior Technical Lead
 
 **Location: Remote - Full Time**

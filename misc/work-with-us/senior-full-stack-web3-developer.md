@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Senior Full-Stack Web3 Developer
 
 **Location: Remote**

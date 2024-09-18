@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Full-Stack Web3 Developer
 
 **Location: Remote**

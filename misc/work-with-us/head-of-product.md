@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Head of Product
 
 Location: Remote
