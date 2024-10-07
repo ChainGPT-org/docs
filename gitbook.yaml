@@ -1,0 +1,18 @@
+
+# Root folder where GitBook will look for the documentation
+root: ./
+
+# Structure of the documentation
+structure:
+  readme: README.md       # Path to the first page of your documentation
+  summary: SUMMARY.md     # Path to the table of contents (summary) file
+
+# Redirects for legacy paths to new paths
+redirects:
+  previous/page: new-folder/page.md   # Redirects a specific old page to the new path
+
+  # Add more redirects as needed
+  help: support.md                    # Example of a simple redirect from /help to /support
+
+  # Complex path example
+  help: misc/support.md               # Redirect from /help to /misc/support.md
