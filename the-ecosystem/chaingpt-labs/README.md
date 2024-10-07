@@ -8,7 +8,7 @@ description: >-
 
 <figure><img src="../../.gitbook/assets/CGPT Labs Rectangles.png" alt=""><figcaption></figcaption></figure>
 
-The mission of [ChainGPT Labs](https://labs.chaingpt.org/) is to provide comprehensive support to innovative ventures from conception to market launch, leveraging extensive expertise and resources to ensure their success. Apply today using [this link](https://labs.chaingpt.org/).
+The mission of [ChainGPT Labs](https://labs.chaingpt.org/) is to provide comprehensive support to innovative ventures from conception to market launch, leveraging extensive expertise and resources to ensure their success. Apply today using [this link](https://labs.chaingpt.org/apply).
 
 ### Venture Capital Investment and Funding Opportunities
 
