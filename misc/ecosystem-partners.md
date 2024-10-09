@@ -11,12 +11,14 @@
 * [Core](https://coredao.org/)
 * [Scroll](https://scroll.io/)
 * [Mantle](https://www.mantle.xyz/)
+* [Oasis Protocol](https://oasisprotocol.org/)
 * [SKALE](https://skale.space/)
 * [5ire](https://www.5ire.org/)
 * [OKX  / X Layer](https://www.okx.com/nl/xlayer)
 * [Avalanche](https://www.avax.network/)
 * [Solana](https://solana.com/)
 * [aelf](https://aelf.com/)
+* [Viction](https://viction.xyz/)
 
 ## AI / Machine Learning
 
@@ -144,7 +146,6 @@
 * [CoinMarketCap (CMC)](https://coinmarketcap.com)
 * [CoinGecko](https://coingecko.com)
 * [CryptoRank](https://cryptorank.io)
-* [Gotbit](https://gotbit.io)
 * [Kairon Labs](https://kaironlabs.com)
 * [FlowDesk](https://flowdesk.co)
 
