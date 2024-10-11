@@ -2,7 +2,7 @@
 description: Frequently Asked Questions about ChainGPT Pad
 ---
 
-# F.A.Q.s - ChainGPT Pad
+# FAQ
 
 <figure><img src="../../.gitbook/assets/Pad FAQs.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -121,9 +121,9 @@ Cryptocurrencies: BNB, ETH
 
 Currently, everyone can pass a KYC & sign up for ChainGPT Pad. However, countries that have banned cryptocurrencies will not be eligible to participate in IDOs. Any countries not listed below, who do not have an outright crypto ban, will be determined by the project. This includes the US, Canada, and other countries where crypto regulations have not yet been clearly established.\
 \
-Restricted countries: Bangladesh, China, Algeria, Iraq, Morocco, Nepal, Qatar, Tunisia.\
+Countries restricted or sanctioned include Bangladesh, China, Algeria, Iraq, Morocco, Nepal, Qatar, Russia, and Tunisia.\
 \
-For a full list of sanctioned countries please refer to the directory provided by our KYC partner BlockPass:[https://www.blockpass.org/major-sanctioned-countries-lists/](https://www.blockpass.org/major-sanctioned-countries-lists/)
+For a full list of sanctioned countries, please refer to the directory provided by our KYC partner BlockPass:[https://www.blockpass.org/major-sanctioned-countries-lists/](https://www.blockpass.org/major-sanctioned-countries-lists/)
 
 </details>
 
