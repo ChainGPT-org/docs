@@ -40,7 +40,7 @@ ChainGPT has established a virtuous, transparent economy of AI services that tra
 * PPU for AI model
 * Staking for Priority Access to AI Model Tools
 * Membership to the DAO
-* Inclusion into a Tier level for ChainGPT Pad
+* Inclusion into a Tier level for ChainGPT Pad and DegenPad
 
 **PPU for AI Model**\
 Pay-Per-Use. A non-binding model for users looking for maximal freedom from commitment and limitless flexibility. Whether engaged via the official interface (application dashboard) or called via the API, every interaction with the ChainGPT AI will carry some associated cost that will have to be paid in $CGPT tokens _(or CGPTc {which are still acquired through a token conversion})._&#x20;
