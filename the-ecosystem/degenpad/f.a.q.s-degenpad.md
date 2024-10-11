@@ -46,7 +46,11 @@
 
 6\. **What countries are restricted from IDOs?**
 
-• Restricted countries: Bangladesh, China, Algeria, Iraq, Morocco, Nepal, Qatar, Tunisia, US, Canada
+• Currently, everyone can pass a KYC & sign up for DegenPad. However, countries that have banned cryptocurrencies will not be eligible to participate in IDOs. Any countries not listed below, who do not have an outright crypto ban, will be determined by the project. This includes the US, Canada, and other countries where crypto regulations have not yet been clearly established.
+
+• Countries restricted or sanctioned include Bangladesh, China, Algeria, Iraq, Morocco, Nepal, Qatar, Russia, and Tunisia.
+
+• For a full list of sanctioned countries, please refer to the directory provided by our KYC partner BlockPass: https://www.blockpass.org/major-sanctioned-countries-lists/
 
 ## **Tiers and Staking** <a href="#id-3776" id="id-3776"></a>
 
