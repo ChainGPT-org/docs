@@ -50,7 +50,7 @@
 \
 • Persons from the United States cannot participate in any IDO due to a lack of clear regulations in the crypto space. \
 \
-• Countries restricted or sanctioned include Algeria, Bangladesh, Bolivia, Central African Republic, China, Cuba, Egypt, Iran, Iraq, Morocco, Nepal, North Korea, Russia, South Sudan, Sudan, Syria, Venezuela, and Yemen.\
+• Countries restricted or sanctioned include Algeria, Bangladesh, Bolivia, Central African Republic, China, Cuba, Egypt, Iran, Iraq, Morocco, Nepal, North Korea, South Sudan, Sudan, Syria, Venezuela, and Yemen.\
 \
 • For a full list of sanctioned countries, please refer to the directory provided by our KYC partner BlockPass:[https://www.blockpass.org/major-sanctioned-countries-lists/](https://www.blockpass.org/major-sanctioned-countries-lists/)
 
