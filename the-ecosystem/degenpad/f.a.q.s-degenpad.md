@@ -4,7 +4,17 @@
 
 ## **General** <a href="#add7" id="add7"></a>
 
-1\. **What is DegenPad?**
+
+
+<details>
+
+<summary>1. What is DegenPad?</summary>
+
+DegenPad is a small-cap launchpad for innovative, fun and unique Web3 projects. Learn more [here](https://medium.com/@degenpad/announcing-degenpad-a-launchpad-designed-by-degens-for-degens-c6ca7a044ba7)!
+
+</details>
+
+#### 1. **What is DegenPad?**
 
 • DegenPad is a small-cap launchpad for innovative, fun and unique Web3 projects. Learn more [here](https://medium.com/@degenpad/announcing-degenpad-a-launchpad-designed-by-degens-for-degens-c6ca7a044ba7)!
 
