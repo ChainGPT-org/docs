@@ -14,47 +14,79 @@ DegenPad is a small-cap launchpad for innovative, fun and unique Web3 projects. 
 
 </details>
 
-#### 1. **What is DegenPad?**
+<details>
 
-• DegenPad is a small-cap launchpad for innovative, fun and unique Web3 projects. Learn more [here](https://medium.com/@degenpad/announcing-degenpad-a-launchpad-designed-by-degens-for-degens-c6ca7a044ba7)!
+<summary>2. <strong>What is an IDO?</strong></summary>
 
-2\. **What is an IDO?**
+IDO stands for Initial DEX Offering. It is a method of public fundraising that pools capital from retail users by utilizing a decentralized platform as the venue for facilitating the transactions. This model is superior to the preceding ICO model because the platform can provide a higher degree of security for end users by collecting the funding and only releasing to the projects after the satisfaction of a certain criteria.
 
-• IDO stands for Initial DEX Offering. It is a method of public fundraising that pools capital from retail users by utilizing a decentralized platform as the venue for facilitating the transactions. This model is superior to the preceding ICO model because the platform can provide a higher degree of security for end users by collecting the funding and only releasing to the projects after the satisfaction of a certain criteria.
+</details>
 
-3\. **What is crowdfunding/private sale?**
+<details>
 
-• The crowdfunding/private sale is a very early round of fundraising that takes place right before an IDO. Typically just a day or so before an IDO launch. These rounds tend to offer superior rates but also incur prolonged vesting periods.
+<summary>3. <strong>What is crowdfunding/private sale?</strong></summary>
 
-4\. **What is FCFS or First Come First Serve round?**
+The crowdfunding/private sale is a very early round of fundraising that takes place right before an IDO. Typically just a day or so before an IDO launch. These rounds tend to offer superior rates but also incur prolonged vesting periods.
 
-• FCFS is the acronym for First-Come-First-Serve, and it refers to the round of fundraising that becomes available to the general public after the guaranteed round. As the name might suggest, FCFS rounds are based on timing, available token supplies are sold to participants that arrive ahead of others.
+</details>
 
-**IDO Allocation & Policy**
+<details>
 
-1\. **Can I participate in IDOs right after purchasing $CGPT?**
+<summary>4. <strong>What is FCFS or First Come First Serve round?</strong></summary>
 
-• Almost. Before being able to participate in the IDO’s users must do two more actions. First, once $CGPT is acquired, users must make sure to have enough tier points for inclusion, if yes, then simply stake their tokens in the official staking dashboard. Second, they must pass KYC.
+FCFS is the acronym for First-Come-First-Serve, and it refers to the round of fundraising that becomes available to the general public after the guaranteed round. As the name might suggest, FCFS rounds are based on timing, available token supplies are sold to participants that arrive ahead of others.
 
-2\. **Is there a refund policy?**
+</details>
 
-• Yes. Every IDO launch will have a “refund grace period” lasting 7–14 days on average that allows participating users added time to evaluate their decisions before finalizing the commitments.
+##
 
-3\. **Do I have to KYC in order to access the Launchpad?**
+## **IDO Allocation & Policy**
 
-• Yes. KYC is required for participating at any tier level. The KYC process has been made maximally simple through our partner Blockpass. To sign up, please follow our official link: [http://url.chaingpt.org/kyc](http://url.chaingpt.org/kyc)
+<details>
 
-4\. **How is Pool Weight Calculated?**
+<summary>1. <strong>Can I participate in IDOs right after purchasing $CGPT?</strong></summary>
 
-• Pool weight is calculated based on the distribution of tier points among participating members and their corresponding tier levels. Every pool has a structured base range that is dependent on their staking tier points.
+Almost. Before being able to participate in the IDO’s users must do two more actions. First, once $CGPT is acquired, users must make sure to have enough tier points for inclusion, if yes, then simply stake their tokens in the official staking dashboard. Second, they must pass KYC.
 
-5\. **What crypto tokens can be used to participate in IDOs?**
+</details>
+
+<details>
+
+<summary>2. <strong>Is there a refund policy?</strong></summary>
+
+Yes. Every IDO launch will have a “refund grace period” lasting 7–14 days on average that allows participating users added time to evaluate their decisions before finalizing the commitments.
+
+</details>
+
+<details>
+
+<summary>3. <strong>Do I have to KYC in order to access the Launchpad?</strong></summary>
+
+&#x20;Yes. KYC is required for participating at any tier level. The KYC process has been made maximally simple through our partner Blockpass. To sign up, please follow our official link: [http://url.chaingpt.org/kyc](http://url.chaingpt.org/kyc)
+
+</details>
+
+<details>
+
+<summary>4. <strong>How is Pool Weight Calculated?</strong></summary>
+
+&#x20;Pool weight is calculated based on the distribution of tier points among participating members and their corresponding tier levels. Every pool has a structured base range that is dependent on their staking tier points.
+
+</details>
+
+<details>
+
+<summary>5. <strong>What crypto tokens can be used to participate in IDOs?</strong></summary>
 
 • Stablecoins: USDT, USDC, BUSD
 
 • Cryptocurrencies: BNB, ETH
 
-6\. **What countries are restricted from IDOs?**
+</details>
+
+<details>
+
+<summary>6. <strong>What countries are restricted from IDOs?</strong></summary>
 
 • Currently, everyone can pass a KYC and sign up for ChainGPT Pad. However, countries that have banned cryptocurrencies will not be eligible to participate in IDOs. The project will determine any countries not listed below that do not have an outright crypto ban. \
 \
@@ -64,53 +96,105 @@ DegenPad is a small-cap launchpad for innovative, fun and unique Web3 projects. 
 \
 • For a full list of sanctioned countries, please refer to the directory provided by our KYC partner BlockPass:[https://www.blockpass.org/major-sanctioned-countries-lists/](https://www.blockpass.org/major-sanctioned-countries-lists/)
 
+</details>
+
+## &#x20;<a href="#id-3776" id="id-3776"></a>
+
 ## **Tiers and Staking** <a href="#id-3776" id="id-3776"></a>
 
-1\. **Can I stake into multiple Pools and still acquire points?**
+<details>
 
-• Yes. If you wish to split up your $CGPT stake across different pools, the Launchpad will calculate your points based on their individual placements. The minimum number of tokens required is 1,000 $CGPT.
+<summary>1. <strong>Can I stake into multiple Pools and still acquire points?</strong></summary>
 
-2\. **What is the absolute minimum number of $CGPT that must be staked to acquire a Tier status?**
+Yes. If you wish to split up your $CGPT stake across different pools, the Launchpad will calculate your points based on their individual placements. The minimum number of tokens required is 1,000 $CGPT.
 
-• The entry-level tier is Ape, which requires 2,000 points. Based on the maximum multiplier of 2x for the 365-day staking pool.
+</details>
 
-3\. **How are Tier Points calculated?**
+<details>
 
-• Tier points are calculated based on two simple factors: the number of tokens staked and the duration of the staking pool they are allocated to.
+<summary>2. <strong>What is the absolute minimum number of $CGPT that must be staked to acquire a Tier status?</strong></summary>
 
-4\. **How many different tiers are there?**
+The entry-level tier is Ape, which requires 2,000 points. Based on the maximum multiplier of 2x for the 365-day staking pool.
 
-• There are four tiers in the launchpad system: Ape, Chad, Shark, and Whale.
+</details>
 
-5\. **What does Allocation Multiplier mean?**
+<details>
 
-• The allocation multiplier specifies the amount of tokens that participants will be able to purchase at the different tier levels. Every tier has its own corresponding allocation multiplier: Ape: 1, Chad: 4+, Shark: 10+, Whale 40+.
+<summary>3. <strong>How are Tier Points calculated?</strong></summary>
+
+&#x20;Tier points are calculated based on two simple factors: the number of tokens staked and the duration of the staking pool they are allocated to.
+
+</details>
+
+<details>
+
+<summary>4. <strong>How many different tiers are there?</strong></summary>
+
+&#x20;There are four tiers in the launchpad system: Ape, Chad, Shark, and Whale.
+
+</details>
+
+<details>
+
+<summary>5. <strong>What does Allocation Multiplier mean?</strong></summary>
+
+The allocation multiplier specifies the amount of tokens that participants will be able to purchase at the different tier levels. Every tier has its own corresponding allocation multiplier: Ape: 1, Chad: 4+, Shark: 10+, Whale 40+.
+
+</details>
+
+
 
 ## **For Projects** <a href="#id-36fe" id="id-36fe"></a>
 
-1\. **Can any category of project apply for listing?**
+<details>
 
-• Yes, absolutely! Innovators from all sectors of the digital economy are invited to apply.
+<summary>1. <strong>Can any category of project apply for listing?</strong></summary>
 
-2\. **Is there a Criteria that must be met in order to list?**
+Yes, absolutely! Innovators from all sectors of the digital economy are invited to apply.
 
-• Yes. ChainGPT upholds high-quality standards that must be met in order for a project to be given access to the LaunchPad.
+</details>
 
-3\. **What is the onboarding process for applying?**
+<details>
 
-• After submitting an application, they will undergo an initial screening by the ChainGPT Team. Following the screening, projects will be put through an in-depth due diligence process. Only projects that pass the rigorous qualitative assessment are inducted into the incubator and given the rights to list their IDO on the Launchpad.
+<summary>2. <strong>Is there a Criteria that must be met in order to list?</strong></summary>
 
-4\. **How long is the incubation process?**
+Yes. ChainGPT upholds high-quality standards that must be met in order for a project to be given access to the LaunchPad.
 
-• The duration of the incubation program depends on the individual needs of a project, averaging around 12 months but can be as long as 18–24 months.
+</details>
 
-5\. **Is incubation necessary, or can we just apply to IDO?**
+<details>
 
-• Projects are not required to be incubated to apply for an IDO listing. However, if a project decides to go through the incubation program, they must IDO via the ChainGPT Pad.
+<summary>3. <strong>What is the onboarding process for applying?</strong></summary>
 
-6\. **What is the max cap on what projects can raise during IDO?**
+After submitting an application, they will undergo an initial screening by the ChainGPT Team. Following the screening, projects will be put through an in-depth due diligence process. Only projects that pass the rigorous qualitative assessment are inducted into the incubator and given the rights to list their IDO on the Launchpad.
 
-• There is no set maximum. The capacity is based on a project-to-project basis. A multitude of factors will be taken into account, which help gauge potential outcomes, whenever the fundraising goals are being set, which will dictate the maximum capacity.
+</details>
+
+<details>
+
+<summary>4. <strong>How long is the incubation process?</strong></summary>
+
+The duration of the incubation program depends on the individual needs of a project, averaging around 12 months but can be as long as 18–24 months.
+
+</details>
+
+<details>
+
+<summary>5. <strong>Is incubation necessary, or can we just apply to IDO?</strong></summary>
+
+Projects are not required to be incubated to apply for an IDO listing. However, if a project decides to go through the incubation program, they must IDO via the ChainGPT Pad.
+
+</details>
+
+<details>
+
+<summary>6. <strong>What is the max cap on what projects can raise during IDO?</strong></summary>
+
+There is no set maximum. The capacity is based on a project-to-project basis. A multitude of factors will be taken into account, which help gauge potential outcomes, whenever the fundraising goals are being set, which will dictate the maximum capacity.
+
+</details>
+
+
 
 [\
 ](https://medium.com/@degenpad?source=post\_page-----9f6773ae1b3d--------------------------------)
