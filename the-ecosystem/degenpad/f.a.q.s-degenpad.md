@@ -4,8 +4,6 @@
 
 ## **General** <a href="#add7" id="add7"></a>
 
-
-
 <details>
 
 <summary>1. What is DegenPad?</summary>
@@ -37,8 +35,6 @@ The crowdfunding/private sale is a very early round of fundraising that takes pl
 FCFS is the acronym for First-Come-First-Serve, and it refers to the round of fundraising that becomes available to the general public after the guaranteed round. As the name might suggest, FCFS rounds are based on timing, available token supplies are sold to participants that arrive ahead of others.
 
 </details>
-
-##
 
 ## **IDO Allocation & Policy**
 
@@ -98,8 +94,6 @@ Yes. Every IDO launch will have a “refund grace period” lasting 7–14 days 
 
 </details>
 
-## &#x20;<a href="#id-3776" id="id-3776"></a>
-
 ## **Tiers and Staking** <a href="#id-3776" id="id-3776"></a>
 
 <details>
@@ -141,8 +135,6 @@ The entry-level tier is Ape, which requires 2,000 points. Based on the maximum m
 The allocation multiplier specifies the amount of tokens that participants will be able to purchase at the different tier levels. Every tier has its own corresponding allocation multiplier: Ape: 1, Chad: 4+, Shark: 10+, Whale 40+.
 
 </details>
-
-
 
 ## **For Projects** <a href="#id-36fe" id="id-36fe"></a>
 
@@ -193,8 +185,6 @@ Projects are not required to be incubated to apply for an IDO listing. However, 
 There is no set maximum. The capacity is based on a project-to-project basis. A multitude of factors will be taken into account, which help gauge potential outcomes, whenever the fundraising goals are being set, which will dictate the maximum capacity.
 
 </details>
-
-
 
 [\
 ](https://medium.com/@degenpad?source=post\_page-----9f6773ae1b3d--------------------------------)
