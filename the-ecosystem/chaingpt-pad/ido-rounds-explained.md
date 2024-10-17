@@ -4,30 +4,43 @@ description: Participation Rounds for Initial Dex Offerings on ChainGPT
 
 # IDO Rounds Explained
 
-<figure><img src="../../.gitbook/assets/cgpt-pad-rounds.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
-ChainGPT Pad leverages a two-phased approach for conducting the launches of IDO projects.&#x20;
+## ChainGPT Pad IDO Launch Process
 
-By having multiple rounds, a higher degree of commitment from the CGPT user base can be established, and a larger potential opportunity for projects to successfully complete their intended sales.&#x20;
+ChainGPT Pad employs a two-phased approach to IDO launches, designed to encourage commitment from the CGPT user base and maximize opportunities for projects to complete their sales.\
+\
+**Pre-Order Access (Diamond Tier Only)**
 
-### **Round #1 (Guaranteed Allocation)**
+Pre-Order access is exclusive to Diamond Tier members, providing additional time to participate in the IDO before the general Guaranteed Round opens.
 
-Round one of an IDO will be granted only to the users who signal their desire to participate by registering their interest prior to the start of the IDO. (Typically_, Registration will open a week prior and last until 24 hours before launch_).
+• Duration: 12 hours.
 
-This round is reserved for the top staking tier groups, Silver, Gold, and Diamond. However, every IDO is launched through social campaigns that allow a limited group of fast-acting Bronze tier members to earn their inclusion into the guaranteed round.
+• Access: Diamond Tier members only.
 
-Round #1 will last for 24 hours unless otherwise specified.
-
-### **Round #2 (FCFS - First Come First Serve)**
-
-Round two, the First Come First Serve, is open to the broader ChainGPT community. There is no requirement to register interest for FCFS; however, waiting for it runs the risk of users being unable to participate due to early completion. Here, all KYC tier members can join at will.
-
-Round #2 will last for 12 hours unless otherwise specified.
-
-_Should a project reach 99% of its maximum IDO capacity during the first round of guaranteed allocations, the IDO will immediately conclude the first round. At least 1% of the capacity will always be reserved for the second round, designated for First Come, First Serve (FCFS) participants._
+• Purpose: Allows top-tier members early access to the IDO.\
 
 
+**Round #1 (Guaranteed Allocation)**
 
-\---
+The first round is reserved for Silver, Gold, and Diamond Tier members who register their interest prior to the IDO launch. Registration typically opens a week before and closes 24 hours before the launch.
 
-[**Disclaimer**](../../misc/legal-docs/disclaimer.md)
+• Duration: A minimum of 24 hours.
+
+• Eligibility: Silver, Gold, and Diamond Tier members, with a limited number of Bronze Tier members earning access through social campaigns.
+
+• Conditions: The round may end early if 99% of the total capacity is reached.\
+
+
+**Round #2 (FCFS - First Come First Serve)**
+
+The second round operates on a First Come, First Serve basis and is open to the broader ChainGPT community. No prior registration is needed, but participants should be aware that the sale could close early if the full capacity is reached.
+
+• Duration: 12 hours (unless otherwise specified).
+
+• Eligibility: Open to all KYC-compliant members.
+
+• Condition: A minimum of 1% of the total capacity is reserved for this round, ensuring broader participation.
+
+\
+\
