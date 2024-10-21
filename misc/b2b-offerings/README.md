@@ -2,12 +2,7 @@
 description: >-
   Read ahead for a quick overview of our ecosystem tools and products to learn
   how they support B2B collaboration!
-cover: ../../.gitbook/assets/cgpt-bg-05-5120x2880.jpg.jpg
-coverY: 52.12799999999999
 layout:
-  cover:
-    visible: true
-    size: hero
   title:
     visible: true
   description:
@@ -21,6 +16,8 @@ layout:
 ---
 
 # B2B Offerings
+
+<figure><img src="../../.gitbook/assets/telegram-cloud-photo-size-4-5814262812925608692-y.jpg" alt=""><figcaption></figcaption></figure>
 
 ### ChainGPT B2B Offerings
 
