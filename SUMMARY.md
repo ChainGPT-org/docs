@@ -125,6 +125,7 @@
 * [Work With Us](misc/work-with-us/README.md)
   * [Business Development Representative](misc/work-with-us/business-development-representative.md)
   * [Marketing Project Manager](misc/work-with-us/marketing-project-manager.md)
+  * [Launchpad Project Manager](misc/work-with-us/launchpad-project-manager.md)
   * [Email Marketeer](misc/work-with-us/email-marketeer.md)
   * [Public Relations Expert](misc/work-with-us/public-relations-expert.md)
   * [Product Manager](misc/work-with-us/product-manager.md)

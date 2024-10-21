@@ -1,6 +1,6 @@
 # Marketing Project Manager
 
-**Marketing Project Manager**
+**Project Manager**
 
 **Location:** Remote
 
