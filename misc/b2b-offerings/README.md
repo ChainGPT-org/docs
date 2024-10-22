@@ -21,66 +21,74 @@ layout:
 
 ### ChainGPT B2B Offerings
 
-ChainGPT is an advanced AI infrastructure that develops cutting-edge AI-powered technologies for the Web3, Blockchain, and Crypto industries. Our mission is to enhance the Web3 space for both retail users and projects by creating AI-driven solutions that promote efficiency, security, and accessibility.&#x20;
+ChainGPT is an advanced AI infrastructure that develops cutting-edge AI-powered technologies for the Web3, Blockchain, and Crypto industries. Our mission is to enhance the Web3 space by delivering scalable and efficient AI solutions tailored for projects and enterprises.&#x20;
+
+This page outlines the key API and SDK products that enable Web3 businesses to integrate our solutions into their ecosystems seamlessly.
 
 #### Key Offerings:
 
-* **ChainGPT AI Chatbot** (Telegram, Discord, Web)
-* **AI-Generated News**
-* **AI Smart Contracts Generator**
-* **AI Smart Contracts Auditor**
-* **AI NFT Generator**
-* **AI Trading Assistant**
-* **AI-Powered Security Extension**
-* **AI Blockchain Analytics**
-* **ChainGPT Pad** (Launchpad for AI-based projects)
-* **DegenPad** (Launchpad for low FDV projects)
-* **ChainGPT Labs** (We invest in AI!)
-* **Incubation Program for AI Startups**
-* **Launchpad Whitelabel Solution**
+* **ChainGPT AI Chatbot** (API & SDK for Telegram, Discord, Web)
+* **AI Smart Contracts Generator** (API & SDK)
+* **AI Smart Contracts Auditor** (API & SDK)
+* **AI NFT Generator** (API & SDK)
+* **AI Trading Assistant** (API & SDK)
+* **White Label Solutions** (Customizable for specific business needs)
 
-ChainGPT’s solutions are designed for both retail users and projects, providing open, accessible technologies to all. We encourage integration across the Web3 ecosystem by offering APIs and SDKs, ensuring that no project is excluded from accessing the powerful LLMs and applications we’ve developed.
+ChainGPT offers a flexible API and SDK approach, making it easier for developers and businesses to integrate our AI technologies directly into their platforms, streamlining everything from smart contract creation to NFT generation.
 
 ***
 
-#### ChainGPT AI Chatbot
+#### ChainGPT AI Chatbot (API and SDK)
 
 <figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
-Our AI Chatbot offers a valuable asset for Web3 projects looking to automate customer interactions and community engagement. The chatbot is capable of answering a range of inquiries, from live pricing data to market analysis, helping to reduce the workload on community managers. For projects needing a more customized approach, we offer a white-label version of the chatbot at competitive prices.
+The ChainGPT AI Chatbot is an intelligent, AI-powered tool designed to engage users and handle recurring inquiries autonomously. Available via API and SDK, the chatbot can be integrated into Telegram, Discord, or web platforms, providing businesses with a scalable community management solution. The chatbot can manage communities, respond to technical inquiries, provide real-time market data, and more.&#x20;
 
-Integrating the Chatbot into your Telegram or Discord group is simple, requiring only the addition of the bot as a member—no admin permissions needed. This tool is free to use with a range of customizable features for partner projects.
+This custom solution is also available in a white-label format, giving projects complete control over branding and functionality.
 
-[Learn more about our Chatbot here](https://docs.chaingpt.org/the-ecosystem/ai-tools-and-applications/ai-web3-chatbot)\
+**Key Benefits for Businesses:**
+
+* **Customizable Integration:** Easily embed the chatbot into your community channels (Telegram, Discord, etc.) using the API/SDK.
+* **Scalable Engagement:** Manage large communities without the need for extensive human intervention.
+* **Real-Time Market Insights:** Access live pricing, market trends, and data analysis directly through the chatbot.
+
+[Learn more about integrating our Chatbot here](https://docs.chaingpt.org/the-ecosystem/ai-tools-and-applications/ai-web3-chatbot)\
 [Try the ChainGPT Bot on Telegram](https://t.me/ChainGPTAI\_Bot)
 
 ***
 
-#### NFT Generator
+#### NFT Generator (API and SDK)
 
 <figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
-ChainGPT’s AI-powered NFT Generator offers a powerful solution for Web3 projects looking to integrate seamless NFT creation and minting into their ecosystems. The generator enables users to produce and mint up to 10,000 NFTs directly on their chosen chain, making it an excellent tool for projects looking to scale their NFT offerings efficiently. With easy integration into partner NFT marketplaces, the NFT Generator simplifies the user experience and maximizes project reach.
+ChainGPT’s AI-powered NFT Generator allows businesses to create and mint up to 10,000 NFTs seamlessly, all powered through API or SDK. This solution is ideal for Web3 projects looking to integrate large-scale NFT generation into their platforms, giving users a straightforward and efficient way to produce digital assets.
 
-Currently, the NFT Generator supports the following chains:\
-**BNB Smart Chain, opBNB Mainnet, Scroll, Arbitrum One, Mantle, SKALE | Titan AI Hub, X Layer, COREDao, Sei, 5ire, Ethereum, Polygon, Avalanche, BTTC, Viction, Tron.**
+**The NFT Generator currently supports integration with the following chains:**\
+\
+BNB Smart Chain, opBNB Mainnet, Scroll, Arbitrum One, Mantle, SKALE | Titan AI Hub, X Layer, COREDao, Sei, 5ire, Ethereum, Polygon, Avalanche, BTTC, Viction, Tron.
 
-This tool is perfect for NFT platforms and projects seeking to streamline their minting process.
+**Key Benefits for Businesses:**
 
-[Learn more about the NFT Generator here](https://docs.chaingpt.org/the-ecosystem/ai-tools-and-applications/ai-nft-generator)
+* **Automated NFT Creation:** Scale your NFT operations effortlessly with support for multiple blockchain integrations.
+* **Customizable & Scalable:** Integrate the NFT generation process directly into your platform, enabling users to create, mint, and list NFTs without third-party dependency.
+
+[Explore NFT Generator integration here](https://docs.chaingpt.org/the-ecosystem/ai-tools-and-applications/ai-nft-generator)
 
 ***
 
-#### Dev Tooling (Smart Contract Generator & Smart Contract Auditor)
+#### Dev Tooling (Smart Contract Generator & Smart Contract Auditor - API and SDK)
 
 <figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 
-ChainGPT’s Dev Tooling equips projects with efficient, AI-powered tools for creating and securing smart contracts. The **Smart Contract Generator** allows developers to easily generate contracts tailored to their needs, offering a flexible foundation for projects of any size. In addition, the **Smart Contract Auditor** enhances security by providing a pre-emptive layer of protection, helping projects identify vulnerabilities and optimize contracts before deployment.
+ChainGPT offers comprehensive Dev Tooling with APIs and SDKs for both **Smart Contract Generation** and **Auditing**. The Smart Contract Generator allows developers to create custom contracts based on input prompts, automating much of the creation process. Meanwhile, the Smart Contract Auditor is an essential security layer for any project looking to verify the integrity and security of their contracts before launch.
 
-These tools are especially useful for projects engaged in frequent contract creation or looking to ensure security ahead of key launches.
+**Key Benefits for Projects:**
 
-[Learn more about the Smart Contract Generator here](https://docs.chaingpt.org/the-ecosystem/ai-tools-and-applications/ai-smart-contract-generator)\
-[Learn more about the Smart Contract Auditor here](https://docs.chaingpt.org/the-ecosystem/ai-tools-and-applications/ai-smart-contract-auditor)
+* **Smart Contract Generator:** Automate the creation of standard or custom contracts with ease.
+* **Smart Contract Auditor:** Prevent vulnerabilities and ensure your contracts are secure before deployment. Ideal for hackathons or regular contract launches.
+
+[Explore Smart Contract Generator here](https://docs.chaingpt.org/the-ecosystem/ai-tools-and-applications/ai-smart-contract-generator)\
+[Learn about the Smart Contract Auditor here](https://docs.chaingpt.org/the-ecosystem/ai-tools-and-applications/ai-smart-contract-auditor)
 
 ***
 
@@ -88,34 +96,29 @@ These tools are especially useful for projects engaged in frequent contract crea
 
 <figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 
-ChainGPT’s suite of **APIs and SDKs** provides Web3 projects with the flexibility to integrate AI solutions into their platforms. Whether leveraging the API for quick, seamless integration or customizing the solution through SDKs, these tools enable projects to enhance operations, scalability, or user engagement with AI-driven capabilities.
+For developers and Web3 projects looking to integrate powerful AI capabilities into their platforms, ChainGPT’s suite of APIs and SDKs provides the flexibility needed to create tailored solutions. Whether it’s enhancing operational efficiency, managing data-driven applications, or delivering real-time insights to users, ChainGPT’s APIs ensure scalability and ease of use for both small and large projects.
 
-[Explore ChainGPT's API/SDK offerings here](https://docs.chaingpt.org/the-ecosystem/apis-and-sdks)
+**Current API & SDK offerings include:**
 
-***
+* **ChainGPT AI Chatbot**
+* **Smart Contract Generator**
+* **Smart Contract Auditor**
+* **NFT Generator**
+* **Trading Assistant**
 
-#### ChainGPT Pad
+These APIs are designed for easy integration, ensuring that projects can quickly incorporate AI-powered tools into their platforms.
 
-<figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
-
-[ChainGPT Pad](https://pad.chaingpt.org/) is a launchpad tailored to AI-based projects. With ChainGPT Pad, projects can efficiently raise funds and launch within the Web3 space, gaining exposure and access to a network of investors and partners.
-
-***
-
-#### DegenPad
-
-<figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
-
-[DegenPad](http://degenpad.com/) is the convergence of Web3 culture and high-stakes crypto.  It gives our community access to hidden gems by focusing on projects that align with emerging market trends, particularly those with low fully diluted valuations (FDVs).\
-
+[Explore all available API/SDK offerings](https://docs.chaingpt.org/the-ecosystem/apis-and-sdks)
 
 ***
 
-#### ChainGPT Labs
+#### White Label Solutions
 
-<figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/01. CGPT Main Announcements - Rectangle (9).png" alt=""><figcaption></figcaption></figure>
 
-[ChainGPT Labs](https://labs.chaingpt.org/) is our investment arm, dedicated to supporting and incubating AI startups. Through our incubation program, we provide guidance, resources, and funding to help new AI-based projects succeed in the rapidly evolving Web3 environment.
+For businesses looking to fully customize their interaction with ChainGPT’s AI tools, we offer **white-label solutions**. This gives projects the flexibility to adapt and brand ChainGPT’s tools as their own, ensuring a cohesive user experience. From community management to advanced AI functionalities, we can provide customized solutions for specific needs.\
+\
+Interested? Contact us today!
 
 ***
 
@@ -125,4 +128,5 @@ ChainGPT’s suite of **APIs and SDKs** provides Web3 projects with the flexibil
 
 Contact Person: Jacob Wallace
 
-Contact Email: [jacob@chaingpt.org](mailto:jacob@chaingpt.org)
+Contact Email: [jacob@chaingpt.org](mailto:jacob@chaingpt.org)\
+Contact Telegram: @JakeCGPT
