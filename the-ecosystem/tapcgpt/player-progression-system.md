@@ -1,6 +1,6 @@
 # Player Progression System
 
-<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (20) (1).png" alt=""><figcaption></figcaption></figure>
 
 In TapCGPT, players embark on a journey to become the ultimate AI entrepreneur. Starting as a **Junior Robot Assistant**, players will progress through ten distinct stages, each unlocking a new character with its own unique role. Below is an overview of the characters and the progression system.
 

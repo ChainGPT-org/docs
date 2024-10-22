@@ -17,9 +17,7 @@ layout:
 
 # B2B Offerings
 
-<figure><img src="../../.gitbook/assets/telegram-cloud-photo-size-4-5814262812925608692-y.jpg" alt=""><figcaption></figcaption></figure>
-
-### ChainGPT B2B Offerings
+ChainGPT B2B Offerings
 
 ChainGPT is an advanced AI infrastructure that develops cutting-edge AI-powered technologies for the Web3, Blockchain, and Crypto industries. Our mission is to enhance the Web3 space by delivering scalable and efficient AI solutions tailored for projects and enterprises.&#x20;
 
@@ -114,7 +112,7 @@ These APIs are designed for easy integration, ensuring that projects can quickly
 
 #### White Label Solutions
 
-<figure><img src="../../.gitbook/assets/01. CGPT Main Announcements - Rectangle (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 For businesses looking to fully customize their interaction with ChainGPT’s AI tools, we offer **white-label solutions**. This gives projects the flexibility to adapt and brand ChainGPT’s tools as their own, ensuring a cohesive user experience. From community management to advanced AI functionalities, we can provide customized solutions for specific needs.\
 \
