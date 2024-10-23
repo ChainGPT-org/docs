@@ -77,7 +77,7 @@ DegenPad features four tiers, each offering unique benefits. As you stake more $
 * Pool Weight: Minimum 40x Allocation Multiplier
 * Refund Eligibility: Yes, 100%
 * Participation Rounds: #1 and #2 (Guaranteed and FCFS)
-* Special Benefits: Token airdrops from incubated projects, Occasional NFT airdrops, Private group for sale access & voting, Freemium access to DegenPad’s AI Tools, Whale tier is the ultimate level, offering the most extensive benefits, including passive rewards through token and NFT airdrops, private sale access, and exclusive privileges.
+* Special Benefits: Token airdrops from incubated projects, Occasional NFT airdrops, Private group for sale access & voting, Freemium access to ChainGPT's AI Tools, Whale tier is the ultimate level, offering the most extensive benefits, including passive rewards through token and NFT airdrops, private sale access, and exclusive privileges.
 
 **Note on Tier Allocation Multiplier**\
 The Ape tier has a fixed 1x multiplier, regardless of points. However, in the Chad, Shark, and Whale tiers, the multiplier scales with your points within the tier. For example:
