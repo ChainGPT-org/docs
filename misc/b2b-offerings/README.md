@@ -17,7 +17,7 @@ layout:
 
 # B2B Offerings
 
-ChainGPT B2B Offerings
+<figure><img src="../../.gitbook/assets/telegram-cloud-photo-size-4-5814262812925608692-y.jpg" alt=""><figcaption></figcaption></figure>
 
 ChainGPT is an advanced AI infrastructure that develops cutting-edge AI-powered technologies for the Web3, Blockchain, and Crypto industries. Our mission is to enhance the Web3 space by delivering scalable and efficient AI solutions tailored for projects and enterprises.&#x20;
 
