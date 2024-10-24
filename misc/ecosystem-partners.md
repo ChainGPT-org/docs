@@ -106,6 +106,7 @@
 ## Other
 
 * [Chainlink](https://chain.link/)
+* [Travala](https://www.travala.com/)
 * [Decubate](https://www.decubate.com/)
 * [Team Finance](https://www.team.finance/)
 * [Space ID](https://space.id/)
