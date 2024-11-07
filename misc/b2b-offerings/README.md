@@ -112,7 +112,7 @@ These APIs are designed for easy integration, ensuring that projects can quickly
 
 #### White Label Solutions
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 For businesses looking to fully customize their interaction with ChainGPT’s AI tools, we offer **white-label solutions**. This gives projects the flexibility to adapt and brand ChainGPT’s tools as their own, ensuring a cohesive user experience. From community management to advanced AI functionalities, we can provide customized solutions for specific needs.\
 \

@@ -1,6 +1,6 @@
 # Understanding Low FDV Projects on DegenPad
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Web3 investors and traders are constantly looking for projects that offer significant upside potential while minimizing risk. One critical metric that helps gauge a project’s long-term value is Fully Diluted Valuation or FDV. Recently, [even major platforms like Binance](https://www.binance.com/en/research/analysis/low-float-and-high-fdv-how-did-we-get-here) have taken steps to address the challenges posed by high FDV tokens with low circulating supply, underscoring the importance of this metric in creating sustainable market environments.
 

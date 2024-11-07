@@ -1,6 +1,6 @@
 # Flexible Refund Policy
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 [DegenPad](http://degenpad.com/) has been designed with maximum security considerations for its users. To mitigate risks, protect against malicious activity, and ensure that projects listed on the platform behave with integrity, DegenPad has implemented a novel refund policy.
 
