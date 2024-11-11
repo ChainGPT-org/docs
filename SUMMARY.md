@@ -122,6 +122,7 @@
 * [Bug Bounty](misc/bug-bounty.md)
 * [B2B Offerings](misc/b2b-offerings/README.md)
   * [Launchpad Whitelabel](misc/b2b-offerings/launchpad-whitelabel.md)
+  * [AI Web3 Chatbot: Features and Use Cases](misc/b2b-offerings/ai-web3-chatbot-features-and-use-cases.md)
 * [Work With Us](misc/work-with-us/README.md)
   * [Business Development Representative](misc/work-with-us/business-development-representative.md)
   * [Marketing Project Manager](misc/work-with-us/marketing-project-manager.md)
