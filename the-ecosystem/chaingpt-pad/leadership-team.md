@@ -32,6 +32,8 @@ _Bringing their extensive industry expertise in Web3 and launchpads in particula
 
 **Summary:** Master’s Degree in Civil Engineering. He has multiple years of experience in the banking, telco, and consulting industry — a well-known mentor and coach in business analysis and agile delivery. Amid is experienced in working with many projects and launchpads in Web3 and has advised multiple projects with successful launch strategies, tokenomics, and deal flow — his strong network in Web3 space, negotiation, and eye for finding top-performing projects make him an asset for ChainGPT.
 
+### Neon
+
 <figure><img src="../../.gitbook/assets/image (33).png" alt=""><figcaption><p><em>NEON - HEAD OF RESEARCH - CHAINGPT PAD LEADERSHIP TEAM</em></p></figcaption></figure>
 
 **Summary:** With a PhD from one of the top universities, further education in Data Science from Harvard Uni and a track record of academic and research excellence, Neon has held pivotal roles in prominent Web3 organizations such as leading launchpads, venture capital firms, blockchain solutions providers, and GameFi/DeFi projects. He excels in identifying new top-tier blockchain projects and providing them with invaluable insights into tokenomics, fundraising, strategic guidance, GTM strategy, and community development/management. Neon is a well-connected figure in the Web3 community, known for his strategic acumen, deep domain knowledge, and commitment to advancing the frontiers of decentralized technologies.
