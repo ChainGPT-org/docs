@@ -84,11 +84,9 @@ Yes. Every IDO launch will have a “refund grace period” lasting 7–14 days 
 
 <summary>6. <strong>What countries are restricted from IDOs?</strong></summary>
 
-• Currently, everyone can pass a KYC and sign up for DegenPad. However, countries that have banned cryptocurrencies will not be eligible to participate in IDOs. The project will determine any countries not listed below that do not have an outright crypto ban.&#x20;
-
-• Persons from the United States and Canada cannot participate in any IDO due to the lack of clear regulations in the crypto space. \
+Persons from the United States and Canada cannot participate in any IDO due to the lack of clear regulations in the crypto space. \
 \
-• Countries restricted or sanctioned include: Algeria, Bangladesh, Bolivia, Central African Republic, China, Cuba, Egypt, Iran, Iraq, Morocco, Nepal, North Korea, South Sudan, Sudan, Syria, Venezuela, and Yemen.\
+Countries restricted or sanctioned include: Algeria, Bangladesh, Bolivia, Central African Republic, China, Cuba, Egypt, Iran, Iraq, Morocco, Nepal, North Korea, South Sudan, Sudan, Syria, Venezuela, and Yemen.\
 \
 For a full list of sanctioned countries, please refer to the directory provided by our KYC partner BlockPass: [https://www.blockpass.org/major-sanctioned-countries-lists/](https://www.blockpass.org/major-sanctioned-countries-lists/)
 
