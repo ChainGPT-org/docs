@@ -2,7 +2,7 @@
 
 <figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-Web3 investors and traders are constantly looking for projects that offer significant upside potential while minimizing risk. One critical metric that helps gauge a project’s long-term value is Fully Diluted Valuation or FDV. Recently, [even major platforms like Binance](https://www.binance.com/en/research/analysis/low-float-and-high-fdv-how-did-we-get-here) have taken steps to address the challenges posed by high FDV tokens with low circulating supply, underscoring the importance of this metric in creating sustainable market environments.
+Web3 users and traders are constantly looking for projects that offer significant upside potential while minimizing risk. One critical metric that helps gauge a project’s long-term value is Fully Diluted Valuation or FDV. Recently, [even major platforms like Binance](https://www.binance.com/en/research/analysis/low-float-and-high-fdv-how-did-we-get-here) have taken steps to address the challenges posed by high FDV tokens with low circulating supply, underscoring the importance of this metric in creating sustainable market environments.
 
 At [DegenPad](http://degenpad.com/), we’ve recognized the significance of FDV and have made it a cornerstone of our launchpad’s project selection process. This blog will explore what FDV is, why low FDV projects can be highly attractive, and how DegenPad leverages this metric to bring you the most promising opportunities in the Web3 space.
 
@@ -18,19 +18,19 @@ FDV is calculated by multiplying the total possible supply of a token by its cur
 
 Low FDV projects are those where the fully diluted valuation is relatively modest compared to the current market capitalization. This can be indicative of several things, including:
 
-1. **Room for Growth**: A low FDV suggests significant room for price appreciation as the project progresses. Investors can benefit from early entry before the broader market fully recognizes the project’s value.
-2. **Lower Initial Capitalization**: Projects with low FDV often have a smaller initial market cap, which can attract investors looking for undervalued opportunities. This can mean the project is still in its early stages, with plenty of growth potential.
-3. **Risk Management**: While all investments carry risk, low FDV projects might present a lower downside risk relative to their potential upside. This is because the market has not yet fully priced in all future tokens, and the project’s valuation remains relatively conservative.
-4. **Incentive for Stakeholders**: For projects with a lower FDV, the founding team and early investors are often more motivated to grow the project, as they hold a significant portion of the total supply that will only be released over time. This alignment of incentives can lead to stronger commitment and better outcomes for all participants.
+1. **Room for Growth**: A low FDV suggests significant room for price appreciation as the project progresses. Participants can benefit from early entry before the broader market fully recognizes the project’s value.
+2. **Lower Initial Capitalization**: Projects with low FDV often have a smaller initial market cap, which can attract users looking for undervalued opportunities. This can mean the project is still in its early stages, with plenty of growth potential.
+3. **Risk Management**: Low FDV projects might present a lower downside risk relative to their potential upside. This is because the market has not yet fully priced in all future tokens, and the project’s valuation remains relatively conservative.
+4. **Incentive for Stakeholders**: For projects with a lower FDV, the founding team and early participants are often more motivated to grow the project, as they hold a significant portion of the total supply that will only be released over time. This alignment of incentives can lead to stronger commitment and better outcomes for all participants.
 
 ### How DegenPad Selects Low FDV Projects <a href="#id-208a" id="id-208a"></a>
 
-At DegenPad, we’ve made it our mission to identify and launch the most promising low FDV projects in the Web3 space. Our selection process is meticulous and designed to ensure that the projects we support are innovative and offer real value to investors.
+At DegenPad, we’ve made it our mission to identify and launch the most promising low FDV projects in the Web3 space. Our selection process is meticulous and designed to ensure that the projects we support are innovative and offer real value to users.
 
 1. **Rigorous Screening Process**: We start by evaluating each project’s fundamentals. This includes the team’s experience, the project’s technology, market potential, and overall vision. Only projects with strong foundations make it to the next stage.
 2. **Focus on Potential and Innovation**: We look for projects that bring something new — whether it’s a novel use case, a unique technological solution, or a fresh approach to an existing problem. Innovation is key to standing out in the crowded crypto market.
-3. **Strategic Partnerships**: We collaborate with projects that have the backing of reputable partners or investors. This provides additional validation and ensures that the project has the resources and support needed to succeed.
-4. **Balancing Risk and Reward**: By focusing on low FDV projects, we aim to offer our community opportunities with high upside potential while managing downside risk. Our goal is to empower investors to make informed decisions and participate in the growth of the next big thing in Web3.
+3. **Strategic Partnerships**: We collaborate with projects that have the backing of reputable partners. This provides additional validation and ensures that the project has the resources and support needed to succeed.
+4. **Balancing Risk and Reward**: By focusing on low FDV projects, we aim to offer our community opportunities with high upside potential while managing downside risk. Our goal is to empower users to make informed decisions and participate in the growth of the next big thing in Web3.
 
 ### Examples of Upcoming Low FDV Projects on DegenPad <a href="#id-9595" id="id-9595"></a>
 
@@ -50,7 +50,7 @@ As we launch DegenPad, we’re excited to introduce six exceptional projects tha
 
 ### Conclusion <a href="#a8ed" id="a8ed"></a>
 
-At DegenPad, we understand that the crypto market is as much about managing risks as it is about seizing opportunities. By focusing on low FDV projects, we provide our community with access to early-stage projects that offer significant upside potential while maintaining a conservative valuation. This approach not only aligns with the needs of savvy investors but also ensures that we’re supporting projects with a real shot at long-term success.
+At DegenPad, we understand that the crypto market is as much about managing risks as it is about seizing opportunities. By focusing on low FDV projects, we provide our community with access to early-stage projects that offer significant upside potential while maintaining a conservative valuation. This approach not only aligns with the needs of savvy users but also ensures that we’re supporting projects with a real shot at long-term success.
 
 As we gear up for our official launch, we invite you to join the DegenPad community and explore the promising low FDV projects that we’re bringing to the table.
 
