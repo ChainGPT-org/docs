@@ -2,13 +2,13 @@
 
 <figure><img src="../../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
-Are you ready to access some of the most exclusive and promising crypto startups? [DegenPad](http://degenpad.com/) is your gateway to early-stage investment opportunities, which our team has thoroughly vetted.
+Are you ready to access some of the most exclusive and promising crypto startups? [DegenPad](http://degenpad.com/) is your gateway to early-stage opportunities, which our team has thoroughly vetted.
 
-To ensure fairness, we’ve implemented a tiered access system that rewards community members who are serious about investing and staking, regardless of their capital size.
+To ensure fairness, we’ve implemented a tiered access system that rewards community members who are serious about staking, regardless of their capital size.
 
 **How does the Tier System work?**
 
-The tier system at DegenPad is designed to reward participants based on their level of involvement in our platform. By staking $CGPT tokens, you can earn points that determine your tier, which in turn affects your access to different stages of investment opportunities. The more points you have, the higher your tier, and the greater your benefits.
+The tier system at DegenPad is designed to reward participants based on their level of involvement in our platform. By staking $CGPT tokens, you can earn points that determine your tier, which in turn affects your access to different stages of opportunities within DegenPad. The more points you have, the higher your tier, and the greater your benefits.
 
 Whether you have $10 to stake or $20,000, our tier system is balanced to ensure everyone can participate and benefit according to their contributions. However, it’s important to note that staking points from other products like ChainGPT Pad will only reflect 50% on DegenPad, and vice versa.
 
@@ -89,9 +89,9 @@ The Ape tier has a fixed 1x multiplier, regardless of points. However, in the Ch
 The Whale tier has a theoretically limitless capacity, and multipliers are adjusted based on the final outcome of each IDO.
 
 **Conclusion**\
-The tier system at [DegenPad](http://degenpad.com/) is more than just a way to allocate investment opportunities; it’s a gateway to becoming part of an exclusive community dedicated to finding and supporting the most promising projects in the crypto space.
+The tier system at [DegenPad](http://degenpad.com/) is more than just a way to allocate opportunities; it’s a gateway to becoming part of an exclusive community dedicated to finding and supporting the most promising projects in the crypto space.
 
 Whether you’re just starting or looking to maximize your involvement, our tier system offers a clear and rewarding path to success. Join us today and start climbing the ranks to unlock your full potential.
 
 [\
-](https://medium.com/@degenpad?source=post\_page-----ec74d31f6371--------------------------------)
+](https://medium.com/@degenpad?source=post_page-----ec74d31f6371--------------------------------)
