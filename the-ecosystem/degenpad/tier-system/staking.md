@@ -2,7 +2,7 @@
 
 <figure><img src="../../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
-At [DegenPad](http://degenpad.com/), we’ve crafted a unique tier and staking system designed to cater to all types of investors, from those just starting out to seasoned veterans. This blog will guide you through the specifics of our tier system, explain how staking works within DegenPad, and highlight how you can optimize your participation.
+At [DegenPad](http://degenpad.com/), we’ve crafted a unique tier and staking system designed to cater to all types of participants, from those just starting out to seasoned veterans. This blog will guide you through the specifics of our tier system, explain how staking works within DegenPad, and highlight how you can optimize your participation.
 
 ### The DegenPad Tier System <a href="#id-496a" id="id-496a"></a>
 
@@ -10,7 +10,7 @@ The DegenPad tier system is designed to be fair and accessible, allowing partici
 
 1. **Ape**: _Just dipping your toes in? Welcome to the Ape tier, where even the smallest commitment lets you thrive in the Web3 jungle._ The Ape tier requires a minimum of 2,000 staking points. With a 1x pool weight/allocation multiplier, it’s perfect for those beginning their DeFi journey. At this level, you’ll enjoy benefits like social interaction, refund eligibility, access to the FCFS (First Come, First Serve) round, and the ability to vote in DAO proposals.
 2. **Chad**: _Got a bit more skin in the game? Chad tier lets you flex just enough to make your presence known, with perks that match your commitment._ The Chad tier kicks in at 20,000 staking points, offering a 4x pool weight/allocation multiplier. You’ll gain additional benefits, such as a guaranteed round and increased participation rights, all while enjoying the privileges of the previous tier.
-3. **Shark**: _Ready to make some serious moves? Dive into the Shark tier, where the waters are DEEP, and the rewards are bigger._ The Shark tier requires 50,000 staking points, providing a 10x pool weight/allocation multiplier. This tier grants you access to crowdfunding and private pools, incubation airdrops, and more advanced perks, setting you apart as a serious investor in the DegenPad ecosystem.
+3. **Shark**: _Ready to make some serious moves? Dive into the Shark tier, where the waters are DEEP, and the rewards are bigger._ The Shark tier requires 50,000 staking points, providing a 10x pool weight/allocation multiplier. This tier grants you access to crowdfunding and private pools, incubation airdrops, and more advanced perks, setting you apart as a serious participant in the DegenPad ecosystem.
 4. **Whale**: _The top of the food chain. If you’re here, you’re a Whale — and you’re making waves in Web3._ The Whale tier, reserved for those with 200,000 staking points, offers a whopping 40x pool weight/allocation multiplier. This tier provides maximum benefits, including freemium access to ChainGPT AI tools, the ability to create DAO proposals, participate in node sales, and join the exclusive Private Whale Group. If you’re all-in on DeFi, this is where you want to be.
 
 ### How Staking Works in DegenPad <a href="#id-55b5" id="id-55b5"></a>
@@ -39,9 +39,9 @@ To get the most out of DegenPad’s tier and staking system, consider the follow
 
 ### Conclusion <a href="#id-4930" id="id-4930"></a>
 
-The DegenPad tier and staking system is designed to be inclusive, rewarding, and strategically aligned with the broader ChainGPT ecosystem. Whether you’re just starting your DeFi journey or you’re a seasoned investor, there’s a place for you at DegenPad.
+The DegenPad tier and staking system is designed to be inclusive, rewarding, and strategically aligned with the broader ChainGPT ecosystem. Whether you’re just starting your DeFi journey or you’re a seasoned Web3 users, there’s a place for you at DegenPad.
 
 By understanding and engaging with our tier structure and staking mechanisms, you can optimize your participation and maximize your potential returns. Join the DegenPad community today, start staking, and begin your journey!
 
 [\
-](https://medium.com/@degenpad?source=post\_page-----c977b17f5c9e--------------------------------)
+](https://medium.com/@degenpad?source=post_page-----c977b17f5c9e--------------------------------)
