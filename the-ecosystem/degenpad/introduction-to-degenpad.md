@@ -65,7 +65,7 @@ We’re starting strong with six exceptional projects that embody the spirit of 
 
 ## Join the DegenPad Community <a href="#id-9257" id="id-9257"></a>
 
-Whether you’re a project founder, an investor, or a crypto enthusiast, DegenPad is the platform where you can excel. Stay updated with our latest developments and participate in our IDOs!
+Whether you’re a project founder or crypto enthusiast, DegenPad is the platform where you can excel. Stay updated with our latest developments and participate in our IDOs!
 
 Follow us on [Twitter](https://x.com/DegenPadHQ), [Telegram](http://t.me/DegenPadChat), and [Medium](https://medium.com/@degenpad) for the latest news and updates.[\
-](https://medium.com/tag/i%CC%87do?source=post\_page-----c6ca7a044ba7---------------i%CC%87do-----------------)
+](https://medium.com/tag/i%CC%87do?source=post_page-----c6ca7a044ba7---------------i%CC%87do-----------------)

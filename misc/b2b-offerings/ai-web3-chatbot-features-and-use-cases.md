@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # AI Web3 Chatbot: Features and Use Cases
 
 ChainGPT’s AI Web3 Chatbot offers a powerful B2B solution for businesses looking to enhance customer engagement, automate support, and provide real-time industry insights. \
@@ -7,6 +11,20 @@ Designed with flexible integration options, the chatbot can be seamlessly embedd
 With detailed technical documentation, businesses can tailor the chatbot to deliver crypto-specific data, answer complex questions, and maintain brand consistency, creating a valuable resource for customer support, market analysis, and community management.
 
 ***
+
+#### Key Benefits
+
+1. **Boosts Operational Efficiency**\
+   By automating responses to common questions and supporting user engagement, the chatbot reduces the need for multiple community managers. Businesses can streamline operations, freeing up resources for higher-level tasks and reducing costs.\
+
+2. **On-Demand Market Insights**\
+   The chatbot’s real-time updates on market trends, regulatory changes, and technical analysis provide users with immediate, relevant insights, helping them stay informed and make strategic decisions quickly.\
+
+3. **Enhanced User Satisfaction**\
+   With its autonomous management capabilities, the chatbot enables consistent community engagement. Users benefit from immediate answers to their questions, boosting satisfaction and encouraging long-term interaction.\
+
+4. **Seamless Integration**\
+   The chatbot’s ability to integrate into any platform allows businesses to provide a unified experience within their ecosystem, ensuring that users have quick access to ChainGPT’s capabilities directly in a familiar environment.
 
 #### Core Features
 
@@ -26,23 +44,7 @@ With detailed technical documentation, businesses can tailor the chatbot to deli
 
 ***
 
-#### Key Benefits
-
-1. **Boosts Operational Efficiency**\
-   By automating responses to common questions and supporting user engagement, the chatbot reduces the need for multiple community managers. Businesses can streamline operations, freeing up resources for higher-level tasks and reducing costs.\
-
-2. **On-Demand Market Insights**\
-   The chatbot’s real-time updates on market trends, regulatory changes, and technical analysis provide users with immediate, relevant insights, helping them stay informed and make strategic decisions quickly.\
-
-3. **Enhanced User Satisfaction**\
-   With its autonomous management capabilities, the chatbot enables consistent community engagement. Users benefit from immediate answers to their questions, boosting satisfaction and encouraging long-term interaction.\
-
-4. **Seamless Integration**\
-   The chatbot’s ability to integrate into any platform allows businesses to provide a unified experience within their ecosystem, ensuring that users have quick access to ChainGPT’s capabilities directly in a familiar environment.
-
-***
-
-#### Statistics
+Statistics
 
 * **30,000+ Daily Active Users**\
   The chatbot is deployed in over 50 communities, providing specialized support and training for each integration.\
