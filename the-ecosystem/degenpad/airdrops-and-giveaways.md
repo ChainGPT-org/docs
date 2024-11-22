@@ -4,7 +4,7 @@
 
 Imagine earning tokens from promising crypto projects without spending a dime — sounds too good to be true? Not with [DegenPad](http://degenpad.com/). Our airdrops and giveaways are designed to reward our community members with unique benefits for participating in the ecosystem.
 
-Whether you’re a seasoned investor or just getting started, DegenPad offers you the chance to participate in some of the most exciting opportunities in the crypto world.
+Whether you’re a seasoned Web3 user or just getting started, DegenPad offers you the chance to participate in some of the most exciting opportunities in the crypto world.
 
 ## What Are Airdrops and Giveaways? <a href="#id-6df9" id="id-6df9"></a>
 
@@ -27,4 +27,4 @@ As we continue growing and partnering with new projects, our community will be t
 DegenPad is all about giving back to our community, and airdrops and giveaways are just one way we do that. Whether you’re a new member or a seasoned Degen, exciting times are ahead. Stay tuned for more updates, and get ready to unlock exclusive opportunities with DegenPad!
 
 [\
-](https://medium.com/@degenpad?source=post\_page-----cca07c790db0--------------------------------)
+](https://medium.com/@degenpad?source=post_page-----cca07c790db0--------------------------------)
