@@ -42,12 +42,12 @@ The IDO will be announced via social channels and news outlet press releases, fo
 
 $CGPT acts as the tool to facilitate community involvement in the bootstrapping of projects, an extra layer of a reward system for incentivizing membership. Providing alpha access to IDO participation, Airdrops, and more, $CGPT community members that stake the threshold amounts of $CGPT tokens become able to obtain exclusive benefits that startup projects provide to their earliest contributors.
 
-### How to Participate as an Investor:
+### How to Participate:
 
 In order to participate in the IDOs hosted on ChainGPT Pad, users are required to satisfy two simple criteria:
 
 _**1)**_ Complete KYC with our partners, Blockpass: [_**KYC Here.**_ ](http://url.chaingpt.org/kyc)\
-_**2)**_ Stake $CGPT to accumulate enough points and attain a tier status: [_**Stake Here**_](https://pad.chaingpt.org/#/staking-pools)_**.**_
+&#xNAN;_**2)**_ Stake $CGPT to accumulate enough points and attain a tier status: [_**Stake Here**_](https://pad.chaingpt.org/#/staking-pools)_**.**_
 
 {% hint style="warning" %}
 KYC must be passed in order to participate.
