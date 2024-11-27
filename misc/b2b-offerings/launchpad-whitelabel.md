@@ -25,28 +25,28 @@ The concept of our whitelabel launchpad revolves around offering a versatile, cu
 ## Advantages of adding launchpad to the ecosystem:
 
 **Extra token utility**\
-_Introducing a new use case for the project's native token that can be utilized for participation in token sales, which boosts its value and utility._\
+&#xNAN;_&#x49;ntroducing a new use case for the project's native token that can be utilized for participation in token sales, which boosts its value and utility._\
 \
 **New token holders**\
-_Attracting new audience of potential token holders who are interested in early-stage projects, diversifying the community and increasing liquidity._
+&#xNAN;_&#x41;ttracting new audience of potential token holders who are interested in early-stage projects, diversifying the community and increasing liquidity._
 
 **Increased staking amount**\
-_Token holders may need to stake or lock their tokens to participate in launchpad offerings, increasing the amount of tokens held in the ecosystem and reducing circulating supply._
+&#xNAN;_&#x54;oken holders may need to stake or lock their tokens to participate in launchpad offerings, increasing the amount of tokens held in the ecosystem and reducing circulating supply._
 
 **Community growth**\
-_Launchpads encourage engagement and participation within the project's community. This can lead to more active discussions, social media growth, and broader audience reach._
+&#xNAN;_&#x4C;aunchpads encourage engagement and participation within the project's community. This can lead to more active discussions, social media growth, and broader audience reach._
 
 **Partnership opportunities**\
-_Collaborating with various projects seeking fundraising or other strategic support. This can lead to partnerships, co-marketing opportunities, and a network of valuable connections._
+&#xNAN;_&#x43;ollaborating with various projects seeking fundraising or other strategic support. This can lead to partnerships, co-marketing opportunities, and a network of valuable connections._
 
 **Brand visibility and exposure**\
-_Hosting launchpad events can significantly enhance a project's visibility. It showcases the project to a wider audience, potentially attracting more attention from the web3 space._
+&#xNAN;_&#x48;osting launchpad events can significantly enhance a project's visibility. It showcases the project to a wider audience, potentially attracting more attention from the web3 space._
 
 **Broadening ecosystem and services**\
 Extending the ecosystem's capabilities, making it more diverse by adding launchpad services as part of crowdfunding support.
 
 **Additional source of capital**\
-_By incorporating a launchpad into the ecosystem, project extends the possibilities of securing additional capital ensuring long-term sustainability._&#x20;
+&#xNAN;_&#x42;y incorporating a launchpad into the ecosystem, project extends the possibilities of securing additional capital ensuring long-term sustainability._&#x20;
 
 ## Why ChainGPT's Launchpad Whitelabel solution?&#x20;
 

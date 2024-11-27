@@ -16,19 +16,19 @@ _This entry-level tier is explicitly designed for users with limited capital cap
 
 _**Points Required:** >2,000+_\
 \
-_**ChainGPT AI Ecosystem Benefits:**_\
-_- Freemium AI Tools Access: No_\
+&#xNAN;_**ChainGPT AI Ecosystem Benefits:**_\
+&#xNAN;_- Freemium AI Tools Access: No_\
 _- DAO Voting Rights: Yes_\
 _- Can Create DAO Proposals: No_\
 _- Free Incubation Airdrops: No_\
 _- Early Access to ChainGPT Apps: No_\
 \
-_**ChainGPT Pad Benefits:**_\
+&#xNAN;_**ChainGPT Pad Benefits:**_\
 \- _Pool Weight: 1x Allocation Multiplier_\
 \- _Refund Eligibility: Yes, 100%_\
 \- _Participation rounds: #2 (FCFS)_&#x20;
 
-The Bronze tier does not provide access to the _**first/guaranteed round.** M_embers in this tier group are granted the right to only participate in the second/FCFS (First-Come-First-Serve) round. Occasionally, social campaigns (via Gleam / Galxe / TaskOn) will be launched in tandem with new IDO releases that will allow bronze-tier members to earn whitelist allocations for the first rounds.
+The Bronze tier does not provide access to the _**first/guaranteed round.** &#x4D;_&#x65;mbers in this tier group are granted the right to only participate in the second/FCFS (First-Come-First-Serve) round. Occasionally, social campaigns (via Gleam / Galxe / TaskOn) will be launched in tandem with new IDO releases that will allow bronze-tier members to earn whitelist allocations for the first rounds.
 
 </details>
 
@@ -42,14 +42,14 @@ _Silver is the second level tier and the first one that provides guaranteed acce
 
 _**Points Required:** 20,000+_\
 \
-_**ChainGPT AI Ecosystem Benefits:**_\
-_- Freemium AI Tools Access: No_\
+&#xNAN;_**ChainGPT AI Ecosystem Benefits:**_\
+&#xNAN;_- Freemium AI Tools Access: No_\
 _- DAO Voting Rights: Yes_\
 _- Can Create DAO Proposals: No_\
 _- Free Incubation Airdrops: No_\
 _- Early Access to ChainGPT Apps: No_\
 \
-_**ChainGPT Pad Benefits:**_\
+&#xNAN;_**ChainGPT Pad Benefits:**_\
 \- _Pool Weight: Minimum 4x Allocation Multiplier_\
 \- _Refund Eligibility: Yes, 100%_\
 \- _Participation rounds: #1 and #2 (Guaranteed and FCFS)_
@@ -68,14 +68,14 @@ _Gold is the second highest tier and the first one that provides access to premi
 
 _**Points Required:** 50,000+_\
 \
-_**ChainGPT AI Ecosystem Benefits:**_\
-_- Freemium AI Tools Access: No_\
+&#xNAN;_**ChainGPT AI Ecosystem Benefits:**_\
+&#xNAN;_- Freemium AI Tools Access: No_\
 _- DAO Voting Rights: Yes_\
 _- Can Create DAO Proposals: No_\
 _- Free Incubation Airdrops: Yes_\
 _- Early Access to ChainGPT Apps: Yes_\
 \
-_**ChainGPT Pad Benefits:**_\
+&#xNAN;_**ChainGPT Pad Benefits:**_\
 \- _Pool Weight: Minimum 10x Allocation Multiplier_\
 \- _Refund Eligibility: Yes, 100%_\
 \- _Participation rounds: #1 and #2 (Guaranteed and FCFS)_
@@ -94,14 +94,14 @@ _Diamond is the highest and most desirable tier for launchpad participants, give
 
 _**Points Required:** 200,000+_\
 \
-_**ChainGPT AI Ecosystem Benefits:**_\
-_- Freemium AI Tools Access: Yes_\
+&#xNAN;_**ChainGPT AI Ecosystem Benefits:**_\
+&#xNAN;_- Freemium AI Tools Access: Yes_\
 _- DAO Voting Rights: Yes_\
 _- Can Create DAO Proposals: Yes_\
 _- Free Incubation Airdrops: Yes_\
 _- Early Access to ChainGPT Apps: Yes_\
 \
-_**ChainGPT Pad Benefits:**_\
+&#xNAN;_**ChainGPT Pad Benefits:**_\
 \- _Pool Weight: Minimum 40x Allocation Multiplier_\
 \- _Refund Eligibility: Yes, 100%_\
 \- _Participation rounds: #1 and #2 (Guaranteed and FCFS)_

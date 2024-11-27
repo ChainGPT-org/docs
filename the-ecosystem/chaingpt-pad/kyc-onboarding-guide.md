@@ -11,14 +11,14 @@ description: Know Your Customer Procedure for ChainGPT Pad
 <figure><img src="https://assets-global.website-files.com/64354b8ce4872a52ac1c7b06/64a7ccdd5cf86de92044764b_ChainGPT%20KYC%20Onboarding%20Guide.png" alt=""><figcaption></figcaption></figure>
 
 **Quick Start Guide:**\
-_1) Go to the official website_ [_**Pad.chaingpgt.org**_](http://pad.chaingpgt.org/)\
-_2) Connect Web3 Wallet (Metamask, Trust, Rainbow, BSC wallet, etc. via WalletConnect)_\
-_3) Navigate to My Profile_\
-_4) Establish Account Status_\
-_5) Click on "KYC Now"_\
-_6) Submit Information_\
-_7) Allow for processing_\
-_8) Check for Status update_
+&#xNAN;_&#x31;) Go to the official website_ [_**Pad.chaingpgt.org**_](http://pad.chaingpgt.org/)\
+&#xNAN;_&#x32;) Connect Web3 Wallet (Metamask, Trust, Rainbow, BSC wallet, etc. via WalletConnect)_\
+&#xNAN;_&#x33;) Navigate to My Profile_\
+&#xNAN;_&#x34;) Establish Account Status_\
+&#xNAN;_&#x35;) Click on "KYC Now"_\
+&#xNAN;_&#x36;) Submit Information_\
+&#xNAN;_&#x37;) Allow for processing_\
+&#xNAN;_&#x38;) Check for Status update_
 
 ### **1. Go to ChainGPT Pad Official Website**
 

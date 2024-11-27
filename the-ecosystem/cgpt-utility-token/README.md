@@ -7,8 +7,8 @@ description: ChainGPT's native utility token
 <figure><img src="../../.gitbook/assets/$CGPT Trending (1).png" alt=""><figcaption></figcaption></figure>
 
 **Contract Address**: ([Certik Audit](https://www.certik.com/projects/chaingpt)) ([Hacken Audit](https://hacken.io/audits/chaingpt/))\
-**BSC (**native**)**`0x9840652DC04fb9db2C43853633f0F62BE6f00f98`\
-**ETH (**bridge**)** `0x25931894a86d47441213199621f1f2994e1c39aa`
+**BSC (**&#x6E;ativ&#x65;**)**`0x9840652DC04fb9db2C43853633f0F62BE6f00f98`\
+**ETH (**&#x62;ridg&#x65;**)** `0x25931894a86d47441213199621f1f2994e1c39aa`
 
 **$CGPT (ChainGPT Token) is the economic backbone of the ChainGPT ecosystem.**&#x20;
 
@@ -24,14 +24,14 @@ Beyond the singular utility of access, the token provides ancillary benefits tha
 
 _**Token Name:** ChainGPT Token_\
 _**Ticker Symbol:** $CGPT_\
-_**Supply:** 1,000,000,000 (1 Billion)_\
-_**Live Circulating Supply**:_ [_https://supply.chaingpt.org/_](https://supply.chaingpt.org/) \
-_**Issuing Network:** Binance Smart Chain / Ethereum_\
-_**Token Standard:** BEP-20 / ERC-20_\
-_**Archetype:** Utility_\
-_**Economic Model:** Deflationary_\
-_**Supply Policy:** Burning_\
-_**Burn Rate:**_ [_Variable_ ](burn-mechanism.md)
+&#xNAN;_**Supply:** 1,000,000,000 (1 Billion)_\
+&#xNAN;_**Live Circulating Supply**:_ [_https://supply.chaingpt.org/_](https://supply.chaingpt.org/) \
+&#xNAN;_**Issuing Network:** Binance Smart Chain / Ethereum_\
+&#xNAN;_**Token Standard:** BEP-20 / ERC-20_\
+&#xNAN;_**Archetype:** Utility_\
+&#xNAN;_**Economic Model:** Deflationary_\
+&#xNAN;_**Supply Policy:** Burning_\
+&#xNAN;_**Burn Rate:**_ [_Variable_ ](burn-mechanism.md)
 
 ChainGPT has established a virtuous, transparent economy of AI services that track real-world demand for artificial intelligence by recording all activity on-chain. Moreover, as the asset required for inclusion into the ChainGPT DAO, $CGPT becomes the tool that invites communities of AI enthusiasts and unites them through the power of ownership.
 

@@ -13,10 +13,10 @@ Available exclusively to the top three tier levels (Silver, Gold, and Diamond) t
 Before users can activate this right and unlock this function, they must complete the two preliminary entry steps:
 
 **1)** Pass the KYC process with our partner, Blockpass. \
-_Submit here_ [_**ChainGPT Pad KYC**_](http://url.chaingpt.org/kyc)_**.**_ \
+&#xNAN;_&#x53;ubmit here_ [_**ChainGPT Pad KYC**_](http://url.chaingpt.org/kyc)_**.**_ \
 \
 **2)** Stake $CGPT tokens into the pools and acquire points for their tier \
-_Staking here_ [_**ChaingGPT Pad Staking**_](https://pad.chaingpt.org/#/staking-pools)[ ](https://app.chaingpt.org/staking)
+&#xNAN;_&#x53;taking here_ [_**ChaingGPT Pad Staking**_](https://pad.chaingpt.org/#/staking-pools)[ ](https://app.chaingpt.org/staking)
 
 After these two basic introductory steps are completed, users become qualified to participate; those that acquire Silver status and higher will automatically have the Register interest function unlock.
 
@@ -29,7 +29,7 @@ Users who do not meet the criteria for tier inclusion (Bronze tier) or do not re
 \*Occasionally, Bronze tier level users will be able to earn themselves priority inclusion into the Guaranteed Allocation round based on the completion of social campaigns.
 
 _**\*\*Note\*\***_\
-_Registration of interest is an option, not an obligation. If users do not take advantage of their locked position, they forgo their opportunity to participate in that round._
+&#xNAN;_&#x52;egistration of interest is an option, not an obligation. If users do not take advantage of their locked position, they forgo their opportunity to participate in that round._
 
 
 

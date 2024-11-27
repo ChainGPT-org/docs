@@ -5,7 +5,7 @@ description: >-
   acceleration to ensure its success.
 ---
 
-# Case Study: Solidus AI Tech
+# Incubation Case Study: Solidus AI Tech
 
 <figure><img src="../../.gitbook/assets/Solidus.png" alt=""><figcaption></figcaption></figure>
 
@@ -67,8 +67,8 @@ Solidus AI Tech is among an ultra-exclusive select group of projects that have b
 ### Solidus AI Tech Resources <a href="#c8e2" id="c8e2"></a>
 
 _**General:**_ [_Website_](https://www.aitech.io/)\
-_**Docs:**_ [_Whitepaper_](https://docs.aitech.io/overview/i.-introduction) \
-_**Social Media:**_ [_Twitter_](https://twitter.com/AITECHio) _|_ [_Telegram_](https://t.me/solidusaichat) _|_ [_Discord_](https://discord.com/invite/solidusai)\
+&#xNAN;_**Docs:**_ [_Whitepaper_](https://docs.aitech.io/overview/i.-introduction) \
+&#xNAN;_**Social Media:**_ [_Twitter_](https://twitter.com/AITECHio) _|_ [_Telegram_](https://t.me/solidusaichat) _|_ [_Discord_](https://discord.com/invite/solidusai)\
 
 
 [**Disclaimer**](../../misc/legal-docs/disclaimer.md)

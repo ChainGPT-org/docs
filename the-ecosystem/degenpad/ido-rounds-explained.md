@@ -8,7 +8,7 @@ By having multiple rounds, a higher degree of commitment from the CGPT user base
 
 ### **Round #1 (Guaranteed Allocation)**
 
-Round one of an IDO will be granted only to the users who signal their desire to participate by registering their interest prior to the start of the IDO. (Typically_, Registration will open a week prior and last until 24 hours before launch_).
+Round one of an IDO will be granted only to the users who signal their desire to participate by registering their interest prior to the start of the IDO. (Typicall&#x79;_, Registration will open a week prior and last until 24 hours before launch_).
 
 This round is reserved for the top staking tier groups, Silver, Gold, and Diamond. However, every IDO is launched through social campaigns that allow a limited group of fast-acting Bronze tier members to earn their inclusion into the guaranteed round.
 
