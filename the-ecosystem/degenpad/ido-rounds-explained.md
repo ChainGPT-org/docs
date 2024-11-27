@@ -1,6 +1,6 @@
 # IDO Rounds Explained
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 DegenPad leverages a two-phased approach for conducting the launches of IDO projects.&#x20;
 
