@@ -86,7 +86,7 @@ Yes. Every IDO launch will have a “refund grace period” lasting 7–14 days 
 
 Persons from the United States and Canada cannot participate in any IDO due to the lack of clear regulations in the crypto space. \
 \
-Countries restricted or sanctioned include: Algeria, Bangladesh, Bolivia, Central African Republic, China, Cuba, Egypt, Iran, Iraq, Morocco, Nepal, North Korea, South Sudan, Sudan, Syria, Venezuela, and Yemen.\
+Countries restricted or sanctioned include: Afghanistan, Algeria, American Samoa, The Bahamas, Bangladesh, Bolivia, Botswana, Central African Republic, China, Cuba, Democratic People’s Republic of Korea (North Korea), Egypt, Ethiopia, Ghana, Guam, Iran, Iraq, Libya, Morocco, Nepal, Nigeria, Pakistan, Panama, Puerto Rico, Samoa, Saudi Arabia, South Sudan, Sri Lanka, Sudan, Syria, Trinidad and Tobago, Tunisia, US Virgin Islands, Venezuela, and Yemen.\
 \
 For a full list of sanctioned countries, please refer to the directory provided by our KYC partner BlockPass: [https://www.blockpass.org/major-sanctioned-countries-lists/](https://www.blockpass.org/major-sanctioned-countries-lists/)
 
@@ -185,4 +185,4 @@ There is no set maximum. The capacity is based on a project-to-project basis. A 
 </details>
 
 [\
-](https://medium.com/@degenpad?source=post\_page-----9f6773ae1b3d--------------------------------)
+](https://medium.com/@degenpad?source=post_page-----9f6773ae1b3d--------------------------------)
