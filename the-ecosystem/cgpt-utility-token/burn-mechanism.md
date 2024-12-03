@@ -16,13 +16,10 @@ _On BNB chain's network (BSC {Binance Smart Chain}) the public void address util
 
 Burning has been applied to every commercial-grade transaction taking place within the ChainGPT ecosystem. All of the touchpoints at which $CGPT is used for income generation will be tithed to the burn mechanism and, in turn, have every single user interaction contribute to the growth of the $CGPT ecosystem.&#x20;
 
-### The Six Touchpoints of $CGPT's Fee Burn Mechanism
+### The Five Touchpoints of $CGPT's Fee Burn Mechanism
 
-Six different vectors are tied to the burning.&#x20;
+Five different vectors are tied to the burning.&#x20;
 
-**Prompt Marketplace:** 100% burn \
-&#xNAN;_&#x41;ll of the fees paid within the prompt marketplace are removed from the circulating supply._\
-\
 **Chatbot & tools:** 50% burn \
 &#xNAN;_&#x48;alf of all fees attributable to the Chatbot and any adjacent AI tools are removed from the circulating supply. The remaining half is accrued to the ChainGPT Foundation and DAO Treasury._\
 \
