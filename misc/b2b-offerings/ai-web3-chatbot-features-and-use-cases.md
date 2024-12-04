@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # AI Web3 Chatbot: Features and Use Cases
 
 <figure><img src="../../.gitbook/assets/telegram-cloud-photo-size-4-5882009840346317405-y.jpg" alt=""><figcaption></figcaption></figure>
