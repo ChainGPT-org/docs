@@ -1,6 +1,8 @@
 # DegenPad
 
-<figure><img src="../../.gitbook/assets/_05. DAGEN PAD Announcements  (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Xnip2024-12-06_22-17-24.jpg" alt=""><figcaption></figcaption></figure>
+
+
 
 {% content-ref url="introduction-to-degenpad.md" %}
 [introduction-to-degenpad.md](introduction-to-degenpad.md)
