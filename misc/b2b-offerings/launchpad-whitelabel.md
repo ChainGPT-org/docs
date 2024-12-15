@@ -11,14 +11,14 @@ The concept of our whitelabel launchpad revolves around offering a versatile, cu
 * Complex technical requirements: time consuming setup causing delays, potential errors.
 * Limited resources for development: compromised development, delays.&#x20;
 * Security Vulnerabilities: lost funds and tarnished reputation.
-* Interfaces for investors: clunky, unengaging dashboards that are not aesthetically pleasing.
+* Interfaces for IDO participants: clunky, unengaging dashboards that are not aesthetically pleasing.
 
 ## ChainGPT's solution to address the challenges:&#x20;
 
 * Simplified token sale launch process: save time, reduce errors, accelerate launches.
 * Robust security and smart contract auditing: third-party audits, code reviews, real-time monitoring.
 * Comprehensive support ecosystem: development, auditing, testing, troubleshooting.
-* Investor-centric dashboard: user-friendly, informative, aesthetically pleasing.
+* IDO participants dashboard: user-friendly, informative, aesthetically pleasing.
 * Customizability and branding options for launchpads: maintain a consistent brand image throughout the platform.
 * User friendly admin panel: staking pools, vesting, IDO pools.
 
@@ -64,7 +64,7 @@ Extending the ecosystem's capabilities, making it more diverse by adding launchp
 
 * Token Sale Configuration;
 * Smart Contract Integration;
-* Investor Dashboard;
+* IDO participants' Dashboard;
 * &#x20;Security and Auditing;
 * Payment Options;
 * Multi-Chain Compatibility;&#x20;
