@@ -193,6 +193,32 @@ You should now be able to register your interest in the IDO.
 
 </details>
 
+<details>
+
+<summary>Using Mobile Device -  ChainGPT V2 Guide to connecting with Phantom Wallet</summary>
+
+### Step 1: Connect EVM wallet.
+
+<img src="../../../.gitbook/assets/2024-12-16 11.18.34.jpg.jpeg" alt="" data-size="original">
+
+### &#x20;Step 2: Click on continue to connect Phantom wallet.
+
+<img src="../../../.gitbook/assets/2024-12-16 11.18.39.jpg.jpeg" alt="" data-size="original">
+
+### Step 3: Register to the IDO.
+
+<img src="../../../.gitbook/assets/2024-12-16 11.33.13.jpg.jpeg" alt="" data-size="original">
+
+###
+
+
+
+(If you don’t see that screen, check that you followed all the steps correctly. If it still doesn’t appear, ask the CM on our [Telegram group](https://t.me/chaingpt) or [Discord](https://www.discord.gg/chaingpt) for help.)
+
+
+
+</details>
+
 * How to create a Solana wallet using Phantom: [https://www.kucoin.com/learn/web3/how-to-create-a-phantom-wallet](https://www.kucoin.com/learn/web3/how-to-create-a-phantom-wallet)
 
 \
