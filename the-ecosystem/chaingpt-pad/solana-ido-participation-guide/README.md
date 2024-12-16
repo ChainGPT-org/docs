@@ -4,13 +4,21 @@ This is a step-by-step guide on participating in Solana IDOs on ChainGPT Pad. **
 
 This is a step-by-step guide on participating in Solana IDOs on ChainGPT Pad. **Please read the entire guide carefully before contacting our customer support team with questions.**
 
-**Step #1:** To join IDOs on Solana, you must connect your EVM wallet that you usually use for IDOs and your Solana wallet using Phantom Wallet (it will automatically be connected and paired to your account; you won't have to pass a KYC or do anything else besides connecting your wallet).
+### **Step #1:**&#x20;
 
-**Step #2:  hold at least** 0.01 USDT and 0.01 SOL in your Phantom wallet.&#x20;
+To join IDOs on Solana, you must connect your EVM wallet that you usually use for IDOs and your Solana wallet using Phantom Wallet (it will automatically be connected and paired to your account; you won't have to pass a KYC or do anything else besides connecting your wallet).
 
-**Step #3:** Once your Phantom wallet is connected, you must add your sub-wallets that can receive USDT on Solana (in case you choose to receive a refund) and a sub-wallet that can receive the IDO token. Adding those wallets is pretty easy, and there's a step-by-step guide below with screenshots of how to do it on desktop or mobile (please view the step-by-step guide).
+### **Step #2:**&#x20;
 
-**Step #4:** Register interest in IDO.
+**Hold at least** 0.01 USDT and 0.01 SOL in your Phantom wallet.&#x20;
+
+### **Step #3:**&#x20;
+
+Once your Phantom wallet is connected, you must add your sub-wallets that can receive USDT on Solana (in case you choose to receive a refund) and a sub-wallet that can receive the IDO token. Adding those wallets is pretty easy, and there's a step-by-step guide below with screenshots of how to do it on desktop or mobile (please view the step-by-step guide).
+
+### **Step #4:**&#x20;
+
+Register interest in IDO.
 
 <details>
 
@@ -222,13 +230,19 @@ You should now be able to register your interest in the IDO.
 * How to create a Solana wallet using Phantom: [https://www.kucoin.com/learn/web3/how-to-create-a-phantom-wallet](https://www.kucoin.com/learn/web3/how-to-create-a-phantom-wallet)
 
 \
-**Step #1:** To join IDOs on Solana, you must connect your EVM wallet that you normally use for IDOs and your Solana wallet using Phantom Wallet (it will automatically be connected and paired to your account; you won't have to pass a KYC or do anything else besides connecting your wallet).
+**Step #1:**&#x20;
 
-**Step #2:** Once your Phantom wallet is connected, you will need to add your sub-wallets that can receive USDT on Solana (in case you choose to receive a refund) and a sub-wallet that can receive the IDO token. Adding those wallets is pretty easy, and there's a step-by-step guide below with screenshots on how to do it on Desktop or on Mobile (please view the step-by-step guide).
+To join IDOs on Solana, you must connect your EVM wallet that you normally use for IDOs and your Solana wallet using Phantom Wallet (it will automatically be connected and paired to your account; you won't have to pass a KYC or do anything else besides connecting your wallet).
 
-**Step #3:** Register interest for the IDO.
+**Step #2:**&#x20;
 
-### **Step-By-Step Guides:**
+Once your Phantom wallet is connected, you will need to add your sub-wallets that can receive USDT on Solana (in case you choose to receive a refund) and a sub-wallet that can receive the IDO token. Adding those wallets is pretty easy, and there's a step-by-step guide below with screenshots on how to do it on Desktop or on Mobile (please view the step-by-step guide).
+
+**Step #3:**&#x20;
+
+Register interest for the IDO.
+
+## **Step-By-Step Guides:**
 
 <details>
 
