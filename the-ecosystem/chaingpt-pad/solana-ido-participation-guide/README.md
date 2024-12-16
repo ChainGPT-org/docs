@@ -22,71 +22,71 @@ You must Import your EVM wallet to Phantom with the wallet you KYC'd and Staked 
 
 #### Step 2: Go to your Phantom Wallet and click "USDT." <a href="#step-2-go-to-your-phantom-wallet-and-click-usdt" id="step-2-go-to-your-phantom-wallet-and-click-usdt"></a>
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD\_4nXdw2XayWqkVTQO7AnlhgHGfB9xRequ0nH8dP890PMNMw3\_K0OGsROxiAaXySM1DeSLscEFImFukKLsia6It6zrv2cKisxINgVlCF6yNV1f06\_JHi\_UNJSoeWuHRhrl6baoI-LK8rZGUQWnVkpEj3jYIc5Vy?key=oK10reX-SyZxz0MCnUXWag)
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdw2XayWqkVTQO7AnlhgHGfB9xRequ0nH8dP890PMNMw3_K0OGsROxiAaXySM1DeSLscEFImFukKLsia6It6zrv2cKisxINgVlCF6yNV1f06_JHi_UNJSoeWuHRhrl6baoI-LK8rZGUQWnVkpEj3jYIc5Vy?key=oK10reX-SyZxz0MCnUXWag)
 
 Step 3: Click "More."
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD\_4nXdFvOjIdISouTaG-Pc99qdtR2PNOdnvPMsIpSZN6Pg9mtW9khlUINbO-NpdGaOZfTBalMV8XVSe3BnMT-Wv-p-t056-f60XIxsicEywmMRxauB2Aj9VYeXMw4ko3pBIZ5kH8G3IaMHqRHcdTt\_6wmum0-U5?key=oK10reX-SyZxz0MCnUXWag)
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdFvOjIdISouTaG-Pc99qdtR2PNOdnvPMsIpSZN6Pg9mtW9khlUINbO-NpdGaOZfTBalMV8XVSe3BnMT-Wv-p-t056-f60XIxsicEywmMRxauB2Aj9VYeXMw4ko3pBIZ5kH8G3IaMHqRHcdTt_6wmum0-U5?key=oK10reX-SyZxz0MCnUXWag)
 
 Step 4: Click "View on Solscan."
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD\_4nXd\_PVimRklqvTvjDbeHuCSqdu-fPzniyQ7apC\_w8rFONlFOUIOkGQJQf5kcnJEJ8X\_-ydP9cKrGdS9V-eZ7Suev91qAcI8-fcmUbuKzgJNaGLYNbPefYFStv2W5uRaRiIpcDsY4XMxBT3qsDAHu3b3eWN8f?key=oK10reX-SyZxz0MCnUXWag)
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXd_PVimRklqvTvjDbeHuCSqdu-fPzniyQ7apC_w8rFONlFOUIOkGQJQf5kcnJEJ8X_-ydP9cKrGdS9V-eZ7Suev91qAcI8-fcmUbuKzgJNaGLYNbPefYFStv2W5uRaRiIpcDsY4XMxBT3qsDAHu3b3eWN8f?key=oK10reX-SyZxz0MCnUXWag)
 
 #### Step 5: Copy the address AFTER the forward-slash ( / ) in the search bar. <a href="#step-5-copy-the-address-after-the-forward-slash-in-the-search-bar" id="step-5-copy-the-address-after-the-forward-slash-in-the-search-bar"></a>
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD\_4nXe4jJAtPGGHPAiQtZ0s7KaRNlfA8hLrukF\_i1M8yFnDl5MN-6cPs\_O\_seSLZbAngURE7i441dgxp\_NfEAXscKcFGARELjTIRb08\_I5mg8HjmXjodQ-qOWeplkL-ufzpsdLROsECAyzb53PFI3h9l3v1E478?key=oK10reX-SyZxz0MCnUXWag)
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXe4jJAtPGGHPAiQtZ0s7KaRNlfA8hLrukF_i1M8yFnDl5MN-6cPs_O_seSLZbAngURE7i441dgxp_NfEAXscKcFGARELjTIRb08_I5mg8HjmXjodQ-qOWeplkL-ufzpsdLROsECAyzb53PFI3h9l3v1E478?key=oK10reX-SyZxz0MCnUXWag)
 
 #### Step 6: Click the "Connect Wallet" button on the IDO page and connect your EVM wallet. <a href="#step-6-click-the-connect-wallet-button-on-the-ido-page-and-connect-your-evm-wallet" id="step-6-click-the-connect-wallet-button-on-the-ido-page-and-connect-your-evm-wallet"></a>
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD\_4nXcQ1FIo4lJYepjSwKw-2iVgV9AeC4XoagrAnGcucY31gWaR9hGII4QPFf2FVN4RyiCEHvdSJdUrn4rMii5BjZX59ddcBCdKbwm754oCYS5j5qEeVeRW0qGbPX6m5Z7IjunHXijBjxju5yU76xM-5xkHNkOY?key=oK10reX-SyZxz0MCnUXWag)
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcQ1FIo4lJYepjSwKw-2iVgV9AeC4XoagrAnGcucY31gWaR9hGII4QPFf2FVN4RyiCEHvdSJdUrn4rMii5BjZX59ddcBCdKbwm754oCYS5j5qEeVeRW0qGbPX6m5Z7IjunHXijBjxju5yU76xM-5xkHNkOY?key=oK10reX-SyZxz0MCnUXWag)
 
 #### Step 7: Choose any network, then click "MetaMask." <a href="#step-7-choose-any-network-then-click-metamask" id="step-7-choose-any-network-then-click-metamask"></a>
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD\_4nXezaO8dPFascwfvsawQmxVOFzme\_NzBHk480Vu1gqIe8Kxt73li5lw3-Rz14BgGWe78r26YGJmDViTerKOa4AawrSiQsJcAFlJX5ntutHvNeeNL5uyAdT89xGU2BTdySvIw5xoshPnQ0cocTkjaDUbCnwVU?key=oK10reX-SyZxz0MCnUXWag)
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXezaO8dPFascwfvsawQmxVOFzme_NzBHk480Vu1gqIe8Kxt73li5lw3-Rz14BgGWe78r26YGJmDViTerKOa4AawrSiQsJcAFlJX5ntutHvNeeNL5uyAdT89xGU2BTdySvIw5xoshPnQ0cocTkjaDUbCnwVU?key=oK10reX-SyZxz0MCnUXWag)
 
 #### Step 8: Click "Connect Phantom" at the top of the IDO page. <a href="#step-8-click-connect-phantom-at-the-top-of-the-ido-page" id="step-8-click-connect-phantom-at-the-top-of-the-ido-page"></a>
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD\_4nXcCG1HWSeniTb6JBgkckkhDiaTqyvQ3FuibFbeTAXj2tksZewTI4Fd9Ne45-FUAQQ9USTTNK\_5PXJJ-7W5Ybd3yjX4MYsRAz9ZKY2ZQtBUImq6JbqFjr9uUelS6Auz41-gGoyAm7ThBnhisg9NJnvTMMYw?key=oK10reX-SyZxz0MCnUXWag)
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcCG1HWSeniTb6JBgkckkhDiaTqyvQ3FuibFbeTAXj2tksZewTI4Fd9Ne45-FUAQQ9USTTNK_5PXJJ-7W5Ybd3yjX4MYsRAz9ZKY2ZQtBUImq6JbqFjr9uUelS6Auz41-gGoyAm7ThBnhisg9NJnvTMMYw?key=oK10reX-SyZxz0MCnUXWag)
 
 #### Step 9: Click "Phantom Wallet" at the bottom of the popup. <a href="#step-9-click-phantom-wallet-at-the-bottom-of-the-popup" id="step-9-click-phantom-wallet-at-the-bottom-of-the-popup"></a>
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD\_4nXcudUZtfs8Z6dBH3g7PZW3rhuOL76bGfXfeuCrjnNqNTb7uK\_FwYZVRa4K9WbsHpyDD5QIAUiqAJeGSs4DuA59pmqk3pMQ0Llvaz11K-iZHWe5DQUMrY3Hdr4NWBGRunljIHKX6kJcNVA7mxrPY9BNE5YaV?key=oK10reX-SyZxz0MCnUXWag)
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcudUZtfs8Z6dBH3g7PZW3rhuOL76bGfXfeuCrjnNqNTb7uK_FwYZVRa4K9WbsHpyDD5QIAUiqAJeGSs4DuA59pmqk3pMQ0Llvaz11K-iZHWe5DQUMrY3Hdr4NWBGRunljIHKX6kJcNVA7mxrPY9BNE5YaV?key=oK10reX-SyZxz0MCnUXWag)
 
 #### Step 10: Click "Continue." <a href="#step-10-click-continue" id="step-10-click-continue"></a>
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD\_4nXds71e6yHF8LGqd-4qz4-ntz9RxsdpjawEUkPpXmRPbYye6BkAD1IJX8WW34q5MZPrizi4k0s2gvQ\_iyeYetj16tyj3a\_9qANMDAKlajrH38Q4U-gJGQ3AhW8hOn0hmx9PxLwBoVMGrsffIKHPPkzqIYGRh?key=oK10reX-SyZxz0MCnUXWag)
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXds71e6yHF8LGqd-4qz4-ntz9RxsdpjawEUkPpXmRPbYye6BkAD1IJX8WW34q5MZPrizi4k0s2gvQ_iyeYetj16tyj3a_9qANMDAKlajrH38Q4U-gJGQ3AhW8hOn0hmx9PxLwBoVMGrsffIKHPPkzqIYGRh?key=oK10reX-SyZxz0MCnUXWag)
 
 #### Step 11: Click "Create Account." <a href="#step-11-click-create-account" id="step-11-click-create-account"></a>
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD\_4nXcGlfINfg37h65FBUvN3M4mF\_z708F6Gvu3Z7NT-UKOglhocaCUiqgEbYclHvV3j9C59XNN-osPkJOz4iQRmslViAdaOvBFipPIGof2AGmlBXlKW3Hjw6G-sEkQ2BGq7QsjGVKCWXFD8H4m9qpMnwqKPPM?key=oK10reX-SyZxz0MCnUXWag)
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcGlfINfg37h65FBUvN3M4mF_z708F6Gvu3Z7NT-UKOglhocaCUiqgEbYclHvV3j9C59XNN-osPkJOz4iQRmslViAdaOvBFipPIGof2AGmlBXlKW3Hjw6G-sEkQ2BGq7QsjGVKCWXFD8H4m9qpMnwqKPPM?key=oK10reX-SyZxz0MCnUXWag)
 
 #### Step 12: Click "Confirm." <a href="#step-12-click-confirm" id="step-12-click-confirm"></a>
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD\_4nXeKJdl4M7Wsd1pcp4o36lEmdVYj9w3tBtQbTQ\_LxzdC6OGC1ZTCXvANv9dqQRZKeYJo3iFlWn29UfNr0GmZiaNFb-oRoUB0KYGiCf3G\_LwwAAM6L1b0wCAln\_h7vjw4J5UM\_ofVAQwdZHk-IsqV8K\_nrN6H?key=oK10reX-SyZxz0MCnUXWag)
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeKJdl4M7Wsd1pcp4o36lEmdVYj9w3tBtQbTQ_LxzdC6OGC1ZTCXvANv9dqQRZKeYJo3iFlWn29UfNr0GmZiaNFb-oRoUB0KYGiCf3G_LwwAAM6L1b0wCAln_h7vjw4J5UM_ofVAQwdZHk-IsqV8K_nrN6H?key=oK10reX-SyZxz0MCnUXWag)
 
 #### Step 13: Paste the address from step 4 in the "Refund Token" box. <a href="#step-13-paste-the-address-from-step-4-in-the-refund-token-box" id="step-13-paste-the-address-from-step-4-in-the-refund-token-box"></a>
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD\_4nXfOUOCHswufsnpN89\_pV\_C91f7Q6ZceY8mAMax1pDqsMjZ9sQ1p5ByPOBuAECfpLIUqNCKDZbyRaBAxYnraRmkNrCPJJ0BiVLoDSurG7xmYLs6rOoDmbHIZ1X1nXMhNZeq86RNp\_AJby87DD3cZQOh-IYs?key=oK10reX-SyZxz0MCnUXWag)
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfOUOCHswufsnpN89_pV_C91f7Q6ZceY8mAMax1pDqsMjZ9sQ1p5ByPOBuAECfpLIUqNCKDZbyRaBAxYnraRmkNrCPJJ0BiVLoDSurG7xmYLs6rOoDmbHIZ1X1nXMhNZeq86RNp_AJby87DD3cZQOh-IYs?key=oK10reX-SyZxz0MCnUXWag)
 
 #### Step 14: Click "Confirm." <a href="#step-14-click-confirm" id="step-14-click-confirm"></a>
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD\_4nXfHlvYfxcJCg0SMYoZ8vQxOiU1oOEknmHoa73pRa5oGRvSdYEFKGVqv18E\_O0cpfKDHMgIhIH4KSUI0Snf\_nzefraUxehUZq9wkxN-yS\_FI-SFJMmAhDwPa8wpxQSolofyZ7HCNRqprUQCfYvPQwtDMb57h?key=oK10reX-SyZxz0MCnUXWag)
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfHlvYfxcJCg0SMYoZ8vQxOiU1oOEknmHoa73pRa5oGRvSdYEFKGVqv18E_O0cpfKDHMgIhIH4KSUI0Snf_nzefraUxehUZq9wkxN-yS_FI-SFJMmAhDwPa8wpxQSolofyZ7HCNRqprUQCfYvPQwtDMb57h?key=oK10reX-SyZxz0MCnUXWag)
 
 #### Step 15: Click "Confirm." <a href="#step-15-click-confirm" id="step-15-click-confirm"></a>
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD\_4nXcNLZX9n2kl07014kqe4m2CWaj8PdBdFhtT4atHUsfHfVOr4c4nuF4akkBoHhAQmV8f0vudij-nYA9j4Pp2SJHb0sslh5UDuay16Mwk1RK6Ux5gIFfP8mwW9dcek8-CNB9ZBmh6dZPoqdrETmMSydlcwiA?key=oK10reX-SyZxz0MCnUXWag)
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcNLZX9n2kl07014kqe4m2CWaj8PdBdFhtT4atHUsfHfVOr4c4nuF4akkBoHhAQmV8f0vudij-nYA9j4Pp2SJHb0sslh5UDuay16Mwk1RK6Ux5gIFfP8mwW9dcek8-CNB9ZBmh6dZPoqdrETmMSydlcwiA?key=oK10reX-SyZxz0MCnUXWag)
 
 #### Step 16: Now that you have connected your wallet, you can register interest for the IDO. <a href="#step-16-now-that-you-have-connected-your-wallet-you-can-register-interest-for-the-ido" id="step-16-now-that-you-have-connected-your-wallet-you-can-register-interest-for-the-ido"></a>
 
 (If you don’t see this screen, ensure you followed all the steps above correctly. If it still doesn’t appear, ask a CM for help in our [Telegram group](https://t.me/chaingpt) or [Discord](https://docs.chaingpt.org/the-ecosystem/chaingpt-pad/www.discord.gg/chaingpt).)
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD\_4nXd9VxlMU31VBbm0OcjF5Yh0plfabwXF-fx6W0-RJ5FzDaGMOew-LDdSJkp3j0cuhLhMZFMCx8ZONcfK90lA3jHx1AwBEKWVTs-aCdY2D-orrs6\_E4Qh5yqVMF7m78gjT9OKAAmtlpQ0m2dhQOXmLH52u0Yp?key=oK10reX-SyZxz0MCnUXWag)
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXd9VxlMU31VBbm0OcjF5Yh0plfabwXF-fx6W0-RJ5FzDaGMOew-LDdSJkp3j0cuhLhMZFMCx8ZONcfK90lA3jHx1AwBEKWVTs-aCdY2D-orrs6_E4Qh5yqVMF7m78gjT9OKAAmtlpQ0m2dhQOXmLH52u0Yp?key=oK10reX-SyZxz0MCnUXWag)
 
 #### Step 17: From this point forward, the rest of the IDO will function as it does for all other chains. <a href="#step-17-from-this-point-forward-the-rest-of-the-ido-will-function-as-it-does-for-all-other-chains" id="step-17-from-this-point-forward-the-rest-of-the-ido-will-function-as-it-does-for-all-other-chains"></a>
 
 You should now be able to register your interest in the IDO.
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD\_4nXcPlTqn-PABc030M0D9\_PNFDhh\_8M1vx0BmW9KRaK66xInYvFiN1UmfAxMKLesgT4EFJZeBCN5h0Hg1X0fObCYfw\_E22CLdEaE5If1Az2519M1-rOeoqCBm67v6RN3Emd0z6hTXYr9MVyz6nDHdddfJPKOL?key=oK10reX-SyZxz0MCnUXWag)
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcPlTqn-PABc030M0D9_PNFDhh_8M1vx0BmW9KRaK66xInYvFiN1UmfAxMKLesgT4EFJZeBCN5h0Hg1X0fObCYfw_E22CLdEaE5If1Az2519M1-rOeoqCBm67v6RN3Emd0z6hTXYr9MVyz6nDHdddfJPKOL?key=oK10reX-SyZxz0MCnUXWag)
 
 \
 
@@ -162,6 +162,32 @@ You should now be able to register your interest in the IDO.
 ### Step 12: From this point forward, the rest of the IDO will function as it does for all other chains. You should now be able to register your interest in the IDO.&#x20;
 
 <img src="../../../.gitbook/assets/telegram-cloud-photo-size-5-6210573335251764677-y.jpg" alt="" data-size="original">
+
+
+
+</details>
+
+<details>
+
+<summary>Using Desktop/PC -  ChainGPT V2 Guide to connecting with Phantom Wallet</summary>
+
+### Step 1: Connect EVM wallet.
+
+<img src="../../../.gitbook/assets/SCR-20241216-hner.png" alt="" data-size="original">
+
+### &#x20;Step 2: Connect Phantom wallet.
+
+<img src="../../../.gitbook/assets/SCR-20241216-hnke.png" alt="" data-size="original">
+
+### Step 3: Register to the IDO.
+
+<img src="../../../.gitbook/assets/SCR-20241216-hora.png" alt="" data-size="original">
+
+###
+
+
+
+(If you don’t see that screen, check that you followed all the steps correctly. If it still doesn’t appear, ask the CM on our [Telegram group](https://t.me/chaingpt) or [Discord](https://www.discord.gg/chaingpt) for help.)
 
 
 
@@ -276,104 +302,104 @@ For steps to set up Phantom Wallet, please view this [setup guide.](https://www.
 
 ### Step 1: Go to your Phantom Wallet and click "USDT."
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD\_4nXdivbGut4JfDETb3glXoLq-pQTtNKGgaoA-pD90y6Tr\_1XnLyJuphQSpEzpd51sXVRicjDd-EuZfAowCBZEbi8YiOHM-ZwV6z7MsUhba2Nbxf8eP3ZQ-4Ul\_nY2lnJyGCWsWRPTOpwCfXn0-eSi4PzBVEuA?key=oK10reX-SyZxz0MCnUXWag)
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdivbGut4JfDETb3glXoLq-pQTtNKGgaoA-pD90y6Tr_1XnLyJuphQSpEzpd51sXVRicjDd-EuZfAowCBZEbi8YiOHM-ZwV6z7MsUhba2Nbxf8eP3ZQ-4Ul_nY2lnJyGCWsWRPTOpwCfXn0-eSi4PzBVEuA?key=oK10reX-SyZxz0MCnUXWag)
 
 \
 
 
 ### Step 2: Click "More."&#x20;
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD\_4nXfaldGYGpcYP2omeptkVdboxEVGBNiTKOD6qDL6ZDFVW8ufk\_zqMkjEHYCritDMx81q7Z68NTgww5PulK4pvaj781uZZYO\_eMiJKXAxbAvfZhvRIkds9KtTMz-FrUWEp7YQ2mBwx54bXpG6JXAy8pwTg6m9?key=oK10reX-SyZxz0MCnUXWag)
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfaldGYGpcYP2omeptkVdboxEVGBNiTKOD6qDL6ZDFVW8ufk_zqMkjEHYCritDMx81q7Z68NTgww5PulK4pvaj781uZZYO_eMiJKXAxbAvfZhvRIkds9KtTMz-FrUWEp7YQ2mBwx54bXpG6JXAy8pwTg6m9?key=oK10reX-SyZxz0MCnUXWag)
 
 
 
 ### Step 3: Click "View on Solscan."
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD\_4nXdwti4EvoSxjSyjuoXfDf2AHr7f8kKU8\_O8otJpebPf5d\_D57y1SrpqeF8nTD5EVmNve0w4znx9mRWCPTAXFIcFzRK2eof4HBmIhDRgQW-LYel4Xqes3dhOXc4mf1FuEDwC\_U-DfJQU4yZSoEBpt7QEg64r?key=oK10reX-SyZxz0MCnUXWag)
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdwti4EvoSxjSyjuoXfDf2AHr7f8kKU8_O8otJpebPf5d_D57y1SrpqeF8nTD5EVmNve0w4znx9mRWCPTAXFIcFzRK2eof4HBmIhDRgQW-LYel4Xqes3dhOXc4mf1FuEDwC_U-DfJQU4yZSoEBpt7QEg64r?key=oK10reX-SyZxz0MCnUXWag)
 
 \
 
 
 ### Step 4: Copy the address AFTER the forward-slash ( / ) in the search bar.&#x20;
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD\_4nXfVMm7\_-Fc7ClhvZxS6tnXVoFrzvxaD7x0z5E5sYG8q\_cxnt22qX5ri36sSCJbDiDLSy5Jg2\_D65Ze5gbEQnW1-uRhhT49Tfdrg0QtLUPD-Q56xwRm0qKme4NwfRXtxP1cvTytoh0s\_MIDp3cYHFgD2eRQu?key=oK10reX-SyZxz0MCnUXWag)
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfVMm7_-Fc7ClhvZxS6tnXVoFrzvxaD7x0z5E5sYG8q_cxnt22qX5ri36sSCJbDiDLSy5Jg2_D65Ze5gbEQnW1-uRhhT49Tfdrg0QtLUPD-Q56xwRm0qKme4NwfRXtxP1cvTytoh0s_MIDp3cYHFgD2eRQu?key=oK10reX-SyZxz0MCnUXWag)
 
 
 
 ### Step 5: Click the "Connect Wallet" button on the IDO page and connect your EVM wallet.
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD\_4nXevT0Wma5I57MScVcv4jzpPokNU8yGvj-kZi0-QmzoHeIVfqixuSqwpMibhLqLPmkk5bvhPM2xc161wMECX-5tPgqkDNQ6gnj1mlTnT7ZPLigX9yg1dR6\_4f5RvKoKhvX\_ufiemiEt7\_rJ4LjZMsA5aR21o?key=oK10reX-SyZxz0MCnUXWag)
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXevT0Wma5I57MScVcv4jzpPokNU8yGvj-kZi0-QmzoHeIVfqixuSqwpMibhLqLPmkk5bvhPM2xc161wMECX-5tPgqkDNQ6gnj1mlTnT7ZPLigX9yg1dR6_4f5RvKoKhvX_ufiemiEt7_rJ4LjZMsA5aR21o?key=oK10reX-SyZxz0MCnUXWag)
 
 \
 
 
 ### Step 6: Choose any network, then click "MetaMask."
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD\_4nXepK5eg5x6jgzPrFmMUvCX0VxLRyGFjzEhJq4bnM5gtrVfbQCvdAnsuR0Gq\_YdM6rktSRnOmXLFbYrTnkg03karPUrhnI00nuJlhaskPCtQmC98g21ICz8\_NOf2qI-VzCE86Tas1it\_VxEDIRrSpB6bwc1b?key=oK10reX-SyZxz0MCnUXWag)
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXepK5eg5x6jgzPrFmMUvCX0VxLRyGFjzEhJq4bnM5gtrVfbQCvdAnsuR0Gq_YdM6rktSRnOmXLFbYrTnkg03karPUrhnI00nuJlhaskPCtQmC98g21ICz8_NOf2qI-VzCE86Tas1it_VxEDIRrSpB6bwc1b?key=oK10reX-SyZxz0MCnUXWag)
 
 
 
 ### Step 7: Click "Connect Phantom" at the top of the IDO page.
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD\_4nXeZ1tZMb\_fEiyoYzpL\_wsnPPZwtHyJHe\_FJS-YWof\_FUK3MWJsh\_LGDjzTIy2SDHCCHnD7\_9IF81sgF7JwxW5Q5Vhake4Y2D-0wyQNQldLYkC7RXkrKcAcJ2CWOLvh-Gidtxsv718DXObI05ZR8kFHx35o?key=oK10reX-SyZxz0MCnUXWag)
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeZ1tZMb_fEiyoYzpL_wsnPPZwtHyJHe_FJS-YWof_FUK3MWJsh_LGDjzTIy2SDHCCHnD7_9IF81sgF7JwxW5Q5Vhake4Y2D-0wyQNQldLYkC7RXkrKcAcJ2CWOLvh-Gidtxsv718DXObI05ZR8kFHx35o?key=oK10reX-SyZxz0MCnUXWag)
 
 \
 
 
 ### Step 8: Click  "Phantom Wallet" at the bottom of the popup.&#x20;
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD\_4nXfAjB2iLOV-HP7gYrxIwglN3gCN33U\_p42MfYUYWnQB4hHYBrpuDSr8LD-3sYkxg84oqn0eQkWJ3Lok3LD0mFD35vugjrst8kJ3J9W-jRh5kO060SrWPUmLG6OCRVc26x4bpgW1yOV-6IS\_xKhSiNuo7ALQ?key=oK10reX-SyZxz0MCnUXWag)
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfAjB2iLOV-HP7gYrxIwglN3gCN33U_p42MfYUYWnQB4hHYBrpuDSr8LD-3sYkxg84oqn0eQkWJ3Lok3LD0mFD35vugjrst8kJ3J9W-jRh5kO060SrWPUmLG6OCRVc26x4bpgW1yOV-6IS_xKhSiNuo7ALQ?key=oK10reX-SyZxz0MCnUXWag)
 
 
 
 ### Step 9: Click "Continue."
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD\_4nXdCwBUgNofyV8alzItLi\_SeF7f-BQ5n-7SziUDUJmYSf4PcJ51G8GpX3PXD4prUi02DOPG43lriGs33fHcd7BZNXXURQrFA1vrVncWTccmrMQ-m0Eg7z5\_nJXF4zU92Yx-maH1tE4nkLpJfVtGPQzY-HwvO?key=oK10reX-SyZxz0MCnUXWag)
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdCwBUgNofyV8alzItLi_SeF7f-BQ5n-7SziUDUJmYSf4PcJ51G8GpX3PXD4prUi02DOPG43lriGs33fHcd7BZNXXURQrFA1vrVncWTccmrMQ-m0Eg7z5_nJXF4zU92Yx-maH1tE4nkLpJfVtGPQzY-HwvO?key=oK10reX-SyZxz0MCnUXWag)
 
 \
 
 
 ### Step 10: Click "Create Account."
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD\_4nXft6-ZmPDo3C7P9F30xuvL-3f6dzj6YWKZqOiWOztBeLPTjvhJLvC0NyuQpncWR8Hm2arpfAk9PnZHzdkhlosW1AuE5ukxuxsCoEueR6hrr2q17sAlA9seCV7MaY8wxhQU6YzyEe3QTgmDx1PvusPQVtkc?key=oK10reX-SyZxz0MCnUXWag)
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXft6-ZmPDo3C7P9F30xuvL-3f6dzj6YWKZqOiWOztBeLPTjvhJLvC0NyuQpncWR8Hm2arpfAk9PnZHzdkhlosW1AuE5ukxuxsCoEueR6hrr2q17sAlA9seCV7MaY8wxhQU6YzyEe3QTgmDx1PvusPQVtkc?key=oK10reX-SyZxz0MCnUXWag)
 
 
 
 ### Step 11: Click "Confirm."
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD\_4nXcwQ-UQ\_9NhMrmLIPEKufs5eZ3RFssARH-3rO7LKCONBoWTdlMwADeoK\_NNq7uLGY222xkvlHuqBHv6VcWIF6U-fJvabH9MkhWUYB-dx\_3OWtLRNKOBwAmSlA-7CB5kyz3IFhap2YaFu1pt31WYg5oWLLcp?key=oK10reX-SyZxz0MCnUXWag)
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcwQ-UQ_9NhMrmLIPEKufs5eZ3RFssARH-3rO7LKCONBoWTdlMwADeoK_NNq7uLGY222xkvlHuqBHv6VcWIF6U-fJvabH9MkhWUYB-dx_3OWtLRNKOBwAmSlA-7CB5kyz3IFhap2YaFu1pt31WYg5oWLLcp?key=oK10reX-SyZxz0MCnUXWag)
 
 
 
 ### Step 12: Paste the address from step 4 in the "Refund Token" box.
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD\_4nXfWhG3fTAWC1C-e3UKhh9T5lkKCiv3avrhCogQ6btrWnHvsQk-DPCeUQ--WVtIWIZrrEiOn\_3wIeYzKrzPIbN29B38Y5nPgpdSPHKCyRQk9FRrE6PwWhUPsF9mValbbZthDLur845GQ9blky8SF1Wds9BA?key=oK10reX-SyZxz0MCnUXWag)
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfWhG3fTAWC1C-e3UKhh9T5lkKCiv3avrhCogQ6btrWnHvsQk-DPCeUQ--WVtIWIZrrEiOn_3wIeYzKrzPIbN29B38Y5nPgpdSPHKCyRQk9FRrE6PwWhUPsF9mValbbZthDLur845GQ9blky8SF1Wds9BA?key=oK10reX-SyZxz0MCnUXWag)
 
 
 
 ### Step 13: Click "Confirm."
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD\_4nXdKm-8sAxI1vlC\_5TvjZ5HuOAju5wBi9UTsKBiIDhJWiTWcviL8d05G\_FDV1okioXjbkTNIwS5z1msRnFXqkc482egIXRiSO02s7oMLJVzrNUJGcqqHfRs5uvOxXcy437j\_gJbiidhAbByBfhUs-NUefhH0?key=oK10reX-SyZxz0MCnUXWag)
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdKm-8sAxI1vlC_5TvjZ5HuOAju5wBi9UTsKBiIDhJWiTWcviL8d05G_FDV1okioXjbkTNIwS5z1msRnFXqkc482egIXRiSO02s7oMLJVzrNUJGcqqHfRs5uvOxXcy437j_gJbiidhAbByBfhUs-NUefhH0?key=oK10reX-SyZxz0MCnUXWag)
 
 \
 
 
 ### 14) Click "Confirm."
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD\_4nXdxS8N0Lu-TIdHbsWJWw4Msi0hdiovgeqe1AamLoR1xMsQQv9ZoAE7DOJvZHelv2n-cz5xPQiTwEfIvvCuTLp7m2TYV4gKmI3Wq6rekZkebI4w181GJO8hKCDAju-FOUZw2bdOHXbB85YjASsD5QVw4GP4?key=oK10reX-SyZxz0MCnUXWag)
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdxS8N0Lu-TIdHbsWJWw4Msi0hdiovgeqe1AamLoR1xMsQQv9ZoAE7DOJvZHelv2n-cz5xPQiTwEfIvvCuTLp7m2TYV4gKmI3Wq6rekZkebI4w181GJO8hKCDAju-FOUZw2bdOHXbB85YjASsD5QVw4GP4?key=oK10reX-SyZxz0MCnUXWag)
 
 \
 \
 Step 15: Now that you have connected your wallet, you can register interest for the IDO. (If you don’t see this screen, ensure you followed all the steps above correctly. If it still doesn’t appear, ask a CM for help in our [Telegram group](https://t.me/chaingpt) or [Discord](https://www.discord.gg/chaingpt).)
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD\_4nXci7hOvlyWyw8lL7O2i7UA0UUNobaWm7-bashUUEyHlhKv37pvVlxLszvDx4H3dFI3MCroyjHNHDIVM7MNjp0YvaCUxaa9UZk58WxBpwe0MPEwZmlAzftqGwzRa1OmnbBXfGt5A7VCBhYaUr9QVDPJ1glvD?key=oK10reX-SyZxz0MCnUXWag)
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXci7hOvlyWyw8lL7O2i7UA0UUNobaWm7-bashUUEyHlhKv37pvVlxLszvDx4H3dFI3MCroyjHNHDIVM7MNjp0YvaCUxaa9UZk58WxBpwe0MPEwZmlAzftqGwzRa1OmnbBXfGt5A7VCBhYaUr9QVDPJ1glvD?key=oK10reX-SyZxz0MCnUXWag)
 
 \
 
 
 ### Step 16: From this point forward, the rest of the IDO will function as it does for all other chains. You should now be able to register your interest in the IDO.&#x20;
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD\_4nXeOY0cXgrhEtQCj8GMDOEjP-cqX8VQv1PElRHyUpQvGVuVu0whf27NG7sFche5enCBf6WHACzVEOmPHwHK257cXxxc-FgjVuzvBsBWTz-Wfkf5c7XaFuusQyYcG-tAH35T0g65uvxRyXQUrDx-RIp9jHe9Q?key=oK10reX-SyZxz0MCnUXWag)
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeOY0cXgrhEtQCj8GMDOEjP-cqX8VQv1PElRHyUpQvGVuVu0whf27NG7sFche5enCBf6WHACzVEOmPHwHK257cXxxc-FgjVuzvBsBWTz-Wfkf5c7XaFuusQyYcG-tAH35T0g65uvxRyXQUrDx-RIp9jHe9Q?key=oK10reX-SyZxz0MCnUXWag)
 
 \
 \
@@ -492,7 +518,7 @@ There are several ways to add SOL to your wallet:
 1. **Buy SOL directly within Phantom:** Click "Buy SOL" and choose your preferred payment method.
 2. **Transfer SOL from exchange:** Click "Deposit SOL" and enter the sending wallet address. You can [buy SOL on KuCoin](https://www.kucoin.com/how-to-buy/solana) and transfer to your Phantom wallet to fund it.&#x20;
 
-#### [![](https://lh7-us.googleusercontent.com/Wcb5CkIBVnasgqngLMQQfg3b3B0x4QyqKTpiZFAhjh1B79nUQqTUhjM47zJYoxE0aHhEXu09UBLcBzgekVCG-Jvul6Nrvtkl99\_edCOqYQJeSb01SLYErCxOc0kdYapEbY0NoRN6UY63r0wKw77YRVM)](https://www.kucoin.com/trade/SOL-USDT)
+#### [![](https://lh7-us.googleusercontent.com/Wcb5CkIBVnasgqngLMQQfg3b3B0x4QyqKTpiZFAhjh1B79nUQqTUhjM47zJYoxE0aHhEXu09UBLcBzgekVCG-Jvul6Nrvtkl99_edCOqYQJeSb01SLYErCxOc0kdYapEbY0NoRN6UY63r0wKw77YRVM)](https://www.kucoin.com/trade/SOL-USDT)
 
 ### Exploring Phantom Wallet Features
 
