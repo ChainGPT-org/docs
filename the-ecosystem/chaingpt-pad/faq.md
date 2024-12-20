@@ -121,7 +121,7 @@ Cryptocurrencies: BNB, ETH
 
 Persons from the United States and Canada cannot participate in any IDO due to the lack of clear regulations in the crypto space. \
 \
-Countries restricted or sanctioned include: Afghanistan, Algeria, American Samoa, The Bahamas, Bangladesh, Bolivia, Botswana, Central African Republic, China, Cuba, Democratic People’s Republic of Korea (North Korea), Egypt, Ethiopia, Ghana, Guam, Iran, Iraq, Libya, Morocco, Nepal, Nigeria, Pakistan, Panama, Puerto Rico, Samoa, Saudi Arabia, South Sudan, Sri Lanka, Sudan, Syria, Trinidad and Tobago, Tunisia, US Virgin Islands, Venezuela, and Yemen.
+Countries restricted or sanctioned include: Afghanistan, Algeria, American Samoa, Bangladesh, Bolivia, Botswana, Central African Republic, China, Cuba, Democratic People’s Republic of Korea (North Korea), Hong Kong, Egypt, Ethiopia, Ghana, Guam, Iran, Iraq, Libya, Morocco, Nepal, Nigeria, Pakistan, Panama, Puerto Rico, Samoa, South Sudan, Sri Lanka, Sudan, Syria, Trinidad and Tobago, Tunisia, US Virgin Islands, Venezuela, and Yemen.
 
 </details>
 
