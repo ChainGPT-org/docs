@@ -1,4 +1,9 @@
-# TapCGPT
+---
+hidden: true
+noIndex: true
+---
+
+# TapCGPT - Ended
 
 <figure><img src="../../.gitbook/assets/05. CGPT TAP.png" alt=""><figcaption></figcaption></figure>
 

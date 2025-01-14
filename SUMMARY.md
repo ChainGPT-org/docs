@@ -108,7 +108,7 @@
   * [Airdrops and Giveaways](the-ecosystem/degenpad/airdrops-and-giveaways.md)
 * [Smart-Contracts](the-ecosystem/smart-contracts.md)
 * [RE:BOT NFTs](the-ecosystem/re-bot-nfts.md)
-* [TapCGPT](the-ecosystem/tapcgpt/README.md)
+* [TapCGPT - Ended](the-ecosystem/tapcgpt/README.md)
   * [Introduction and Overview](the-ecosystem/tapcgpt/introduction-and-overview.md)
   * [Seasons and Prize Pool](the-ecosystem/tapcgpt/seasons-and-prize-pool.md)
   * [Player Progression System](the-ecosystem/tapcgpt/player-progression-system.md)
