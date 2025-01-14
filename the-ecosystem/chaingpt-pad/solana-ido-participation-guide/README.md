@@ -8,6 +8,10 @@ This is a step-by-step guide on participating in Solana IDOs on ChainGPT Pad. **
 
 To join IDOs on Solana, you must connect your EVM wallet that you usually use for IDOs and your Solana wallet using Phantom Wallet (it will automatically be connected and paired to your account; you won't have to pass a KYC or do anything else besides connecting your wallet).
 
+On your Phanton wallet:  go to settings -> preferences -> default app wallet -> Always ask
+
+This step is required to ensure you can connect correctly and don't pick Metamask or Phanton by default to sign.
+
 ### **Step #2:**&#x20;
 
 **Hold at least** 0.01 USDT and 0.01 SOL in your Phantom wallet.&#x20;
