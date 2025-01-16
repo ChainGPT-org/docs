@@ -1,5 +1,4 @@
 ---
-hidden: true
 noIndex: true
 ---
 
@@ -144,7 +143,7 @@ Future iterations will include direct integrations with DeFi protocols, enabling
 
 ### Experience True On-Chain Autonomy
 
-Engage with the ChainGPT AI Agent on Twitter (@ChainGPTAI) to unlock the full potential of real-time blockchain intelligence.&#x20;
+Engage with the [ChainGPT AI Agent](https://x.com/ChainGPTAI) on Twitter (@ChainGPTAI) to unlock the full potential of real-time blockchain intelligence.&#x20;
 
 The ChainGPT AI Agent is your indispensable Web3 companion in 2025 and beyond.
 

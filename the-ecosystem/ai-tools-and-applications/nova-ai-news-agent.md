@@ -1,12 +1,12 @@
 # Nova AI News Agent
 
-<figure><img src="../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
-
 {% hint style="info" %}
 Web:[ https://app.chaingpt.org/](https://app.chaingpt.org/)news | Telegram:[ https://t.me/ChainGPT](https://t.me/ChainGPT) | [Discord](https://discord.gg/chaingpt)
 
 
 {% endhint %}
+
+<figure><img src="../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
 
 ## Nova AI Agent - The New On-Chain X News Reporter
 
@@ -93,7 +93,7 @@ Casual users and blockchain enthusiasts can rely on Nova for updates on NFT drop
 
 The ChainGPT Nova AI Agent exemplifies our dedication to delivering tools that empower the Web3 community. By providing accurate, timely, and comprehensive news, Nova ensures users remain connected to the latest developments in decentralized technology. Whether you are an investor, developer, or blockchain enthusiast, Nova is your trusted source for navigating the complex Web3 ecosystem.
 
-Stay informed with the ChainGPT Nova AI Agent and experience the difference precision-driven insights can make in your Web3 journey.
+Stay informed with the [ChainGPT Nova AI Agent](https://x.com/ChainGPTAINews) and experience the difference precision-driven insights can make in your Web3 journey.
 
 <figure><img src="../../.gitbook/assets/Frame 1547764785 (1).jpg" alt=""><figcaption></figcaption></figure>
 
