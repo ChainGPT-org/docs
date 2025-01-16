@@ -26,10 +26,6 @@
 [ai-trading-assistant.md](ai-trading-assistant.md)
 {% endcontent-ref %}
 
-{% content-ref url="prompt-marketplace.md" %}
-[prompt-marketplace.md](prompt-marketplace.md)
-{% endcontent-ref %}
-
 {% content-ref url="pricing-and-membership-plans.md" %}
 [pricing-and-membership-plans.md](pricing-and-membership-plans.md)
 {% endcontent-ref %}
