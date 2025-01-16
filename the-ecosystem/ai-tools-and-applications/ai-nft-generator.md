@@ -7,7 +7,7 @@ description: ChainGPT's Artificially Intelligent Non-Fungible Token Generator
 {% hint style="info" %}
 Interact with the ChainGPT AI NFT Generator here: [https://nft.chaingpt.org/](https://nft.chaingpt.org/)
 
-A limited version of our NFT Generator is also available on [Telegram](https://t.me/chaingptai\_bot) & [Discord](https://discord.com/invite/sv2NfqSgVW).
+A limited version of our NFT Generator is also available on [Telegram](https://t.me/chaingptai_bot) & [Discord](https://discord.com/invite/sv2NfqSgVW).
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/photo_2023-08-17_18-52-19.jpg" alt=""><figcaption></figcaption></figure>
@@ -20,7 +20,7 @@ ChainGPT has developed a generative AI model that's neatly nestled into an intui
 
 ### Introduction
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 NFTs (Non-Fungible Tokens) have revolutionized the world of on-chain art, enabling artists, communities, and businesses to create and monetize unique digital assets. However, the traditional process of manually creating NFT collections can be time-consuming, expensive, and challenging.&#x20;
 
@@ -57,7 +57,7 @@ That's it! You can create unique and captivating NFTs with just a few simple ste
 
 ### Marketplace Features
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Overview**
 

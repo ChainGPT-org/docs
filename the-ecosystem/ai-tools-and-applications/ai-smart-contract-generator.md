@@ -4,7 +4,7 @@
 **Web**: [https://app.chaingpt.org/](https://app.chaingpt.org/) | **Telegram**: [https://t.me/ChainGPT](https://t.me/ChainGPT) | [**Discord**](https://discord.gg/chaingpt)
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Smart contracts are the fundamental building blocks of decentralized applications. The development of Smart contracts is the cornerstone upon which Web3 relies to bring the vision of a decentralized, digital economy to fruition.&#x20;
 
@@ -28,7 +28,7 @@ To get to the generator, a user must navigate to the official application dashbo
 Our AI tools are also available on Web, Telegram & Discord.
 
 * Web: [https://app.chaingpt.org](https://app.chaingpt.org)&#x20;
-* Telegram: [https://t.me/ChainGPTAI\_Bot ](https://t.me/ChainGPTAI\_Bot)
+* Telegram: [https://t.me/ChainGPTAI\_Bot ](https://t.me/ChainGPTAI_Bot)
 * Discord: [https://discord.gg/chaingpt](https://discord.gg/chaingpt)&#x20;
 {% endhint %}
 

@@ -56,7 +56,7 @@ The AI Agent aggregates and verifies news from trusted sources, ensuring users r
 
 ChainGPT AI Agent shares educational threads on DeFi, NFTs, and blockchain security while engaging users through interactive polls and community-focused content. Its ability to incorporate humor and memes fosters a dynamic and relatable user experience.
 
-<figure><img src="../../.gitbook/assets/01. CGPT Main Announcements - Rectangle (5).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ### The Technical Operation of the ChainGPT AI Agent
 
