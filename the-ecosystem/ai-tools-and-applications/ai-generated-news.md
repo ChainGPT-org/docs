@@ -4,62 +4,68 @@ description: The Automated AI News Module
 
 # AI Generated News
 
-> Visit: [https://app.chaingpt.org/news](https://app.chaingpt.org/news)
+{% include "../../.gitbook/includes/visit-https-app.chaingpt....md" %}
 
 <figure><img src="../../.gitbook/assets/AI news.jpg" alt=""><figcaption></figcaption></figure>
 
-> Built from scratch, ChainGPT has developed an advanced algorithm for an automated feed of Intelligently Sourced, organized, and presented Information on demand in real-time.
+> Built from scratch, ChainGPT created an advanced AI News Agent for an automated feed of sourced, organized, and presented information in real-time.
 
-News is the informational lifeblood for the propagation of fundamental information.&#x20;
+## AI Generated News with Fully Autonomous ChainGPT AI Agent
 
-They are arguably the most controversial, biased sectors in those industries. Considering that crypto, blockchain, and Web3 is already notorious for their unorthodox 24-hour markets and endless floods of information that change multiple times intra-day, news in Web3 has been among the most difficult to organize clearly.&#x20;
+News is vital for spreading important information.
 
-Staying updated requires intellectual gymnastics and exerting excessive efforts that drain people’s cognitive capacities, making it difficult to decipher the noise from the key points of value. That is precisely why ChainGPT has developed an AI-powered algorithm and service that takes news within our nascent industry to new heights.
+News can be controversial and biased. Crypto, blockchain, and Web3 are fast-moving industries with non-stop markets and constant information changes. Web3 news is hard to organize clearly.
 
-* No more mindless scrolling through social media in search of answers.
-* No more bookmarking 1,000 different sites.
-* No more authorship or publication biases.
-* No more confusion on what to focus on.
-* Just the facts.
+Staying updated can feel overwhelming. Sorting through endless information drains energy and makes it hard to find what matters. That's why ChainGPT developed an AI-powered News Agent to simplify news for our industry.
 
-It is with tremendous pleasure that we introduce to you
+* No more endless scrolling through social media.
+* No more saving countless websites.
+* No more biased publications.
+* No more confusion.
 
-#### The ChainGPT Automated AI News
+Just the facts.
 
-Searching the far corners of cyberspace for breaking news from Crypto/Web3’s trusted news outlets such as Decrypt, CoinDesk, and CoinTelegraph (among many others), the ChainGPT AI News agent understands that news breaks beyond just headlines and cross-references it with social confirmation signals from platforms like Twitter.
+#### Introducing The ChainGPT Automated AI News Agent
 
-Once the most critical information has been aggregated, the AI new agent ingests it all, reading every single article to decipher what is consistently true across all sources, extrapolates the most valuable nuggets, and writes up succinct summarizations highlighting only what the reader stands to gain the most benefits from while truncating all excess fluff.
+ChainGPT’s AI News Agent searches the internet for breaking news from trusted Crypto/Web3 outlets like Decrypt, CoinDesk, and CoinTelegraph. It cross-references this with social signals from platforms like Twitter.
 
-One of the key breakthroughs in the automated AI news agents here is the removal of dependence on human intervention. Humans always have an angle, a point of view, and an underlying agenda. AI does what the algorithm specifies. ChainGPT has devised a sophisticated self-checking system for the newsagent that guarantees the newsfeed's accuracy.
+After gathering key information, the AI News Agent reads each article, identifies consistent truths, and summarizes the most important points. It highlights valuable insights and removes unnecessary details.
+
+The ChainGPT AI News Agent reduces reliance on humans. People bring biases and opinions. The ChainGPT AI News Agents follow the algorithm. ChainGPT developed a self-checking system to ensure accurate news is delivered.
 
 #### Key Benefits
 
-* Scrapes & learns about things around the internet in real-time.
-* Summarizations with a focus on key value points
-* Removal of excesses
-* Minimization of human bias
+* Gathers information from the internet in real-time
+* Summarizes key points
+* Removes unnecessary content
+* Reduces human bias
 
-#### Applications
+#### Applications&#x20;
 
-The automated AI news agent’s applications can be drawn directly to the audience and use cases to which it caters to.
+The ChainGPT AI News Agent news module serves different audiences and use cases.
 
-_**Use Cases:**_\
-→ Community module that automatically gives members the freshest info\
-→ Daily news release as a media agency\
-→ Interactive guide for trading
+Use Cases:
 
-#### Live Implementation
+→ Community modules providing the latest updates
 
-There are already two interfaces with different parameters to express the potential variances in applying the ChainGPT automated AI newsfeed.
+→ Daily news releases for media agencies
 
-First and foremost, on the official V1 dashboard, we set a version for a once-a-day, everyday posting to provide a snapshot of the entire market at 8:00 AM UTC that you can check out here: [https://app.chaingpt.org/news](https://app.chaingpt.org/news)
+→ Interactive trading guides
 
-Second, given that the AI news modules is a part of the overall ChainGPT AI model, the chatbot has an unlimited live pulse on the market that can be provided by simply talking with it in the:
+#### Live Implementation&#x20;
 
-Official V1 application interface here: [https://app.chaingpt.org/](https://app.chaingpt.org/)\
-Our telegram group is here: [https://t.me/chaingpt](https://t.me/chaingpt)
+ChainGPT offers two interfaces to show how the AI News Agent newsfeed can be applied.
 
-_Adding the chatbot to your community telegram or discord group will automatically give your members live news at their fingertips. If you are interested, please reach out to us directly through our_ [_official telegram_](https://t.me/chaingpt) _chat or via the_ [_contact us_](https://www.chaingpt.org/contact-us) _section directly on our website_ [_here_](https://www.chaingpt.org/contact-us)_._
+On the official V1 dashboard, a daily snapshot of the market posts at 8:00 AM UTC.&#x20;
+
+Check it out here: https://app.chaingpt.org/news
+
+Since the AI Agent news module is part of the ChainGPT AI model, the chatbot can provide live market updates by chatting with it in the:
+
+Official V1 app interface: https://app.chaingpt.org/ \
+Telegram group: https://t.me/chaingpt
+
+_Adding the chatbot to your community Telegram or Discord group gives members instant news updates. Reach out via Telegram or through the contact section on our_ [_website_](https://www.chaingpt.org/contact-us)_._
 
 \---
 
