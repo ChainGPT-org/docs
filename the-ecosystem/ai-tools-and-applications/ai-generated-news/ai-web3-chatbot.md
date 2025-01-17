@@ -8,7 +8,7 @@ description: ChainGPT's text-based Web3 AI Chatbot
 **Web**: [https://app.chaingpt.org/](https://app.chaingpt.org/) | **Telegram**: [https://t.me/ChainGPT](https://t.me/ChainGPT) | [**Discord**](https://discord.gg/chaingpt)
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/Partnership announcement  [Template].gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Partnership announcement  [Template].gif" alt=""><figcaption></figcaption></figure>
 
 ## Your Friendly Web3 AIVM Powered Chatbot
 
@@ -20,7 +20,7 @@ More than a conversational agent, this chatbot is an autonomous intelligence lay
 
 Built on the AIVM infrastructure, the chatbot taps into live blockchain data streams, market trends, and technical documentation, offering unparalleled knowledge and precision. As the decentralized space grows, so does the AI—adapting in real time to reflect the latest in Web3.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Applications:
 
@@ -99,4 +99,4 @@ Ready to experience the future of Web3 automation? Interact with [ChainGPT's Web
 
 \---
 
-[**Disclaimer**](../../misc/legal-docs/disclaimer.md)
+[**Disclaimer**](../../../misc/legal-docs/disclaimer.md)

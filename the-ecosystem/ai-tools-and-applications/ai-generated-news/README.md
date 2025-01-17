@@ -4,9 +4,9 @@ description: The Automated AI News Module
 
 # AI Generated News
 
-{% include "../../.gitbook/includes/visit-https-app.chaingpt....md" %}
+{% include "../../../.gitbook/includes/visit-https-app.chaingpt....md" %}
 
-<figure><img src="../../.gitbook/assets/AI news.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/AI news.jpg" alt=""><figcaption></figcaption></figure>
 
 > Built from scratch, ChainGPT created an advanced AI News Agent for an automated feed of sourced, organized, and presented information in real-time.
 
@@ -69,4 +69,4 @@ _Adding the chatbot to your community Telegram or Discord group gives members in
 
 \---
 
-[**Disclaimer**](../../misc/legal-docs/disclaimer.md)
+[**Disclaimer**](../../../misc/legal-docs/disclaimer.md)

@@ -8,9 +8,9 @@ ChainGPT is an advanced AI infrastructure that develops AI-powered technologies 
 
 ### **ChainGPT's Solutions:**
 
-* ChainGPT AI Chatbot ([Telegram](https://t.me/chaingptai\_bot), Discord, [Web](https://app.gitbook.com/o/fTvkvEH3C5Wk9LTutCYV/s/rfpYYsoCgHxbOIGhZ3WU/) - Read More: [ai-web3-chatbot.md](the-ecosystem/ai-tools-and-applications/ai-web3-chatbot.md "mention"))
+* ChainGPT AI Chatbot ([Telegram](https://t.me/chaingptai_bot), Discord, [Web](https://app.gitbook.com/o/fTvkvEH3C5Wk9LTutCYV/s/rfpYYsoCgHxbOIGhZ3WU/) - Read More: [ai-web3-chatbot.md](the-ecosystem/ai-tools-and-applications/ai-generated-news/ai-web3-chatbot.md "mention"))
 * AI NFT Generator ([Visit App](https://nft.chaingpt.org) - Read More: [ai-nft-generator.md](the-ecosystem/ai-tools-and-applications/ai-nft-generator.md "mention"))
-* AI-Generated News ([Visit App](https://app.chaingpt.org/news) - Read More: [ai-generated-news.md](the-ecosystem/ai-tools-and-applications/ai-generated-news.md "mention"))
+* AI-Generated News ([Visit App](https://app.chaingpt.org/news) - Read More: [ai-generated-news](the-ecosystem/ai-tools-and-applications/ai-generated-news/ "mention"))
 * Smart-Contracts Generator ([Visit App](https://app.chaingpt.org) -Read More: [ai-smart-contract-generator.md](the-ecosystem/ai-tools-and-applications/ai-smart-contract-generator.md "mention"))
 * Smart-Contracts Auditor ([Visit App](https://app.chaingpt.org) - Read More: [ai-smart-contract-auditor.md](the-ecosystem/ai-tools-and-applications/ai-smart-contract-auditor.md "mention"))
 * AI Trading Assistant ([Visit App](https://app.chaingpt.org) - Read More: [ai-trading-assistant.md](the-ecosystem/ai-tools-and-applications/ai-trading-assistant.md "mention"))
@@ -52,7 +52,7 @@ The ecosystem is backed by the $CGPT utility token, the infrastructure's backbon
 [Website](https://www.chaingpt.org/) | [Crypto AI Hub](https://app.chaingpt.org/) | [AI NFT Generator](https://nft.chaingpt.org/) | [ChainGPT Pad](https://pad.chaingpt.org/) | [AI-Generated News](https://app.chaingpt.org/news) | [ChainGPT DAO](https://dao.chaingpt.org/) | [$CGPT Staking](https://staking.chaingpt.org/) | [Blog](https://www.chaingpt.org/blog) | [Brand-Kit](https://www.chaingpt.org/brand-kit) |&#x20;
 
 **Social Media Links - Join Our Community:**\
-[Twitter](https://twitter.com/Chain\_GPT) | [Pad Twitter](https://twitter.com/chaingpt\_pad) | [Telegram Group](https://t.me/chaingpt) | [Telegram Channel](https://t.me/chaingptnews) | [Discord](https://discord.gg/chaingpt) | [CMC](https://coinmarketcap.com/community/profile/ChainGPT/) | [Youtube](https://www.youtube.com/@ChainGPT) | [Instagram](https://instagram.com/ChainGPTAI) | [Medium](https://medium.com/@chaingpt) | [Linkedin](https://www.linkedin.com/company/chaingpt) |
+[Twitter](https://twitter.com/Chain_GPT) | [Pad Twitter](https://twitter.com/chaingpt_pad) | [Telegram Group](https://t.me/chaingpt) | [Telegram Channel](https://t.me/chaingptnews) | [Discord](https://discord.gg/chaingpt) | [CMC](https://coinmarketcap.com/community/profile/ChainGPT/) | [Youtube](https://www.youtube.com/@ChainGPT) | [Instagram](https://instagram.com/ChainGPTAI) | [Medium](https://medium.com/@chaingpt) | [Linkedin](https://www.linkedin.com/company/chaingpt) |
 
 ***
 

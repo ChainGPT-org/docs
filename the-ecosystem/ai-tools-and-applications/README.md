@@ -2,16 +2,16 @@
 
 
 
-{% content-ref url="ai-web3-chatbot.md" %}
-[ai-web3-chatbot.md](ai-web3-chatbot.md)
+{% content-ref url="ai-generated-news/ai-web3-chatbot.md" %}
+[ai-web3-chatbot.md](ai-generated-news/ai-web3-chatbot.md)
 {% endcontent-ref %}
 
 {% content-ref url="ai-nft-generator.md" %}
 [ai-nft-generator.md](ai-nft-generator.md)
 {% endcontent-ref %}
 
-{% content-ref url="ai-generated-news.md" %}
-[ai-generated-news.md](ai-generated-news.md)
+{% content-ref url="ai-generated-news/" %}
+[ai-generated-news](ai-generated-news/)
 {% endcontent-ref %}
 
 {% content-ref url="ai-smart-contract-generator.md" %}
