@@ -1,6 +1,7 @@
 ---
 description: Facilitating the exchange of generative ideas
 hidden: true
+noIndex: true
 ---
 
 # Prompt Marketplace
