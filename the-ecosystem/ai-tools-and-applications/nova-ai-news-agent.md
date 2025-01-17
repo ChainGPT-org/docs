@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Nova AI News Agent
 
 {% hint style="info" %}
