@@ -20,7 +20,7 @@ ChainGPT has developed a generative AI model that's neatly nestled into an intui
 
 ### Introduction
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 NFTs (Non-Fungible Tokens) have revolutionized the world of on-chain art, enabling artists, communities, and businesses to create and monetize unique digital assets. However, the traditional process of manually creating NFT collections can be time-consuming, expensive, and challenging.&#x20;
 
@@ -57,7 +57,7 @@ That's it! You can create unique and captivating NFTs with just a few simple ste
 
 ### Marketplace Features
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Overview**
 

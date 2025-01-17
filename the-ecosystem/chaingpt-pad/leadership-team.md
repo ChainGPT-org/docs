@@ -4,7 +4,7 @@ description: The leadership team of ChainGPT Pad!
 
 # Leadership Team
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 _Bringing their extensive industry expertise in Web3 and launchpads in particular, five brilliant minds have come aboard ChainGPT's management team to spearhead the success of the IDO launchpad._
 
