@@ -5,20 +5,26 @@ hidden: true
 # Nova AI News Agent
 
 {% hint style="info" %}
-Web:[ https://app.chaingpt.org/](https://app.chaingpt.org/)news | Telegram:[ https://t.me/ChainGPT](https://t.me/ChainGPT) | [Discord](https://discord.gg/chaingpt)
+Follow Nova on X -> [https://x.com/ChainGPTAINews](https://x.com/ChainGPTAINews)
 
 
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
 
-## Nova AI Agent - The New On-Chain X News Reporter
+## [Nova AI Agent ](https://x.com/ChainGPTAINews)- The New On-Chain X News Reporter
 
 ### Overview
 
 The ChainGPT Nova AI Agent represents a new benchmark in how Web3 communities stay informed. As a product of ChainGPT’s extensive expertise in AI technology, Nova exemplifies our commitment to equipping users with tools that are precise, efficient, and indispensable. At ChainGPT, we continuously innovate to remain at the forefront of AI-driven solutions, ensuring our community thrives in the fast-evolving world of decentralized technology.
 
-Nova is not just another news aggregator. It is an advanced, AI-powered assistant that combines the power of real-time data collection with deep analytical processing to deliver critical Web3 updates. By leveraging our proprietary Artificial Intelligence Virtual Machine (AIVM), Nova operates with unparalleled efficiency, accuracy, and scalability. Whether tracking blockchain updates, DeFi protocols, or NFT markets, Nova ensures users have the insights they need to navigate the complexities of Web3.
+
+
+Follow Nova on X -> [https://x.com/ChainGPTAINews](https://x.com/ChainGPTAINews)
+
+
+
+Nova is not just another news aggregator. It is an advanced, AI-powered assistant that combines the power of real-time data collection with deep analytical processing to deliver critical Web3 updates. Whether tracking blockchain updates, DeFi protocols, or NFT markets, Nova ensures users have the insights they need to navigate the complexities of Web3.
 
 As part of ChainGPT’s expanding ecosystem, Nova reinforces our mission to lead in AI-powered tools for decentralized systems. It reflects our relentless drive to transform how users interact with blockchain technology, delivering insights that empower decision-making at every level—from individual enthusiasts to institutional stakeholders.
 
@@ -29,8 +35,6 @@ As part of ChainGPT’s expanding ecosystem, Nova reinforces our mission to lead
 Nova is a specialized AI agent designed to provide verified and timely Web3 news. It continuously monitors and analyzes developments across blockchains, social media platforms, and trusted news sources. By filtering, fact-checking, and presenting key stories, Nova simplifies the process of staying informed in an ever-changing digital environment.
 
 #### How Nova Works
-
-Nova’s operations are powered by ChainGPT’s AIVM, enabling it to perform complex tasks with precision and speed. The AI Agent operates in three streamlined stages:
 
 1. Scans and Collects: Nova actively searches for news across social media, blockchain activity, and Web3-specific platforms. Its broad-reaching scope ensures no significant development is missed.
 2. Processes Information: Leveraging advanced AI filters, Nova discards irrelevant or low-value content, prioritizing updates that matter most to the Web3 community.
@@ -72,7 +76,6 @@ Nova AI Agent distinguishes itself by combining technical prowess with a deep un
 * Accuracy: Nova’s fact-checking ensures every update is reliable.
 * Speed: Real-time updates allow users to act on information as it happens.
 * Comprehensive Coverage: From blockchain to NFTs, Nova covers every critical aspect of the Web3 ecosystem.
-* Scalability: Powered by AIVM, Nova handles large-scale data processing without compromising on performance.
 * User Focus: Nova’s reports are designed to be actionable, aligning with the priorities of both casual users and industry professionals.
 
 ***
@@ -105,7 +108,7 @@ Stay informed with the [ChainGPT Nova AI Agent](https://x.com/ChainGPTAINews) an
 
 Nova is readily accessible across multiple platforms, providing tailored experiences for different user needs:
 
-* Follow on Twitter (@ChainGPTAINews): Stay updated with quick, real-time news.
+* Follow on Twitter ([@ChainGPTAINews](https://x.com/ChainGPTAINews)): Stay updated with quick, real-time news.
 * Explore Binance Square: Dive deeper into detailed articles and market reports.
 * Access ChainGPT Crypto AI Hub: Gain in-depth insights and exclusive content tailored for the ChainGPT community.
 
