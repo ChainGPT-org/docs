@@ -51,6 +51,7 @@
 
 ## Exchanges
 
+* [Binance](https://www.binance.com/en/trade/CGPT_USDT)
 * [KuCoin](https://www.kucoin.com/trade/CGPT-USDT)
 * [KyberSwap](https://kyberswap.com/swap/bnb/usdt-to-cgpt)
 * [HTX (Huobi)](https://www.htx.com/en-us/trade/cgpt_usdt?invite_code=865b8223)
