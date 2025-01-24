@@ -8,9 +8,9 @@ To use the API key:
 2. Paste the generated API key in the placeholder “Your ChainGPT API key”.
 
 ```javascript
-import { GeneralChat } from '@chaingpt/smartcontractgenerator';
+import { SmartContractGenerator } from '@chaingpt/smartcontractgenerator';
 
-const generalchat = new GeneralChat({
+const smartcontractgenerator = new SmartContractGenerator({
   apiKey: 'Your ChainGPT API Key',
 });
 
