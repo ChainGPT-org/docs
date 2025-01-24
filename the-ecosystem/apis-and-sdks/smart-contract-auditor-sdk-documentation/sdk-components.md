@@ -8,19 +8,19 @@ To use the API key:
 2. Paste the generated API key in the “Your ChainGPT API key” placeholder.
 
 ```javascript
-import { GeneralChat } from '@chaingpt/smartcontractauditor';
+import { SmartContractGenerator } from "@chaingpt/smartcontractgenerator";
 
-const generalchat = new GeneralChat({
-  apiKey: 'Your ChainGPT API Key',
+const smartcontractgenerator = new SmartContractGenerator({
+    apiKey: 'Your ChainGPT API Key',
 });
 
 async function main() {
-  const stream = await generalchat.createChatStream({
-    question: 'Explain quantum computing in simple terms',
-    chatHistory: "off"
-  });
-  stream.on('data', (chunk: any) => console.log(chunk.toString()));
-  stream.on('end', () => console.log("Stream ended"));
+    const stream = await smartcontractgenerator.createSmartContractStream({
+        question: 'Write a smart contract that counts. It will have two functions.',
+        chatHistory: "off"
+    });
+    stream.on('data', (chunk: any) => console.log(chunk.toString()));
+    stream.on('end', () => console.log("Stream ended"));
 }
 
 main();
