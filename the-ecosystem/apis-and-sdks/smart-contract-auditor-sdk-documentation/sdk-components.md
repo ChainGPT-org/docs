@@ -8,14 +8,14 @@ To use the API key:
 2. Paste the generated API key in the “Your ChainGPT API key” placeholder.
 
 ```javascript
-import { SmartContractGenerator } from "@chaingpt/smartcontractgenerator";
+import { SmartContractAuditor } from "@chaingpt/smartcontractauditor";
 
-const smartcontractgenerator = new SmartContractGenerator({
+const smartcontractauditor = new SmartContractAuditor({
     apiKey: 'Your ChainGPT API Key',
 });
 
 async function main() {
-    const stream = await smartcontractgenerator.createSmartContractStream({
+    const stream = await smartcontractauditor.createSmartContractStream({
         question: 'Write a smart contract that counts. It will have two functions.',
         chatHistory: "off"
     });
@@ -36,7 +36,7 @@ We provide TypeScript/ JavaScript libraries with support for Node.js. Install it
 ```
 npm install --save @chaingpt/smartcontractauditor
 # or
-yarn add smartcontractgenerator
+yarn add smartcontractauditor
 ```
 
 
