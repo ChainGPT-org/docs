@@ -131,6 +131,7 @@
   * [Email Marketeer](misc/work-with-us/email-marketeer.md)
   * [Sr. InfoSec Engineer](misc/work-with-us/sr.-infosec-engineer.md)
   * [Graphic Designer (Social Media and Branding)](misc/work-with-us/graphic-designer-social-media-and-branding.md)
+  * [HR and Recruitment Coordinator Role](misc/work-with-us/hr-and-recruitment-coordinator-role.md)
 * [Social Links](misc/social-links/README.md)
   * [Twitter AI](https://twitter.com/Chain_GPT)
   * [Twitter ChainGPT Pad](https://x.com/ChainGPT_Pad)
