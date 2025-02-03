@@ -92,7 +92,7 @@ The AI Agent monitors emerging memecoins and community-driven projects. It provi
 
 
 
-<figure><img src="../../.gitbook/assets/unnamed (4).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2025-02-03 15.49.41.jpg" alt=""><figcaption></figcaption></figure>
 
 ### The Unique Value Proposition
 
