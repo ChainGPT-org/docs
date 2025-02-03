@@ -38,7 +38,7 @@ Nova is a specialized AI agent designed to provide verified and timely Web3 news
 
 This robust workflow allows Nova to deliver the most relevant, accurate, and timely updates.
 
-<figure><img src="../../.gitbook/assets/01. CGPT Main Announcements - Rectangle (6).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/01. CGPT Main Announcements - Rectangle (6) (1).jpg" alt=""><figcaption></figcaption></figure>
 
 ### Key Features and Functionalities
 
