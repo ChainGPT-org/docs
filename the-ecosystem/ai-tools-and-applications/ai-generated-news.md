@@ -87,8 +87,6 @@ This is the first of its kind. A Twitter news agent delivering Web3 headlines di
 
 Be sure to check out [Nova AI News Agent](https://x.com/ChainGPTAINews) for yourself!
 
-####
-
 <figure><img src="../../.gitbook/assets/cgpt-happy-holidays (1).jpg" alt=""><figcaption></figcaption></figure>
 
 ### Start Using AI-Powered News Today
