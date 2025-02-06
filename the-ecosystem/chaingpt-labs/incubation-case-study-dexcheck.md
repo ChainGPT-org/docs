@@ -7,7 +7,7 @@ description: >-
 
 # Incubation Case Study: DexCheck
 
-<figure><img src="../../.gitbook/assets/Dexcheck.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Xnip2025-02-06_11-19-37.jpg" alt=""><figcaption></figcaption></figure>
 
 ### What is DexCheck? <a href="#ff4b" id="ff4b"></a>
 

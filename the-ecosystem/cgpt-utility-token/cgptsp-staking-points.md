@@ -4,7 +4,7 @@ description: ChainGPT Token Staking Points
 
 # CGPTsp (Staking Points)
 
-<figure><img src="../../.gitbook/assets/CGPT(sp).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Xnip2025-02-06_11-21-06.jpg" alt=""><figcaption></figcaption></figure>
 
 ### What are CGPTsp?
 
