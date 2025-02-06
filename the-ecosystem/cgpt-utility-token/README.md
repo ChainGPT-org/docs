@@ -4,7 +4,7 @@ description: ChainGPT's native utility token
 
 # CGPT Utility Token
 
-<figure><img src="../../.gitbook/assets/$CGPT Trending (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Xnip2025-02-06_11-18-12.jpg" alt=""><figcaption></figcaption></figure>
 
 **Contract Address**: ([Certik Audit](https://www.certik.com/projects/chaingpt)) ([Hacken Audit](https://hacken.io/audits/chaingpt/))\
 **BSC (**&#x6E;ativ&#x65;**)**`0x9840652DC04fb9db2C43853633f0F62BE6f00f98`\
