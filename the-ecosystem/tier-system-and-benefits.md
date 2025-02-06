@@ -4,7 +4,7 @@ description: ChainGPT's Four Tier Membership Structure
 
 # Tier System & Benefits
 
-<figure><img src="../.gitbook/assets/Partnership announcement  [Template] (1).gif" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Xnip2025-02-06_11-23-37.jpg" alt=""><figcaption></figcaption></figure>
 
 The ChainGPT ecosystem has implemented a four-tiered system. This structure aims to give every $CGPT token holder an equal voice, regardless of their token count. Moreover, it includes rewards suitable for individuals of varied financial backgrounds.
 
