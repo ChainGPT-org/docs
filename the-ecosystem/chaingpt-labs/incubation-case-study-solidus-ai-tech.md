@@ -45,7 +45,7 @@ Through our incubator program's mentorship network, we opened doors and forged r
 
 <figure><img src="https://lh6.googleusercontent.com/S-5ZXt-8oJlT4B0wdEuPEFEuSE0hjNB-Sw-S_kldMpLYmkY42xsmsaYzVQxaIcflhQIa-1-9XbfXuwrMu0qQqnSEfkkMrd4EbodXPTggzcaSfxyKnItUQ1T0K0MAHprHrwQpjkcz2PUAMPT-aOl7Gqm0wA=s2048" alt=""><figcaption><p>Solidus AI Tech Website Before</p></figcaption></figure>
 
-<figure><img src="https://lh4.googleusercontent.com/vCKBuJD6ZTC0dMlPaUFRs_MULawV1Q3WFTua3dG1Pj2EXsvVnZM29OwuBsiyqLG9UC0bHEmmuKWGwEdSTWpQ2ecyhaLSddAMdwSut-O8tMBWTpLukvPClC-PGwlmuSWL68Oas0tGVLKJm0n9LFdcaIRk5A=s2048" alt=""><figcaption><p>Solidus AI Tech Website After</p></figcaption></figure>
+<figure><img src="https://lh4.googleusercontent.com/vCKBuJD6ZTC0dMlPaUFRs_MULawV1Q3WFTua3dG1Pj2EXsvVnZM29OwuBsiyqLG9UC0bHEmmuKWGwEdSTWpQ2ecyhaLSddAMdwSut-O8tMBWTpLukvPClC-PGwlmuSWL68Oas0tGVLKJm0n9LFdcaIRk5A=s2048" alt="" width="563"><figcaption><p>Solidus AI Tech Website After</p></figcaption></figure>
 
 * **Partner connections:**\
   BNB Chain, Kairon Labs, Kyber, ApeSwap, Thena, BiSwap, KCC, OKX Chain, Castrum, Unicrypt, GoPlus, Spicy Capital, FounderHeads, Ferrum, Decubate, Seedify, Star Protocol, Coinvestor, BitPanda, Baby Doge, zkSync, Laika AI, AITech, TaskOn, SpaceID, DotBit, ChainPort, PancakeSwap, AirNFTs, V3 Games, Fincake, chappyz, DCT, Metaverse, Openfabric, omnia, caduceus, Cryptomeda, HyperGPT, Open World, X-Metaverse, Polygon, Vauld, Cryptoiz, GameBoy, Karmaverse, Coveo Qubit, Samurai Versus,iGAMES, Acacia Digital, Indacoin, Born To Die, EDSX, Crowdcreate, Goldfingr, DexCheck, Brandless PH, ELLIPAL, Carbon, Mises, Plena, Assetux, CertiK.
