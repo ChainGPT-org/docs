@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Business Development Representative
 
 **Location:** Remote

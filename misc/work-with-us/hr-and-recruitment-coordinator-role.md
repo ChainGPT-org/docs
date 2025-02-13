@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # HR and Recruitment Coordinator Role
 
 Location: Remote\

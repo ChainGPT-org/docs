@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Sr. InfoSec Engineer
 
 **Location:** Remote

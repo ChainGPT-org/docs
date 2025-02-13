@@ -49,7 +49,11 @@ Leveraging our vibrant community, we were pollinating their social platforms by 
 
 <figure><img src="https://lh6.googleusercontent.com/k1PCJwLiu3v649yPTm3a6GVRsSFgxNyk_TscZ5Z-EfLz0zImc6BGj9B-N5QpNvMOtuBdH6dWfOnYxijcGZWoeGC7uLtWm_87IqRoki4ODSmPvA3zx9Ih6VjEnKatbQkLrBlPZTSyNh-AcKw6eIAuJRQRmQ=s2048" alt=""><figcaption><p>Dexcheck Website Before</p></figcaption></figure>
 
+<figure><img src="../../.gitbook/assets/before.webp" alt=""><figcaption></figcaption></figure>
+
 <figure><img src="https://lh5.googleusercontent.com/IUKi3pnPPZJT8ENFmZqBSnx2xxHKLMfZHjfJ5UO1Rj6EFVBphzc6Jlm2sNNeu-fX08NJp4Aesvl7YoQsCjmGSyfe61KlgWrnHb2ZiIQRXp9jQytLMXVA7I6G--vMBIU3zttEdQvV7Zn_D5SAWWWkVL_bng=s2048" alt=""><figcaption><p>DexCheck Website After</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/after.webp" alt=""><figcaption></figcaption></figure>
 
 * **Partner connections:**\
   BNB Chain, Kairon Labs, Kyber, ApeSwap, Thena, BiSwap, KCC, OKX Chain, Castrum, Unicrypt, GoPlus, Spicy Capital, FounderHeads, Ferrum, Decubate, Seedify, Star Protocol, Coinvestor, BitPanda, Baby Doge, zkSync, Laika AI, AITech, TaskOn, SpaceID, DotBit, ChainPort, PancakeSwap, AirNFTs, V3 Games, Fincake, chappyz, DCT, Metaverse, Openfabric, omnia, caduceus, Cryptomeda, HyperGPT, Open World, X-Metaverse, Polygon, Vauld, Cryptoiz, GameBoy, Karmaverse, Coveo Qubit, Samurai Versus,iGAMES, Acacia Digital, Indacoin, Born To Die, EDSX, Crowdcreate, Goldfingr, Brandless PH, ELLIPAL, Carbon, Mises, Plena, Assetux, certik, Synthswap, LFGSwap, NeoCortex AI, UNCX Network, CURATE, TrustFi, SPACE ID, OKT Chain, Landshare, Bitquery, KuCoin, DxSale Network, Bitgert, HorizonDEX, Base, Cronos, Fantom, AVStar, Herd Ventures.
