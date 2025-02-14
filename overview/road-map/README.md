@@ -2,8 +2,8 @@
 
 ### **Active:**
 
-{% content-ref url="2024-q3-q4.md" %}
-[2024-q3-q4.md](2024-q3-q4.md)
+{% content-ref url="2025-q1-q2.md" %}
+[2025-q1-q2.md](2025-q1-q2.md)
 {% endcontent-ref %}
 
 ### **Upcoming:**
@@ -13,6 +13,10 @@
 {% endcontent-ref %}
 
 ### Completed:
+
+{% content-ref url="2024-q3-q4.md" %}
+[2024-q3-q4.md](2024-q3-q4.md)
+{% endcontent-ref %}
 
 {% content-ref url="2024-q1-q2.md" %}
 [2024-q1-q2.md](2024-q1-q2.md)
