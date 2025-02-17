@@ -97,6 +97,7 @@
   * [Solana IDO Participation - Guide](the-ecosystem/chaingpt-pad/solana-ido-participation-guide/README.md)
   * [FAQ](the-ecosystem/chaingpt-pad/faq.md)
   * [KOLs Program (Ambassadors)](the-ecosystem/chaingpt-pad/kols-program-ambassadors.md)
+  * [ChainGPT Pad Giveaways and Launchdrops: Technical Overview](the-ecosystem/chaingpt-pad/chaingpt-pad-giveaways-and-launchdrops-technical-overview.md)
 * [DegenPad](the-ecosystem/degenpad/README.md)
   * [Introduction to DegenPad](the-ecosystem/degenpad/introduction-to-degenpad.md)
   * [Tier System](the-ecosystem/degenpad/tier-system/README.md)
