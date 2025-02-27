@@ -17,6 +17,8 @@ ChainGPT's AI Model has been fed all of the information about smart contract cod
 * **Speed of Iteration:** ChainGPT can create a unique smart contract with just a few prompts. Depending on the complexity of the smart contract code, it is within reason to anticipate creation times sub 1 minute.
 * **Low Capital Expenditure:** The ChainGPT Smart Contract Generator has a fixed, ultra-low (per call/prompt) cost. Falling into the sub $1 cost bracket, generating an intelligent contract will now become accessible to a new generation of developers and entrepreneurs who do not have prior experience.
 * **Broad Contract Types:** The ChainGPT Smart Contract Generator can create a wide range of application and logic types, from simpler, more common things, such as fungible tokens, to more complex and sophisticated things, such as AMM DEXs for NFTs.
+* **Multi-Chain Compatibility**: Deploy your smart contracts across multiple different chains, including Berachain, BNB Chain, Aribitrum, Avalanche and Ethereum and many more.&#x20;
+* **User-Friendly Interface**: Users can simply compile and deploy their smart contracts via the chatbot feature for a seamless experience. This allows beginners who are starting out with the basics to begin generating smart contracts.
 
 {% hint style="info" %}
 ### Accessing the Smart Contract Generator:
