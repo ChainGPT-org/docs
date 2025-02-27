@@ -38,4 +38,8 @@
 [kols-program-ambassadors.md](kols-program-ambassadors.md)
 {% endcontent-ref %}
 
+{% content-ref url="chaingpt-pad-giveaways-and-launchdrops-technical-overview.md" %}
+[chaingpt-pad-giveaways-and-launchdrops-technical-overview.md](chaingpt-pad-giveaways-and-launchdrops-technical-overview.md)
+{% endcontent-ref %}
+
 [**Disclaimer**](../../misc/legal-docs/disclaimer.md)

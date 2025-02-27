@@ -8,8 +8,6 @@ description: An added layer of Pre-emptive security for Smart Contracts
 **Web**: [https://app.chaingpt.org/](https://app.chaingpt.org/) | **Telegram**: [https://t.me/ChainGPT](https://t.me/ChainGPT) | [**Discord**](https://discord.gg/chaingpt)
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Screenshot from https://app.chaingpt.org</p></figcaption></figure>
-
 In the decentralized digital economy, code is law. Mistakes are to be avoided at all costs. The permanence of data that has materialized in software with the advent of blockchain and distributed ledger technology has amplified the importance of security in open, global economic settings.
 
 Accuracy in developing smart contracts or decentralized applications could be the difference between a catastrophic bug exploit costing users billions and the establishment of powerful neutral intermediaries. Every year, the amount of capital expended on providing security to digital assets grows. Under the premise that society will only continue to ascend into a more digital version of itself, the need to secure smart contracts will continue to grow.&#x20;
@@ -17,6 +15,8 @@ Accuracy in developing smart contracts or decentralized applications could be th
 ChainGPT has developed a Smart Contract Auditor that will take code as input and run a multitude of evaluations based on the vast history of the crypto/blockchain/web3 industry's information set and detect potential dangers or anomalies before having to deploy contracts.
 
 **Auditing Smart-Contracts was never easier!**
+
+
 
 ### Benefits:
 

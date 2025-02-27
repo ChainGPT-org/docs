@@ -4,13 +4,15 @@
 **Web**: [https://app.chaingpt.org/](https://app.chaingpt.org/) | **Telegram**: [https://t.me/ChainGPT](https://t.me/ChainGPT) | [**Discord**](https://discord.gg/chaingpt)
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/IMG_20250227_110932_804.jpg" alt=""><figcaption></figcaption></figure>
 
 Smart contracts are the fundamental building blocks of decentralized applications. The development of Smart contracts is the cornerstone upon which Web3 relies to bring the vision of a decentralized, digital economy to fruition.&#x20;
 
 Coding a smart contract from scratch is a labor-intensive, detail-oriented process that commonly includes extensive time expenditures in the quality assurance processes before deployment.  Aimed at accelerating innovation and improving prototyping quality by order of magnitude, ChainGPT has tuned the capabilities of its AI model to create smart contracts on demand.
 
 ChainGPT's AI Model has been fed all of the information about smart contract code, including best security practices, libraries, samples of standardization, effective live contracts, failures, and a slew of micro-nuances (such as solidity syntax).&#x20;
+
+<figure><img src="../../.gitbook/assets/spotlight on dappbay.jpg" alt=""><figcaption></figcaption></figure>
 
 ### Benefits:
 
