@@ -18,7 +18,7 @@ The  ChainGPT Smart Contract Auditor takes code as input and run a multitude of 
 
 **Auditing Smart-Contracts was never easier!**
 
-<figure><img src="../../.gitbook/assets/spotlight on dappbay (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Xnip2025-02-27_13-23-54.jpg" alt=""><figcaption></figcaption></figure>
 
 ### Benefits:
 
