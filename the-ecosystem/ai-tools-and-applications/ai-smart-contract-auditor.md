@@ -8,7 +8,7 @@ description: An added layer of Pre-emptive security for Smart Contracts
 **Web**: [https://app.chaingpt.org/](https://app.chaingpt.org/) | **Telegram**: [https://t.me/ChainGPT](https://t.me/ChainGPT) | [**Discord**](https://discord.gg/chaingpt)
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/01.Main Template [ChainGPT &#x26; Pad Canva File] (11).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/01.Main Template [ChainGPT &#x26; Pad Canva File] (11) (1).jpg" alt=""><figcaption></figcaption></figure>
 
 In Web3, code is law. Mistakes are to be avoided at all costs. The permanence of data that has materialized in software with the advent of blockchain and distributed ledger technology has amplified the importance of security in open, global economic settings.
 
