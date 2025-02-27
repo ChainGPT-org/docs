@@ -8,15 +8,17 @@ description: An added layer of Pre-emptive security for Smart Contracts
 **Web**: [https://app.chaingpt.org/](https://app.chaingpt.org/) | **Telegram**: [https://t.me/ChainGPT](https://t.me/ChainGPT) | [**Discord**](https://discord.gg/chaingpt)
 {% endhint %}
 
-In the decentralized digital economy, code is law. Mistakes are to be avoided at all costs. The permanence of data that has materialized in software with the advent of blockchain and distributed ledger technology has amplified the importance of security in open, global economic settings.
+<figure><img src="../../.gitbook/assets/01.Main Template [ChainGPT &#x26; Pad Canva File] (11).jpg" alt=""><figcaption></figcaption></figure>
+
+In Web3, code is law. Mistakes are to be avoided at all costs. The permanence of data that has materialized in software with the advent of blockchain and distributed ledger technology has amplified the importance of security in open, global economic settings.
 
 Accuracy in developing smart contracts or decentralized applications could be the difference between a catastrophic bug exploit costing users billions and the establishment of powerful neutral intermediaries. Every year, the amount of capital expended on providing security to digital assets grows. Under the premise that society will only continue to ascend into a more digital version of itself, the need to secure smart contracts will continue to grow.&#x20;
 
-ChainGPT has developed a Smart Contract Auditor that will take code as input and run a multitude of evaluations based on the vast history of the crypto/blockchain/web3 industry's information set and detect potential dangers or anomalies before having to deploy contracts.
+The  ChainGPT Smart Contract Auditor takes code as input and run a multitude of evaluations based on the vast history of the crypto/blockchain/Web3 industry's information set and detect potential dangers or anomalies before having to deploy contracts.
 
 **Auditing Smart-Contracts was never easier!**
 
-
+<figure><img src="../../.gitbook/assets/spotlight on dappbay (1).jpg" alt=""><figcaption></figcaption></figure>
 
 ### Benefits:
 
@@ -25,8 +27,6 @@ ChainGPT has developed a Smart Contract Auditor that will take code as input and
 * **Time-Efficient:** Audits are notoriously time-consuming. While the ChainGPT Smart Contract Auditor does not guarantee the same granularity and nuance as a cybersecurity expert, it is an incredible way to filter for fundamental errors within seconds. From code upload to prompting the request to conduct a thorough scan, it is simply a matter of a few minutes. In less than the time it takes the Bitcoin network to print a block, the ChainGPT Smart Contract Auditor can complete an analysis.
 * **Capital Efficient:** It is not uncommon for an essential security evaluation to run costs into the multiple thousands. ChainGPT's Auditor implements a simple, fixed cost (per call/prompt) model that decreases these costs by up to two orders of magnitude.&#x20;
 * **Cross-chain Safety**: The ChainGPT Smart Contract Auditor audits smart contracts deployed on multiple blockchains, including BNB Chain, Berachain, Ethereum, Arbitrum, Avalanche and many more. This provides options for our community and further enhances on-chain safety and due dilligence.
-
-
 
 {% hint style="info" %}
 ### Accessing the Auditor:
