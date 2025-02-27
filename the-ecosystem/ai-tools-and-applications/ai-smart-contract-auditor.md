@@ -24,6 +24,7 @@ ChainGPT has developed a Smart Contract Auditor that will take code as input and
 * **Additional Layer of Security:** The ChainGPT Smart Contract Auditor seamlessly integrates into a product's development workflow. It heightens the confidence level around a code's quality to help streamline DevOps.
 * **Time-Efficient:** Audits are notoriously time-consuming. While the ChainGPT Smart Contract Auditor does not guarantee the same granularity and nuance as a cybersecurity expert, it is an incredible way to filter for fundamental errors within seconds. From code upload to prompting the request to conduct a thorough scan, it is simply a matter of a few minutes. In less than the time it takes the Bitcoin network to print a block, the ChainGPT Smart Contract Auditor can complete an analysis.
 * **Capital Efficient:** It is not uncommon for an essential security evaluation to run costs into the multiple thousands. ChainGPT's Auditor implements a simple, fixed cost (per call/prompt) model that decreases these costs by up to two orders of magnitude.&#x20;
+* **Cross-chain Safety**: The ChainGPT Smart Contract Auditor audits smart contracts deployed on multiple blockchains, including BNB Chain, Berachain, Ethereum, Arbitrum, Avalanche and many more. This provides options for our community and further enhances on-chain safety and due dilligence.
 
 
 
