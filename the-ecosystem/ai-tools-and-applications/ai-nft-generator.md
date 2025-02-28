@@ -37,6 +37,16 @@ Following recent updates, the platform now supports a variety of crypto payments
 * Customizable and descriptive prompts for accurate outcomes
 * Affordable pricing structure
 
+### Supported Chains
+
+* Ethereum
+* BNB Chain
+* Solana&#x20;
+* Sonic&#x20;
+* Hedera
+* Arbitrum
+* Avalanche&#x20;
+
 ### Advanced Features
 
 * Crypto Payments (USDT, USDC, BTCB, ETH, and BNB)
