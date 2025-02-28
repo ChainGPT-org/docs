@@ -8,9 +8,13 @@ description: ChainGPT's Artificially Intelligent Non-Fungible Token Generator
 Interact with the ChainGPT AI NFT Generator here: [https://nft.chaingpt.org/](https://nft.chaingpt.org/)
 
 A limited version of our NFT Generator is also available on [Telegram](https://t.me/chaingptai_bot) & [Discord](https://discord.com/invite/sv2NfqSgVW).
+
+
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/photo_2023-08-17_18-52-19.jpg" alt=""><figcaption></figcaption></figure>
+##
+
+<figure><img src="../../.gitbook/assets/nft gen.jpg" alt=""><figcaption></figcaption></figure>
 
 ## AI NFT Generator&#x20;
 
