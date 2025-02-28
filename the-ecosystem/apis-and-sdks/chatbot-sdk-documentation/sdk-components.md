@@ -7,7 +7,7 @@ To use the API key:
 1. Execute the specified commands.
 2. Paste the generated API key in the placeholder “Your ChainGPT API key”.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Please add your API Key</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Please add your API Key</p></figcaption></figure>
 
 ```javascript
 import { GeneralChat } from '@chaingpt/generalchat';
