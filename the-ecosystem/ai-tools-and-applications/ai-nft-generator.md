@@ -12,8 +12,6 @@ A limited version of our NFT Generator is also available on [Telegram](https://t
 
 {% endhint %}
 
-##
-
 <figure><img src="../../.gitbook/assets/nft gen.jpg" alt=""><figcaption></figcaption></figure>
 
 ## AI NFT Generator&#x20;
