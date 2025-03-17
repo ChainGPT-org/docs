@@ -233,6 +233,31 @@ There is no set maximum. The capacity is based on a project-to-project basis. Ma
 
 </details>
 
+<details>
+
+<summary>Which blockchain(s) can I launch my IDO on?</summary>
+
+Here are the blockchains currently available to host your IDO on through ChainGPT Pad:\
+\
+\- Ethereum\
+\- Polygon\
+\- Solana\
+\- Arbitrum\
+\- Avalanche\
+\- BSC\
+\- Base\
+\- Zk-sync\
+\- Core\
+\- X Layer\
+\- Linea\
+\- Blast\
+\- Berachain\
+\- Sonic\
+\
+We are consistently updating this list to provide the best experience for projects on our platform!
+
+</details>
+
 \
 \---
 
