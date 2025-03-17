@@ -235,7 +235,7 @@ There is no set maximum. The capacity is based on a project-to-project basis. Ma
 
 <details>
 
-<summary>Which blockchain(s) can I launch my IDO on?</summary>
+<summary>Which blockchains are available to launch an IDO on?</summary>
 
 Here are the blockchains currently available to host your IDO on through ChainGPT Pad:\
 \
