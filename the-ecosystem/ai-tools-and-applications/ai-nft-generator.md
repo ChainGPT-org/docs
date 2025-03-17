@@ -48,7 +48,6 @@ Following recent updates, the platform now supports a variety of crypto payments
 * Hedera
 * Arbitrum
 * Avalanche&#x20;
-* HyperLiquid
 * Cronos
 
 ### Advanced Features
