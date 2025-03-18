@@ -1,6 +1,5 @@
 ---
 description: ChainGPT's text-based Web3 AI Chatbot
-hidden: true
 ---
 
 # AI Web3 Chatbot
@@ -11,15 +10,13 @@ hidden: true
 
 <figure><img src="../../.gitbook/assets/Partnership announcement  [Template].gif" alt=""><figcaption></figcaption></figure>
 
-## Your Friendly Web3 Powered Chatbot
+### **Your Friendly Web3 Powered Chatbot**
 
-Chatbots have become the primary gateway to interact with AI-driven ecosystems. ChainGPT's Web3 AI Chatbot, powered by the Artificial Intelligence Virtual Machine (AIVM), redefines the chatbot experience by leveraging domain-specific AI models designed for the decentralized world of Web3, blockchain, and crypto.
+Chatbots have become the primary gateway to interact with AI-driven ecosystems. ChainGPT's Web3 AI Chatbot is designed specifically for the decentralized world of Web3, blockchain, and crypto. It provides users with real-time insights, technical knowledge, and AI-powered automation.
 
-AIVM acts as the backbone for the chatbot, providing scalable computing power, enhanced learning capabilities, and on-chain autonomy. This ensures the chatbot can process complex queries, interact with smart contracts, and continuously evolve by tapping into decentralized data sources. By integrating AIVM, the chatbot gains the ability to operate with greater precision, efficiency, and privacy, making it a crucial tool for navigating the fast-paced Web3 environment.
+Unlike generic AI chatbots, ChainGPT's AI Web3 Chatbot is fine-tuned for crypto and blockchain applications. It leverages advanced large language models (LLMs) trained on industry-specific data, ensuring accurate, contextual, and insightful responses for traders, developers, and Web3 enthusiasts.
 
-More than a conversational agent, this chatbot is an autonomous intelligence layer that bridges users with the expansive, evolving landscape of decentralized finance, NFTs, and blockchain protocols. Whether you're an individual trader or part of a Web3 enterprise, ChainGPT's chatbot delivers insights and executes tasks within seconds.
-
-Built on the AIVM infrastructure, the chatbot taps into live blockchain data streams, market trends, and technical documentation, offering unparalleled knowledge and precision. As the decentralized space grows, so does the AI—adapting in real time to reflect the latest in Web3.
+More than a conversational agent, this chatbot serves as a smart AI layer that connects users to decentralized finance (DeFi), NFTs, smart contracts, and market analytics. Whether you're an individual trader or a Web3 enterprise, ChainGPT’s chatbot delivers expert-level insights and streamlines blockchain interactions—all within seconds.
 
 <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -83,18 +80,9 @@ Dashboard: [https://app.chaingpt.org/](https://app.chaingpt.org/)
 
 </details>
 
-### Built on ChainGPT's AIVM: The Future of AI in Web3
+### Try the ChainGPT AI Chatbot Today!
 
-AIVM powers the chatbot, enabling:
-
-* On-Chain Autonomy: The chatbot interacts directly with smart contracts to execute trades, manage NFTs, and more—all on-chain.
-* Zero-Knowledge Processing: Ensuring user queries and data interactions remain private and secure.
-* Decentralized Updates: The chatbot evolves as the blockchain ecosystem changes, consistently improving through decentralized learning protocols.
-* Scalable Performance: AIVM's computing power allows the chatbot to handle thousands of interactions simultaneously, ensuring uninterrupted service even during peak activity.
-
-
-
-Ready to experience the future of Web3 automation? Interact with [ChainGPT's Web3 AI Chatbot](https://app.chaingpt.org/) today.
+Ready to experience the future of Web3 automation? Get started with [ChainGPT's Web3 AI Chatbot](https://app.chaingpt.org/) today!
 
 \---
 
