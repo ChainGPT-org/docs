@@ -1,4 +1,4 @@
-# Product Manger
+# Product Manager
 
 Location: Remote
 

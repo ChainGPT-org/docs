@@ -130,7 +130,7 @@
 * [Work With Us](misc/work-with-us/README.md)
   * [Email Marketeer](misc/work-with-us/email-marketeer.md)
   * [Graphic Designer (Social Media and Branding)](misc/work-with-us/graphic-designer-social-media-and-branding.md)
-  * [Product Manger](misc/work-with-us/product-manger.md)
+  * [Product Manager](misc/work-with-us/product-manager.md)
 * [Social Links](misc/social-links/README.md)
   * [Twitter AI](https://twitter.com/Chain_GPT)
   * [Twitter ChainGPT Pad](https://x.com/ChainGPT_Pad)
