@@ -1,5 +1,6 @@
 ---
 description: ChainGPT's text-based Web3 AI Chatbot
+hidden: true
 ---
 
 # AI Web3 Chatbot
@@ -10,7 +11,7 @@ description: ChainGPT's text-based Web3 AI Chatbot
 
 <figure><img src="../../.gitbook/assets/Partnership announcement  [Template].gif" alt=""><figcaption></figcaption></figure>
 
-## Your Friendly Web3 AIVM Powered Chatbot
+## Your Friendly Web3 Powered Chatbot
 
 Chatbots have become the primary gateway to interact with AI-driven ecosystems. ChainGPT's Web3 AI Chatbot, powered by the Artificial Intelligence Virtual Machine (AIVM), redefines the chatbot experience by leveraging domain-specific AI models designed for the decentralized world of Web3, blockchain, and crypto.
 
@@ -91,9 +92,7 @@ AIVM powers the chatbot, enabling:
 * Decentralized Updates: The chatbot evolves as the blockchain ecosystem changes, consistently improving through decentralized learning protocols.
 * Scalable Performance: AIVM's computing power allows the chatbot to handle thousands of interactions simultaneously, ensuring uninterrupted service even during peak activity.
 
-### The Evolution of ChainGPT's AIVM Chatbots
 
-Currently in its Beta phase, the AIVM chatbot continues to grow. Daily iterations expand its knowledge base and refine its responses. As ChainGPT’s AIVM scales, the chatbot will autonomously manage on-chain assets, deploy decentralized governance proposals, and integrate deeper into DeFi protocols.
 
 Ready to experience the future of Web3 automation? Interact with [ChainGPT's Web3 AI Chatbot](https://app.chaingpt.org/) today.
 
