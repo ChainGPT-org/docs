@@ -30,16 +30,20 @@
 [flexible-refund-policy](flexible-refund-policy/)
 {% endcontent-ref %}
 
-{% content-ref url="faq.md" %}
-[faq.md](faq.md)
-{% endcontent-ref %}
-
 {% content-ref url="kols-program-ambassadors.md" %}
 [kols-program-ambassadors.md](kols-program-ambassadors.md)
 {% endcontent-ref %}
 
 {% content-ref url="chaingpt-pad-giveaways-and-launchdrops-technical-overview.md" %}
 [chaingpt-pad-giveaways-and-launchdrops-technical-overview.md](chaingpt-pad-giveaways-and-launchdrops-technical-overview.md)
+{% endcontent-ref %}
+
+{% content-ref url="delegate-staking-functionality.md" %}
+[delegate-staking-functionality.md](delegate-staking-functionality.md)
+{% endcontent-ref %}
+
+{% content-ref url="faq.md" %}
+[faq.md](faq.md)
 {% endcontent-ref %}
 
 [**Disclaimer**](../../misc/legal-docs/disclaimer.md)
