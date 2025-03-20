@@ -4,7 +4,7 @@ description: Delegate Staking on ChainGPT Pad
 
 # Delegate Staking Functionality
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2025-03-20 16.49.25.png" alt=""><figcaption></figcaption></figure>
 
 ## Overview
 
