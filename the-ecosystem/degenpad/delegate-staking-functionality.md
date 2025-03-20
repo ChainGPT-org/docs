@@ -4,7 +4,7 @@ description: Delegate Staking on DegenPad
 
 # Delegate Staking Functionality
 
-<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeqr8tS-S9I3d4WZNsHrznEJ2v86T7Ty6FEP5VZGl-IN-1sSRjibKxaS1zGCLQ7zbcn-8AB6oa0mFaBkYqgbl_BS9fd9FCnkyQXNhHML9Ny_-RxjA--dgSgCbCRcL3OqsY_8l6_?key=mzgEK5woNwWhUOgD00tOwiCX" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
 
 ## Overview
 
