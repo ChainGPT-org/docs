@@ -1,50 +1,55 @@
 # Getting Started
 
-## **Installation**
+### 1. INTRODUCTION
 
-To install the General Chatbot SDK, follow these steps:
+#### 1.1    Purpose and Scope of General Chatbot SDK
 
-1. **Create a Node Application**: Begin by setting up an application in Node.js.
-2. **Open Terminal or Command Prompt**:
-   * Use the terminal for Linux-based operating systems.
-   * Use the command prompt for Windows.
-3. **Run Installation Commands**: Execute the specific commands provided to install the SDK.
+Our general chatbot SDK (Software Development Kit) serves as a library/ docs that developers can use to build and integrate our general chatbot functionality into their applications, platforms, or services.&#x20;
 
-```
-pm install --save @chaingpt/generalchat
-#or
+#### 1.2    Audience of document / SDK
+
+This documentation is intended to provide a brief overview of General Chatbot SDK,  its features and usage guidelines for developers, software engineers, and system integrators who are using or planning to use our SDK.
+
+#### 1.3 Prerequisites
+
+Before using the SDK, ensure that you have the following:
+
+* Supported operating system  ( Windows, Linux etc.  having Node installed )
+* Development environment (IDE, Node etc. )
+* Access to necessary API keys&#x20;
+* Credits in the web application [https://app.chaingpt.org/](https://app.chaingpt.org/)
+
+<figure><img src="../../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
+
+### 2. Installation
+
+To install the SDK, follow the instructions, follow the steps below
+
+1. Create an application in Node
+2. Open terminal in linux based operating system and command prompt in windows
+3. Run following commands
+
+```shell
+npm install --save @chaingpt/generalchat
+# or
 yarn add generalchat
 ```
 
-## **Configuration**
+### 3. Configuration
 
-### **Credits System**
+* Credits System&#x20;
 
-* **Initial Setup**: Start by acquiring credits in the web application [https://app.chaingpt.org/](https://app.chaingpt.org/). These credits are necessary to create an API key and access the SDK functionalities.
-* **Usage and Deduction**: Credits will be deducted with each request using the SDK.
+User must start by having credits in the web-App  [https://app.chaingpt.org/](https://app.chaingpt.org/). These credits will allow users to create API key and access SDK. On each request made using SDK, credits shall be deducted.
 
-### **Setup API Key**
 
-* **Generating API Key**: Utilize the ChainGPT API SDK for authentication. In the web application, navigate to the API Dashboard and use the 'Create Secret Key' feature to generate and copy your API key.
 
-<figure><img src="https://lh7-us.googleusercontent.com/DkCb0arDB_K2KasqeW3cfDJ0GX7oRFCrGmT7lU8YcCeaOEPJtBPpOiMY7TE4lM319xnutqHI2LRsBqoUiHJ9laROTzD2b-l3ook0AZ4ujkVC8qYE4xyYipT_6H_dPVeSf_8wIInPD8K5Ju07YtubCFY" alt="" width="563"><figcaption></figcaption></figure>
+* Setup API Key
 
-* **Securing API Key**:
-  * It is crucial to secure your API keys to control access effectively.
-  * Avoid exposing the API keys in your code or public repositories.
-  * Store them in a secure location, and use environment variables or a secret management service for exposure to your application.
-  * This method ensures you do not need to hard-code them in your codebase, enhancing security.
+The ChainGPT API SDK uses API keys for authentication. In Web app , Go to API Dashboard module and generate an API Key using create secret key feature and copy.  &#x20;
 
-## Pricing
+<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfPhftjCj6HSdKNxKiNuiSwPdGruk6kEdFGqtnL3EdsYh98vZn8AKojMBggPoJjth19wMH8QKM4lRcbVVJghhDKzazIlXPFXGcqx8z8gKoMBpmb7MlFGTPI4cnVMLnP2A1-7DwHOw?key=BZ2FNEbHjC87wc5CO56IlqCS" alt=""><figcaption></figcaption></figure>
 
-The General Chatbot SDK from ChainGPT operates on a credit-based system. Each request made through the SDK deducts one credit from the user's account. This model facilitates a pay-per-use structure, ensuring that users only pay for what they need, allowing for both flexibility and scalability.&#x20;
-
-1. **Stream Response**: Each chat API request costs 1 Credit. Enabling chat history will result in an additional credit deduction.
-2. **BLOB Response**: Similar to Stream Response, each request deducts 1 Credit, with chat history also incurring an extra credit cost.
-
-Users can monitor and manage their credit usage via the [Webapp](https://app.chaingpt.org/), aligning with ChainGPT's user-centric approach to accessibility and transparency in service provision.&#x20;
-
-For additional details or to manage your credits, users should visit the ChainGPT [Webapp](https://app.chaingpt.org/).
+This is a relatively straightforward way to control access, but you must be vigilant about securing these keys. Avoid exposing the API keys in your code or in public repositories; instead, store them in a secure location. You should expose your keys to your application using environment variables or secret management service, so that you don't need to hard-code them in your codebase.
 
 ## Support
 

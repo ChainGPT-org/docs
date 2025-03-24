@@ -1,29 +1,27 @@
 # ChatBot SDK Documentation
 
-## **1. Introduction**
+### 1. INTRODUCTION
 
-### **1.1 Purpose and Scope of General Chatbot SDK**
+### 1.1 Purpose and Scope of General Chatbot SDK
 
-The General Chatbot SDK (Software Development Kit) is designed to empower developers by providing a comprehensive library and documentation. This SDK facilitates the integration of our advanced chatbot functionality into various applications, platforms, or services, enhancing their interactive capabilities.
+Our general chatbot SDK (Software Development Kit) serves as a library/ docs that developers can use to build and integrate our general chatbot functionality into their applications, platforms, or services.&#x20;
 
-### **1.2 Audience of the Document/SDK**
+### 1.2 Audience of document/SDK
 
-This documentation offers an overview of the General Chatbot SDK, including its features and usage guidelines. It is primarily intended for:
+This documentation is intended to provide a brief overview of General Chatbot SDK,  its features and usage guidelines for developers, software engineers, and system integrators who are using or planning to use our SDK.
 
-* Developers
-* Software Engineers
-* System Integrators currently use or plan to utilize our SDK for their projects.
+### 1.3 Prerequisites
 
-### **1.3 Prerequisites**
+Before using the SDK, ensure that you have the following:
 
-Before engaging with the SDK, ensure the following prerequisites are met:
+* Supported operating system  ( Windows, Linux etc.  having Node installed )
+* Development environment (IDE, Node etc. )
+* Access to necessary API keys&#x20;
+* Credits in the web application [https://app.chaingpt.org/](https://app.chaingpt.org/)
 
-* **Supported Operating System**: Compatibility with Windows, Linux, etc., with Node.js installed.
-* **Development Environment**: Access to an Integrated Development Environment (IDE), Node.js, etc.
-* **API Keys**: Acquisition of necessary API keys for seamless integration and functionality.
-* **Credits**: Credits are available in the web application [https://app.chaingpt.org/](https://app.chaingpt.org/addcredits).
+<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXf0-QF2zy0LwZcRRBVU5xiPQ9VWn3yWYAjXtrZMZR1xNKUzU8FFe4kc-pznKyX4Ss2K__-0xuVPhXHbguF6BGgju8QsqxMS4eLm49BBoBAz4ir7njsuOB3JlkT5xhtDS1aVgvb_YA?key=BZ2FNEbHjC87wc5CO56IlqCS" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (10).png" alt="" width="419"><figcaption></figcaption></figure>
+***
 
 
 

@@ -1,49 +1,22 @@
 # SDK Components
 
-## **API Key Usage**
+## API Key Usage
 
-To use the API key:
+The API supports retrieving responses in 2 Formats:
 
-1. Execute the specified commands.
-2. Paste the generated API key in the placeholder “Your ChainGPT API key”.
+1\. **Stream Response**\
+2\. **Blob response**
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Please add your API Key</p></figcaption></figure>
+Our SDK also provides an option to incorporate custom context, allowing clients to tailor the response to their specific requirements.\
+\
+The following cases illustrate how the API key can be utilized effectively.\
 
-```javascript
-import { GeneralChat } from '@chaingpt/generalchat';
 
-const generalchat = new GeneralChat({
-  apiKey: 'Your ChainGPT API Key',
-});
+### Stream Response
 
-async function main() {
-  const stream = await generalchat.createChatStream({
-    question: 'Explain quantum computing in simple terms',
-    chatHistory: "off"
-  });
-  stream.on('data', (chunk: any) => console.log(chunk.toString()));
-  stream.on('end', () => console.log("Stream ended"));
-}
+#### **Case 1: Simple General Chat (without Custom Context)**
 
-main();
-
-```
-
-## **3. SDK Components**
-
-### **3.1 Core Libraries**
-
-Our General Chatbot SDK offers TypeScript/JavaScript libraries compatible with Node.js. To install:
-
-1. Run the installation command.
-
-```
-npm install --save @chaingpt/generalchat
-# or
-yarn add generalchat
-```
-
-2. Use the library along with your secret key to execute further operations.
+To retrieve a response using the API's default settings, the following code snippet should be used. The user must input their API key, generated through the API dashboard, in the highlighted section.
 
 ```javascript
 import { GeneralChat } from '@chaingpt/generalchat';
@@ -55,25 +28,34 @@ const generalchat = new GeneralChat({
 async function main() {
   const stream = await generalchat.createChatStream({
     question: 'Explain quantum computing in simple terms',
-    chatHistory: "off"
+    chatHistory: "off", // Set to "on" to save chat history; otherwise, keep it "off"
   });
-  stream.on('data', (chunk: any) => console.log(chunk.toString()));
+  stream.on('data', (chunk: any)=>console.log(chunk.toString()));
   stream.on('end', () => console.log("Stream ended"));
 }
 
 main();
 ```
 
-### **3.2 Advanced Features**
 
-ChainGPT General Chatbot SDK provides the following features:
 
-#### **Stream Response**
+#### Case 2: Use Custom Context From [AI Hub](https://app.chaingpt.org/apidashboard)
 
-* **Functionality**: Retrieve a chat response as a stream.
+Step 1: Create Your API Key (as mentioned in Configurations)
+
+* Obtain your API key from [AI Hub](https://app.chaingpt.org/apidashboard) to access the SDK.
+
+Step 2: Add Company Details from AI Hub/ User Side
+
+* Define your company details, including name, description, website, whitepaper, and chatbot purpose in apiKey (additional information).
+
+Step 3:  Set Custom Context true (Additional information fetched from AI Hub)
+
+* When using CustomContext is true and no context Injection object is provided, the default custom context is fetched based on the API key (additional information).
 
 ```javascript
 import { GeneralChat } from '@chaingpt/generalchat';
+import { AI_TONE, BLOCKCHAIN_NETWORK, PRE_SET_TONES } from "@chaingpt/generalchat";
 
 const generalchat = new GeneralChat({
   apiKey: 'Your ChainGPT API Key',
@@ -82,77 +64,266 @@ const generalchat = new GeneralChat({
 async function main() {
   const stream = await generalchat.createChatStream({
     question: 'Explain quantum computing in simple terms',
-    chatHistory: "off"
+    chatHistory: "off", // Set to "on" to save chat history; otherwise, keep it "off"
+    useCustomContext: true // When useCustomContext is true and no contextInjection is provided
   });
-  stream.on('data', (chunk: any) => console.log(chunk.toString()));
+  stream.on('data', (chunk: any)=>console.log(chunk.toString()));
   stream.on('end', () => console.log("Stream ended"));
 }
 
+main()
+```
+
+
+
+#### Case 3: Use Custom Context From API/ SDK
+
+The _contextInjection_ object is optional, and all its fields are optional. You can provide additional company details for a more tailored chatbot experience . Any chunk of information added here will override the company default details (custom context) that are added from AI Hub.
+
+```javascript
+const contextInjection = {
+companyName: "Company name for AI chatbot",
+companyDescription: "Company description for AI chatbot",
+companyWebsiteUrl: "https: //www.example.com",
+
+whitePaperUrl: “https: //www.example.com",
+
+purpose: “Purpose of AI Chatbot for this company.”,
+cryptoToken: true,
+
+tokenInformation: {
+
+tokenName: "Token name for AT chatbot"
+tokenSymbol: "$TOKEN",
+tokenAddress: “Token address for AI chatbot"
+
+tokenSourceCode: "Token source code for AI chatbot
+
+tokenAuditUrl: "https: //www.example.com",
+
+exploreUrl: “https: //www.example.com",
+
+cmcUrl: “https: //www.example.com",
+
+coingeckoUr1
+blockchain: [BLOCKCHAIN_NETWORK.ETHEREUM, BLOCKCHAIN_NETWORK.POLYGON_ZKEV!
+3
+
+socialMediaUrls: [{ name: "LinkedIn", ur
+
+https: //wmw.example.com",
+
+"https: //abc.com" }],
+limitation: false,
+
+aiTone: AI_TONE.PRE_SET_TONE,
+
+selectedTone: PRE_SET_TONES. FRIENDLY,
+
+customTone:
+
+‘Only for custom AT Tone”
+};
+```
+
+
+
+### Example Usage
+
+#### **Example 1:** Using Minimal context/ chunk of context using SDK.
+
+The following examples demonstrate how minimal context injection can be utilized to obtain the desired response. A code snippet can be added via the SDK to override specific information added from the AI Hub while preserving all other data.
+
+```javascript
+import { GeneralChat } from '@chaingpt/generalchat';
+import { AI_TONE, BLOCKCHAIN NETWORK, PRE_SET_TONES } from “@chaingpt/generalchat;
+
+const generalchat = new Generalchat ({
+apikey: "Your ChainGPT API Key’,
+});
+
+async function main() {
+const stream = await generalchat.createChatStream({
+question: ‘Explain quantum computing in simple terms’,
+chatHistory: "off",
+useCustomContext: true,
+contextInjection: {
+aiTone: AI_TONE.PRE_SET_TONE,
+selectedTone: PRE_SET_TONES.FORMAL,
+}
+});
+
+stream.on(‘data', (chunk: any) => console. log(chunk.toString()));
+stream.on(‘end', () => console. log("Stream ended"));
+
+main();
+
+```
+
+#### **Example 2:** Using extended context injection using sdk.
+
+The following examples demonstrate how detailed/ extended context injection can be utilized to obtain the desired response. A code snippet can be added via the SDK to override all the company information added from the AI Hub.
+
+```javascript
+import { GeneralChat } from '@chaingpt/generalchat';
+import { AI_TONE, BLOCKCHAIN NETWORK, PRE_SET_TONES } from “@chaingpt/generalchat,
+
+const generalchat = new GeneralChat({
+apikey: 'Your ChainGPT API Key",
+
+async function main() {
+const stream = await generalchat.createChatStream({
+question: "Explain blockchain security best practices",
+
+chatHistory: "on",
+
+context Injection
+
+companyName: “Crypto Solutions",
+companyDescription: "A blockchain security firm",
+cryptoToken: true,
+tokenInformation: {
+tokenName: "SecureToken",
+tokenSymbol: "$SEC",
+blockchain: [BLOCKCHAIN_NETWORK.ETHEREUM]
+hb
+socialMediaUrls: [{ name: "Twitter", url: "https: //twitter.com/cryptosolutic
+aiTone: AI_TONE.CUSTOM_TONE,
+customTone: “Provide detailed security explanations.”
+3
+Ys
+
+stream.on(‘data', (chunk: any) => console. log(chunk.toString()));
+
+stream.on(‘end', () => console. log("Stream ended"));
+
 main();
 ```
 
-* **Credit Deduction**: Each chat API request deducts 1 credit from the user's account in the WebApp. An additional credit is deducted if the chat history feature is enabled.
+### Additional Parameters Usage
 
-<figure><img src="https://lh7-us.googleusercontent.com/vFx3oM3HmSdyEw_IWKpU8q_UvKgLUsGR53T2dpGQ-ccDsIOhSwkCoPHCs2o7rsrFoYpejeOimn-OmZ4UQQBqiSgtHKqAo5elhmpChvuO3lptfmfIunctdLwjvl70_eYTlECezadaGblh_ToEwXfNcIs" alt="" width="563"><figcaption></figcaption></figure>
+We take inputs for various types of blockchains , Tones and styles , Social media links. The input are taken is following format to enhance the response generated by Chat bot
 
-#### **Blob Response**
+#### Blockchain Options
 
-* **Functionality**: Retrieve the chat response in the form of a Blob.
+We support multiple blockchains to fetch and display crypto token information for chat interactions.
+
+```javascript
+blockchain = [ ETHEREUM, BSC, ARBITRUM, BASE, BLAST, AVALANCHE, POLYGON, SCROLL,
+OPTIMISM, LINEA, ZKSYNC, POLYGON_ZKEV, GNOSIS, FANTOM, MOONRIVER, MOONBEAM, BOBA,
+METIS, LISK, AURORA, SEI, IMMUTABLE_ZK, GRAVITY, TATKO, CRONOS, FRAXTAL, ABSTRACT.
+WORLD_CHAIN, MANTLE, BERACHAIN
+]
+```
+
+#### AI Tones
+
+Our AI supports multiple tone options to customize responses based on user preferences. The following tone selection options are available:
+
+1. DEFAULT\_TONE // if we select DEFAULT\_TONE then no need for customTone and selectedTone
+2. CUSTOM\_TONE // if we select CUSTOM\_TONE then customTone text is required
+3. PRE\_SET\_TONE // if we select PRE\_SET\_TONE then selectedTone is required
+
+#### Preset AI Tones:
+
+If PRE\_SET\_TONE is selected, users can choose from the following tones: If we select PRE\_SET\_TONE then we select given option:&#x20;
+
+```
+1) PROFESSIONAL
+2) FRIENDLY
+3) INFORMATIVE
+4) FORMAL
+5) CONVERSATIONAL
+6) AUTHORITATIVE
+7) PLAYFUL
+8) INSPIRATIONAL
+9) CONCISE
+10) EMPATHETIC
+11) ACADEMIC
+12) NEUTRAL
+13) SARCASTIC_MEME_STYLE
+```
+
+
+
+#### Social Media Options
+
+```javascript
+socialMediaUrls = [
+  {name: "linkedIn", url: "https://www.example.com"},
+  {name: "telegram", url: "https://www.example.com"},
+  {name: "instagram", url: "https://www.example.com"},
+  {name: "twitter", url: "https://www.example.com"},
+  {name: "youtube", url: "https://www.example.com"},
+  {name: "medium", url: "https://www.example.com"}
+]
+```
+
+
+
+### History Feature
+
+Our chatbot SDK also stores the chat history for later usage.  History is enabled/ Disabled within the code using Chat History function. If chat history is “On” it means that history of requests shall be saved and can be retrieved later . If the Chat History function is “Off” then History won’t be saved and can’t be accessed later.
+
+
 
 ```javascript
 import { GeneralChat } from '@chaingpt/generalchat';
 
-const generalchat = new GeneralChat({
-  apiKey: 'Your ChainGPT API Key',
+const generalChat = new GeneralChat({
+    apiKey: 'Your ChainGPT API Key',
 });
 
 async function main() {
-  const response = await generalchat.createChatBlob({
-    question: 'Explain quantum computing in simple termsQQQ',
-    chatHistory: "on"
-  })
-  console.log(response.data.bot);
+    const response = await generalChat.createChatBlob({
+        question: 'Explain quantum computing in simple terms',
+        chatHistory: "on",
+    });
+
+    console.log(response.data.bot);
 }
 
 main();
 ```
 
-* **Credit Deduction**: Same as Stream Response.
+<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfktrtOWIgAnfquFX6fOdL0wFXSdE6ERG8RnhjO943ye7FFG4PaIvZwdEpm2JT0yfCj3Kh6IJ-JFTiEsqvmUR-oE5JeQEgyzLvYSwvJ70K1Ptz68zSyVo8GghyywHCAP0_yaQyUow?key=BZ2FNEbHjC87wc5CO56IlqCS" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://lh7-us.googleusercontent.com/vFx3oM3HmSdyEw_IWKpU8q_UvKgLUsGR53T2dpGQ-ccDsIOhSwkCoPHCs2o7rsrFoYpejeOimn-OmZ4UQQBqiSgtHKqAo5elhmpChvuO3lptfmfIunctdLwjvl70_eYTlECezadaGblh_ToEwXfNcIs" alt="" width="563"><figcaption></figcaption></figure>
-
-#### **Get Chat History**
-
-* **Functionality**: The SDK stores chat history for later use, retrievable by specific code.
+Users can retrieve the history using the following code:
 
 ```javascript
 import { GeneralChat } from '@chaingpt/generalchat';
 
-const generalchat = new GeneralChat({
-  apiKey: 'Your ChainGPT API Key',
+const generalChat = new GeneralChat({
+    apiKey: 'Your ChainGPT API Key',
 });
 
 async function main() {
-  const response = await generalchat.getChatHistory({
-    limit: 10,
-    offset: 0,
-    sortBy: "createdAt",
-    sortOrder: "ASC"
-  })
-  console.log(response.data.rows);
+    const response = await generalChat.getChatHistory({
+        limit: 10,
+        offset: 0,
+        sortBy: "createdAt",
+        sortOrder: "ASC"
+    });
+
+    console.log(response.data.rows);
 }
 
 main();
 ```
 
-* **Credit Deduction**: No additional credits are deducted if the chat history feature was enabled during Stream/Blob response API calls.
+### Pricing/Credits Deduction
 
-### **3.3 Error Handling**
+In case of both stream and Blob Response , On sending each chat API request, 1 Credit will be deducted from the user account in AI HUB.&#x20;
 
-If there is a failure in connecting to the API or if the API returns a non-success status code (4xx or 5xx), a `GeneralChatError` class error will be thrown.
+In addition, if user enables chat history feature, an additional 1 Credit will be deducted\
+
+
+### Error Handling
+
+When the library is unable to connect to the API, or if the API returns a non-success status code (i.e., 4xx or 5xx response), an error of the  class GeneralChatError  will be thrown:
 
 ```javascript
-import { Errors } from "@chaingpt/generalchat";
+import { Errors } from '@chaingpt/generalchat';
 
 async function main() {
   try {
@@ -160,10 +331,10 @@ async function main() {
       question: 'Explain quantum computing in simple terms',
       chatHistory: "off"
     });
-    stream.on('data', (chunk: any) => console.log(chunk.toString()));
+    stream.on('data', (chunk: any)=>console.log(chunk.toString()));
     stream.on('end', () => console.log("Stream ended"));
-  } catch (error) {
-    if (error instanceof Errors.GeneralChatError) {
+  } catch(error) {
+    if(error instanceof Errors.GeneralChatError) {
       console.log(error.message)
     }
   }
@@ -172,29 +343,31 @@ async function main() {
 main();
 ```
 
-### **3.4 Language/Framework Compatibility**
+### Language/Framework Compatibility
 
-Our SDK is compatible with JavaScript and is designed for Node.js applications.
-
-### **3.5 Security Considerations**
-
-* **Authentication**: Access to the SDK is secured via an authentication key.
-* **Credits System**: Users with credits and a valid API key can access the SDK.
-* **Request Limitation**: To prevent misuse, 200 requests per minute are limited, with 1 credit deducted per request.
-
-### **3.6 Release Version**
-
-* **Release History**: We maintain a detailed release history.
-* **First Release**: This is the initial release, with future updates for additional features.
-
-### **3.7 Code Documentation**
-
-For detailed SDK code documentation, visit [npm package documentation](https://www.npmjs.com/package/@chaingpt/generalchat).
-
-### **3.8 Support/Help**
-
-For additional assistance, refer to Discord - [https://discord.gg/chaingpt](https://discord.gg/chaingpt)
+Our SDK supports JavaScript language and will run on Node application&#x20;
 
 
+
+### Security Considerations
+
+1. To ensure the security, SDK is made accessible using an authentication key. User having credits in the web-app and valid API key shall e able to access the SDK
+2. Request limitation has been handled to avoid any misuse. Users are allowed to make 200 requests per minute and on each request 1 credit shall be deducted.&#x20;
+
+
+
+### Code Documentation
+
+Please check out this link for SDK code documentation\
+
+
+[https://www.npmjs.com/package/@chaingpt/generalchat\
+](https://www.npmjs.com/package/@chaingpt/generalchat)
+
+### Support/Help
+
+If you need further assistance, explore the available support channels provided in our website [https://www.chaingpt.org/contact-us](https://www.chaingpt.org/contact-us)
+
+***
 
 [**Disclaimer**](../../../misc/legal-docs/disclaimer.md)
