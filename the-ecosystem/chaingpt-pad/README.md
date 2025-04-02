@@ -1,7 +1,5 @@
 # ChainGPT Pad
 
-
-
 {% content-ref url="introduction-and-overview.md" %}
 [introduction-and-overview.md](introduction-and-overview.md)
 {% endcontent-ref %}
@@ -40,6 +38,10 @@
 
 {% content-ref url="delegate-staking-functionality.md" %}
 [delegate-staking-functionality.md](delegate-staking-functionality.md)
+{% endcontent-ref %}
+
+{% content-ref url="one-wallet-connect-unified-wallet-integration-guide.md" %}
+[one-wallet-connect-unified-wallet-integration-guide.md](one-wallet-connect-unified-wallet-integration-guide.md)
 {% endcontent-ref %}
 
 {% content-ref url="faq.md" %}
