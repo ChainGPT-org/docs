@@ -26,7 +26,8 @@ A wallet connect window will pop up; click your preferred EVM wallet and ensure 
 
 A window from your wallet will appear. After you ask to connect, click “Connect” and sign the signature.
 
-You will now be logged into ChainGPT Pad. \
+You will now be logged into ChainGPT Pad.&#x20;
+
 
 
 ### Step 2 - Linking Solana&#x20;
