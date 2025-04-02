@@ -4,7 +4,7 @@ description: Get started with connecting your wallet to ChainGPT Pad!
 
 # One Wallet Connect - Unified Wallet Integration Guide
 
-Overview
+## Overview
 
 Our unified wallet integration significantly simplifies and enhances user accessibility to Initial DEX Offerings (IDOs) across multiple blockchain networks, including Solana and various EVM-compatible chains.&#x20;
 
@@ -61,8 +61,6 @@ Sign the transaction in MetaMask and ensure the address matches yours correctly.
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXf8FsXm38Z-lUy9xJPUzfi7z2r8WQGYj8FtjKcxMBZaLuxiR24Zz0aL6KfVTtdAsJfvwXs4NuxEGAFchu-Yc79TEHX_wzQRopCYnpbtMnNvbx1gVDZjHpFdDy0VNIR74n_JkQJQug?key=6LnOTJypQT-70kHu9TDQiOH5" alt=""><figcaption></figcaption></figure>
 
 You have now successfully linked your Solana wallet with your EVM. You are also able to connect up to three Solana wallets per ChainGPT Pad profile
-
-
 
 
 
