@@ -12,7 +12,7 @@ This integration addresses common user pain points by eliminating the need to ma
 
 The biggest improvement is with Solana: users no longer need to have both wallets connected. Once a Solana wallet is linked to an EVM wallet via the user profile, users can fully interact with Solana pools using only their Solana wallet.
 
-Below, you can find the necessary steps to get started on ChainGPT Pad with Solana.
+Below, you can find the necessary steps to get started on [ChainGPT Pad](https://app.gitbook.com/u/vt7ouO7Toga7R4fjv601TLYsQCx2) with Solana.
 
 **Please note**: If you don’t have a ChainGPT account, please set one up and return to this guide.
 
