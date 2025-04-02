@@ -20,11 +20,11 @@ Below, you can find the necessary steps to get started on [ChainGPT Pad](https:/
 
 ### Step 1 - Connect your wallet
 
-Head over to ChainGPT Pad. In the top right corner, click “Connect Wallet”.&#x20;
+Head over to ChainGPT Pad. In the top right corner, click “**Connect Wallet**”.&#x20;
 
 A wallet connect window will pop up; click your preferred EVM wallet and ensure you choose Ethereum as your network.
 
-A window from your wallet will appear. After you ask to connect, click “Connect” and sign the signature.
+A window from your wallet will appear. After you ask to connect, click “**Connect**” and sign the signature.
 
 You will now be logged into ChainGPT Pad.&#x20;
 
@@ -34,9 +34,9 @@ You will now be logged into ChainGPT Pad.&#x20;
 
 You now want to navigate to your ChainGPT Pad profile by clicking the person icon at the top right corner.&#x20;
 
-Once in your profile, click “Profile Settings”. On the right-hand side, you will see the “Wallets” section.&#x20;
+Once in your profile, click “**Profile Settings**”. On the right-hand side, you will see the “Wallets” section.&#x20;
 
-At the top, you should have the option to connect your Solana wallet. Click “Connect Solana Wallet”.
+At the top, you should have the option to connect your Solana wallet. Click “**Connect Solana Wallet**”.
 
 A drop-down will appear, showing the address associated with your Solana Wallet. Click “Link Solana Wallet”.&#x20;
 
@@ -50,13 +50,13 @@ You have now successfully linked your Solana wallet with your EVM. You are also 
 
 You’re now fully connected. The next thing you want to do is get involved with the Solana pools on ChainGPT Pad.
 
-Firstly, log out of your EVM wallet by clicking on the address at the top right corner. A box will appear; click “Disconnect.”&#x20;
+Firstly, log out of your EVM wallet by clicking on the address at the top right corner. A box will appear; click “**Disconnect**.”&#x20;
 
-Switch from Ethereum to Solana. Then click “Connect Wallet” and choose your Solana-based wallet. Select Solana as the chain for your wallet.&#x20;
+Switch from Ethereum to Solana. Then click “**Connect** **Wallet**” and choose your Solana-based wallet. Select Solana as the chain for your wallet.&#x20;
 
 You are now ready to get involved with Solana pools and claim your tokens! \
 
 
 Only once all the steps above are completed can you begin participating in IDOs and claiming tokens on ChainGPT Pad.&#x20;
 
-If you have any questions, you can reach out to us on the official [ChainGPT Telegram channel](https://t.me/ChainGPT).&#x20;
+If you have any questions, you can reach out to us on the official [**ChainGPT Telegram channel**](https://t.me/ChainGPT).&#x20;
