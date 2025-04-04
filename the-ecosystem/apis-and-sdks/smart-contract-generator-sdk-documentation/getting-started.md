@@ -34,19 +34,18 @@ This is a relatively straightforward way to control access, but you must be vigi
 
 ## Pricing
 
-#### Stream Response
+**Stream Response**
 
-1. On sending each chat API request, 5 Credits will be deducted from the user account in WebApp.&#x20;
-2. In addition, if the user enables the chat history feature, an additional 1 Credit will be deducted.
+Each chat API request made with the Smart Contract Generator SDK deducts 2 CGPTc from the user's account.\
+If the chat history feature is enabled, an additional 1 CGPTc is deducted.
 
-#### Blob Response
+**Blob Response**
 
-1. On sending each API request, 5 Credits will be deducted from the user account in WebApp.&#x20;
-2. In addition, if the user enables the chat history feature, an additional 1 Credit will be deducted.
+Each API request also deducts 2 CGPTc, with chat history enabled adding 1 CGPTc to the request total.
 
-#### Get Chat History
+**Get Chat History**
 
-1. Since the user has already enabled the chat history feature while calling the stream/blob response chat API, no additional credits will be deducted for the Get credit history API.
+No additional credits are deducted when retrieving chat history, as the cost is covered when the history feature is initially enabled during the blob or stream request.
 
 Users can monitor and manage their credit usage via the [Webapp](https://app.chaingpt.org/), aligning with ChainGPT's user-centric approach to accessibility and transparency in service provision.&#x20;
 

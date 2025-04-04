@@ -8,21 +8,29 @@ description: ChainGPT Credits
 
 ### What is CGPTc?
 
-CGPTc or ChainGPT credits are the units of account and consumption for the ChainGPT ecosystem applications. Every function that is processed through the ChaingGPT AI model requires the consumption of resources during computations; therefore, to properly value this consumption, the ChainGPT credits system (which retains a stable value consistently) is used.
+**CGPTc**, or **ChainGPT Credits**, are the units of account and consumption for the ChainGPT ecosystem applications. Every function processed through the ChainGPT AI model requires computational resources. To properly value and account for this usage, ChainGPT employs the CGPTc system—a stable, credit-based structure that ensures predictable and fair pricing for users.
 
-_This fundamental unit measures how much buying power a user has at any given moment._
+This fundamental unit serves as a direct measure of a user’s current **buying power** within the ChainGPT ecosystem.
+
+***
 
 ### What is the value of CGPTc?
 
-In order to retain maximal simplicity for end users, the CGPTc value has been hard pegged to 1CGPTc equal to $0.01.
+To ensure maximum simplicity and transparency for users, the value of CGPTc is **pegged at a fixed rate**:
 
-Regardless of the possible fluctuations in the $CGPT token's price, once converted into CGPTc, the buying power remains consistent.
+> **1 CGPTc = $0.01 USD**
 
-### How to Aquire CGPTc
+This stable value holds regardless of the real-time market fluctuations of the $CGPT token. Once $CGPT is converted into CGPTc, the purchasing power remains consistent and predictable across all tools, services, and API usage.
 
-CGPTc’s are acquired by directly converting $CGPT tokens.
+***
 
-Upon entering the ChainGPT application suite, users connect their Web3 wallets and notice a section on the top right of their dashboards (slightly to the left of their account/address settings) that will explicitly state how much CGPTc they are balanced with. By simply clicking that balance button, a new window will appear, prompting users to make an exchange.
+### How to Acquire CGPTc
+
+CGPTc is acquired by **directly converting $CGPT tokens** within the ChainGPT application.
+
+Upon entering the ChainGPT application suite, users connect their Web3 wallets. Once connected, the dashboard (top-right corner, near the account/address settings) displays your current CGPTc balance.
+
+By clicking the balance display, a modal window will appear, prompting users to initiate a token exchange to convert $CGPT into CGPTc.
 
 {% hint style="warning" %}
 **\*Be advised:** _All $CGPT to CGPTc conversions are final. There is no way to undo or trade out of CGPTc back into $CGPT tokens. This is a one-way action._&#x20;

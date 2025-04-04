@@ -42,8 +42,24 @@ ChainGPT has established a virtuous, transparent economy of AI services that tra
 * Membership to the DAO
 * Inclusion into a Tier level for ChainGPT Pad and DegenPad
 
-**PPU for AI Model**\
-Pay-Per-Use. A non-binding model for users looking for maximal freedom from commitment and limitless flexibility. Whether engaged via the official interface (application dashboard) or called via the API, every interaction with the ChainGPT AI will carry some associated cost that will have to be paid in $CGPT tokens _(or CGPTc {which are still acquired through a token conversion})._&#x20;
+
+
+**🔹 Pay-Per-Use (PPU) for AI Model**
+
+A non-binding model for users looking for maximal freedom from commitment and limitless flexibility. Whether engaged via the official interface (application dashboard) or called via the API, every interaction with the ChainGPT AI incurs a usage fee in CGPT Credits (CGPTc).\
+Each 1 CGPTc = $0.01 USD and can be acquired by converting $CGPT tokens.
+
+Examples of pricing with CGPTc include:
+
+* General Chatbot: 0.5 CGPTc per request
+* Smart Contract Auditor: 1 CGPTc per request
+* Smart Contract Generator: 2 CGPTc per request
+* AI News SDK: 1 CGPTc per API call
+* NFT Collection Generator: 2 CGPTc per NFT
+
+This structure offers full pricing flexibility across ChainGPT's ecosystem.
+
+
 
 **Staking for Priority Access  to AI Model Tools**\
 The Staking system is a core component and key driver of ChainGPT's economic architecture.&#x20;
@@ -51,9 +67,13 @@ The Staking system is a core component and key driver of ChainGPT's economic arc
 Synchronized with a four-tier membership system, staking provides unlimited, priority access to the ChainGPT AI model (at the diamond tier). Seen as a form of capital commitment, staking is considered to be a strong signal for supporting ChainGPT while tapping into its vast AI tooling infrastructure. Regarding $CGPT, staking is a form of token binding where users lock their assets out of circulation for a predetermined time.\
 [**Stake Here** ](https://app.chaingpt.org/staking)
 
+
+
 **Membership to the DAO**\
 ChainGPT's decentralized autonomous organization is a member-owned governance forum designed to attract AI enthusiasts from all walks of life and unify them through co-ownership. Joining the DAO imbues users with participation rights (proposing and voting) that help steer the direction of the project developments and protect it against mal-intentioned entities. Enabled through the staking module, members will have a headquarters in cyberspace for coordinating with like-minded technologists, futurists, researchers, developers, and entrepreneurs.\
 &#x20;[**View DAO Here**](https://dao.chaingpt.org/#/)&#x20;
+
+
 
 **Inclusion into a Tier level for ChainGPT Pad**\
 In order to unlock complete access to the benefits provided by the ChainGPT Pad and access all of the potential projects, users must stake their $CGPT to accumulate tier points. Deduced from a a combination of the amount of tokens staked and the duration they are staked for, users gain different tiers, each with its own degree of unique benefits. \
