@@ -134,6 +134,7 @@
   * [Email Marketeer](misc/work-with-us/email-marketeer.md)
   * [Graphic Designer (Social Media and Branding)](misc/work-with-us/graphic-designer-social-media-and-branding.md)
   * [Product Manager](misc/work-with-us/product-manager.md)
+  * [Head of Business Development](misc/work-with-us/head-of-business-development.md)
 * [Social Links](misc/social-links/README.md)
   * [Twitter AI](https://twitter.com/Chain_GPT)
   * [Twitter ChainGPT Pad](https://x.com/ChainGPT_Pad)
