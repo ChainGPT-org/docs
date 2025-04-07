@@ -57,9 +57,7 @@ No additional credits are deducted for accessing chat history if it was previous
 
 Users can monitor and manage their credit usage via the Web App, which aligns with ChainGPT's user-centric approach to accessibility and transparency in service provision.
 
-For additional details or to manage your credits, users should visit the ChainGPT Webapp.
-
-\
+For additional details or to manage your credits, users should visit the ChainGPT Webapp.\
 
 
 Users can monitor and manage their credit usage via the [Webapp](https://app.chaingpt.org/), aligning with ChainGPT's user-centric approach to accessibility and transparency in service provision.&#x20;
