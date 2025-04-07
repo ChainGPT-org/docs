@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Graphic Designer (Social Media and Branding)
 
 #### Location: Remote

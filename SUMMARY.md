@@ -136,7 +136,7 @@
   * [Product Manager](misc/work-with-us/product-manager.md)
   * [Head of Business Development](misc/work-with-us/head-of-business-development.md)
   * [Chief Strategy Officer](misc/work-with-us/chief-strategy-officer.md)
-  * [DevRel - Developer Relations](misc/work-with-us/devrel-developer-relations.md)
+  * [DevRel - Developer Relations](misc/work-with-us/copy-of-head-of-business-development.md)
 * [Social Links](misc/social-links/README.md)
   * [Twitter AI](https://twitter.com/Chain_GPT)
   * [Twitter ChainGPT Pad](https://x.com/ChainGPT_Pad)
