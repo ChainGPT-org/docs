@@ -41,8 +41,6 @@ yarn add generalchat
 
 User must start by having credits in the web-App  [https://app.chaingpt.org/](https://app.chaingpt.org/). These credits will allow users to create API key and access SDK. On each request made using SDK, credits shall be deducted.
 
-
-
 * Setup API Key
 
 The ChainGPT API SDK uses API keys for authentication. In Web app , Go to API Dashboard module and generate an API Key using create secret key feature and copy.  &#x20;
@@ -50,6 +48,17 @@ The ChainGPT API SDK uses API keys for authentication. In Web app , Go to API Da
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfPhftjCj6HSdKNxKiNuiSwPdGruk6kEdFGqtnL3EdsYh98vZn8AKojMBggPoJjth19wMH8QKM4lRcbVVJghhDKzazIlXPFXGcqx8z8gKoMBpmb7MlFGTPI4cnVMLnP2A1-7DwHOw?key=BZ2FNEbHjC87wc5CO56IlqCS" alt=""><figcaption></figcaption></figure>
 
 This is a relatively straightforward way to control access, but you must be vigilant about securing these keys. Avoid exposing the API keys in your code or in public repositories; instead, store them in a secure location. You should expose your keys to your application using environment variables or secret management service, so that you don't need to hard-code them in your codebase.
+
+### **Pricing**
+
+The General Chatbot SDK from ChainGPT operates on a credit-based system. Each request made through the SDK deducts **0.5 CGPTc** from the user's account. This pay-per-use model ensures flexibility and scalability, allowing users to only pay for what they need.
+
+* **Stream Response:** Each chat API request costs **0.5 CGPTc**. If chat history is enabled, an additional **0.5 CGPTc** is deducted per request.
+* **BLOB Response:** Similarly, each BLOB request costs **0.5 CGPTc**, with chat history also incurring an extra **0.5 CGPTc** per call.
+
+Users can monitor and manage their credit usage via the ChainGPT Webapp, aligning with ChainGPT’s commitment to transparency and accessibility.
+
+For additional details or to manage your credits, users should visit the [ChainGPT Webapp](https://app.chaingpt.org/).
 
 ## Support
 
