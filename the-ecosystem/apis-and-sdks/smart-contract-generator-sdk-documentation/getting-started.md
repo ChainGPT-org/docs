@@ -36,7 +36,7 @@ This is a relatively straightforward way to control access, but you must be vigi
 
 **Stream Response**
 
-Each chat API request made with the Smart Contract Generator SDK deducts 2 CGPTc from the user's account.\
+Each LLM Chatbot request made with the Smart Contract Generator SDK deducts 2 CGPTc from the user's account.\
 If the chat history feature is enabled, an additional 1 CGPTc is deducted.
 
 **Blob Response**

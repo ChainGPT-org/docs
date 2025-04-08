@@ -20,14 +20,14 @@ The AI News SDK operates on a credit-based pricing model. Each request made thro
 
 Users can monitor and manage their credit usage via the Webapp, aligning with ChainGPT's user-centric approach to accessibility and transparency in service provision.
 
-For additional details or to manage your credits, users should visit the ChainGPT Webapp.
+For additional details or to manage your credits, users should visit the [ChainGPT Webapp](https://app.chaingpt.org/).
 
 ***
 
 ### Smart Contract Auditor & Generator SDK
 
 Stream Response:\
-On sending each chat API request, 1 CGPTc is deducted for the Smart Contract Auditor and 2 CGPTc for the Smart Contract Generator.
+On sending each LLM Chatbot request, 1 CGPTc is deducted for the Smart Contract Auditor and 2 CGPTc for the Smart Contract Generator.
 
 In addition, if the user enables the chat history feature, an additional 1 CGPTc is deducted.
 

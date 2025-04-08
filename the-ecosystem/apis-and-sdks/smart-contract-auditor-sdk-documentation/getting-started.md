@@ -43,7 +43,7 @@ Users must start by getting credits on the web app, https://app.chaingpt.org/. T
 
 #### **Stream Response**
 
-Each chat API request sent via the Smart Contract Auditor SDK deducts 1 CGPTc from the user's account.\
+Each LLM Chatbot request sent via the Smart Contract Auditor SDK deducts 1 CGPTc from the user's account.\
 If the chat history feature is enabled, an additional 1 CGPTc is deducted.
 
 **Blob Response**

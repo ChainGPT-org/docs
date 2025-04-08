@@ -6,7 +6,7 @@ description: Pricing Structure and Membership Plans for ChainGPT
 
 ### 3-Tier Membership System
 
-ChainGPT has three memberships, each providing unique access to the suite of ChainGPT AI tools; every membership level requires users to have an account with ChainGPT.
+ChainGPT has three memberships, each providing unique access to the suite of [ChainGPT AI tools](https://app.chaingpt.org/); every membership level requires users to have an account with ChainGPT.
 
 Instantiating an account links any Web3 wallet (Metamask, Trust Wallet, Rainbow Wallet, etc.) to the ChainGPT application dashboard. When a wallet is connected, an account is created, and users can click the right of their screens to inspect their profiles.
 
@@ -88,7 +88,6 @@ Generally speaking, there are two calibers of pricing: those that require nothin
 To review the Membership pricing more in-depth or see the difference in offers provided to commercial/business clientele, please refer to the official pricing matrix available on our website at:\
 🔗[ https://www.chaingpt.org/pricing](https://www.chaingpt.org/pricing)
 
-\
 
 
 {% hint style="info" %}
