@@ -6,7 +6,7 @@ Position: Developer Relations (DevRel)
 
 Company: ChainGPT
 
-Position Type: Full-Time
+Position Type: Contractor
 
 ***
 
