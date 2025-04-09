@@ -87,8 +87,10 @@ To apply, please submit your resume, cover letter describing your relevant exper
 #### Additional Information
 
 1. Employment Compliance and Confidentiality:
-   1. KYC and NDA Requirements: All candidates extended an offer of employment must complete a Know Your Customer (KYC) process and sign a Non-Disclosure Agreement (NDA) to protect sensitive company information.
+   1. All contractors will be onboarded through our official Contractor of Record (COR) provider, which handles documentation, invoicing support, and ensures compliance with local regulations and tax laws based on the contractor’s country of residence. As part of the onboarding process, each contractor is required to complete a Know Your Customer (KYC) verification, sign a Non-Disclosure Agreement (NDA), execute a contractor services agreement, and fulfill any additional legal requirements applicable in their jurisdiction. This ensures a compliant and professional working relationship between both parties.
 2. Employment Structure:
-   1. Contractor Status: All positions are offered on a contractor basis. As such, individuals will be responsible for their tax obligations in accordance with local, state, and federal law. We recommend consulting with a tax advisor to ensure compliance.
-3. Probationary Period:
-   1. Initial Assessment: All new hires will undergo a 60-day probationary period to ensure mutual compatibility. During this time, both the employee and ChainGPT can evaluate the employment relationship.
+   1. This position is offered on an independent contractor basis. Contractors are not employees of the company and are responsible for managing their own taxes, insurance, and statutory obligations in accordance with the laws of their respective countries. All onboarding and ongoing engagement management will be facilitated through our COR partner, who serves as the intermediary for legal and administrative purposes.
+3. Compensation:
+   1. Contractor payments are made in fiat currency via direct deposit to the contractor’s designated bank account on a monthly basis. Invoices must be submitted according to the agreed schedule, and payments are issued on the first business day of each month, unless otherwise stated in the contractor agreement.
+4. Probationary Period:
+   1. All contractor engagements begin with a 90-day initial evaluation period, during which both the contractor and ChainGPT can assess compatibility and performance. This period allows both sides to ensure alignment before continuing the engagement long-term.

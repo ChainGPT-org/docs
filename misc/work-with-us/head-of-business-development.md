@@ -97,12 +97,10 @@ To apply, please submit your resume, cover letter describing your relevant exper
 #### Additional Information
 
 1. Employment Compliance and Confidentiality:
-   1. KYC and NDA Requirements: All candidates extended an offer of employment must complete a Know Your Customer (KYC) process and sign a Non-Disclosure Agreement (NDA) to protect sensitive company information.
+   1. All employees will be onboarded through our official payroll and HR provider, which manages employment documentation, tax withholdings, and compliance with legal requirements based on the employee’s country of residence. As part of the onboarding process, each new hire is required to complete a Know Your Customer (KYC) verification, sign a Non-Disclosure Agreement (NDA), execute an employment contract, and fulfill any additional legal requirements specific to their jurisdiction. This process ensures compliance, protects company information, and establishes a secure and professional employment relationship.
 2. Employment Structure:
-   1. Contractor Status: All positions are offered on a contractor basis. As such, individuals will be responsible for their tax obligations in accordance with local, state, and federal law. We recommend consulting with a tax advisor to ensure compliance.
-3. Probationary Period:
-   1. Initial Assessment: All new hires will undergo a 60-day probationary period to ensure mutual compatibility. During this time, both the employee and ChainGPT can evaluate the employment relationship.
-
-***
-
-This is your chance to help scale the leading AI infrastructure company in Web3. If you’re passionate about AI, crypto, and game-changing partnerships—let’s build together.
+   1. This position is offered on an employee basis. Employees will receive payment via direct deposit on a monthly basis. Additional details regarding compensation, benefits, and company policies will be provided during onboarding and outlined in the official employment agreement.
+3. Compensation:
+   1. Salaries are paid in fiat currency via direct deposit on a monthly schedule, with payments issued on the first business day of each month. This structure ensures timely and transparent compensation aligned with local financial systems.
+4. Probationary Period:
+   1. All new employees will undergo a 90-day probationary period, which serves as a mutual evaluation phase. During this time, both the employee and ChainGPT can assess fit, performance, and long-term alignment with the role and company.
