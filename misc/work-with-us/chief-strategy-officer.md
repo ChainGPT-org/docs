@@ -10,7 +10,7 @@ Company: ChainGPT (Web3 x AI)
 
 **About ChainGPT:**
 
-ChainGPT is an AI powerhouse for Web3, providing the most advanced tools, infrastructure, and AI models for blockchain ecosystems. We’re scaling fast and we’re looking for a strategic leader to supercharge our growth across every critical area of the business.
+ChainGPT is at the forefront of AI and Blockchain Technology, enabling and transforming Web3 through AI. Our AI-powered tools equip users with fast and accurate information to navigate the dynamic Blockchain industry.&#x20;
 
 ***
 
