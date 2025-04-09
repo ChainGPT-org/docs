@@ -90,7 +90,5 @@ To apply, please submit your resume, cover letter describing your relevant exper
    1. KYC and NDA Requirements: All candidates extended an offer of employment must complete a Know Your Customer (KYC) process and sign a Non-Disclosure Agreement (NDA) to protect sensitive company information.
 2. Employment Structure:
    1. Contractor Status: All positions are offered on a contractor basis. As such, individuals will be responsible for their tax obligations in accordance with local, state, and federal law. We recommend consulting with a tax advisor to ensure compliance.
-3. Compensation:
-   1. Cryptocurrency Payments: Compensation is provided in cryptocurrency (USDT BEP20) to align with our company's focus on blockchain technology. Payments are issued bi-monthly, on the 1st and 16th of each month.
-4. Probationary Period:
+3. Probationary Period:
    1. Initial Assessment: All new hires will undergo a 60-day probationary period to ensure mutual compatibility. During this time, both the employee and ChainGPT can evaluate the employment relationship.
