@@ -1,10 +1,12 @@
 # Chief Strategy Officer
 
-**Job Title: Chief Strategy Officer (CSO)**
-
 Location: Remote
 
-Company: ChainGPT (Web3 x AI)
+Position: Chief Strategy Officer (CSO)
+
+Company: ChainGPT
+
+Position Type: Full-Time
 
 ***
 

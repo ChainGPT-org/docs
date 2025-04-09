@@ -1,10 +1,12 @@
 # DevRel - Developer Relations
 
-**Job Title: Developer Relations (DevRel)**
-
 Location: Remote
 
-Company: ChainGPT (Web3 x AI)
+Position: Developer Relations (DevRel)
+
+Company: ChainGPT
+
+Position Type: Full-Time
 
 ***
 

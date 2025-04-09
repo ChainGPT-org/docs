@@ -1,10 +1,12 @@
 # Head of Business Development
 
-Job Title: Head of Business Development
-
 Location: Remote
 
-Company: ChainGPT (Web3 x AI)
+Position: Head of Business Development
+
+Company: ChainGPT
+
+Position Type: Full-Time
 
 ***
 
