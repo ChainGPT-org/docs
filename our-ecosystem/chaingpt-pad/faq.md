@@ -121,7 +121,7 @@ Cryptocurrencies: BNB, ETH
 
 The following countries are currently restricted due to regulatory bans on crypto or staking, international sanctions, or the absence of necessary operating licenses:
 
-Afghanistan, Algeria, American Samoa, Austria, Bahrain, Bangladesh, Belgium, Bolivia, Botswana, Bulgaria, Canada, Central African Republic, China, Croatia, Cuba, Cyprus, Czech Republic, Democratic People’s Republic of Korea (North Korea), Denmark, Egypt, Estonia, Finland, France, Germany, Greece, Guam, Hungary, Iran, Iraq, Ireland, Italy, Japan, Kuwait, Latvia, Libya, Lithuania, Luxembourg, Malaysia, Malta, Morocco, Nepal, Netherlands, Nigeria, Pakistan, Poland, Portugal, Puerto Rico, Qatar, Republic of Ireland, Romania, Singapore, Slovakia, Slovenia, South Africa, South Korea, South Sudan, Spain, Sudan, Sweden, Syria, Thailand, Trinidad and Tobago, Tunisia, United Arab Emirates (UAE), United Kingdom, United States, US Virgin Islands, Uzbekistan, Venezuela, Yemen.
+Afghanistan, Algeria, American Samoa, Austria, Bahrain, Bangladesh, Belgium, Bolivia, Botswana, Bulgaria, Canada, Central African Republic, China, Croatia, Cuba, Cyprus, Czech Republic, Democratic People’s Republic of Korea (North Korea), Denmark, Egypt, Estonia, Finland, France, Germany, Greece, Guam, Hong Kong, Hungary, Iran, Iraq, Ireland, Italy, Japan, Kuwait, Latvia, Libya, Lithuania, Luxembourg, Malaysia, Malta, Morocco, Nepal, Netherlands, Nigeria, Pakistan, Poland, Portugal, Puerto Rico, Qatar, Republic of Ireland, Romania, Singapore, Slovakia, Slovenia, South Africa, South Korea, South Sudan, Spain, Sudan, Sweden, Syria, Thailand, Trinidad and Tobago, Tunisia, United Arab Emirates (UAE), United Kingdom, United States, US Virgin Islands, Uzbekistan, Venezuela, Yemen.
 
 </details>
 
