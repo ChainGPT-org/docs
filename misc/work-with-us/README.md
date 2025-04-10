@@ -37,9 +37,9 @@ Here’s what that looks like at ChainGPT:
 * 💰 Bonuses & referral rewards — multiple ways to earn more through IDO, whitelabel, and employee referrals.
 * 🧑‍💻 No micromanagement — we hire people to teach us things, not to be told what to do.
 * 🧠 Access to all the necessary tools — we cover the software and services that help you succeed.
-* • 👐 Open door culture — no silos, no egos, just a collaborative and supportive team.
-* • 📈 Room to grow — we prioritize internal promotions and give our team the encouragement and resources they need to grow with us.
-* • 🧑‍🚀 Work with the best — collaborate with some of the sharpest minds in the industry. We’re a niche company doing big things, and our talent reflects that.
+* 👐 Open door culture — no silos, no egos, just a collaborative and supportive team.
+* 📈 Room to grow — we prioritize internal promotions and give our team the encouragement and resources they need to grow with us.
+* 🧑‍🚀 Work with the best — collaborate with some of the sharpest minds in the industry. We’re a niche company doing big things, and our talent reflects that.
 
 We want people who bring solutions, energy, and ideas. If that’s you, you’ll thrive here.
 
