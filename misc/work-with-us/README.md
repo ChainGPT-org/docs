@@ -97,3 +97,8 @@ We’re a welcoming, global team that believes good people build great things. E
 ### 📢 Ready to Join?
 
 Explore the open positions listed below and become part of a company that’s redefining what’s possible in AI and blockchain.
+
+* [product-manager.md](product-manager.md "mention")
+* [head-of-business-development.md](head-of-business-development.md "mention")
+* [chief-strategy-officer.md](chief-strategy-officer.md "mention")
+* [copy-of-head-of-business-development.md](copy-of-head-of-business-development.md "mention")
