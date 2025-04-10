@@ -26,7 +26,7 @@ ChainGPT’s AI Web3 Chatbot delivers a robust B2B solution for businesses seeki
 
 ### Customer Support and Community Management
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Our chatbot autonomously educates and supports users, offering:
 

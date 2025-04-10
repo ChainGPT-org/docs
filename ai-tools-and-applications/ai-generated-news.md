@@ -4,9 +4,9 @@ description: The Automated AI News Module
 
 # AI Generated News
 
-{% include "../../.gitbook/includes/visit-https-app.chaingpt....md" %}
+{% include "../.gitbook/includes/visit-https-app.chaingpt....md" %}
 
-<figure><img src="../../.gitbook/assets/AI news.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/AI news.jpg" alt=""><figcaption></figcaption></figure>
 
 > Built from scratch, ChainGPT created an advanced AI News Agent for an automated feed of sourced, organized, and presented information in real-time.
 
@@ -39,7 +39,7 @@ Unlike human-curated news sources that introduce personal opinions and biases, C
 * Removes unnecessary content for clarity
 * Reduces human bias in reporting
 
-<figure><img src="../../.gitbook/assets/1603.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1603.jpg" alt=""><figcaption></figcaption></figure>
 
 ### Use Cases & Applications
 
@@ -61,7 +61,7 @@ ChainGPT’s AI News Agent is already in use. Two key interfaces demonstrate its
 
 * Check it out here: [https://www.binance.com/en/square](https://www.binance.com/en/square)
 
-<figure><img src="../../.gitbook/assets/2025-02-03 15.52.59.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2025-02-03 15.52.59.jpg" alt=""><figcaption></figcaption></figure>
 
 Since the AI News Agent module is built into ChainGPT’s AI ecosystem, the chatbot also provides live market updates. You can access news by chatting with it via:
 
@@ -87,7 +87,7 @@ This is the first of its kind. A Twitter news agent delivering Web3 headlines di
 
 Be sure to check out [Nova AI News Agent](https://x.com/ChainGPTAINews) for yourself!
 
-<figure><img src="../../.gitbook/assets/2025-02-03 15.53.07.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2025-02-03 15.53.07.jpg" alt=""><figcaption></figcaption></figure>
 
 ### Start Using AI-Powered News Today
 

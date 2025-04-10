@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # AI Tools & Applications
 
 
@@ -34,4 +38,4 @@
 [ai-cross-chain-swap.md](ai-cross-chain-swap.md)
 {% endcontent-ref %}
 
-[**Disclaimer**](../../misc/legal-docs/disclaimer.md)
+[**Disclaimer**](../misc/legal-docs/disclaimer.md)

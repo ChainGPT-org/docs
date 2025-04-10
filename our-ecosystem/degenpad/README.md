@@ -20,8 +20,8 @@
 [ido-rounds-explained.md](ido-rounds-explained.md)
 {% endcontent-ref %}
 
-{% content-ref url="flexible-refund-policy/" %}
-[flexible-refund-policy](flexible-refund-policy/)
+{% content-ref url="flexible-refund-policy.md" %}
+[flexible-refund-policy.md](flexible-refund-policy.md)
 {% endcontent-ref %}
 
 {% content-ref url="f.a.q.s-degenpad.md" %}

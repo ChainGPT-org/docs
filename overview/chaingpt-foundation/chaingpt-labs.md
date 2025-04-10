@@ -29,6 +29,6 @@ Unlike typical investment firms, ChainGPT Labs was established by founders for f
 
 ## Learn more and Apply
 
-To learn more about ChainGPT Labs: [Doc](../../the-ecosystem/chaingpt-labs/), [Website](https://labs.chaingpt.org/).
+To learn more about ChainGPT Labs: [Doc](../../our-ecosystem/chaingpt-labs/), [Website](https://labs.chaingpt.org/).
 
 [Apply today](https://labs.chaingpt.org/) to benefit from our tailored support and strategic guidance.

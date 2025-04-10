@@ -29,7 +29,7 @@ yarn add ainews
 
 * **Generating API Key**: Utilize the ChainGPT API SDK for authentication. In the web application, navigate to the API Dashboard and use the 'Create Secret Key' feature to generate and copy your API key.
 
-<figure><img src="../../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -60,4 +60,4 @@ For additional assistance, refer to Discord - [https://discord.gg/chaingpt](http
 
 
 
-[**Disclaimer**](../../../legal-docs/disclaimer.md)
+[**Disclaimer**](../../misc/legal-docs/disclaimer.md)

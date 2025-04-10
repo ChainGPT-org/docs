@@ -4,35 +4,94 @@
 
 ### **Welcome to ChainGPT: Where AI Meets Web3**
 
-ChainGPT is an advanced AI infrastructure that develops AI-powered technologies for the Web3, Blockchain, and Crypto space. We aim to improve the Web3 space for retail users & startups by developing AI-powered solutions designed explicitly for Web3. From LLMs to Web3 AI Tools, ChainGPT is the go-to place to boost your Web3 flow with Artificial Intelligence.
+ChainGPT is a leading AI infrastructure for Web3 — offering a full-stack ecosystem of AI-powered tools designed for developers, startups, traders, and everyday users. From smart contract utilities to real-time AI agents, ChainGPT makes it easy to integrate artificial intelligence across blockchain use cases.
 
-### **ChainGPT's Solutions:**
+The live suite includes core tools like the Web3 AI Chatbot, Smart Contract Auditor, NFT Generator, Trading Assistant, and CGPT.Fun — a no-code platform for launching AI Agents. Looking ahead, ChainGPT is building toward its next major evolution: the AIVM (AI Virtual Machine) — a blockchain layer purpose-built for AI-native applications and agent execution.
 
-* ChainGPT AI Chatbot ([Telegram](https://t.me/chaingptai_bot), Discord, [Web](https://app.gitbook.com/o/fTvkvEH3C5Wk9LTutCYV/s/rfpYYsoCgHxbOIGhZ3WU/) - Read More: [ai-web3-chatbot.md](the-ecosystem/ai-tools-and-applications/ai-web3-chatbot.md "mention"))
-* AI NFT Generator ([Visit App](https://nft.chaingpt.org) - Read More: [ai-nft-generator.md](the-ecosystem/ai-tools-and-applications/ai-nft-generator.md "mention"))
-* AI-Generated News ([Visit App](https://app.chaingpt.org/news) - Read More: [ai-generated-news.md](the-ecosystem/ai-tools-and-applications/ai-generated-news.md "mention"))
-* Smart-Contracts Generator ([Visit App](https://app.chaingpt.org) -Read More: [ai-smart-contract-generator.md](the-ecosystem/ai-tools-and-applications/ai-smart-contract-generator.md "mention"))
-* Smart-Contracts Auditor ([Visit App](https://app.chaingpt.org) - Read More: [ai-smart-contract-auditor.md](the-ecosystem/ai-tools-and-applications/ai-smart-contract-auditor.md "mention"))
-* AI Trading Assistant ([Visit App](https://app.chaingpt.org) - Read More: [ai-trading-assistant.md](the-ecosystem/ai-tools-and-applications/ai-trading-assistant.md "mention"))
-* ChainGPT Pad ([Visit App](https://pad.chaingpt.org) - Read More: [chaingpt-pad](the-ecosystem/chaingpt-pad/ "mention"))
-* ChainGPT LLMs & TTIMs (Read More: [llms-and-ttims.md](the-ecosystem/llms-and-ttims.md "mention"))
-* CryptoGuard - AI-Powered Security Extension ([Visit App](https://cryptoguard.ai))
-* AI Blockchain Analytics
-* ChainGPT Labs ([VC Arm](https://labs.chaingpt.org))
-* Incubation & Acceleration Program for AI Startups
-* Whitelabels: AI Chatbot, Launchpad, & more! (Read More: [b2b-offerings](misc/b2b-offerings/ "mention"))
+### ChainGPT's Solutions
 
-The solutions developed by ChainGPT are tailored for retail users and enterprises. ChainGPT believes in developing open technologies and does not gate-keep the LLMs & applications developed by ChainGPT from other Web3 companies. Everyone is welcome to access ChainGPT's API & SDKs.
+#### **🧠 AI Tools & Applications**
+
+• AI Web3 Chatbot – Conversational assistant for Web3 (Web, Telegram, Discord)\
+[Visit App](https://app.chaingpt.org) · [Read More](https://docs.chaingpt.org/the-ecosystem/ai-tools-and-applications/ai-chatbot)
+
+• AI NFT Generator – Create & mint NFTs from text prompts across major chains\
+[Visit App](https://nft.chaingpt.org) · [Read More](https://docs.chaingpt.org/the-ecosystem/ai-tools-and-applications/ai-nft-generator)
+
+• AI-Generated News – Real-time summaries of Web3 and AI headlines\
+[Visit App](https://app.chaingpt.org/news) · [Read More](https://docs.chaingpt.org/the-ecosystem/ai-tools-and-applications/ai-news)
+
+• Smart Contract Generator – Instantly create contracts using natural language\
+[Visit App](https://app.chaingpt.org/) · [Read More](https://docs.chaingpt.org/the-ecosystem/ai-tools-and-applications/smart-contract-generator)
+
+• Smart Contract Auditor – Rapid security audits for Solidity contracts\
+[Visit App](https://app.chaingpt.org/) · [Read More](https://docs.chaingpt.org/the-ecosystem/ai-tools-and-applications/smart-contract-auditor)
+
+• AI Trading Assistant – On-chain signals, technical analysis & trend detection\
+[Visit App](https://app.chaingpt.org/) · [Read More](https://docs.chaingpt.org/the-ecosystem/ai-tools-and-applications/ai-trading-assistant)
+
+***
+
+#### **🛡️ Security Tools**
+
+• CryptoGuard – AI-powered browser extension for Web3 security\
+[Visit Site](https://cryptoguard.ai/) · [Install Extension](https://chromewebstore.google.com/detail/cryptoguard-by-chaingpt-a/eegoohfobcaegoeoakafgiljckfiajhl) · [Read More](ai-tools-and-applications/cryptoguard-extension-your-web3-shield/)
+
+***
+
+#### 🚀 Launchpads
+
+• ChainGPT Pad – Launchpad for curated token launches & Web3 projects.\
+[Visit App](https://pad.chaingpt.org) · [Read More](our-ecosystem/chaingpt-pad/introduction-and-overview.md)
+
+• DegenPad – Community-powered launchpad for memes & low FDV projects.\
+[Visit App](https://degenpad.com) · [Read More](our-ecosystem/degenpad/)
+
+***
+
+#### **🧬 AI Agents & Infrastructure**
+
+• AIVM Blockchain – AI-native blockchain for autonomous agents _(Expected by Q2 2026)_
+
+• CGPT.Fun – No-code launcher for custom AI agents _(Coming Soon)_
+
+• AgenticOS – Open-source Twitter AI agent framework ([View on GitHub](https://github.com/ChainGPT/AgenticOS))
+
+• ChainGPT AI Agent on Twitter – Real-time crypto analyst ([Follow](https://x.com/ChainGPTAI))
+
+• Nova AI Agent – Web3 news agent delivering verified crypto updates ([Follow](https://x.com/ChainGPTAINews))
+
+***
+
+#### **🧪 Ecosystem & Enterprise**
+
+• ChainGPT Labs – VC arm supporting AI-powered Web3 startups \[[Visit Site](https://labs.chaingpt.org)]
+
+• Incubation Program – Acceleration support for early-stage projects \[[Apply](https://labs.chaingpt.org)]
+
+• White-Label Solutions – Rebrandable versions of ChainGPT’s tools (Launchpad, Staking, Vesting, AI Agent on X, AI Chatbot on Telegram / Discord & more). \[[Read More](misc/b2b-offerings/launchpad-whitelabel.md)]
+
+***
 
 ### **$CGPT Utility Token:**
 
-The ecosystem is backed by the $CGPT utility token, the infrastructure's backbone. The $CGPT token grants holders & stakers access to DAO voting, staking, pad allocation, Freemium access to AI tools, airdrops, native gas fee of ChainGPT's AIVM & more. $CGPT is currently held on decentralized wallets by 55,000+ unique and active users.
+$CGPT is the native utility and governance token of the ChainGPT ecosystem. It powers access to tools, enables participation in DAO governance, and serves as the native gas and transaction currency within ChainGPT’s infrastructure — including the upcoming AIVM blockchain.
+
+**Key Utilities**
+
+* Access premium AI tools and services
+* Stake for rewards and launchpad tiers
+* Participate in DAO governance
+* Pay gas fees on the AIVM blockchain
+* Buy, sell, and trade in upcoming marketplaces
+* Benefit from a deflationary burn model
+
+Currently held by 70,000+ unique wallets, $CGPT is listed on major exchanges such as Binance, Bybit, Gate, KuCoin, Bitget, MEXC, and backed by partners like Google Cloud, BNB Chain, and Tron DAO.
 
 ### **Quick Stats:**
 
-**-** 550,000+ monthly active users\
-\- 60,000+ $CGPT token holders (decentralized)\
-\- Listed on top CEXs (HTX, ByBit, KuCoin, Gate & more) \
+\- 75,000+ $CGPT token holders (decentralized)\
+\- Listed on top CEXs (Binance, HTX, ByBit, KuCoin, Gate & more) \
 \- Backed by Google, BNB, Tron & others\
 \- Partnered with 100+ leading Web3 companies ([full list](https://www.chaingpt.org/#team))
 

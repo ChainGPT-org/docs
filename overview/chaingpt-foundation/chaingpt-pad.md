@@ -38,6 +38,6 @@ ChainGPT Pad is committed to ensuring that projects have the resources and guida
 
 Explore current roadmap and upcoming [initiatives for 2024-2025. ](../road-map/)
 
-To learn more about our Launch Pad: [ChainGPT Pad Docs](../../the-ecosystem/chaingpt-pad/)
+To learn more about our Launch Pad: [ChainGPT Pad Docs](../../our-ecosystem/chaingpt-pad/)
 
 \

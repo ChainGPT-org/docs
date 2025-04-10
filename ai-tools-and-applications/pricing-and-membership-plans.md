@@ -24,9 +24,7 @@ Restricted from any advanced applications, the Free plan provides limited daily 
 * AI Trading Assistant – 20 free requests
 * Ask Crypto People – 50 free messages
 * Unlimited access to AI News Generator and CryptoGuard
-* Single NFT Generation and participation in the Prompt Marketplace\
-  \
-
+* Single NFT Generation and participation in the Prompt Marketplace
 
 ***
 
@@ -67,9 +65,7 @@ Generally speaking, there are two calibers of pricing: those that require nothin
 * Ask Crypto People: Free (50 daily)
 * NFT Generator (Single): Free
 * Prompt Marketplace Access: Free
-* CryptoGuard: Free (Unlimited)\
-  \
-
+* CryptoGuard: Free (Unlimited)
 
 ***
 
@@ -96,4 +92,4 @@ _To review the Membership pricing more in-depth or see the difference in offers 
 
 \---
 
-[**Disclaimer**](../../misc/legal-docs/disclaimer.md)
+[**Disclaimer**](../misc/legal-docs/disclaimer.md)

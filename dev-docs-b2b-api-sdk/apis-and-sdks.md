@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # APIs & SDKs
 
 ### **APIs (Application Programming Interfaces)**
@@ -38,4 +42,4 @@ For businesses, the combination of ChainGPT's APIs and SDKs offers a robust tool
 
 
 
-[**Disclaimer**](../../legal-docs/disclaimer.md)
+[**Disclaimer**](../misc/legal-docs/disclaimer.md)

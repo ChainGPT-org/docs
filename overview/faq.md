@@ -7,7 +7,7 @@ description: Frequently Asked Questions about ChainGPT
 **Got questions? Read the following FAQ page, or just ask our AI Chatbot!**\
 \
 Web: [https://app.ChainGPT.org](https://app.chaingpt.org)\
-Telegram: [https://t.me/ChainGPTAI\_Bot](https://t.me/ChainGPTAI\_Bot)
+Telegram: [https://t.me/ChainGPTAI\_Bot](https://t.me/ChainGPTAI_Bot)
 
 ## About [ChainGPT AI](https://docs.chaingpt.org/overview/i.-introduction)
 
@@ -28,7 +28,7 @@ Yes, ChainGPT AI products are fully available!
 * Crypto AI Hub (most AI tools are here): [https://app.chaingpt.org](broken-reference)
 * ChainGPT's AI NFT Generator: [https://nft.chaingpt.org ](https://nft.chaingpt.org)
 * ChainGPT Pad: [https://pad.chaingpt.org](https://pad.chaingpt.org)
-* ChainGPT Chatbot on Telegram: [https://t.me/chaingptai\_bot](https://t.me/chaingptai\_bot)
+* ChainGPT Chatbot on Telegram: [https://t.me/chaingptai\_bot](https://t.me/chaingptai_bot)
 
 _More info about our AI Tools can be found here:_ [_https://www.chaingpt.org_ ](https://www.chaingpt.org)
 
@@ -72,7 +72,7 @@ The plan choice dictates whether users can freely access tools, pay as they use,
 * **Crypto AI Hub**: Dive into our core AI tools at [app.chaingpt.org](https://app.chaingpt.org/)
 * **AI NFT Generator**: Craft unique NFTs at [nft.chaingpt.org](https://nft.chaingpt.org/)
 * **ChainGPT Pad**: Visit our launchpad at [pad.chaingpt.org](https://pad.chaingpt.org/)
-* **ChainGPT Chatbot**: Engage with us on Telegram at [t.me/chaingptai\_bot](https://t.me/chaingptai\_bot)
+* **ChainGPT Chatbot**: Engage with us on Telegram at [t.me/chaingptai\_bot](https://t.me/chaingptai_bot)
 
 </details>
 
@@ -225,7 +225,7 @@ Yes, $CGPT has dual audits from [Certik](https://skynet.certik.com/projects/chai
 
 <summary>Is there a $CGPT bug bounty program?</summary>
 
-Yes. You can find it [here](https://docs.chaingpt.org/developer-docs/bug-bounty-program) and on the [Certik Website](https://skynet.certik.com/projects/chaingpt?utm\_source=CMC\&utm\_campaign=AuditByCertiKLink).
+Yes. You can find it [here](https://docs.chaingpt.org/developer-docs/bug-bounty-program) and on the [Certik Website](https://skynet.certik.com/projects/chaingpt?utm_source=CMC\&utm_campaign=AuditByCertiKLink).
 
 </details>
 
@@ -305,7 +305,7 @@ In order to join the ChainGPT DAO, you must first participate by staking the $CG
 
 <summary>Is there a minimum $CGPT Requirement to join the DAO?</summary>
 
-All you need to become a member is just 1 $CGPT. For more information regarding voting power, visit the DAO Governance page [here](../the-ecosystem/dao-governance.md).
+All you need to become a member is just 1 $CGPT. For more information regarding voting power, visit the DAO Governance page [here](../our-ecosystem/dao-governance.md).
 
 </details>
 

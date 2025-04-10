@@ -35,6 +35,6 @@ The $CGPT token powers our ecosystem, offering DAO voting, staking, access to AI
 
 Explore current roadmap and upcoming [initiatives for 2024-2025. ](../road-map/)
 
-To learn more about our products: [AI Tools and Applications](../../the-ecosystem/ai-tools-and-applications/)
+To learn more about our products: [AI Tools and Applications](../../ai-tools-and-applications/ai-tools-and-applications.md)
 
 \

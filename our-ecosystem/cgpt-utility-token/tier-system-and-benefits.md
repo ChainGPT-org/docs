@@ -4,7 +4,7 @@ description: ChainGPT's Four Tier Membership Structure
 
 # Tier System & Benefits
 
-<figure><img src="../.gitbook/assets/Xnip2025-02-06_11-23-37.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Xnip2025-02-06_11-23-37.jpg" alt=""><figcaption></figcaption></figure>
 
 The ChainGPT ecosystem has implemented a four-tiered system. This structure aims to give every $CGPT token holder an equal voice, regardless of their token count. Moreover, it includes rewards suitable for individuals of varied financial backgrounds.
 
@@ -16,7 +16,7 @@ Tiers represent the degree of a user's commitment to the ChainGPT ecosystem as d
 
 Four distinct tiers have been established: bronze, silver, gold, and diamond. Every tier has its own CGPT(sp) requirements and provides its own unique set of benefits.
 
-<figure><img src="../.gitbook/assets/Tier_Benefits.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Tier_Benefits.png" alt=""><figcaption></figcaption></figure>
 
 <details>
 
@@ -129,7 +129,7 @@ Diamond Tier members also happen to be the only group of community members who a
 </details>
 
 {% hint style="info" %}
-Read more about the Point System and Tier Allocation Multiplier [here](chaingpt-pad/tier-system/).
+Read more about the Point System and Tier Allocation Multiplier [here](../chaingpt-pad/tier-system/).
 {% endhint %}
 
 ***

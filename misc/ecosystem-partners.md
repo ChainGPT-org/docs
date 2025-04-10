@@ -155,6 +155,8 @@
 
 ## ChainGPT Pad Projects&#x20;
 
+* [Cookie3](https://cookie3.io)
+* [AiTech](https://aitech.io)
 * [Patex](https://patex.io)
 * [Chappyz](https://chappyz.com)
 * [Open Fabric](https://openfabric.io)
@@ -174,8 +176,6 @@
 * [Engines of Fury](https://www.eof.gg)
 * [Dexcheck](https://dexcheck.ai)
 * [Plena Finance](https://plena.finance)
-* [Cookie3](https://cookie3.io)
-* [AiTech](https://aitech.io)
 * [Hybrid](https://hybrid.io)
 * [GT ProtocoL](https://gtprotocol.io)
 * [Omnia Protocol](https://omniaprotocol.io)
