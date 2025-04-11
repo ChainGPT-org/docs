@@ -55,7 +55,7 @@ The live suite includes core tools like the Web3 AI Chatbot, Smart Contract Audi
 
 • CGPT.Fun – No-code launcher for custom AI agents _(Coming Soon)_
 
-• AgenticOS – Open-source Twitter AI agent framework ([View on GitHub](https://github.com/ChainGPT/AgenticOS))
+• AgenticOS – Open-source Twitter AI agent framework ([View on GitHub](https://github.com/ChainGPT-org/AgenticOS))
 
 • ChainGPT AI Agent on Twitter – Real-time crypto analyst ([Follow](https://x.com/ChainGPTAI))
 
