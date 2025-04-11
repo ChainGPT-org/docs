@@ -12,9 +12,9 @@ description: ChainGPT's native utility token
 
 **$CGPT (ChainGPT Token) is the economic backbone of the ChainGPT ecosystem.**&#x20;
 
-It acts as a store of value, a unit of account, and a medium of exchange that facilitates all on-chain interaction between individuals and businesses and the ChainGPT AI Model. To access the full range and depth of ChainGPT's AI applications, ChainGPT has weaved the $CGPT token into its business architecture.&#x20;
+It acts as a store of value, a unit of account, and a medium of exchange that facilitates all on-chain interaction between individuals and businesses and the ChainGPT AI Model. To access the full range and depth of ChainGPT's Crypto AI Hub, ChainGPT has weaved the $CGPT token into its business architecture.&#x20;
 
-Through careful design considerations, many touchpoints tie the demand for the AI model to the $CGPT token, from NFT and smart contract generation to auditing and chatbot interactions, and the number of vectors that transmute value through $CGPT is vast.
+Through careful design considerations, many touch points tie the demand for the AI model to the $CGPT token, from NFT and smart contract generation to auditing and Web3 AI chatbot interactions, and the number of vectors that transmute value through $CGPT is vast.
 
 Beyond the singular utility of access, the token provides ancillary benefits that compound the degree of value end users are imbued with by having exposure to $CGPT.&#x20;
 
@@ -35,6 +35,8 @@ _**Ticker Symbol:** $CGPT_\
 
 ChainGPT has established a virtuous, transparent economy of AI services that track real-world demand for artificial intelligence by recording all activity on-chain. Moreover, as the asset required for inclusion into the ChainGPT DAO, $CGPT becomes the tool that invites communities of AI enthusiasts and unites them through the power of ownership.
 
+***
+
 ### Utilities
 
 * PPU for AI model
@@ -51,7 +53,7 @@ Each 1 CGPTc = $0.01 USD and can be acquired by converting $CGPT tokens.
 
 Examples of pricing with CGPTc include:
 
-* General Chatbot: 0.5 CGPTc per request
+* Web3 AI Chatbot: 0.5 CGPTc per request
 * Smart Contract Auditor: 1 CGPTc per request
 * Smart Contract Generator: 2 CGPTc per request
 * AI News SDK: 1 CGPTc per API call
@@ -71,13 +73,19 @@ Synchronized with a four-tier membership system, staking provides unlimited, pri
 
 **Membership to the DAO**\
 ChainGPT's decentralized autonomous organization is a member-owned governance forum designed to attract AI enthusiasts from all walks of life and unify them through co-ownership. Joining the DAO imbues users with participation rights (proposing and voting) that help steer the direction of the project developments and protect it against mal-intentioned entities. Enabled through the staking module, members will have a headquarters in cyberspace for coordinating with like-minded technologists, futurists, researchers, developers, and entrepreneurs.\
-&#x20;[**View DAO Here**](https://dao.chaingpt.org/#/)&#x20;
+[**View DAO Here**](https://dao.chaingpt.org/#/)&#x20;
 
 
 
 **Inclusion into a Tier level for ChainGPT Pad**\
 In order to unlock complete access to the benefits provided by the ChainGPT Pad and access all of the potential projects, users must stake their $CGPT to accumulate tier points. Deduced from a a combination of the amount of tokens staked and the duration they are staked for, users gain different tiers, each with its own degree of unique benefits. \
 [<mark style="color:blue;">**View Tier System**</mark>](https://www.chaingpt.org/blog/chaingpt-launchpad-tier-system-staking)&#x20;
+
+
+
+**Bridging $CGPT with AIVM**\
+Once launched, AIVM will be further powered by $CGPT token to broaden its utility. Those building in the new AI economy can use $CGPT to pay for marketplace fees and covers gas fees on the AIVM network. All will be revealed very soon... \
+
 
 \
 \* _There are a variety of cost structures associated with the degree of access and user sophistication that will be outlined in the_ [_Pricing Guide here_](https://www.chaingpt.org/pricing)_._

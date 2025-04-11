@@ -2,12 +2,12 @@
 
 ## Into
 
-ChainGPT AI is the leading provider of AI-powered infrastructure for the crypto, blockchain, and Web3 industries. As a one-stop-shop Crypto AI hub, ChainGPT offers solutions ranging from automated smart contract generation and auditing to autonomous community management, advanced Web3 AI chatbots, AI-powered news aggregation, and NFT generation. \
+ChainGPT AI is the leading provider of AI-powered infrastructure for the crypto, blockchain, and Web3 industries. As a one-stop-shop Crypto AI hub, ChainGPT offers solutions ranging from automated smart contract generation and auditing to autonomous community management, advanced Web3 AI Chatbots, AI-powered news aggregation, and NFT generation. \
 Our mission is to enhance the Web3 space for retail users and startups with sophisticated, end-to-end AI solutions.
 
 ### Key Solutions
 
-* AI Chatbot: Automated support for Telegram and Web.
+* Web3 AI Chatbot: Automated support for Telegram and Web.
 * AI NFT Generator: Seamless creation of NFTs.
 * AI-Generated News: Curated news powered by AI.
 * Smart Contracts Generator & Auditor: Efficient creation and auditing of smart contracts.

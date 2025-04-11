@@ -2,31 +2,31 @@
 description: ChainGPT's text-based Web3 AI Chatbot
 ---
 
-# AI Web3 Chatbot
+# Web3 AI Chatbot
 
 {% hint style="info" %}
 **Web**: [https://app.chaingpt.org/](https://app.chaingpt.org/) | **Telegram**: [https://t.me/ChainGPT](https://t.me/ChainGPT) | [**Discord**](https://discord.gg/chaingpt)
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/Partnership announcement  [Template].gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Partnership announcement  [Template].gif" alt=""><figcaption></figcaption></figure>
 
 ### **Your Friendly Web3 Powered Chatbot**
 
-Chatbots have become the primary gateway to interact with AI-driven ecosystems. ChainGPT's Web3 AI Chatbot is designed specifically for the decentralized world of Web3, blockchain, and crypto. It provides users with real-time insights, technical knowledge, and AI-powered automation.
+Chatbots have become the primary gateway to interact with AI-driven ecosystems. Web3 AI Chatbot is designed specifically for the decentralized world of Web3, blockchain, and crypto. It provides users with real-time insights, technical knowledge, and AI-powered automation.
 
-Unlike generic AI chatbots, ChainGPT's AI Web3 Chatbot is fine-tuned for crypto and blockchain applications. It leverages advanced large language models (LLMs) trained on industry-specific data, ensuring accurate, contextual, and insightful responses for traders, developers, and Web3 enthusiasts.
+Unlike generic AI chatbots,  Web3 AI Chatbot is fine-tuned for crypto and blockchain applications. It leverages advanced large language models (LLMs) trained on industry-specific data, ensuring accurate, contextual, and insightful responses for traders, developers, and Web3 enthusiasts.
 
-More than a conversational agent, this chatbot serves as a smart AI layer that connects users to decentralized finance (DeFi), NFTs, smart contracts, and market analytics. Whether you're an individual trader or a Web3 enterprise, ChainGPT’s chatbot delivers expert-level insights and streamlines blockchain interactions—all within seconds.
+More than a conversational agent, this chatbot serves as a smart AI layer that connects users to decentralized finance (DeFi), NFTs, smart contracts, and market analytics. Whether you're an individual trader or a Web3 enterprise, Web3 AI Chatbot delivers expert-level insights and streamlines blockchain interactions—all within seconds.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Applications:
 
-Flexible domain expert that provides unlimited, accurate information on demand. The ChainGPT AI Web3 Chatbot has applications in a wide range of different situations and can be adapted to complement any environment that requires text as input.&#x20;
+Flexible domain expert that provides unlimited, accurate information on demand.  AI Web3 Chatbot has applications in a wide range of different situations and can be adapted to complement any environment that requires text as input.&#x20;
 
 **Community Manager**
 
-Autonomous Intelligent AI for communities to interact with and entertain with, the ChainGPT Web3 Chatbot is an independent agent for coordinating digital communities.
+Autonomous Intelligent AI for communities to interact with and entertain with, the AI Web3 Chatbot is an independent agent for coordinating digital communities.
 
 <details>
 
@@ -46,11 +46,11 @@ A moderator that knows more about the industry than any moderator should. Discor
 
 **Customizable Chat Interface**
 
-Developers can seamlessly integrate ChainGPT’s chatbot into their Web3 dApps or websites. Custom interfaces allow for tailored interactions, ensuring users receive AI-powered insights without leaving their platform.
+Developers can seamlessly integrate AI Web3 Chatbot into their Web3 dApps or websites. Custom interfaces allow for tailored interactions, ensuring users receive AI-powered insights without leaving their platform.
 
 **Research Assistant for Web3**
 
-Stay ahead in the rapidly changing blockchain ecosystem. ChainGPT's AI Chatbot filters through live data, performing comprehensive research in seconds.
+Stay ahead in the rapidly changing blockchain ecosystem. Web3 AI Chatbot filters through live data, performing comprehensive research in seconds.
 
 * Pulls technical reports, governance updates, and DeFi protocols
 * Reduces research hours by aggregating and summarizing key findings
@@ -65,7 +65,7 @@ Navigate markets faster with AI-driven analysis and insights. The chatbot perfor
 * Reduces time spent across tabs by offering precise, consolidated results
 
 {% hint style="info" %}
-_ChainGPT's Web3 AI Chatbot is currently in Beta form and can be interacted with in over 50 communities or in the official ChainGPT suite of application(s). The current form factor is still limited in its capabilities and is being iterated on day-to-day._
+_Web3 AI Chatbot is currently in Beta form and can be interacted with in over 50 communities or in the official Crypto AI Hub of application(s). The current form factor is still limited in its capabilities and is being iterated on day-to-day._
 {% endhint %}
 
 <details>
@@ -80,10 +80,10 @@ Dashboard: [https://app.chaingpt.org/](https://app.chaingpt.org/)
 
 </details>
 
-### Try the ChainGPT AI Chatbot Today!
+### Try the Web3 AI Chatbot Today!
 
 Ready to experience the future of Web3 automation? Get started with [ChainGPT's Web3 AI Chatbot](https://app.chaingpt.org/) today!
 
 \---
 
-[**Disclaimer**](../../misc/legal-docs/disclaimer.md)
+[**Disclaimer**](../misc/legal-docs/disclaimer.md)

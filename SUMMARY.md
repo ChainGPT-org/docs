@@ -36,7 +36,7 @@
 ## AI Tools & Applications
 
 * [AI NFT Generator](ai-tools-and-applications/ai-nft-generator.md)
-* [AI Web3 Chatbot](ai-tools-and-applications/ai-web3-chatbot.md)
+* [Web3 AI Chatbot](ai-tools-and-applications/ai-web3-chatbot.md)
 * [AI Smart-Contract Generator](ai-tools-and-applications/ai-smart-contract-generator.md)
 * [AI Smart-Contract Auditor](ai-tools-and-applications/ai-smart-contract-auditor.md)
 * [AI Generated News](ai-tools-and-applications/ai-generated-news.md)

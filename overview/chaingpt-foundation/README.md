@@ -14,7 +14,7 @@ At ChainGPT Foundation, we envision a future where advanced AI technologies powe
 
 ### **ChainGPT AI**
 
-A leading provider of AI-powered infrastructure for the crypto, blockchain, and Web3 industries. It offers automated smart contract generation and auditing solutions, autonomous community management, advanced Web3 AI chatbots, AI-powered news aggregation, and NFT generation to improve the Web3 space for retail users and startups.
+A leading provider of AI-powered infrastructure for the crypto, blockchain, and Web3 industries. It offers automated smart contract generation and auditing solutions, autonomous community management, advanced Web3 AI Chatbots, AI-powered news aggregation, and NFT generation to improve the Web3 space for retail users and startups.
 
 ### **ChainGPT Pad**&#x20;
 
@@ -22,4 +22,4 @@ A platform designed to support promising Web3 projects that want to introduce to
 
 ### **ChainGPT Labs**
 
-&#x20;It offers extensive support to emerging Web3 projects, with investments ranging from $100k to $400k. It also provides strategic guidance, marketing expertise, and hands-on involvement, including incubation and an acceleration program.
+It offers extensive support to emerging Web3 projects, with investments ranging from $100k to $400k. It also provides strategic guidance, marketing expertise, and hands-on involvement, including incubation and an acceleration program.
