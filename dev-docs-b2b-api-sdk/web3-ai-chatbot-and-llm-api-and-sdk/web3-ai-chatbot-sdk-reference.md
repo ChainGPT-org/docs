@@ -731,7 +731,7 @@ Monitoring your integration is vital for both ensuring reliability and keeping t
 * **Endpoint Health:** The ChainGPT API endpoints should be quite stable, but consider monitoring the endpoint health (e.g., a simple scheduled request that pings the API with a trivial prompt to ensure it’s up). This can alert you of downtime or latency issues proactively.
 * **Updates and Changes:** Monitor ChainGPT’s announcements or documentation updates. If pricing changes, rate limits change, or new parameters are introduced, you want to know. Possibly subscribe to a newsletter or RSS of their docs if available. This isn’t “monitoring” in the technical sense, but it helps keep your integration up-to-date and prevents surprises (like a new parameter becoming required).
 
-Finally, integrate monitoring with your DevOps. For instance, if error rate goes above X% or if available credits drop too low, trigger an alert (pager, email, etc.). Proactive monitoring ensures your ChainGPT-powered features remain reliable and you can address issues before they impact users significantly.
+Finally, integrate monitoring with your DevOps. For instance, if error rate goes above a certain % or if available credits drop too low, trigger an alert (pager, email, etc.). Proactive monitoring ensures your ChainGPT-powered features remain reliable and you can address issues before they impact users significantly.
 
 ***
 
