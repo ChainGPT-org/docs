@@ -12,7 +12,13 @@ Already trusted by leading platforms like **Binance Square**, **BNB Chain**, and
 
 ### Key Differentiators
 
-<table><thead><tr><th width="144.55859375">Title</th><th>What It Does</th></tr></thead><tbody><tr><td><strong>Web3 Domain Expertise</strong></td><td>Understands the Crypto market, smart contracts, DeFi, NFTs, tokenomics. Fine-tuned on blockchain data, unlike general LLMs. Great for explaining and analyzing crypto concepts/code, or market research.</td></tr><tr><td><strong>Real-Time Insights</strong></td><td>Pulls live on-chain + market data. Supports use cases like price checks, explorer queries, trend tracking. Keeps responses always up-to-date.</td></tr><tr><td><strong>Crypto-Specific Utilities</strong></td><td>Built-in tools for smart contract audits, generation, NFT creation, and TA — replacing separate dev tools.</td></tr><tr><td><strong>Multi-Channel Deployment</strong></td><td>Use the bot in websites, dApps, Discord, Telegram, and more — a consistent AI assistant across channels.</td></tr><tr><td><strong>Security &#x26; Privacy First</strong></td><td>Data is encrypted and isolated. ChainGPT doesn’t train its models on your data. Enterprise-safe, privacy-respecting, production-ready.</td></tr></tbody></table>
+<table><thead><tr><th width="144.55859375">Title</th><th>What It Does</th></tr></thead><tbody><tr><td><strong>Web3 Domain Expertise</strong></td><td>Understands the Crypto market, smart contracts, DeFi, NFTs, tokenomics. Fine-tuned on blockchain data, unlike general LLMs. Great for explaining and analyzing crypto concepts/code, or market research.</td></tr><tr><td><strong>Real-Time Insights</strong></td><td>Pulls live on-chain + market data. Supports use cases like price checks, explorer queries, trend tracking. Keeps responses always up-to-date.</td></tr><tr><td><strong>Crypto-Specific Utilities</strong></td><td>Built-in tools for smart contract audits, generation, NFT creation, and TA — replacing separate dev tools.</td></tr><tr><td><strong>Multi-Channel Deployment</strong></td><td>Use the bot in websites, dApps, Discord, Telegram, and more — a consistent AI assistant across channels.</td></tr><tr><td><strong>Security &#x26; Privacy First</strong></td><td><p>Data is encrypted and isolated. ChainGPT doesn’t train its models on your data. Enterprise-safe, privacy-respecting, </p><p>production-ready.</p></td></tr></tbody></table>
+
+**Learn more about the unique capabilities of ChainGPT's Web3 LLM:**
+
+{% content-ref url="unique-capabilities.md" %}
+[unique-capabilities.md](unique-capabilities.md)
+{% endcontent-ref %}
 
 ***
 
