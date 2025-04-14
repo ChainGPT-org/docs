@@ -55,6 +55,19 @@
 
 ## Dev Docs (B2B, API, SDK)
 
+* [Introduction to ChainGPT Developer Tools](dev-docs-b2b-api-sdk/introduction-to-chaingpt-developer-tools.md)
+* [Grant Program & Co-Marketing](dev-docs-b2b-api-sdk/grant-program-and-co-marketing/README.md)
+  * [Application](dev-docs-b2b-api-sdk/grant-program-and-co-marketing/application.md)
+  * [FAQ](dev-docs-b2b-api-sdk/grant-program-and-co-marketing/faq.md)
+* [Use Cases & Examples](dev-docs-b2b-api-sdk/use-cases-and-examples.md)
+* [Case Studies](dev-docs-b2b-api-sdk/case-studies.md)
+* [QuickStart Guide \[WIP\]](dev-docs-b2b-api-sdk/quickstart-guide-wip.md)
+* [Web3 AI Chatbot & LLM (API & SDK)  \[WIP\]](dev-docs-b2b-api-sdk/web3-ai-chatbot-and-llm-api-and-sdk-wip/README.md)
+  * [Unique Capabilities  \[WIP\]](dev-docs-b2b-api-sdk/web3-ai-chatbot-and-llm-api-and-sdk-wip/unique-capabilities-wip.md)
+  * [Web3 LLM: API Reference](dev-docs-b2b-api-sdk/web3-ai-chatbot-and-llm-api-and-sdk-wip/web3-llm-api-reference.md)
+  * [Web3 AI Chatbot: SDK Reference](dev-docs-b2b-api-sdk/web3-ai-chatbot-and-llm-api-and-sdk-wip/web3-ai-chatbot-sdk-reference.md)
+* [AgenticOS: Web3 AI Agent on X (Open-Source)](dev-docs-b2b-api-sdk/agenticos-web3-ai-agent-on-x-open-source.md)
+* [Page](dev-docs-b2b-api-sdk/page.md)
 * [AI News SDK Documentation](dev-docs-b2b-api-sdk/ai-news-sdk-documentation/README.md)
   * [Getting Started](dev-docs-b2b-api-sdk/ai-news-sdk-documentation/getting-started.md)
   * [SDK Components](dev-docs-b2b-api-sdk/ai-news-sdk-documentation/sdk-components.md)
@@ -73,8 +86,6 @@
 * [Pricing and usage tracking](dev-docs-b2b-api-sdk/pricing-and-usage-tracking.md)
 * [$1M Web3 AI Grant Program](dev-docs-b2b-api-sdk/usd1m-web3-ai-grant-program/README.md)
   * [Grant Support](dev-docs-b2b-api-sdk/usd1m-web3-ai-grant-program/grant-support.md)
-  * [Application](dev-docs-b2b-api-sdk/usd1m-web3-ai-grant-program/application.md)
-  * [FAQ](dev-docs-b2b-api-sdk/usd1m-web3-ai-grant-program/faq.md)
 * [APIs & SDKs](dev-docs-b2b-api-sdk/apis-and-sdks.md)
 
 ## Our Ecosystem

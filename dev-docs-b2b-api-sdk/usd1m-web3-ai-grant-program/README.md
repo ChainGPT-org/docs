@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # $1M Web3 AI Grant Program
 
 ### "Accelerate Your Web3 Venture with ChainGPT‘s Strategic AI Grant Support"

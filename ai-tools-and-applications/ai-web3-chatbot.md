@@ -18,7 +18,7 @@ Unlike generic AI chatbots,  Web3 AI Chatbot is fine-tuned for crypto and blockc
 
 More than a conversational agent, this chatbot serves as a smart AI layer that connects users to decentralized finance (DeFi), NFTs, smart contracts, and market analytics. Whether you're an individual trader or a Web3 enterprise, Web3 AI Chatbot delivers expert-level insights and streamlines blockchain interactions—all within seconds.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Applications:
 

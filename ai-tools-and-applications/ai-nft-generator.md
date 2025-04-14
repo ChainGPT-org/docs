@@ -20,7 +20,7 @@ Generative art is rapidly reshaping the digital landscape, unlocking new possibi
 
 ### Introduction
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 NFTs have redefined digital ownership — empowering artists, communities, and businesses to create, share, and monetize unique on-chain assets. But building a full NFT collection from scratch? That’s often slow, expensive, and technically demanding.
 
@@ -70,7 +70,7 @@ Previous models have been officially deprecated. However, any NFTs created with 
 
 ### Getting Started
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 To begin using the ChainGPT AI NFT Generator, follow these steps:
 
@@ -122,7 +122,7 @@ ChainGPT’s AI NFT Generator hosts dynamic NFT Events, providing users with opp
 
 ### Marketplace Features
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 The ChainGPT AI NFT Generator includes a fully integrated marketplace — built to simplify buying, selling, and discovering NFTs. Seamlessly connected with OpenSea, this hub allows creators to list their NFTs directly after minting, while buyers benefit from advanced search, filtering, and detailed views including creator info, price history, and transaction records. Users can favorite items, track listings with a watchlist, and view full ownership history — making the marketplace transparent, accessible, and optimized for visibility and engagement.
 
