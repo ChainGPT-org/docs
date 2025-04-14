@@ -7,6 +7,11 @@ ChainGPT provides cutting-edge AI infrastructure designed specifically for Web3 
 ### Core Products and Services:
 
 * **Web3 Specialized LLM (API & SDK)**: AI language model deeply trained on blockchain, crypto, and DeFi insights. With live access to on-chain and market data. It's the best LLM out there for any Web3 related application or solution.
+
+{% content-ref url="web3-ai-chatbot-and-llm-api-and-sdk/" %}
+[web3-ai-chatbot-and-llm-api-and-sdk](web3-ai-chatbot-and-llm-api-and-sdk/)
+{% endcontent-ref %}
+
 * **Solidity LLM (API & Open-Source):** A specialized language model trained exclusively for Solidity smart contract development—engineered for reliability, security, and scale. Open-source release coming soon.
 * **Crypto Legal & Compliance AI (API, SDK, Chatbot)**: AI assistant providing real-time regulatory, legal, and compliance guidance for Web3 individuals and businesses. It stays up-to-date with the latest crypto regulations world-wide.
 * **Smart Contract Auditor (API & SDK):** Fast, reliable auditing with two modes: quick scans for instant feedback, or full reports for detailed vulnerability analysis and recommendations.
@@ -21,7 +26,11 @@ ChainGPT provides cutting-edge AI infrastructure designed specifically for Web3 
 
 ### ChainGPT Web3 AI Grant Program
 
-ChainGPT actively supports innovation through our dedicated Web3 AI Grant Program, offering qualified projects up to $50,000 in API credits and an additional up to $20,000 cash grant. [Apply Today](https://www.chaingpt.org/web3-ai-grant). [Read More](grant-program-and-co-marketing/).
+ChainGPT actively supports innovation through our dedicated Web3 AI Grant Program, offering qualified projects up to $50,000 in API credits and an additional up to $20,000 cash grant. [Apply Today](https://www.chaingpt.org/web3-ai-grant). Learn more about our Grant Program:
+
+{% content-ref url="grant-program-and-co-marketing/" %}
+[grant-program-and-co-marketing](grant-program-and-co-marketing/)
+{% endcontent-ref %}
 
 ### Co-Marketing Opportunities
 
@@ -33,6 +42,16 @@ ChainGPT actively promotes projects building with our technology through strateg
 * **Trust Wallet**: Over 364,000 NFTs minted via ChainGPT’s AI NFT Generator, driving massive community interaction.
 * **BNB Chain Olympics**: Gamified NFT creation powered by ChainGPT’s AI, with over 66,000 NFTs generated.
 * **HackaTRON by TronDAO**: Integrated ChainGPT’s smart contract tools, significantly accelerating developer workflows.
+
+**Take a deeper diver into our case studies, and use-cases:**
+
+{% content-ref url="case-studies.md" %}
+[case-studies.md](case-studies.md)
+{% endcontent-ref %}
+
+{% content-ref url="use-cases-and-examples.md" %}
+[use-cases-and-examples.md](use-cases-and-examples.md)
+{% endcontent-ref %}
 
 ***
 

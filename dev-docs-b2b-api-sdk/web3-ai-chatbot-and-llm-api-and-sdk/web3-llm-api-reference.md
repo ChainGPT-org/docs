@@ -154,7 +154,7 @@ This cURL command sends the same request. The response will be a JSON object con
 
 #### POST /chat/stream – Chat Completion (Streaming)
 
-Use this endpoint to receive the AI response as a stream of data, rather than waiting for the full completion. This is ideal for applications where you want to display the answer in real-time as it’s being generated (similar to how ChatGPT streams its answers).
+Use this endpoint to receive the AI response as a stream of data, rather than waiting for the full completion. This is ideal for applications where you want to display the answer in real-time as it’s being generated (similar to how other General LLM streams its answers).
 
 * **URL:** https://api.chaingpt.org/chat/stream
 * **Method:** POST

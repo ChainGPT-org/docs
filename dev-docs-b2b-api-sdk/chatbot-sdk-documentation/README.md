@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ChatBot SDK Documentation
 
 ### 1. INTRODUCTION
@@ -25,4 +29,4 @@ Before using the SDK, ensure that you have the following:
 
 
 
-[**Disclaimer**](../../../misc/legal-docs/disclaimer.md)
+[**Disclaimer**](../../misc/legal-docs/disclaimer.md)
