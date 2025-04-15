@@ -147,6 +147,6 @@ Leverage ChainGPT’s Crypto Legal AI to:
 
 ***
 
-For integration guidance, see our [Quickstart Guide](global-quickstart-guide.md) and tool-specific docs for API references, SDKs, and examples.
+For integration guidance, see our [Quickstart Guide](quickstart-guide.md) and tool-specific docs for API references, SDKs, and examples.
 
 ChainGPT enables innovation across nearly every vertical in the Web3 space. Whether you're building for consumers, DAOs, developers, or internal stakeholders, our modular APIs and SDKs provide the tools to integrate AI intelligence into your workflows.

@@ -4,7 +4,7 @@
 **Web**: [https://app.chaingpt.org/](https://app.chaingpt.org/) | **Telegram**: [https://t.me/ChainGPT](https://t.me/ChainGPT) | [**Discord**](https://discord.gg/chaingpt)
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/IMG_20250227_110932_804.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/IMG_20250227_110932_804.jpg" alt=""><figcaption></figcaption></figure>
 
 Smart contracts are the fundamental building blocks of decentralized applications. The development of Smart contracts is the cornerstone upon which Web3 relies to bring the vision of a decentralized, digital economy to fruition.&#x20;
 
@@ -12,7 +12,19 @@ Coding a smart contract from scratch is a labor-intensive, detail-oriented proce
 
 ChainGPT's AI Model has been fed all of the information about smart contract code, including best security practices, libraries, samples of standardization, effective live contracts, failures, and a slew of micro-nuances (such as solidity syntax).&#x20;
 
-<figure><img src="../../.gitbook/assets/spotlight on dappbay.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/spotlight on dappbay.jpg" alt=""><figcaption></figcaption></figure>
+
+***
+
+### Powered by ChainGPT's "Solidity LLM" Model
+
+**Solidity LLM** is ChainGPT's specialized large language model meticulously engineered for creating and auditing Solidity smart contracts. Unmatched in precision and depth, Solidity LLM has been rigorously trained on every major Ethereum Virtual Machine (EVM) blockchain deployment, enriched with comprehensive internet resources, authoritative GitHub repositories, and industry best practices. Through an extensive process of data curation and rigorous quality assurance, only validated, high-integrity smart contracts contribute to its training dataset. This ensures Solidity LLM consistently delivers robust, secure, and innovative smart contract solutions.
+
+{% hint style="info" %}
+Solidity LLM is entirely developed in-house by ChainGPT, exemplifying our commitment to excellence, security, and cutting-edge blockchain technology.
+{% endhint %}
+
+***
 
 ### Benefits:
 
@@ -38,4 +50,4 @@ Our AI tools are also available on Web, Telegram & Discord.
 
 \---
 
-[**Disclaimer**](../../misc/legal-docs/disclaimer.md)
+[**Disclaimer**](../misc/legal-docs/disclaimer.md)

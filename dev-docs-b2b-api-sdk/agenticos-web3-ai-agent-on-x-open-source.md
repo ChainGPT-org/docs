@@ -8,11 +8,15 @@
 \- Github: [https://github.com/ChainGPT-org/AgenticOS](https://github.com/ChainGPT-org/AgenticOS)&#x20;
 {% endhint %}
 
+***
+
 ### Introduction
 
 AgenticOS is an open-source AI agent that autonomously generates and posts tweets on X (formerly Twitter) – purpose-built for the Web3 ecosystem. Built by ChainGPT using TypeScript and the ultra-fast Bun runtime, AgenticOS lets you effortlessly deploy an intelligent Twitter bot to enhance your online presence with 24/7 AI-driven insights . It leverages ChainGPT’s advanced Web3 AI model to produce content, helping crypto projects, developers, and influencers automate tasks like real-time market research, breaking crypto news, token analysis, and community engagement . By integrating directly with the ChainGPT API and Twitter API, AgenticOS serves as a tireless social media manager that keeps your followers informed and engaged around the clock.
 
-**Key Features and Benefits:**
+***
+
+### **Key Features and Benefits:**
 
 * **AI-Powered Tweet Generation:** Uses ChainGPT’s Web3 LLM to create informative and relevant tweets on demand . Each generated tweet consumes 1 ChainGPT credit .
 * **Scheduled Tweets:** Automatically post on a configurable schedule via Cron jobs, so you can share updates consistently (e.g. market updates every hour) .
@@ -31,7 +35,11 @@ AgenticOS is an open-source AI agent that autonomously generates and posts tweet
 
 **Live Demo:** The official [ChainGPT AI on X](https://x.com/ChainGPTAI) account is powered by AgenticOS – check it out to see the agent in action posting real-time Web3 insights and updates.
 
+{% hint style="info" %}
 _AgenticOS is part of ChainGPT’s open-source AI Agents initiative, helping bridge Web3 content with AI automation._
+{% endhint %}
+
+***
 
 ### Quick-Start Guide
 
@@ -128,6 +136,8 @@ This will compile the TypeScript project and run the optimized bundle. In produc
 
 Your AgenticOS bot can now run 24/7, automatically tweeting based on your configuration.
 
+***
+
 ### Configuration Details
 
 AgenticOS is highly configurable. Let’s explore how to customize schedules, webhooks, and other settings to tailor the AI agent to your needs.
@@ -204,6 +214,8 @@ Under the hood, AgenticOS calls ChainGPT’s Large Language Model API to generat
 
 Through these customizations, you can tailor AgenticOS to your audience or community – whether that’s focusing on a particular blockchain’s news, using a certain tone (professional vs. casual), or integrating your project’s specific data into the tweets.
 
+***
+
 ### Architecture & Workflow
 
 To better understand how the pieces fit together, here’s an overview of AgenticOS’s architecture and tweet automation workflows:
@@ -228,6 +240,8 @@ The diagram above illustrates these flows: scheduled events and incoming webhook
 
 This architecture allows AgenticOS to run continuously and handle multiple input sources (timers or external triggers) in parallel, making your AI agent both proactive (scheduled tweets) and reactive (responding to news).
 
+***
+
 ### Security Practices
 
 Security is a priority in AgenticOS’s design, especially since it deals with API keys and access tokens. The following practices are implemented to protect your credentials and ensure stable operation:
@@ -241,6 +255,8 @@ Security is a priority in AgenticOS’s design, especially since it deals with A
 
 By following these practices and using the recommended configurations, you can confidently run AgenticOS knowing your credentials and data are well-protected . (It’s still good policy to rotate your API keys periodically and revoke the Twitter app’s access if you ever stop using the agent.)
 
+***
+
 ### Customizing AgenticOS for Your Needs
 
 Every crypto community or project has unique needs – AgenticOS is flexible to accommodate those. Here are some ways you can customize your AI agent to make it truly yours:
@@ -253,6 +269,8 @@ Every crypto community or project has unique needs – AgenticOS is flexible to 
 * **Extend Functionality:** AgenticOS can serve as a foundation for more complex Twitter agents. You could extend it to reply to users, answer questions (using ChainGPT’s model to power a Q\&A feature on Twitter), or even integrate with other data sources (like pulling on-chain data or prices and tweeting alerts based on that). The open-source codebase is modular – for example, you can add new routes in the Hono server for custom APIs or new scheduled jobs in the jobs folder. Feel free to experiment!
 
 Remember, any customization might require testing. Run your modified agent in development mode and verify it behaves as expected (tweets content on schedule, formats things correctly, etc.) before deploying changes to production. With some creativity, AgenticOS can become a personalized AI community manager for your specific niche in the crypto world.
+
+***
 
 ### Contributing to the Project
 
@@ -270,6 +288,8 @@ Our team will review pull requests, provide feedback, and merge contributions th
 
 If you encounter any issues or have questions, you can also open an issue on GitHub. This is the best way to report bugs or request features. We track GitHub issues for troubleshooting and future improvements .
 
+***
+
 ### Support and Resources
 
 * **GitHub Repository:** For source code, issue tracking, and project roadmap, visit the [AgenticOS GitHub page](https://github.com/ChainGPT-org/AgenticOS). Be sure to star the project if you find it useful!
@@ -277,6 +297,8 @@ If you encounter any issues or have questions, you can also open an issue on Git
 * **Community & Discussion:** Join the [ChainGPT Discord](https://discord.gg/FS2xpY28) (dev-chat channel) or follow [@Chain\_GPT on X](https://x.com/Chain_GPT) for announcements. Fellow developers and the ChainGPT team can help answer questions.
 * **Live Demo (Twitter):** Follow [ChainGPT AI on X](https://x.com/ChainGPTAI) to see a live deployment of AgenticOS. This can give you inspiration for how the tweets look and confirm the agent’s capabilities in real-world usage.
 * **ChainGPT API Access:** Manage your API key, check your credit balance, or purchase more credits on the [ChainGPT API Dashboard](https://app.chaingpt.org). Remember that a running AgenticOS will consume credits as it generates tweets , so keep an eye on usage or set up auto top-ups if available.
+
+***
 
 ### Conclusion
 

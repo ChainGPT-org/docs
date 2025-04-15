@@ -1,4 +1,4 @@
-# QuickStart Guide
+# Global QuickStart Guide
 
 ## Quickstart Guide To ChainGPT's API & SDK
 
@@ -23,10 +23,10 @@ This guide will help you start building with ChainGPT’s suite of Web3 AI tools
 
 * [Web3 AI Chatbot & LLM - QuickStart Guide](web3-ai-chatbot-and-llm-api-and-sdk/quickstart-guide.md)
 * [AI NFT Generator - QuickStart Guide](ai-nft-generator-api-and-sdk/quickstart-guide.md)
-* Smart-Contracts Generator - QuickStart Guide
-* Smart-Contracts Auditor - QuickStart Guide
-* Web3 AI News Generator - QuickStart Guide
-* Crypto Legal & Compliance Assistant - QuickStart Guide
+* [Smart-Contracts Generator - QuickStart Guide](smart-contracts-generator-api-and-sdk/quickstart-guide.md)
+* [Smart-Contracts Auditor - QuickStart Guide](smart-contracts-auditor-api-and-sdk/quickstart-guide.md)
+* [Web3 AI News Generator - QuickStart Guide](ai-crypto-news-rss-sdk/quickstart-guide.md)
+* [AgenticOS AI Agent Framework - QuickStart Guide](agenticos-web3-ai-agent-on-x-open-source.md#quick-start-guide)
 
 ***
 
@@ -72,6 +72,18 @@ Explore each API and SDK dev docs in detail:
 
 {% content-ref url="ai-nft-generator-api-and-sdk/" %}
 [ai-nft-generator-api-and-sdk](ai-nft-generator-api-and-sdk/)
+{% endcontent-ref %}
+
+{% content-ref url="smart-contracts-generator-api-and-sdk/" %}
+[smart-contracts-generator-api-and-sdk](smart-contracts-generator-api-and-sdk/)
+{% endcontent-ref %}
+
+{% content-ref url="smart-contracts-auditor-api-and-sdk/" %}
+[smart-contracts-auditor-api-and-sdk](smart-contracts-auditor-api-and-sdk/)
+{% endcontent-ref %}
+
+{% content-ref url="ai-crypto-news-rss-sdk/" %}
+[ai-crypto-news-rss-sdk](ai-crypto-news-rss-sdk/)
 {% endcontent-ref %}
 
 {% content-ref url="agenticos-web3-ai-agent-on-x-open-source.md" %}
