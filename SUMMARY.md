@@ -61,7 +61,7 @@
   * [FAQ](dev-docs-b2b-api-sdk/grant-program-and-co-marketing/faq.md)
 * [Use Cases & Examples](dev-docs-b2b-api-sdk/use-cases-and-examples.md)
 * [Case Studies](dev-docs-b2b-api-sdk/case-studies.md)
-* [QuickStart Guide](dev-docs-b2b-api-sdk/quickstart-guide.md)
+* [Global QuickStart Guide](dev-docs-b2b-api-sdk/global-quickstart-guide.md)
 * [Web3 AI Chatbot & LLM (API & SDK)](dev-docs-b2b-api-sdk/web3-ai-chatbot-and-llm-api-and-sdk/README.md)
   * [QuickStart Guide](dev-docs-b2b-api-sdk/web3-ai-chatbot-and-llm-api-and-sdk/quickstart-guide.md)
   * [API Reference](dev-docs-b2b-api-sdk/web3-ai-chatbot-and-llm-api-and-sdk/api-reference.md)
@@ -72,6 +72,7 @@
   * [API Reference](dev-docs-b2b-api-sdk/ai-nft-generator-api-and-sdk/api-reference.md)
   * [SDK Reference](dev-docs-b2b-api-sdk/ai-nft-generator-api-and-sdk/sdk-reference.md)
   * [Pricing & Credits](dev-docs-b2b-api-sdk/ai-nft-generator-api-and-sdk/pricing-and-credits.md)
+* [Page 1](dev-docs-b2b-api-sdk/page-1.md)
 * [AgenticOS: Web3 AI Agent on X (Open-Source)](dev-docs-b2b-api-sdk/agenticos-web3-ai-agent-on-x-open-source.md)
 * [Page](dev-docs-b2b-api-sdk/page.md)
 * [AI News SDK Documentation](dev-docs-b2b-api-sdk/ai-news-sdk-documentation/README.md)
@@ -83,16 +84,6 @@
 * [Smart Contract Generator SDK Documentation](dev-docs-b2b-api-sdk/smart-contract-generator-sdk-documentation/README.md)
   * [Getting Started](dev-docs-b2b-api-sdk/smart-contract-generator-sdk-documentation/getting-started.md)
   * [SDK Components](dev-docs-b2b-api-sdk/smart-contract-generator-sdk-documentation/sdk-components.md)
-* [NFT GENERATOR SDK Documentation](dev-docs-b2b-api-sdk/nft-generator-sdk-documentation/README.md)
-  * [Getting Started](dev-docs-b2b-api-sdk/nft-generator-sdk-documentation/getting-started.md)
-  * [SDK Components](dev-docs-b2b-api-sdk/nft-generator-sdk-documentation/sdk-components.md)
-* [Pricing and usage tracking](dev-docs-b2b-api-sdk/pricing-and-usage-tracking.md)
-* [ChatBot SDK Documentation](dev-docs-b2b-api-sdk/chatbot-sdk-documentation/README.md)
-  * [Getting Started](dev-docs-b2b-api-sdk/chatbot-sdk-documentation/getting-started.md)
-  * [SDK Components](dev-docs-b2b-api-sdk/chatbot-sdk-documentation/sdk-components.md)
-* [$1M Web3 AI Grant Program](dev-docs-b2b-api-sdk/usd1m-web3-ai-grant-program/README.md)
-  * [Grant Support](dev-docs-b2b-api-sdk/usd1m-web3-ai-grant-program/grant-support.md)
-* [APIs & SDKs](dev-docs-b2b-api-sdk/apis-and-sdks.md)
 
 ## Our Ecosystem
 
