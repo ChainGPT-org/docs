@@ -56,7 +56,7 @@ Sign the transaction in MetaMask and ensure the address matches yours correctly.
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcCdMlbxV830clyVkwS8OM59cTyj77H2YFCleqKVE_JR3kJvVO-sXXk7lAUrbANg25Va-YToL-oyx6aFd4nw9OZtLULshdQlK-MbBFOnoCToM4SIKFpmRF92A5tiS-UV7i0tAUJhQ?key=6LnOTJypQT-70kHu9TDQiOH5" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXf8FsXm38Z-lUy9xJPUzfi7z2r8WQGYj8FtjKcxMBZaLuxiR24Zz0aL6KfVTtdAsJfvwXs4NuxEGAFchu-Yc79TEHX_wzQRopCYnpbtMnNvbx1gVDZjHpFdDy0VNIR74n_JkQJQug?key=6LnOTJypQT-70kHu9TDQiOH5" alt=""><figcaption></figcaption></figure>
 

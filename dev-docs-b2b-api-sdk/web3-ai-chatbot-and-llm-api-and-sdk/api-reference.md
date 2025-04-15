@@ -1,6 +1,6 @@
-# Web3 LLM: API Reference
+# API Reference
 
-## ChainGPT Web3 LLM API Reference
+## ChainGPT Web3 LLM - API Reference
 
 ### Introduction
 
@@ -15,6 +15,8 @@ ChainGPT’s Web3 LLM API (formerly _General Chat_ API) is a RESTful interface t
 * **Flexible Tone Control:** Adjust the style of the AI’s responses by selecting from preset tones (professional, friendly, etc.) or defining a custom tone, enabling you to fine-tune how the assistant communicates.
 
 This reference guide covers all available endpoints, request parameters, response formats, and usage examples for the ChainGPT Web3 LLM API. It is intended for developers and engineers looking to integrate ChainGPT’s AI assistant into their own platforms.
+
+***
 
 ### Authentication and API Keys
 
@@ -39,6 +41,8 @@ Authorization: Bearer YOUR_API_KEY
 Replace YOUR\_API\_KEY with the value of the key you obtained. The API uses this for authenticating your requests and for tracking usage against your account.
 
 **Base URL:** All endpoints described below are accessed via the base URL https://api.chaingpt.org. The endpoints are versioned implicitly (current version v1); if breaking changes are introduced in the future, they will be released under a new version or path. For now, no version prefix is required in the URL.
+
+***
 
 ### Usage Overview
 
@@ -66,6 +70,8 @@ Finally, the API offers a chat history endpoint to retrieve past conversations. 
 Note: Each API request consumes credits from your ChainGPT account. The cost is 0.5 credits per chat request, plus an additional 0.5 credits if chat history is enabled for that request (since storing and managing conversation context incurs extra processing). Ensure your account has sufficient credits to cover your usage. If your credits are exhausted, API calls will fail with an error indicating insufficient credits.
 {% endhint %}
 
+***
+
 ### Endpoints
 
 This section describes each API endpoint in detail, including request and response formats and example usage in both cURL and Axios (Node.js). All endpoints expect the Authorization: Bearer header with your API key.
@@ -79,7 +85,7 @@ Use this endpoint to submit a prompt or question to the AI and receive the full 
 * **Headers:** Authorization: Bearer YOUR\_API\_KEY (required), plus Content-Type: application/json for the request body.
 * **Request Body:** JSON object with the following fields:
 
-<table><thead><tr><th width="117.55859375">Parameter</th><th width="96.51953125">Type</th><th width="94.8515625">Required</th><th>Description</th></tr></thead><tbody><tr><td>model</td><td>string</td><td>Yes</td><td>ID of the model to use for generation. Use "general_assistant" for the default ChainGPT chatbot model.</td></tr><tr><td>question</td><td>string</td><td>Yes</td><td>The user’s prompt or query for the chatbot. This is the message you want the AI to respond to.</td></tr><tr><td>chatHistory</td><td>string ("on"/"off")</td><td>No (default "off")</td><td>Whether to enable conversation memory for this request. If "on", this question and its answer will be stored and used as context for future requests. If "off", the AI will not consider any past interactions (and this interaction will not be saved).</td></tr><tr><td>sdkUniqueId</td><td>string (UUID or similar)</td><td>No</td><td>A unique session identifier to isolate chat history. Provide this if you want to maintain separate conversation threads under the same API key (e.g., per end-user). When chatHistory is "on", using a consistent sdkUniqueId ensures the AI only uses history from that specific session. If omitted, all history-enabled requests under your API key share one history.</td></tr><tr><td>useCustomContext</td><td>boolean</td><td>No (default false)</td><td>If set to true, the assistant will incorporate custom context. Without a contextInjection object, it uses the default context tied to your API key (configured in the AI Hub dashboard). With a contextInjection provided, it uses the provided context data (overriding any default context) for this response.</td></tr><tr><td>contextInjection</td><td>object</td><td>No</td><td>An object defining custom context details to inject. Requires useCustomContext: true to take effect. This object’s fields (company info, tone, token details, etc.) will influence the assistant’s response. See Context Injection Fields below for all available sub-fields.</td></tr></tbody></table>
+<table><thead><tr><th width="117.55859375">Parameter</th><th width="105.3515625">Type</th><th width="83.41796875">Required</th><th>Description</th></tr></thead><tbody><tr><td>model</td><td>string</td><td>Yes</td><td>ID of the model to use for generation. Use "general_assistant" for the default ChainGPT chatbot model.</td></tr><tr><td>question</td><td>string</td><td>Yes</td><td>The user’s prompt or query for the chatbot. This is the message you want the AI to respond to.</td></tr><tr><td>chatHistory</td><td>string ("on"/"off")</td><td>No (default "off")</td><td>Whether to enable conversation memory for this request. If "on", this question and its answer will be stored and used as context for future requests. If "off", the AI will not consider any past interactions (and this interaction will not be saved).</td></tr><tr><td>sdkUniqueId</td><td>string (UUID or similar)</td><td>No</td><td>A unique session identifier to isolate chat history. Provide this if you want to maintain separate conversation threads under the same API key (e.g., per end-user). When chatHistory is "on", using a consistent sdkUniqueId ensures the AI only uses history from that specific session. If omitted, all history-enabled requests under your API key share one history.</td></tr><tr><td>useCustomContext</td><td>boolean</td><td>No (default false)</td><td>If set to true, the assistant will incorporate custom context. Without a contextInjection object, it uses the default context tied to your API key (configured in the AI Hub dashboard). With a contextInjection provided, it uses the provided context data (overriding any default context) for this response.</td></tr><tr><td>contextInjection</td><td>object</td><td>No</td><td>An object defining custom context details to inject. Requires useCustomContext: true to take effect. This object’s fields (company info, tone, token details, etc.) will influence the assistant’s response. See Context Injection Fields below for all available sub-fields.</td></tr></tbody></table>
 
 All request body parameters should be encapsulated in a single JSON object. For example, a minimal request might include just model and question, while a more complex request could toggle chatHistory or supply contextInjection fields.
 
@@ -350,6 +356,8 @@ Using -G with curl converts it to a GET and allows --data-urlencode to append qu
 Tip: Remember that only interactions made with chatHistory: "on" are recorded. If you call the chat endpoints with history off, those exchanges will not appear in the chat history log. Also, if you want to isolate history per user in a multi-user system, you _must_ use sdkUniqueId consistently when creating chat completions. Otherwise, all saved history will be mixed together.
 {% endhint %}
 
+***
+
 ### Context Customization and Injection
 
 One of the powerful features of the ChainGPT Web3 LLM API is the ability to customize the assistant’s context and tone. By providing additional information, you can influence the responses to be more relevant to your project or adopt a certain style. There are two ways to leverage this:
@@ -581,6 +589,8 @@ await axios.post(API_URL, {
 ```
 
 The above would prime the assistant with the latest price so it can answer accurately. This is a form of dynamic context injection.
+
+***
 
 ### Advanced Usage and Tips
 

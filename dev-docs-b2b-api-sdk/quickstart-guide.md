@@ -1,8 +1,4 @@
----
-hidden: true
----
-
-# QuickStart Guide \[WIP]
+# QuickStart Guide
 
 ## Quickstart Guide To ChainGPT's API & SDK
 
@@ -17,51 +13,24 @@ This guide will help you start building with ChainGPT’s suite of Web3 AI tools
 3. Navigate to the API Keys section and click "Create New Secret Key".
 4.  Customize your API key based on your company's needs & use-cases (optional)
 
-    <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 5. Store your API key securely in an environment variable or secret manager. Do not expose it in frontend code.
 6. Ensure your account has sufficient credits. Credits can be purchased through the dashboard using Crypto, $CGPT or credit cards (fiat).
 
 ***
 
-### Step 2: Install the SDK
+### Step 2: Jump Into Your Preferred Solution QuickStart Guide
 
-ChainGPT provides SDKs for multiple tools. To get started with the Web3 AI Chatbot (General Chat API) using Node.js:
-
-```
-npm install @chaingpt/generalchat
-```
-
-For other tools such as the Smart Contract Generator, Auditor, or AI NFT Generator, refer to the corresponding SDK installation instructions in their documentation sections.
-
-***
-
-### Step 3: Make Your First API Call
-
-Here is a basic example that sends a question to the Web3 Chatbot and streams the response:
-
-```
-import { GeneralChat } from '@chaingpt/generalchat';
-
-const chat = new GeneralChat({ apiKey: 'YOUR_API_KEY' });
-
-async function askChainGPT() {
-  const stream = await chat.createChatStream({
-    question: "What is DeFi?",
-    chatHistory: "off"
-  });
-
-  stream.on('data', chunk => process.stdout.write(chunk.toString()));
-  stream.on('end', () => console.log("\n[Done]"));
-}
-
-askChainGPT();
-```
-
-This call uses 0.5 credits by default. You can enable chatHistory or pass additional configuration parameters depending on your use case.
+* [Web3 AI Chatbot & LLM - QuickStart Guide](web3-ai-chatbot-and-llm-api-and-sdk/quickstart-guide.md)
+* [AI NFT Generator - QuickStart Guide](ai-nft-generator-api-and-sdk/quickstart-guide.md)
+* Smart-Contracts Generator - QuickStart Guide
+* Smart-Contracts Auditor - QuickStart Guide
+* Web3 AI News Generator - QuickStart Guide
+* Crypto Legal & Compliance Assistant - QuickStart Guide
 
 ***
 
-### Step 4: Integrate with Your Application
+### Step 3: Integrate with Your Application
 
 Once your initial request is successful, you can begin integrating ChainGPT’s AI tools into your application. Common integration patterns include:
 
@@ -73,15 +42,19 @@ Once your initial request is successful, you can begin integrating ChainGPT’s 
 
 Refer to individual tool guides for detailed implementation patterns.
 
-**Full list of use-cases can be found here:**
+**Full list of use-cases & case-studies can be found here:**
 
 {% content-ref url="use-cases-and-examples.md" %}
 [use-cases-and-examples.md](use-cases-and-examples.md)
 {% endcontent-ref %}
 
+{% content-ref url="case-studies.md" %}
+[case-studies.md](case-studies.md)
+{% endcontent-ref %}
+
 ***
 
-### Step 5: Monitor and Optimize
+### Step 4: Monitor and Optimize
 
 * Use the API Dashboard to monitor request history, credit usage, and key performance metrics.
 * Implement error handling to manage low-credit conditions or invalid input.
@@ -91,12 +64,20 @@ Refer to individual tool guides for detailed implementation patterns.
 
 ### Next Steps
 
-Explore each API and SDK in detail:
+Explore each API and SDK dev docs in detail:
 
-* [Web3 Chatbot (GeneralChat)](https://docs.chaingpt.org)
-* [Smart Contract Generator](https://docs.chaingpt.org)
-* [Smart Contract Auditor](https://docs.chaingpt.org)
-* [AI NFT Generator](https://docs.chaingpt.org)
-* [Crypto News API](https://docs.chaingpt.org)
+{% content-ref url="web3-ai-chatbot-and-llm-api-and-sdk/" %}
+[web3-ai-chatbot-and-llm-api-and-sdk](web3-ai-chatbot-and-llm-api-and-sdk/)
+{% endcontent-ref %}
 
-For integration support or implementation guidance, contact the ChainGPT team or join the developer community.
+{% content-ref url="ai-nft-generator-api-and-sdk/" %}
+[ai-nft-generator-api-and-sdk](ai-nft-generator-api-and-sdk/)
+{% endcontent-ref %}
+
+{% content-ref url="agenticos-web3-ai-agent-on-x-open-source.md" %}
+[agenticos-web3-ai-agent-on-x-open-source.md](agenticos-web3-ai-agent-on-x-open-source.md)
+{% endcontent-ref %}
+
+{% hint style="info" %}
+**Note**: For integration support or implementation guidance, contact the ChainGPT team or join the developer community.
+{% endhint %}

@@ -122,4 +122,4 @@ These case studies illustrate the breadth and depth of ChainGPT’s impact:
 
 ChainGPT is more than an API suite — it’s a full-stack AI infrastructure layer that enables innovation across the entire Web3 ecosystem.
 
-_For additional use cases and technical examples, visit the_ [_Use Cases_](use-cases-and-examples.md) _or_ [_Quickstart_](quickstart-guide-wip.md) _pages._
+_For additional use cases and technical examples, visit the_ [_Use Cases_](use-cases-and-examples.md) _or_ [_Quickstart_](quickstart-guide.md) _pages._

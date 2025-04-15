@@ -1,12 +1,16 @@
 # Web3 AI Chatbot & LLM (API & SDK)
 
-## ChainGPT Web3 AI Chatbot & LLM (API & SDK) Overview
+## ChainGPT Web3 AI Chatbot & LLM (API & SDK)  - Overview
 
 ### **A Web3-native AI Chatbot built for the crypto world.**
 
 **ChainGPT’s Web3 AI Chatbot & LLM** combines a powerful Large Language Model (LLM) with deep blockchain expertise — enabling seamless integration of crypto-native AI into your platform. It’s trained on smart contracts, DeFi, NFTs, DAOs, and real-time market data, making it ideal for use cases like support, analytics, trading assistance, and community engagement.
 
 Already trusted by leading platforms like **Binance Square**, **BNB Chain**, and **TronDAO**, ChainGPT’s LLM is purpose-built for the next generation of Web3 applications.
+
+{% hint style="info" %}
+**Pricing:** each API or SDK request = 0.5 credits / ($0.005).&#x20;
+{% endhint %}
 
 ***
 
@@ -44,12 +48,12 @@ _Note:_ ChainGPT’s cloud handles the heavy AI computation (GPU model inference
 
 You can integrate ChainGPT via a RESTful web API or with the official JavaScript/TypeScript SDK – both provide the same Web3 AI capabilities, but with different developer experience.&#x20;
 
-{% content-ref url="web3-llm-api-reference.md" %}
-[web3-llm-api-reference.md](web3-llm-api-reference.md)
+{% content-ref url="api-reference.md" %}
+[api-reference.md](api-reference.md)
 {% endcontent-ref %}
 
-{% content-ref url="web3-ai-chatbot-sdk-reference.md" %}
-[web3-ai-chatbot-sdk-reference.md](web3-ai-chatbot-sdk-reference.md)
+{% content-ref url="sdk-reference.md" %}
+[sdk-reference.md](sdk-reference.md)
 {% endcontent-ref %}
 
 **The table below compares these options:**
@@ -122,14 +126,14 @@ When deploying ChainGPT in a production setting, keep these considerations in mi
 
 * **API Reference:** Dive into the full REST API documentation for ChainGPT’s Web3 LLM. It covers all available endpoints, request/response schemas, error codes, and examples in various languages. This is your go-to resource when you need detailed info on calling the API and handling responses.
 
-{% content-ref url="web3-llm-api-reference.md" %}
-[web3-llm-api-reference.md](web3-llm-api-reference.md)
+{% content-ref url="api-reference.md" %}
+[api-reference.md](api-reference.md)
 {% endcontent-ref %}
 
 * **SDK Documentation:** Check out the JavaScript/TypeScript SDK docs, which include quickstart examples, class and method details, and best practices for using the SDK in your product.. Learn how to stream responses, manage conversation history in code, and more.
 
-{% content-ref url="web3-ai-chatbot-sdk-reference.md" %}
-[web3-ai-chatbot-sdk-reference.md](web3-ai-chatbot-sdk-reference.md)
+{% content-ref url="sdk-reference.md" %}
+[sdk-reference.md](sdk-reference.md)
 {% endcontent-ref %}
 
 * **Use Cases & Examples:** Explore real-world examples and use cases to see ChainGPT in action. From DeFi platforms with on-site AI advisors to NFT marketplaces enhancing user support, these examples will inspire you and provide guidance on design patterns and integration approaches. _(See our “AI Web3 Chatbot: Features and Use Cases” page for a feature-oriented overview.)_

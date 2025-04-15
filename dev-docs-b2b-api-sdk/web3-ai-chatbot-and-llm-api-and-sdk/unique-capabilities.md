@@ -8,7 +8,7 @@ ChainGPT’s Web3 AI Large Language Model (LLM) is a blockchain-savvy AI designe
 
 ***
 
-### 📊 Market Research & Analysis
+### Market Research & Analysis
 
 ChainGPT can generate real-time market insights and research reports across the crypto and stock markets:
 

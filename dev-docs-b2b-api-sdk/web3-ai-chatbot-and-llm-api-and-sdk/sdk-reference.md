@@ -1,6 +1,6 @@
-# Web3 AI Chatbot: SDK Reference
+# SDK Reference
 
-## ChainGPT Web3 LLM SDK (General Chat) Reference
+## ChainGPT Web3 AI Chatbot - SDK Reference
 
 ### Introduction
 
@@ -24,6 +24,8 @@ Note: The SDK was previously referred to as “General Chat”. You may see the 
 * A ChainGPT account with API access: you’ll need an API key and sufficient credits (CGPTc) on the ChainGPT web app.
 * Familiarity with TypeScript/JavaScript for integrating the SDK into your project.
 
+***
+
 ### Installation
 
 **Install the SDK from npm into your Node.js project:**
@@ -42,6 +44,8 @@ import { GeneralChat } from '@chaingpt/generalchat';
 ```
 
 The SDK is written in TypeScript and includes type declarations for easier development. Ensure that your runtime or bundler supports ES2017+ features (since the SDK may use modern JavaScript syntax).
+
+***
 
 ### Authentication
 
@@ -66,6 +70,8 @@ The SDK will handle including this key in API requests. If the API key is invali
 {% hint style="info" %}
 Warning: Do not expose your API key in client-side code, public repositories, or logs. Anyone with your key could use up your credits. Rotate your key immediately if you suspect it’s been compromised.
 {% endhint %}
+
+***
 
 ### Parameters
 
@@ -219,13 +225,13 @@ socialMediaUrls: [
 
 This information can be used by the AI to answer questions like “Where can I follow the project on social media?” or to incorporate into responses if relevant.
 
-***
-
 With the contextInjection mechanism, you can dynamically supply information. Any field you include will override the default context fetched from the AI Hub for your API key. Fields you leave out will use whatever default context is associated with your API key (if useCustomContext is true) or just be omitted.
 
 {% hint style="info" %}
-Tip: The simplest way to use context injection is to set useCustomContext: true and include only the fields you want to override. For example, you can just change the aiTone for a single response by sending contextInjection: { aiTone: "PRE\_SET\_TONE", selectedTone: "FORMAL" } – this will use all your default context (company info, etc.) but switch the tone to Formal for that answer.
+**Tip:** The simplest way to use context injection is to set useCustomContext: true and include only the fields you want to override. For example, you can just change the aiTone for a single response by sending contextInjection: { aiTone: "PRE\_SET\_TONE", selectedTone: "FORMAL" } – this will use all your default context (company info, etc.) but switch the tone to Formal for that answer.
 {% endhint %}
+
+***
 
 ### Request/Response Examples
 
@@ -392,9 +398,11 @@ curl -X POST "https://api.chaingpt.org/v1/chatbot" \
 
 (The exact format can vary; the important part is the "bot" field containing the answer text.) You can parse the JSON to extract the answer. In cURL, the raw JSON will be printed to your terminal.
 
-***
-
+{% hint style="info" %}
 In both examples above, the SDK abstracts a lot: you didn’t need to worry about the exact URL or headers – just pass parameters to createChatStream or createChatBlob. Using Axios or cURL, you have to include the key and endpoint manually. For production use, the SDK approach is less error-prone, but it’s good to understand what’s happening behind the scenes.
+{% endhint %}
+
+***
 
 ### Error Handling
 
@@ -445,6 +453,8 @@ In the above code, if the API returns a non-200 HTTP status (e.g., 401 Unauthori
 {% hint style="info" %}
 Tip: Always wrap your createChatBlob or createChatStream calls in try/catch. For streaming, note that if the error occurs after the stream is returned (for example, connection drop mid-stream), it may emit an 'error' event on the stream. You should listen for 'error' on the stream if you need to handle mid-stream failures.
 {% endhint %}
+
+***
 
 ### Advanced Usage
 
@@ -578,6 +588,8 @@ In an interactive chat web app, a common approach is to use streaming for the re
 * **Testing in isolation:** If you’re not sure whether an odd answer is due to your contextInjection or something else, try toggling useCustomContext off and on, or testing the API with minimal inputs. This can help debug if your injected context is being applied correctly.
 * **Updates:** Keep an eye on ChainGPT’s announcements. As the SDK evolves (or new language SDKs come out), there may be new features or changes (for example, improved error messages, new tone presets, etc.). Since we avoided mentioning specific version numbers here, always refer to the latest changelog for up-to-date info.
 
+***
+
 ### History
 
 The ChainGPT SDK’s history feature allows the AI to remember previous interactions, enabling a true conversational experience where follow-up questions can reference earlier answers. Here we delve deeper into how to use chat history and retrieve it.
@@ -663,6 +675,8 @@ console.log(res.data.rows);
 
 In summary, use history to create more natural, ongoing conversations. It’s especially useful in chatbots, virtual assistants, or any multi-turn dialogue with the AI.
 
+***
+
 ### Pricing
 
 ChainGPT operates on a credit-based pricing model (credits are denoted as CGPTc in the ChainGPT ecosystem). This means you pre-purchase or earn credits, and each API call consumes a certain number of credits.
@@ -686,6 +700,8 @@ Note: Credits (CGPTc) might correspond to the ChainGPT utility token or a fixed 
 **Credit Monitoring:** You can track your credit balance and usage on the ChainGPT Web App’s dashboard. The dashboard will show how many credits you have left and possibly a log of where they were spent (requests made). It’s good practice to set up alerts on your side if you’re running low (the API might return an error when out of credits). See Monitoring for more.
 
 The credit system ensures you only pay for what you use. There are no separate charges per token or per length of response – it’s a flat rate per request (with the minor addition for history). This simplifies cost calculations.
+
+***
 
 ### Rate Limits
 
@@ -712,6 +728,8 @@ This means you can send up to 200 chat requests (stream or blob) within a rollin
 Remember that streaming responses occupy a connection for the duration of the stream. However, as far as rate count is concerned, a streaming request counts as one request when initiated. But if you had 200 long-running streams simultaneously, that might be another kind of limit (like connection limits) – typically though, 200 simultaneous streams is also likely too high. Consider the practical concurrency as well.
 
 **In summary:** _200 requests/minute_ is the cap – design your application to stay under that, and implement safeguards to handle the case when it’s exceeded.
+
+***
 
 ### Monitoring
 
