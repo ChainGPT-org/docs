@@ -2,7 +2,9 @@
 
 The ChainGPT Grant Program application process is designed to facilitate the submission and review of proposals with precision and professionalism. This guide outlines the structured steps from initial application to potential funding, ensuring a clear path for developers seeking support for their blockchain and AI innovations.
 
-
+{% hint style="info" %}
+Apply Now: [https://forms.gle/p9Q49sPevzY6XL5y7](https://forms.gle/p9Q49sPevzY6XL5y7)&#x20;
+{% endhint %}
 
 ### Application Guidelines&#x20;
 
@@ -22,7 +24,7 @@ The ChainGPT Grant Program application process is designed to facilitate the sub
 
 Following these guidelines and understanding the process can significantly enhance your application's chances of success.
 
-
-
-## &#x20;                                           >[Apply Here](https://forms.gle/p9Q49sPevzY6XL5y7)<
+{% hint style="info" %}
+**Apply Now:** [https://forms.gle/p9Q49sPevzY6XL5y7](https://forms.gle/p9Q49sPevzY6XL5y7)&#x20;
+{% endhint %}
 

@@ -55,7 +55,7 @@
 
 ## Dev Docs (B2B, API, SDK)
 
-* [Introduction to ChainGPT Developer Tools](dev-docs-b2b-api-sdk/introduction-to-chaingpt-developer-tools.md)
+* [Introduction to ChainGPT's Developer Tools](dev-docs-b2b-api-sdk/introduction-to-chaingpts-developer-tools.md)
 * [Grant Program & Co-Marketing](dev-docs-b2b-api-sdk/grant-program-and-co-marketing/README.md)
   * [Application](dev-docs-b2b-api-sdk/grant-program-and-co-marketing/application.md)
   * [FAQ](dev-docs-b2b-api-sdk/grant-program-and-co-marketing/faq.md)
@@ -85,6 +85,12 @@
   * [SDK Reference](dev-docs-b2b-api-sdk/ai-crypto-news-rss-sdk/sdk-reference.md)
   * [RSS Reference](dev-docs-b2b-api-sdk/ai-crypto-news-rss-sdk/rss-reference.md)
 * [AgenticOS: Web3 AI Agent on X (Open-Source)](dev-docs-b2b-api-sdk/agenticos-web3-ai-agent-on-x-open-source.md)
+
+***
+
+* [API Pricing Page](https://app.chaingpt.org/pricing)
+* [API Dashboard & Playground](https://app.chaingpt.org/apidashboard)
+* [Purchase API Credits](https://app.chaingpt.org/addcredits)
 
 ## Our Ecosystem
 

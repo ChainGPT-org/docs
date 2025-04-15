@@ -153,8 +153,8 @@ When deploying ChainGPT in a production setting, keep these considerations in mi
   &#xNAN;**— API Dashboard:** [https://app.chaingpt.org/apidashboard](https://app.chaingpt.org/apidashboard)
 * **Other AI Tools:** Remember, ChainGPT’s ecosystem offers more than just the chatbot. Via the same API/SDK, you can access tools like the **Smart Contract Auditor**, **Smart Contract Generator**, **AI NFT Generator,** and more. These can complement your chatbot – for example, you might integrate the auditor to let users _audit a contract via chat_, or use the NFT generator for creative user commands. Check out the relevant docs sections for these tools to expand your application’s AI capabilities.
 
-{% content-ref url="../introduction-to-chaingpt-developer-tools.md" %}
-[introduction-to-chaingpt-developer-tools.md](../introduction-to-chaingpt-developer-tools.md)
+{% content-ref url="../introduction-to-chaingpts-developer-tools.md" %}
+[introduction-to-chaingpts-developer-tools.md](../introduction-to-chaingpts-developer-tools.md)
 {% endcontent-ref %}
 
 ***

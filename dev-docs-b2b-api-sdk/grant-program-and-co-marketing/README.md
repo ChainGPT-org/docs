@@ -1,5 +1,11 @@
 # Grant Program & Co-Marketing
 
+{% hint style="info" %}
+Grant Application Form: [https://forms.gle/p9Q49sPevzY6XL5y7](https://forms.gle/p9Q49sPevzY6XL5y7)&#x20;
+
+Grant Website: [https://www.chaingpt.org/web3-ai-grant](https://www.chaingpt.org/web3-ai-grant)
+{% endhint %}
+
 ## Grant Program & Co-Marketing
 
 ChainGPT is not only a product suite but also a community supporter. The $1M Web3 AI Grant Program is an initiative to foster innovation at the intersection of AI and blockchain . If you’re building a Web3 project that could benefit from ChainGPT’s AI, this program offers financial grants, technical support, and co-marketing opportunities to boost your success.
@@ -48,7 +54,7 @@ Developers, startups, or even established companies working on Web3 applications
 **The application process is straightforward:**
 
 1. Prepare a brief proposal outlining your project, team, stage, and how you plan to use ChainGPT.
-2. Visit the ChainGPT Grant Program page (on the docs or website) and fill out the application form . You’ll need to specify which tier you’re applying for.
+2. Visit the ChainGPT Grant Program page ([https://forms.gle/p9Q49sPevzY6XL5y7](https://forms.gle/p9Q49sPevzY6XL5y7)) and fill out the application form . You’ll need to specify which tier you’re applying for.
 3. The ChainGPT team reviews submissions on a rolling basis. Within a few weeks (or as posted on the grant page), you’ll get feedback or next steps. Promising applicants might be invited for an interview or to provide more details.
 
 ***
