@@ -7,6 +7,8 @@
 * [Polygon](https://polygon.technology/)
 * [Arbitrum](https://arbitrum.io/)
 * [Hedera](https://hedera.com/)
+* [Cronos](https://cronos.org/)
+* [Sonic](https://www.soniclabs.com/)
 * [Base](https://www.base.org/)
 * [Sei](https://www.sei.io/)
 * [Core](https://coredao.org/)
@@ -20,6 +22,7 @@
 * [Solana](https://solana.com/)
 * [aelf](https://aelf.com/)
 * [Viction](https://viction.xyz/)
+* [Ice Open Network](https://ice.io/)
 
 ## AI / Machine Learning
 
@@ -78,6 +81,7 @@
 * [Altcoin Buzz](https://www.altcoinbuzz.io/)
 * [TaskOn](https://taskon.xyz/)
 * [BSC.News](https://www.bsc.news/)
+* [Layer3](https://app.layer3.xyz/)
 
 ## Wallets
 
