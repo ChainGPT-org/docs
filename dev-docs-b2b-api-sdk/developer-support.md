@@ -8,7 +8,9 @@ hidden: true
 
 ### 💡 Developer Support
 
-Whether you’re integrating our AI SDKs into your DeFi stack or just getting started with ChainGPT’s APIs, we’ve got your back. Our support system is built to handle both enterprise-level deployments and independent builders — with speed, clarity, and consistency.
+Whether you’re building advanced dApps using ChainGPT’s AI SDKs, automating Web3 workflows, or just starting your first API call — we’re here to support you. Our tools are designed for scalability, but our support is built for personal connection and rapid problem-solving.
+
+From B2B integrations to individual projects, we offer multiple support channels tailored to your needs.
 
 Here’s how to get help when you need it:
 
