@@ -40,7 +40,7 @@ Prefer a more interactive approach? We’ve set up a dedicated ticketing system 
 
 ⏱️ Response time: Within 1 business day _(our goal is under 4 hours)_
 
-> 🧑‍💻 Our dev team actively monitors this channel — you’re not shouting into the void.
+> 🧑‍💻 Tickets that are opened our automatically routed to our support team — you’re not shouting into the void.
 
 ***
 
