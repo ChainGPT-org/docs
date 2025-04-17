@@ -51,15 +51,15 @@ The live suite includes core tools like the Web3 AI Chatbot, Smart Contract Audi
 
 #### **🧬 AI Agents & Infrastructure**
 
-• AIVM Blockchain – AI-native blockchain for autonomous agents _(Expected by Q2 2026)_
-
-• CGPT.Fun – No-code launcher for custom AI agents _(Coming Soon)_
-
 • AgenticOS – Open-source Twitter AI agent framework ([View on GitHub](https://github.com/ChainGPT-org/AgenticOS))
 
 • ChainGPT AI Agent on Twitter – Real-time crypto analyst ([Follow](https://x.com/ChainGPTAI))
 
 • Nova AI Agent – Web3 news agent delivering verified crypto updates ([Follow](https://x.com/ChainGPTAINews))
+
+• AIVM Blockchain – AI-native blockchain for autonomous agents _(Expected by Q2 2026)_
+
+• CGPT.Fun – No-code launcher for custom AI agents _(Coming Soon)_
 
 ***
 

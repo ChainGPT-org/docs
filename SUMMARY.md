@@ -25,7 +25,7 @@
   * [AI Data Marketplace](overview/learn-the-concepts/ai-data-marketplace.md)
 * [Road Map](overview/road-map/README.md)
   * [🔛 2025: Q1-Q2](overview/road-map/2025-q1-q2.md)
-  * [🔜 2024-2025 AIVM Blockchain Initiative](overview/road-map/2024-2025-aivm-blockchain-initiative.md)
+  * [🔜 2025-2026 AIVM Blockchain Initiative](overview/road-map/2024-2025-aivm-blockchain-initiative.md)
   * [✔️ 2024: Q3-Q4](overview/road-map/2024-q3-q4.md)
   * [✔️ 2024: Q1-Q2](overview/road-map/2024-q1-q2.md)
   * [✔️ 2023: Q3-Q4](overview/road-map/2023-q3-q4.md)

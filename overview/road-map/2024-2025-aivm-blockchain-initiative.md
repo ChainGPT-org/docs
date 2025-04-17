@@ -1,4 +1,4 @@
-# 🔜 2024-2025 AIVM Blockchain Initiative
+# 🔜 2025-2026 AIVM Blockchain Initiative
 
 ### **Introduction to ChainGPT's AIVM: The Future of Decentralized AI**
 
@@ -71,7 +71,7 @@ ChainGPT's AIVM introduces several groundbreaking innovations tailored to enhanc
 * **Deployment of ChainGPT’s LLMs & TTIMs on ChainGPT AIVM (phase 4):** Phase 4 includes the deployment of ChainGPT’s Large Language Models (LLMs) and Text-To-Image Models (TTIMs) on the AIVM blockchain. These advanced AI models enhance the platform’s capabilities, supporting diverse applications across industries.
 * **Developer Feedback & Contribution Phase for Network Improvement (phase 4):** ChainGPT invites developer feedback and contributions to iteratively improve the AIVM network. This collaborative approach ensures that the platform evolves to meet the dynamic needs of its users and stakeholders.
 
-**Q1, 2026: Phase 5 - Final**
+**Q1-Q2, 2026: Phase 5 - Final**
 
 * **AIVM Mainnet Release (phase 5 - final phase):** Phase 5 culminates in the mainnet release of the ChainGPT AIVM blockchain. This milestone marks the full-scale deployment of a robust, decentralized infrastructure capable of supporting a wide range of AI applications. The mainnet launch signifies ChainGPT’s commitment to advancing the intersection of AI and blockchain technology, driving innovation and adoption worldwide.
 
