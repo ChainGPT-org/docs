@@ -85,6 +85,7 @@
   * [SDK Reference](dev-docs-b2b-api-sdk/ai-crypto-news-rss-sdk/sdk-reference.md)
   * [RSS Reference](dev-docs-b2b-api-sdk/ai-crypto-news-rss-sdk/rss-reference.md)
 * [AgenticOS: Web3 AI Agent on X (Open-Source)](dev-docs-b2b-api-sdk/agenticos-web3-ai-agent-on-x-open-source.md)
+* [Developer Support](dev-docs-b2b-api-sdk/developer-support.md)
 
 ***
 
