@@ -38,6 +38,7 @@
 * [Sleepless AI](https://www.sleeplessai.net/)
 * [Alaya AI](https://www.aialaya.io/)
 * [Tars Protocol](https://tars.pro/)
+* [Marlin Protocol](https://www.marlin.org/)
 
 ## NFT
 
