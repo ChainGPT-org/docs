@@ -1,6 +1,6 @@
-# AI Crypto News (RSS, SDK)
+# AI Crypto News (API & SDK & RSS)
 
-## AI Crypto News (RSS & SDK) Overview
+## AI Crypto News (API & SDK & RSS) Overview
 
 ChainGPT’s **AI Crypto News** solution is an AI-powered service that automatically gathers and generates up-to-date crypto news. It leverages advanced AI agents to **source, filter, deduplicate, and summarize** news from many outlets in real time. This ensures that developers and users get a feed of relevant crypto, blockchain, and Web3 news that is **unbiased, timely, and cross-verified** across multiple sources.
 
@@ -25,6 +25,10 @@ The AI news agent continuously scans trusted crypto news sites (e.g. CoinDesk, C
 Developers can consume ChainGPT’s AI-generated crypto news in two ways: **open RSS feeds** or the **AI News SDK/API**.
 
 * **SDK / API:** For more control and advanced queries, developers can use the official ChainGPT AI News SDK (or directly call the API). The SDK allows fetching news with custom filters – for example, by specific category, blockchain, or token, by keywords, and within certain date ranges. This programmable approach is ideal for integrating news into applications where you might want to dynamically query and display content.
+
+{% content-ref url="api-reference.md" %}
+[api-reference.md](api-reference.md)
+{% endcontent-ref %}
 
 {% content-ref url="sdk-reference.md" %}
 [sdk-reference.md](sdk-reference.md)

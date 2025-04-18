@@ -1,228 +1,328 @@
 # SDK Reference
 
-## SDK Reference
+## ChainGPT Smart-Contracts Generator SDK Reference
 
-The ChainGPT Smart-Contracts Generator **SDK** is available as an NPM package (`@chaingpt/smartcontractgenerator`) and provides a convenient wrapper around the API for Node.js environments. In this section, we detail how to use the SDK, its methods, and how it simplifies integration.
+### Introduction
 
-The SDK is written in TypeScript, which means you get type definitions and IntelliSense if you use it in a TypeScript project or a modern IDE. It can also be used in plain JavaScript projects.
+The **ChainGPT Smart-Contracts Generator SDK** is a Node.js library that allows developers to programmatically generate Solidity smart contract code using natural language prompts. It provides convenient access to ChainGPT’s AI-powered Smart Contract Generator service via simple JavaScript/TypeScript methods, without needing to handle raw HTTP requests. Using this SDK, you can integrate automated smart contract creation into your applications, tools, or workflows with minimal setup.
+
+**Key features:**
+
+* **Ease of Use:** Initialize the SDK with your API key and call a method with a plain English prompt to receive a ready-to-use smart contract. No deep AI or blockchain expertise is required.
+* **Two Generation Modes:** Choose between receiving the full contract output in one response (a “blob” result), or streaming the contract code progressively as it’s generated in real-time.
+* **Chat History Support:** Optionally enable chat history to allow multi-turn interactions (iteratively refining contracts) and retrieve past generation sessions.
+* **Secure & Scalable:** Authentication is handled via API keys, with support for up to 200 requests per minute per key. The service uses a credit-based system for pricing (typically 1 credit per generation request, see **Credit Usage** below), ensuring predictable costs.
+
+**Prerequisites:** To use the SDK, you need a Node.js environment (JavaScript or TypeScript) and an active ChainGPT account with API access. Make sure you have: Node.js installed, a ChainGPT API Key, and available credits in your ChainGPT account.
 
 ***
 
 ### Installation
 
-Install the SDK via npm or yarn (as shown in the QuickStart):
+Install the SDK package via npm or Yarn:
 
 ```
-npm install @chaingpt/smartcontractgenerator
+npm install --save @chaingpt/smartcontractgenerator
 # or
 yarn add @chaingpt/smartcontractgenerator
 ```
 
-This adds the SDK to your project’s dependencies.
-
-{% hint style="info" %}
-_Note: Ensure you have Node.js installed. The SDK runs in Node and is not intended for direct use in browsers, as it would expose your API key. You’d typically call the SDK from your server-side code._
-{% endhint %}
+This will add the ChainGPT Smart-Contract Generator SDK to your project. The library is distributed with TypeScript type declarations, so it can be used in both JavaScript and TypeScript projects. The SDK supports **Node.js** environments (it is not intended for direct use in browsers).
 
 ***
 
-### Initialization and Authentication
+### Setup and Authentication
 
-To start using the SDK, import the `SmartContractGenerator` class from the package and initialize it with your API key:
+Before using the SDK, you must obtain a **ChainGPT API Key** and ensure your account has sufficient credits:
 
-```javascript
-javascriptCopyEditimport { SmartContractGenerator } from "@chaingpt/smartcontractgenerator";
+* **Obtain API Key:** Log in to the ChainGPT web app ([**app.chaingpt.org**](https://app.chaingpt.org/)) and navigate to the API Dashboard. Use the interface to create a new _Secret Key_ (API key) and copy it. Each key is a secret token that authenticates your requests to the ChainGPT API.
+* **Credits:** ChainGPT uses a credit-based system. Ensure your account has credits available (you can purchase or earn credits on the ChainGPT platform). Each API call via the SDK will deduct credits from your account (see **Credit Usage** below).
 
-const smartcontractGenerator = new SmartContractGenerator({
-  apiKey: "YOUR_API_KEY_HERE"
+**Authentication:** Once you have your API key, provide it when initializing the SDK. For security, **do not hard-code** the key in your codebase. Instead, store it in an environment variable or secure config and pass it in at runtime. For example:
+
+```
+import { SmartContractGenerator } from "@chaingpt/smartcontractgenerator";
+
+// Load API key from environment for security
+const apiKey = process.env.CHAINGPT_API_KEY as string; 
+
+// Initialize the SmartContractGenerator SDK client
+const smartcontractgenerator = new SmartContractGenerator({
+  apiKey: apiKey,  // your ChainGPT API Key
 });
 ```
 
-Replace `"YOUR_API_KEY_HERE"` with your actual key. As noted earlier, it’s best to not hard-code it; instead, load from an environment variable or config file:
-
-```javascript
-javascriptCopyEditconst smartcontractGenerator = new SmartContractGenerator({
-  apiKey: process.env.CHAINGPT_API_KEY
-});
-```
-
-Once initialized, `smartcontractGenerator` becomes your main interface to call the generator methods. You generally only need to initialize once (perhaps at app startup) and reuse this instance.
-
-Under the hood, the SDK is storing the API key and will attach it to all requests made to ChainGPT’s servers. It also sets the appropriate base URL and other config. You don’t need to specify the model name (`"smart_contract_generator"`) on each call; the SDK handles that for you.
+_Never expose your API Key publicly._ Treat it like a password: commit it to a secure store or environment variable rather than hardcoding. The SDK will use this key to authenticate all requests.
 
 ***
 
-### Core Methods
+### Usage Overview
 
-The SmartContractGenerator SDK instance provides several methods. The key ones are:
+The ChainGPT Smart-Contracts Generator SDK provides three primary methods to interact with the service:
 
-* `createSmartContractStream(options)` – Generate a smart contract and get the result as a stream (useful for real-time data).
-* `createSmartContractBlob(options)` – Generate a smart contract and get the full result as a resolved promise (blob meaning the whole output).
-* `getChatHistory(options)` – Retrieve past chat history (if any) from previous calls.
+* **`createSmartContractBlob`** – Generate a smart contract and get the entire result in one response (a “blob” of data).
+* **`createSmartContractStream`** – Generate a smart contract and receive the output as a stream of data chunks, allowing you to handle partial results in real-time (useful for progress updates or large contracts).
+* **`getChatHistory`** – Retrieve the history of past smart contract generation requests and responses (if chat history was enabled for those requests).
 
-All these methods return promises (the first returns a promise that resolves to a stream, the second resolves to a response object, and the third to a history object). Let’s look at each in detail.
-
-#### `createSmartContractStream(options)`
-
-**Description:** Sends a prompt to the AI and returns a Node.js readable stream that will yield the response chunks. Use this if you want to start processing or displaying the AI’s answer incrementally (e.g., show typing effect or progress). This corresponds to the streaming API endpoint under the hood.
-
-**Options Parameter:** an object with the following fields:
-
-* `question` (string, required) – The prompt or request describing the contract you want (same as the API’s question parameter).
-* `chatHistory` (string, optional) – `"on"` or `"off"`. Set to `"on"` to enable conversation mode (the AI will consider prior context and the conversation will be recorded in history). Default is `"off"`.
-* `sdkUniqueId` (string, optional) – If you want to associate this request with a specific user or session for the sake of chat history isolation, provide a unique ID. If not provided, and you have chatHistory on, history will be stored in a general context tied to your API key.
-
-Example usage:
-
-```javascript
-javascriptCopyEditconst stream = await smartcontractGenerator.createSmartContractStream({
-  question: "Give me a Solidity contract for a simple decentralized voting system.",
-  chatHistory: "on",
-  sdkUniqueId: "session-42"
-});
-stream.on("data", chunk => {
-  process.stdout.write(chunk.toString());
-});
-stream.on("end", () => {
-  console.log("\n[Generation complete]");
-});
-```
-
-In this example, we ask for a voting system contract. We turned `chatHistory` on, meaning this Q\&A will be stored and the context can be used for follow-ups. We provided a `sdkUniqueId` (“session-42”) to label this conversation (so if another user is concurrently using the generator with a different ID, their history stays separate).
-
-**Return Value:** A Promise that resolves to a Readable Stream (`stream.Readable`). You handle it by attaching event listeners as shown. Each `data` event provides a `Buffer` or string chunk; convert to string to get the text. An `end` event signifies no more data. You can also listen for an `error` event on the stream in case something goes wrong during the streaming.
-
-_(Advanced: If you prefer using async iterators, you can also `for await` on the stream in modern Node, treating it like an async iterable.)_
+All methods are available on the `smartcontractgenerator` instance created above. In the sections below, each method is detailed with its parameters, return format, example usage, and notes on credit consumption.
 
 #### `createSmartContractBlob(options)`
 
-**Description:** Sends a prompt and returns the full response once ready. This is convenient if you just want the final result without dealing with streaming. Internally, the SDK still calls the streaming endpoint but collects the output for you, or it calls a non-streaming variant of the API if available. The end result is given to you in one object.
+Generates a new smart contract based on a natural-language prompt, returning the full contract code in a single response object. Use this method when you prefer to receive the complete result at once (for example, in a server-side script or when the final output size is manageable).
 
-**Options Parameter:** same fields as `createSmartContractStream` (question, chatHistory, sdkUniqueId).
+**Parameters:** (pass as an object to the method)
 
-Example usage:
+* **`question`** (`string`, required): The prompt or query describing the desired smart contract. This can be any natural-language instruction, e.g. _"Create an ERC-20 token contract with a mint function"_.
+* **`chatHistory`** (`"on"` or `"off"` , required): Set to `"on"` to enable chat history for this request, or `"off"` to treat it as a one-off request. When `"on"`, the conversation history will be stored and used to inform the response (allowing follow-up questions). When `"off"`, the AI will not reference any prior context, and no history will be saved.
+* **`sdkUniqueId`** (`string`, optional): A unique identifier for the user or session. Only needed if `chatHistory` is `"on"`. By providing a stable unique ID (such as a user ID or UUID) for each user/session, you ensure the chat history is kept separate per user. Use the **same** `sdkUniqueId` for subsequent calls to continue the conversation thread of a particular user (see **Chat History & Session Management** below). If not provided, the history will be tracked globally per API key (not separated by user).
 
-```javascript
-javascriptCopyEditconst response = await smartcontractGenerator.createSmartContractBlob({
-  question: "Create a smart contract that manages a simple crowdfunding campaign (contributors can send ETH, goal target, deadline, etc).",
-  chatHistory: "off"
-});
-const contractCode = response.data.bot;
-console.log(contractCode);
+**Returns:** A **Promise** that resolves to a response object containing the generated contract. On success, you can access the contract code string in `response.data.bot`. The response may include additional metadata (such as IDs or timestamps) as part of the data. On failure, the promise will reject with an error (see **Error Handling**).
+
+**Example – Blob Response:**
+
+```
+import { SmartContractGenerator } from "@chaingpt/smartcontractgenerator";
+
+const smartcontractgenerator = new SmartContractGenerator({ apiKey: "<YOUR_API_KEY>" });
+
+async function main() {
+  try {
+    const response = await smartcontractgenerator.createSmartContractBlob({
+      question: "Write a smart contract that counts. It will have two functions: one for incrementing, other for decrementing.",
+      chatHistory: "off"
+    });
+    console.log("Generated contract code:\n", response.data.bot);
+  } catch (error) {
+    console.error("Error generating contract:", error);
+  }
+}
+
+main();
 ```
 
-After this call, `response` will hold the answer. Typically it has a structure similar to the API JSON. For instance, `response.data.bot` might contain the contract code string, and `response.data.user` could echo the prompt. If there was an error, this call would throw (to be caught in a try/catch).
+In this example, `createSmartContractBlob` sends the prompt to ChainGPT and waits for the full contract code to be returned. We then log the `response.data.bot` field, which contains the Solidity code generated by the AI. Because `chatHistory` is set to `"off"`, this request will not be associated with any persistent history and only **1 credit** will be consumed for the API call.
 
-**Return Value:** A Promise that resolves to a response object. You can inspect `response.data` to get the actual content. The SDK’s documentation or type definitions can give more details on the exact shape, but usually it’s an object with a `data` property that includes `bot` (the code) and possibly other metadata. If `chatHistory: "on"` was used, the history is stored on the server side but not necessarily visible directly in this response object aside from affecting the content.
+**Credit Usage:** Each call to `createSmartContractBlob` deducts **1 credit** from your ChainGPT account. If you enable chat history for the request (`chatHistory: "on"`), an **additional 1 credit** will be deducted to store and maintain the conversation history. (See **Chat History & Session Management** for details on when to use this.)
 
-Use this method when you want simplicity and have no need to stream output. For example, in a web backend, you might call this to get the code, then send that code back in an API response to your frontend.
+#### `createSmartContractStream(options)`
+
+Generates a new smart contract based on a prompt, returning the result as a streaming response. This method is useful for getting real-time feedback or updating a UI as the contract is being generated. The AI’s output will be sent in chunks through a Node.js stream interface.
+
+**Parameters:** _Identical to `createSmartContractBlob`:_
+
+* **`question`** (`string`, required): The natural-language description of the smart contract you want.
+* **`chatHistory`** (`"on"` or `"off"`, required): Enable or disable using/storing chat history for this generation (same behavior as described above).
+* **`sdkUniqueId`** (`string`, optional): Unique session/user ID (only needed if `chatHistory` is `"on"`, to isolate this conversation’s history).
+
+**Returns:** A **Promise** that resolves to a Node.js **Readable stream**. The stream will emit data events with chunks of the contract code as they are generated. You can listen to the stream’s `'data'` event to process output incrementally, and a `'end'` event to know when generation is complete. If the request fails initially, the promise will reject with an error instead of returning a stream.
+
+**Example – Streaming Response:**
+
+```
+import { SmartContractGenerator } from "@chaingpt/smartcontractgenerator";
+
+const smartcontractgenerator = new SmartContractGenerator({ apiKey: "<YOUR_API_KEY>" });
+
+async function main() {
+  try {
+    const stream = await smartcontractgenerator.createSmartContractStream({
+      question: "Write a smart contract that counts. It will have two functions: one for incrementing, other for decrementing.",
+      chatHistory: "off"
+    });
+    // Handle the stream events
+    stream.on('data', (chunk: any) => {
+      const partialOutput = chunk.toString();
+      console.log("Received chunk:", partialOutput);
+    });
+    stream.on('end', () => {
+      console.log("Stream ended - contract generation complete.");
+    });
+  } catch (error) {
+    console.error("Error starting stream:", error);
+  }
+}
+
+main();
+```
+
+In this example, `createSmartContractStream` returns a stream, and we set up listeners for `'data'` and `'end'` events. As the contract is generated, chunks of text (Solidity code) will be printed out in real-time. This is useful for providing progress feedback to users. We have used `chatHistory: "off"` here for a single-turn generation (consuming 1 credit). You could set it to `"on"` (with a corresponding `sdkUniqueId` if needed) to enable context continuity, at the cost of an extra credit for history.
+
+**Credit Usage:** Each call to `createSmartContractStream` also costs **1 credit** (plus **1 additional credit** if `chatHistory: "on"` is used). Streaming a response or getting a blob both incur the same credit cost for the request; the difference is only in how the data is delivered.
 
 #### `getChatHistory(options)`
 
-**Description:** Fetches the stored chat history of past prompts/responses for the given context. This is useful if you want to display or analyze previous interactions.
+Retrieves the history of past smart-contract generation interactions (prompts and responses) associated with your API key, especially those where chat history was enabled. This allows you to review or display previous contracts generated, or to fetch the context for follow-up questions in an ongoing session.
 
-**Options Parameter:** an object with the following:
+**Parameters:** (pass as an object)
 
-* `limit` (number, optional) – How many records to retrieve (default might be 10).
-* `offset` (number, optional) – For pagination (default 0).
-* `sortBy` (string, optional) – e.g. `"createdAt"`.
-* `sortOrder` (string, optional) – `"ASC"` or `"DESC"`.
-* `sdkUniqueId` (string, optional) – If you want history for a specific session ID. If you have been using `sdkUniqueId` for generation calls, you should pass the same one here to get that session’s history. If omitted, it will fetch the general history for the API key (or whatever default session the service uses).
+* **`limit`** (`number`, optional): The maximum number of history entries to retrieve. For example, `10` to get the 10 most recent entries. (Defaults may apply if not specified, e.g. 10 or 20 by default.)
+* **`offset`** (`number`, optional): The number of entries to skip (useful for pagination). For instance, an offset of `0` starts from the most recent entry, `10` would skip the first ten entries, etc.
+* **`sortBy`** (`string`, optional): Field by which to sort the history entries. The default (and typical) field is `"createdAt"` (the timestamp of creation).
+* **`sortOrder`** (`string`, optional): Sort direction, either `"ASC"` for ascending or `"DESC"` for descending. For example, to get newest first, use `"DESC"` (which is likely the default if not specified).
 
-Example usage:
+**Returns:** A **Promise** that resolves to a response object containing the history records. On success, the history entries are typically found in `response.data.rows` (as an array). Each entry may include information such as the prompt/question, the generated contract (or a reference to it), timestamps, and possibly the `sdkUniqueId` if one was used. If no history is available (e.g., if you never enabled `chatHistory` in prior calls), the returned list may be empty. If the request fails (e.g., due to invalid parameters or network issues), the promise will reject with an error.
 
-```javascript
-javascriptCopyEditconst historyResponse = await smartcontractGenerator.getChatHistory({
-  limit: 5,
-  sortBy: "createdAt",
-  sortOrder: "DESC",
-  sdkUniqueId: "session-42"
-});
-for (const record of historyResponse.data.rows) {
-  console.log("Q:", record.question);
-  console.log("A:", record.answer || record.bot);
-  console.log("---");
+**Example – Retrieving History:**
+
+```
+import { SmartContractGenerator } from "@chaingpt/smartcontractgenerator";
+
+const smartcontractgenerator = new SmartContractGenerator({ apiKey: "<YOUR_API_KEY>" });
+
+async function main() {
+  try {
+    const historyResponse = await smartcontractgenerator.getChatHistory({
+      limit: 10,
+      offset: 0,
+      sortBy: "createdAt",
+      sortOrder: "DESC"
+    });
+    const historyEntries = historyResponse.data.rows;
+    console.log("Retrieved history entries:", historyEntries);
+  } catch (error) {
+    console.error("Error fetching chat history:", error);
+  }
 }
+
+main();
 ```
 
-This would print the last 5 Q\&A pairs from session-42, newest first.
+This example fetches up to 10 previous smart contract generations (most recent first). The result `historyEntries` would contain the stored history records. You can iterate over these to inspect past prompts and results. Typically, you would call `getChatHistory` to support features like showing a user their past generated contracts or to retrieve a conversation’s context for further processing.
 
-**Return Value:** A Promise that resolves to a history object. The structure typically has `data.rows` which is an array of records. Each record may include fields like question, answer (or `bot`), and timestamps. It may also include an `id` for the record. Check the SDK types for exact details.
-
-**Note:** If no history is present (or you haven’t enabled chat history in prior calls), `data.rows` may be empty. Also remember, calling this will consume a credit as a standard API call (make sure this is acceptable or keep an eye on usage).
-
-#### Error Handling in SDK
-
-All SDK methods can throw errors if something goes wrong (they return promises that can reject). The SDK provides an `Errors` export with a class `SmartContractGeneratorError`. When a request fails due to an API issue (like a network error, or the API returning an error status), the SDK will likely throw an instance of this error class.
-
-As shown in the quickstart example, you can check `error instanceof Errors.SmartContractGeneratorError` to distinguish between known API errors vs other unexpected errors. The `error.message` will contain a human-readable message (often coming from the API’s error response). For example, if you ran out of credits, the message might say something like “Insufficient credits” etc.
-
-It’s good practice to wrap your SDK calls in try/catch if there is any chance of failure (which is any I/O or external call realistically). This way you can handle scenarios such as:
-
-* No internet connectivity / DNS issues (your server can’t reach ChainGPT API).
-* Invalid API key (maybe a misconfiguration – you’d get an auth error).
-* Out of credits or quota issues.
-* Invalid parameters (though if you pass all required fields correctly, this is less likely).
-* Service downtime.
-
-By catching and logging or handling these, your application can fail gracefully (maybe show an error to the user like “Service temporarily unavailable, please try later” or prompt yourself to fix an API key issue).
-
-#### Usage Patterns and Workflows
-
-To integrate the SDK effectively, here are some common patterns:
-
-* **Single Prompt → Code:** For apps where the user just inputs a description and gets a contract (one-shot), you can directly use `createSmartContractBlob`. E.g., user fills a form describing a token, you call the SDK, get code, and display or save it.
-* **Interactive Refinement:** If you want a chat-like experience where the user can iteratively refine the contract (e.g., “Now add this feature…”), use `createSmartContractStream` or `...Blob` with `chatHistory: "on"`. Keep track of a `sdkUniqueId` per conversation (for example, you might generate a UUID when a user starts using your tool, and stick with it through their session). This will allow follow-up questions to build on earlier ones. Use `getChatHistory` if you need to display the conversation.
-* **Batch Generations:** If you need to generate multiple contracts programmatically (say, a batch job of various contract templates), you can loop and call the SDK multiple times. Just be mindful of the 200 requests/minute limit. If doing large batches, add delays or breaks to not exceed the rate limit.
-* **Parallel Usage:** The SDK calls are I/O-bound (network requests). You can initiate multiple calls in parallel if needed (e.g., Promise.all on several `createSmartContractBlob` calls). The 200/minute limit still applies, but a few in parallel is fine. Too many parallel might hit that limit quickly. If using streams in parallel, ensure you manage the asynchronous nature properly (each returns its own stream).
-* **Streaming vs Blob decision:** Use streaming when you want to start processing output immediately (maybe for a UI or to start working on partial data). Use blob when you just need the final answer and perhaps your environment is easier to code that way (e.g., a function that returns the whole result). They ultimately achieve the same end result.
-
-#### Managing Chat History & Sessions
-
-As discussed, if your application involves multiple distinct conversations or users, you should utilize `sdkUniqueId` for isolation. A common practice:
-
-* When a user begins a session (for instance logs in or starts a new “project” in your app), generate a unique ID (could be their user ID plus a timestamp or a random GUID).
-* Store that in the context (session storage or database associated with the user).
-* For every SDK call related to that user’s conversation, pass that ID and set `chatHistory: "on"` if you want continuity.
-* If the user starts a completely new unrelated conversation (like a new project), you might use a new ID.
-* This prevents the AI from mixing contexts between different users or different projects.
-
-The SDK does not automatically manage multiple sessions for you; it’s stateless between calls. So it’s up to you to provide the identifier each time. If you don’t, and you use chatHistory on, all those calls could be considered one big ongoing chat (which might or might not be what you want).
-
-If you only ever do single-turn calls (`chatHistory: "off"` every time), then you don’t need to worry about any of this – no history is stored, and each call is independent.
-
-#### SDK Internals (Under the Hood)
-
-For those curious: the SDK essentially wraps the HTTP calls we described in the API section. It sets up an axios instance (or similar) with the base URL and your API key in headers​. When you call `createSmartContractStream` or `...Blob`, it sends a POST request to `/chat/stream` with the appropriate body. The difference is in how it handles the response:
-
-* For stream, it returns the axios response as a stream (not consuming it, just passing it through to you).
-* For blob, it likely collects the data from the stream and returns once done (or uses a non-stream call if that exists).
-* `getChatHistory` performs a GET request to `/chat/chatHistory` and returns the parsed result.
-
-Understanding this can reassure you that using the SDK is not missing any capabilities of the raw API – it’s simply making it easier to call.
+**Credit Usage:** **No additional credits** are deducted when retrieving chat history. The history entries are stored as a result of prior calls that had `chatHistory` enabled, which is when the extra credit was charged. Therefore, calling `getChatHistory` itself does not consume credits beyond those already spent to record the history. (If none of your previous calls had `chatHistory` turned on, you will have no history to retrieve.)
 
 ***
 
-### Rate Limits & Credits (SDK)
+### Chat History & Session Management
 
-When using the SDK, it’s important to know that **all the same rate limit and credit rules apply** as when using the raw API. The SDK does not abstract or circumvent those; it operates on your behalf. Each method call that triggers an API request will count towards your 200 requests/minute quota and will deduct credits from your account in the same way:
+Enabling **chat history** allows the ChainGPT Smart-Contracts Generator to remember previous interactions, enabling context-aware conversations. This can be useful if you want to ask follow-up questions or iterative refinements to a contract. For example, you might first ask for a basic contract, then ask the AI to add a feature to the last contract. When `chatHistory` is `"on"`, the model can utilize previous prompts and responses for better results.
 
-* Each `createSmartContractStream` or `...Blob` call will deduct 1 credit (2 if chatHistory is on)​.
-* Each `getChatHistory` call will deduct 1 credit (just like any data retrieval call).
-* The SDK itself doesn’t enforce the 200 RPM limit in code (it doesn’t queue or throttle for you), so if you call it in a tight loop more than 200 times in a minute, you will start getting errors from the API. Implement throttling on your side if needed for heavy usage.
+**Using `chatHistory`:** To turn on history for a generation request, set `chatHistory: "on"` in the options for `createSmartContractBlob` or `createSmartContractStream`. This will store the prompt and response from that request in the ChainGPT backend. Subsequent calls with history enabled can then reference prior context. If `chatHistory` is `"off"`, each request is handled independently with no memory of earlier prompts.
 
-Always ensure you have sufficient credits before making a batch of calls via the SDK. The SDK doesn’t provide a built-in method to check your credit balance – you’d do that via the ChainGPT web dashboard. It will, however, throw an error if a call fails due to lack of credits (the error message from the API should indicate that).
+**Session isolation with `sdkUniqueId`:** When building applications with multiple users or multiple concurrent sessions, it’s important to keep each conversation’s history separate. The SDK provides the `sdkUniqueId` parameter for this purpose. You should assign a unique identifier (e.g., a user ID or a randomly generated UUID) for each user or session, and pass that same `sdkUniqueId` value in every request where `chatHistory` is `"on"` for that user. This ensures the chat history stored for one user/session is not mixed with another. In other words, `sdkUniqueId` defines a scope for the conversation history.
+
+{% hint style="info" %}
+**Note:** If you omit `sdkUniqueId` while using `chatHistory: "on"`, all history-enabled requests under your API key will be lumped into a single default history. This may not be desirable if multiple distinct conversations are happening. It’s recommended to always use a unique ID for each independent history you want to maintain.
+{% endhint %}
+
+**Example – Managing Chat History with a Unique ID:**
+
+```
+import { SmartContractGenerator } from "@chaingpt/smartcontractgenerator";
+
+const smartcontractgenerator = new SmartContractGenerator({ apiKey: "<YOUR_API_KEY>" });
+
+// Suppose you have a unique identifier for the user or session:
+const userSessionId = "907208eb-0929-42c3-a372-c21934fbf44f";  // example UUID
+
+async function main() {
+  try {
+    const response = await smartcontractgenerator.createSmartContractBlob({
+      question: "Now add a reset function that sets the count back to zero.", 
+      chatHistory: "on",
+      sdkUniqueId: userSessionId
+    });
+    console.log("Refined contract code:\n", response.data.bot);
+  } catch (error) {
+    console.error("Error generating contract with history:", error);
+  }
+}
+
+main();
+```
+
+In this snippet, we continue a conversation by asking the AI to "add a reset function" to the contract. We use `chatHistory: "on"` and provide the same `sdkUniqueId` (e.g., the user’s UUID) that was used in previous requests for this user. The ChainGPT service will lookup the prior context associated with that `sdkUniqueId` and include it when generating the new response. The result is a refined contract that builds upon the earlier output. Each history-enabled call costs an extra credit (to store the interaction) as noted in **Credit Usage**.
+
+You can retrieve the entire conversation later with `getChatHistory`, which will include all prompts and responses for that `sdkUniqueId` (and also global history entries if any). This allows for persistent session logs or auditing of AI-generated content.
 
 ***
 
-### Security Considerations (SDK)
+### Error Handling
 
-Most security considerations for the SDK revolve around **API key handling**, since the SDK is essentially acting as a client to the API:
+The SDK is designed to throw informative errors when something goes wrong – for example, network issues, invalid inputs, or API errors (like authentication failure or rate limit exceeded). All such errors are thrown as instances of the class `SmartContractGeneratorError`. You can import this error class via the `Errors` namespace provided by the SDK and use it to distinguish ChainGPT SDK errors from other exceptions.
 
-* Do not expose the SDK (with your key) in any client-side (browser) code. If you are building a web application, use the SDK in your server (Node.js backend) only. Your frontend can make requests to your backend, which then calls the SDK. This keeps the API key hidden.
-* If you’re building an Electron app or some desktop app with Node, you can use the SDK directly, but be cautious if the code can be inspected or if the environment is untrusted.
-* Regularly update the SDK to get the latest fixes and improvements (run `npm update @chaingpt/smartcontractgenerator` when a new version is announced).
-* The SDK itself handles connecting to `https://api.chaingpt.org` with HTTPS, so network traffic is encrypted. Just ensure your environment can verify SSL certificates (most Node installations do this by default).
-* Clean up any streams or processes if needed. For instance, if a user cancels an operation, you might call `stream.destroy()` on a stream you got, to stop processing further. This is more of a resource management tip, but relevant if you integrate streaming in an interactive app.
+**Example – Handling errors with try/catch:**
+
+```
+import { SmartContractGenerator, Errors } from "@chaingpt/smartcontractgenerator";
+
+const smartcontractgenerator = new SmartContractGenerator({ apiKey: "<YOUR_API_KEY>" });
+
+async function main() {
+  try {
+    // Attempt a streaming call (this example might fail if, say, the API key is invalid or network is down)
+    const stream = await smartcontractgenerator.createSmartContractStream({
+      question: "Write a smart contract that counts...",
+      chatHistory: "on"
+      // (sdkUniqueId omitted for brevity; in a real app include it if using history)
+    });
+    stream.on('data', chunk => console.log(chunk.toString()));
+    stream.on('end', () => console.log("Stream ended"));
+  } catch (error) {
+    if (error instanceof Errors.SmartContractGeneratorError) {
+      // Handle known SDK error (e.g., API returned an error or connection failed)
+      console.error("ChainGPT SDK error:", error.message);
+    } else {
+      // Handle other unexpected errors
+      console.error("Unexpected error:", error);
+    }
+  }
+}
+
+main();
+```
+
+In the above example, we wrap the call in a `try/catch` block. If an error occurs during the `createSmartContractStream` request (for instance, a 401 Unauthorized due to a bad API key, or a network timeout), the SDK will throw an `Errors.SmartContractGeneratorError`. We check for that specifically, and log the error message. If the error was not from the ChainGPT SDK (which is unlikely in this context, but good practice), it falls to the generic case. The `error.message` typically contains a human-readable description of what went wrong (for example, "Invalid API key" or "Rate limit exceeded"), which you can use for debugging or user feedback.
+
+**Common error scenarios to handle:**
+
+* _Authentication errors:_ If your API key is invalid or expired, the SDK will throw an error indicating authentication failed. Obtain a valid key and ensure it’s correctly configured.
+* _Insufficient credits:_ If your account lacks credits, calls to the API will fail. The error message will inform you if you need to top up credits.
+* _Rate limit exceeded:_ Exceeding the allowed request rate (200 requests per minute) will result in errors. You may need to throttle your requests if you hit this limit.
+* _Network issues:_ Temporary network problems or server unavailability can cause request failures. These should be transient – you can catch and retry the request after a delay as needed.
+
+By handling `SmartContractGeneratorError`, you can implement robust error recovery or user messaging in your application.
 
 ***
+
+### Language and Environment Support
+
+The Smart-Contracts Generator SDK is currently supported for **Node.js** environments and is written in TypeScript. This means you can use it in any JavaScript or TypeScript project running on Node.js (backend services, scripts, etc.). The package is distributed with type definitions, so you get IntelliSense and compile-time type checking if you use TypeScript.
+
+* **Languages:** JavaScript (ES6+) and TypeScript are fully supported. Because it’s an npm package, you can also use it with bundlers or frameworks as long as it runs server-side.
+* **Platform:** Node.js (LTS versions recommended). The SDK uses Node-compatible modules for HTTP requests. It is not tested for browser use, and using it in front-end web applications is not advised (both for security of the API key and CORS reasons).
+* **Compatibility:** No specific framework is required – you can integrate it in a Node environment of your choice (Express, Next.js server-side, scripts, etc.). Ensure that your Node version is relatively up-to-date to support modern JS features.
+
+In summary, if you have Node.js and an internet connection, the SDK should work out-of-the-box on Windows, Linux, or macOS.
+
+***
+
+### Security Best Practices & Rate Limits
+
+Using the ChainGPT SDK in a production application requires mindful handling of credentials and adherence to usage policies:
+
+* **API Key Security:** As emphasized, keep your ChainGPT API key secret. Do not embed it in client-side code or public repositories. Use environment variables or a secrets management service to inject the key into your app at runtime. This prevents malicious actors from stealing your key and consuming your credits.
+* **Least Privilege:** Only generate and use API keys when needed. You might rotate keys periodically or revoke any that are compromised. Monitor your credit usage in the ChainGPT dashboard for any unexpected activity.
+* **Request Rate Limiting:** The ChainGPT API (and by extension the SDK) enforces a rate limit of **200 requests per minute** per API key. If you exceed this, further requests may be rejected until the rate window resets. Design your application to stay within this limit – e.g., by queuing or spacing out non-urgent requests, or by distributing load across multiple API keys if absolutely necessary (and allowed by ChainGPT’s terms).
+* **Credit Usage:** Every generation request costs credits (usually 1 credit, plus 1 more if using history). Make sure your account has enough credits for the workload you expect. The SDK does not currently provide a built-in way to check your credit balance, so you might need to track usage or periodically check the ChainGPT web dashboard. If a request fails due to insufficient credits, you’ll need to top up and retry.
+* **Data Privacy:** The prompts you send and the contracts generated may be sensitive. According to ChainGPT’s policies, your data is processed to generate results but you should still avoid sending highly sensitive information in prompts. Also, store any returned contract code securely if it’s not meant to be public.
+
+By following these practices, you can ensure that your integration with ChainGPT is secure and reliable. The SDK’s design (using API keys and credit limits) helps protect the service and users; adhering to these guidelines protects your own application from misuse or unexpected costs.
+
+***
+
+### Additional Resources and Support
+
+For more information, code examples, and the latest updates, you can refer to the following resources:
+
+* **NPM Package Documentation:** The [ChainGPT SmartContractGenerator SDK on npm](https://www.npmjs.com/package/@chaingpt/smartcontractgenerator) contains a README with usage examples (similar to those above) and may be updated with new releases. It also includes links to the package’s source repository and change log.
+* **ChainGPT Developer Docs:** Visit the ChainGPT documentation portal for guides and references on other tools and APIs in the ChainGPT ecosystem. (You are likely reading these docs on the portal already – ensure you check out the QuickStart guides and other relevant sections for broader context.)
+* **Release Notes:** As new versions of the SDK are released, refer to the release notes or change log (often found in the repository or npm page) to learn about new features or breaking changes. (As of this writing, the Smart-Contracts Generator SDK is in its initial release, v0.x, and future enhancements are planned to expand its capabilities.)
+
+**Support:** If you encounter issues, have questions, or need help with the ChainGPT SDK, please use the official support channels. The ChainGPT team and community are active and ready to assist:
+
+* Join the **ChainGPT Discord** community to ask questions and get help from developers and support staff (invite link: **discord.gg/chaingpt**).
+* Visit the **ChainGPT Support** page on the official website for FAQs or to contact the team directly.
+* For account or billing issues (such as API key or credit problems), you may reach out through the ChainGPT web app’s support or contact email as provided on the website.
+
+By leveraging these resources, you can get the most out of the ChainGPT Smart-Contracts Generator SDK and quickly resolve any issues that arise. Happy building with ChainGPT!

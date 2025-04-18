@@ -1,16 +1,27 @@
 # SDK Reference
 
-## ChainGPT AI NFT Generator – SDK Reference
+## ChainGPT AI NFT Generator SDK Reference
 
-This reference guide covers the ChainGPT AI NFT Generator **JavaScript/TypeScript SDK**, detailing its installation, configuration, and all major functions. It focuses on using the SDK in Node.js or web applications (via bundlers) to generate AI-driven images and mint them as NFTs. (For a high-level overview of the AI NFT Generator’s capabilities, see the [Overview section](./); for HTTP endpoints, see the REST API Reference.)&#x20;
+### Introduction
 
-The SDK methods documented here provide a convenient wrapper around the ChainGPT AI NFT Generator API, handling lower-level details like HTTP requests and file handling. Each function is explained with parameters, return values, and code examples, including both educational snippets (with commentary) and production-ready snippets for quick copy-paste usage.
+The ChainGPT AI NFT Generator SDK provides a JavaScript/TypeScript interface for generating AI-driven images and minting them as NFTs. It wraps the ChainGPT AI NFT Generator REST API, allowing developers to easily integrate image generation and NFT creation into their applications without dealing with raw HTTP requests or file handling. This reference guide covers the SDK's installation, configuration, and major functions, focusing on how to use the SDK in Node.js or web environments to create and mint AI-generated images.
+
+**Key capabilities:**
+
+* Generate AI art images from text prompts using ChainGPT’s proprietary models.
+* Optionally enhance (upscale) images for higher resolution outputs.
+* Create NFTs by generating an image _and_ preparing it for minting in one flow.
+* Mint the generated image as an NFT on various blockchain networks with a single call.
+* Check generation progress for queued jobs and retrieve supported blockchain info.
+* Enhance text prompts for better image generation results.
+
+_Note:_ This guide is for the **SDK usage**. If you prefer to call the REST API directly, refer to the API Reference. For a step-by-step tutorial on using the NFT Generator (with examples), see the QuickStart Guide. Ensure you have an API key from the ChainGPT platform and sufficient credits (or an appropriate subscription plan) before using the SDK (the SDK will throw an error if your API key is invalid or you run out of credits).
 
 ***
 
-### Installation & Setup
+### Installation
 
-**Install the SDK Package:** The ChainGPT NFT SDK is available as an npm package `@chaingpt/nft`. Use npm or Yarn to add it to your project:
+**Install the SDK Package:** The ChainGPT NFT Generator SDK is available as an npm package `@chaingpt/nft`. Add it to your project using npm or Yarn:
 
 ```bash
 npm install --save @chaingpt/nft
@@ -20,7 +31,7 @@ yarn add @chaingpt/nft
 
 This will install the SDK and its TypeScript type declarations.
 
-**Import and Initialize the SDK:** The SDK exports an `Nft` class. Import this class and instantiate it with your API key (obtained from the ChainGPT developer dashboard):
+**Import and initialize the SDK:** The SDK exports an `Nft` class. Import this class and instantiate it with your API key (obtained from the ChainGPT developer dashboard):
 
 ```js
 // Import the Nft class from the SDK
@@ -29,41 +40,37 @@ const { Nft } = require('@chaingpt/nft');  // CommonJS
 
 // Initialize the SDK with your API key
 const nft = new Nft({
-  apiKey: 'YOUR_API_KEY_HERE',  // ChainGPT API Key for authentication
-  // ... (other config options if any)
+  apiKey: 'YOUR_API_KEY_HERE'  // ChainGPT API Key for authentication
+  // ... you can include other config options if supported
 });
 ```
 
-**Configuration:** Only an `apiKey` is required to start. The SDK handles authentication using this key for all calls. By default, the SDK will use ChainGPT’s hosted API endpoints. No additional setup is needed beyond providing a valid API key.
+Only the `apiKey` is required to configure the SDK. The SDK uses this key to authenticate your requests to ChainGPT’s API. By default, it will use ChainGPT’s hosted endpoints—no additional setup is needed beyond providing a valid API key.
 
-{% hint style="info" %}
-**Note:** Ensure you have sufficient API credits or access as per your ChainGPT subscription to perform NFT generations. The SDK will throw errors (of type `NftError`) if requests fail due to invalid keys or quota issues (see **Error Handling** below).
-{% endhint %}
+**Note:** Keep your API key secure (do not hard-code it in client-side code or expose it publicly). Also ensure you have sufficient API credits or an active plan to perform NFT generations. If your key is invalid or you exceed your quota, the SDK will throw an `Errors.NftError` (see **Error Handling** below).
 
 ***
 
-### Generating AI Images (Without Minting)
+### SDK Usage
 
-The SDK allows you to generate AI art images from text prompts without immediately minting them as NFTs, using the `generateImage()` method. This is useful if you want to preview or use the AI-generated image first (e.g. for user approval) before committing to an on-chain mint.
+Below are the primary methods provided by the `Nft` SDK instance. Each method is documented with its purpose, expected parameters, return values, and example usage.
 
 #### `generateImage(options)`
 
-**Description:** Generates an image from a text prompt using ChainGPT’s AI model, returning the image data. No blockchain interaction occurs in this step – it strictly performs image generation based on the given prompt and parameters. (If you want to directly prepare an NFT for minting, see `generateNft()` below.)
+**Description:** Generates an image from a text prompt using one of ChainGPT’s AI models, returning the image data. This function **does not** mint an NFT; it only performs image generation. Use `generateImage` when you want to create an image (for example, to let a user preview it) without immediately putting it on-chain. To generate an image _and_ directly prepare it for minting, use `generateNft()` instead.
 
-**Parameters:** _(all passed in a single **`options`** object)_
+**Parameters:** _(passed as properties of the `options` object)_
 
-* **`prompt`** _(string, required)_ – The text prompt describing the desired image. This can be any creative description of the image you want.
-* **`model`** _(string, required)_ – The name of the AI model to use for generation. Supported models include **`velogen`**, **`nebula_forge_xl`**, **`VisionaryForge`**, and **`Dale3`**. Each model has a different style or aesthetic (e.g. photorealistic, anime, 3D, etc.).
-* **`enhance`** _(string, optional)_ – Image enhancement/upscaling level. Use **`"1x"`** for single enhancement, **`"2x"`** for double enhancement, or omit/empty for no enhancement. Enhancement can improve image resolution/quality, but is only supported by certain models (velogen, nebula\_forge\_xl, VisionaryForge).
-* **`steps`** _(number, optional)_ – The number of diffusion/refinement steps for image generation. More steps can yield more detailed images at the cost of time. Each model supports a range: e.g. velogen supports 1–4 steps (default **2**), nebula\_forge\_xl up to 50 (default **25**). If not provided, the model’s default is used.
-* **`width`** _(number, optional)_ – The width of the resulting image in pixels.
-* **`height`** _(number, optional)_ – The height of the resulting image in pixels.
+* `prompt` (string, **required**): The text prompt describing the desired image. This can be any creative description of the image you want (e.g. _"A futuristic city skyline at sunset, neon pink and orange hues"_).
+* `model` (string, **required**): The identifier of the AI model to use for generation. Supported models include **`velogen`**, **`nebula_forge_xl`**, **`VisionaryForge`**. Each model has a different style or aesthetic (e.g. photorealistic, anime, 3D render, etc.). _ChainGPT’s proprietary models are `velogen`, `nebula_forge_xl`, and `VisionaryForge`._&#x20;
+* `enhance` (string, _optional_): Image enhancement/upscaling level. Use `"1x"` for single enhancement, `"2x"` for double enhancement, or omit / use an empty string for no enhancement. Enhancement will upscale the image (improving resolution/quality) and is only supported by certain models (currently `velogen`, `nebula_forge_xl`, `VisionaryForge`). If an unsupported model is used with this parameter, the enhancement request is ignored.
+* `steps` (number, _optional_): The number of diffusion or refinement steps to use for image generation. More steps can produce more detailed or refined images at the cost of longer generation time. Each model has its own supported range (e.g. `velogen` supports 1–4 steps, default is 2; `nebula_forge_xl` & `VisionaryForge` supports up to 50, default is 25). If not provided, the model’s default number of steps is used.
+* `width` (number, _optional_): The width of the generated image in pixels.
+* `height` (number, _optional_): The height of the generated image in pixels.
 
-{% hint style="info" %}
-_ℹ️ **Size & Aspect Ratio:** Supported dimensions depend on the model and enhancement. For example, **velogen** supports base resolutions like 512×512 (square), 768×512 (landscape), 512×768 (portrait), and with 2× enhancement up to 1920×1920, etc. Ensure the **`height`**×**`width`** you request matches one of the model’s supported aspect ratios to get the best results. (See **Image Generation Settings** below for more details on supported resolutions.) If not specified, a model-specific default (usually a square format) is used._
-{% endhint %}
+**Note on image size:** Supported `width` × `height` combinations (aspect ratios) depend on the model (and whether enhancement is used). For example, **Velogen** supports base resolutions like 512×512 (square), 768×512 (landscape), 512×768 (portrait). With 2× enhancement, it can produce up to \~1920×1920 (square) and corresponding larger rectangles. **Nebula Forge XL** and **VisionaryForge** have their own supported dimensions (see **Supported Models & Settings** below for detailed resolution options). If you request a size that the model doesn’t support, the API may return an error or adjust to the nearest valid size. If `height`/`width` are not specified, the SDK will default to the model’s base default (usually a square format such as 512×512 or 1024×1024 depending on the model).
 
-**Returns:** A **Promise** that resolves to an object containing the generated image data. The image data is typically provided as a binary buffer or byte array for the image (in **JPEG format** by default, which you can save as a `.jpg` file). You may access the raw bytes and save or manipulate the image as needed.
+**Returns:** A Promise that resolves to an object containing the generated image data. On success, you can expect the image bytes (binary data) to be available (typically under a field like `data` or similar). The image is in JPEG format by default. You can take the returned binary data and save it to a file, send it to a client, or further process it as needed.
 
 **Example – Generate an image and save to a file (with explanations):**
 
@@ -72,116 +79,102 @@ const fs = require('fs');
 
 // Define the image generation parameters
 const params = {
-  prompt: "A futuristic city skyline at sunset, neon pink and orange hues",  // Text description for the image
-  model: "velogen",            // Choose the AI model (e.g., velogen for realistic visuals)
-  enhance: "1x",               // Single enhancement for higher resolution output
-  steps: 2,                    // Use 2 refinement steps (velogen default)
-  width: 1024, height: 1024    // Generate a 1024x1024 image (square)
+  prompt: "A futuristic city skyline at sunset, neon pink and orange hues", 
+  // ^ Text description of the desired image
+  model: "velogen",        // Use the "velogen" model for generation (realistic style)
+  enhance: "1x",           // Upscale once (1x enhancement for higher resolution)
+  steps: 2,                // Use 2 refinement steps (velogen's default)
+  width: 1024, height: 1024// Generate a 1024x1024 image (square format)
 };
 
-const result = await nft.generateImage(params);  
-// The result contains the image data. Now, save it to disk:
+const result = await nft.generateImage(params);
+// The result contains image data (e.g., result.data.data is a buffer of bytes)
+
+// Save the image data to a file
 fs.writeFileSync(
-  "generated-image.jpg",                      // Output file path (using .jpg extension)
-  Buffer.from(result.data.data)              // The image binary data buffer
+  "generated-image.jpg",            // output file path (JPEG format)
+  Buffer.from(result.data.data)     // image binary data from the result
 );
 console.log("Image saved to generated-image.jpg");
 ```
 
-In this example, we generate a 1024×1024 image using the `velogen` model with a given prompt. The result’s `data` property holds the image bytes, which we write to a JPEG file. After running this code, the file `generated-image.jpg` will contain the AI-generated artwork.
+In this example, we used the `velogen` model to generate a 1024×1024 image from the given prompt, with a single upscaling enhancement. The resulting image bytes are written to **generated-image.jpg**. After running this code, that file will contain the AI-generated artwork. You can adjust the `prompt`, `model`, and other parameters as needed.
 
-**Example – Production-ready snippet:**
+#### `generateNft(options)` – Synchronous NFT Generation
 
-```js
-// Simple image generation (production use)
-const imgRes = await nft.generateImage({
-  prompt: "A serene mountain landscape with a river",
-  model: "nebula_forge_xl",
-  height: 768, width: 1024  // produce a landscape-oriented image
-});
-// Save or utilize imgRes.data as needed (e.g., send to client or save to cloud storage)
-```
+**Description:** Generates an image _and_ prepares NFT metadata from a text prompt, intended for minting. This call handles the AI image creation similarly to `generateImage()`, but also registers the result for minting (on ChainGPT’s backend) and returns metadata needed to proceed with minting. Typically, after `generateNft` completes, you would call `mintNft()` to actually mint the NFT on-chain. This method is **synchronous** in the sense that it waits for the image generation to finish before returning, so it can take some time (usually 30–60 seconds for the image to be generated). Under the hood, this corresponds to an API call that generates the image and prepares the NFT in one step.
 
-This minimal snippet shows a straightforward use of `generateImage` to get an image for further use. In a real application, you might directly send `imgRes.data.data` as a response (in a web server) or display it in a frontend app (after encoding to Base64 or creating an object URL, etc.).
+**Parameters:** _(passed in an `options` object; includes all `generateImage` parameters plus NFT-specific fields)_
 
-***
+* **All image generation parameters from** `generateImage()`: You can include `prompt`, `model`, `enhance`, `steps`, `width`, `height` with the same meanings as described above. These control the image generation part of this call.
+* `walletAddress` (string, **required**): The public wallet address that will eventually own the NFT. This is the address to which the NFT will be minted (transferred) when you call `mintNft()`. Make sure this is a valid address on the blockchain network you intend to use.
+* `chainId` (number, **required**): The blockchain network ID where the NFT will be minted. ChainGPT’s NFT generator supports many networks (Ethereum, BNB Chain, Polygon, Arbitrum, Avalanche, Tron, and more). For example: use `1` for Ethereum Mainnet, `56` for BNB Smart Chain (BSC) Mainnet, `137` for Polygon, etc. You can retrieve the full list of supported networks and their IDs at runtime with the `getChains()` method. Ensure the `chainId` you provide corresponds to the network of the provided wallet address.
 
-### Generating and Minting NFTs (End-to-End Workflow)
+_(There are no parameters for NFT name/description in this step – those are provided later to the `mintNft()` call.)_
 
-The core purpose of the ChainGPT NFT SDK is to generate images _and_ mint them as NFTs on a blockchain. The SDK provides two approaches:
+**Returns:** A Promise that resolves to an object containing the generated NFT data. On success, the result will include:
 
-* **Synchronous NFT generation** – generate the image (wait until complete) then mint it, suitable for one-off NFTs or immediate results.
-* **Asynchronous (Queued) NFT generation** – start the generation and return immediately, allowing you to handle many generation jobs in parallel or off-load long-running tasks, then mint when ready.
+* The **image data** (similar to what `generateImage` returns, i.e. the binary image bytes).
+* A **`collectionId`** (string or UUID) that uniquely identifies this generation job and the associated metadata on ChainGPT’s backend.
 
-In both cases, the minting step is performed via the `mintNft()` method once the image is generated. Below are the relevant SDK functions and how to use them.
+The `collectionId` is important: it references the saved AI-generated image and metadata. You will use it to either check the generation status (if queued) or to mint the NFT. In the case of `generateNft()` (synchronous), the promise only resolves **after** the image is fully generated, so at that point the image is ready and `collectionId` can be used directly for minting.
 
-#### `generateNft(options)` – Synchronous Generation
-
-**Description:** Generates an NFT image from a prompt _with the intention to mint it_. This call will handle the AI image creation and prepare the NFT metadata, returning when the image is ready. You will typically call `mintNft()` afterwards to actually mint the NFT on-chain. Use this method for single NFT generation flows where the user or app can wait for the image to finish (typically 30–60 seconds). Under the hood, this wraps an API call that combines image generation and NFT metadata creation in one step.
-
-**Parameters:** _(passed in an **`options`** object)_
-
-* \*\*All image generation parameters from \*\***`generateImage()`** – `prompt`, `model`, `enhance`, `steps`, `height`, `width` are used in the same way as in `generateImage()` (see above) to control the AI generation.
-* **`walletAddress`** _(string, required)_ – The public wallet address that will own the minted NFT. This is the address to which the NFT will be sent after minting. It should be a valid address on the target blockchain network.
-* **`chainId`** _(number, required)_ – The blockchain network ID where the NFT will be minted. ChainGPT supports **25+ chains** including Ethereum, BNB Chain, Polygon, Arbitrum, Avalanche, Tron, etc. (see Overview for the full list). For example: 1 for Ethereum Mainnet, 56 for BSC Mainnet, 137 for Polygon, etc. You can use the `getChains()` method (documented below) to retrieve a list of supported chain IDs at runtime.
-* _(No explicit **`name`**/**`description`**\*\*\*\*\*\*\*\*\*\* here – those will be provided in the **`mintNft()`** call instead.)_
-
-**Returns:** A **Promise** resolving to an object with the generated NFT data. This includes the image data (similar to `generateImage` result) and a **`collectionId`** identifier for the generated NFT content. The `collectionId` is a unique ID referencing this generation task / NFT draft on the ChainGPT platform. You will use this ID to mint or check status later. The promise resolves only after the image generation is complete (synchronous behavior).
-
-{% hint style="info" %}
-**Note:** At this stage, the NFT is **not yet minted on-chain**. The `generateNft()` call prepares everything (image + metadata). You must call `mintNft()` with the `collectionId` (and desired NFT name/description) to actually mint the token.
-{% endhint %}
+**Note:** After `generateNft()` completes, the NFT is _not yet on the blockchain_. It’s essentially a prepared record (image + metadata) awaiting the minting step. You must call `mintNft()` with the returned `collectionId` to actually mint the NFT on-chain. This two-step process (generate then mint) allows you to, for example, confirm with a user or display the image before incurring blockchain costs.
 
 **Example – Generate an NFT then mint it (with explanations):**
 
 ```js
-// 1. Generate the NFT image and metadata
+// 1. Generate the NFT image and metadata (synchronously)
 const genResult = await nft.generateNft({
   prompt: "A cute cartoon cat astronaut, sticker illustration",
   model: "VisionaryForge",
-  enhance: "",            // no enhancement
-  steps: 25,              // use 25 steps refinement
+  enhance: "",             // no enhancement (empty string or omit for none)
+  steps: 25,               // use 25 refinement steps (only supported by some models like NebulaForge XL or VisionaryForge)
   height: 1024, width: 1024,
-  walletAddress: "0xABC123...DEF",  // recipient wallet for the NFT
-  chainId: 97             // BSC Testnet (chainId 97 in this example)
+  walletAddress: "0xABC123...DEF",  // the recipient wallet address for the NFT
+  chainId: 97                      // target chain ID (97 = BSC Testnet in this example)
 });
-console.log("NFT generation completed. Collection ID:", genResult.data.collectionId);
+console.log("Generation completed. Collection ID:", genResult.data.collectionId);
 
 // 2. Mint the generated NFT on-chain using the returned collectionId
 const mintResult = await nft.mintNft({
-  collectionId: genResult.data.collectionId,   // ID from generateNft step
-  name: "Space Cat Sticker",                   // Name of the NFT (metadata)
-  description: "An AI-generated cat astronaut sticker, created via ChainGPT",
-  symbol: "CAT"                                // Symbol for the NFT (if a new collection/contract is created)
+  collectionId: genResult.data.collectionId,  // use the collectionId obtained from generateNft
+  name: "Space Cat Sticker",                  // human-readable name for the NFT
+  description: "An AI-generated cat astronaut sticker, created via ChainGPT",  // description metadata
+  symbol: "CAT"                               // symbol for the NFT collection (if a new collection is created)
 });
 console.log("NFT minted! Transaction/result:", mintResult);
 ```
 
-In this example, we first call `generateNft()` with the prompt and required parameters. Once the promise resolves, we have an image ready and a `collectionId` that identifies this generated NFT data. We then call `mintNft()` with that ID and provide a human-friendly name, description, and symbol for the NFT. The SDK handles the on-chain minting transaction: the NFT will be minted on **BSC Testnet** (chain 97) to the specified wallet address. The `mintResult` may include details of the mint operation (such as transaction hash or token ID, depending on the implementation).
+In this example, we first call `generateNft()` with a prompt and parameters including the wallet address and chain ID where we want to mint. When this completes, we get a `collectionId` (printed to console) which references the generated image and metadata. We then call `mintNft()` with that `collectionId` and provide an NFT name, description, and symbol. The SDK then handles the blockchain transaction to mint the NFT to the specified address on BSC Testnet (chainId 97). The `mintResult` would contain information about the minting operation (such as a transaction hash or token ID, depending on the implementation).
 
-**Example – Production snippet (generate then mint):**
+**Example – Production usage (generate then mint, minimal code):**
 
 ```js
-// Generate NFT (synchronously) and then mint it
+// Generate NFT (blocking until ready) and then mint it on BSC Mainnet
 const { data: nftData } = await nft.generateNft({ 
-  prompt: "Epic dragon portrait in medieval style", model: "velogen",
-  walletAddress: "0x...userWallet", chainId: 56 
+  prompt: "Epic dragon portrait in medieval style", 
+  model: "velogen",
+  walletAddress: "0x...YOUR_WALLET_ADDRESS", 
+  chainId: 56  // BNB Chain Mainnet
 });
 await nft.mintNft({
   collectionId: nftData.collectionId,
-  name: "Epic Dragon", description: "AI-generated medieval dragon art", symbol: "DRGN"
+  name: "Epic Dragon", 
+  description: "AI-generated medieval dragon art", 
+  symbol: "DRGN"
 });
 ```
 
-This snippet omits commentary for brevity. It generates an NFT on BNB Chain (chainId 56) for the given wallet, then immediately mints it with a name and symbol. In a real app, you may want to handle errors around these calls or update your UI state between generation and minting steps.
+The above snippet omits comments for brevity. It generates an NFT on BSC (chain 56) for the given wallet address, then immediately mints it with a name, description, and symbol. In a real application, you should include error handling around these calls (e.g., try/catch) and perhaps update your UI to inform the user of progress between generation and minting.
 
 #### `generateNftWithQueue(options)` – Asynchronous/Queued Generation
 
-**Description:** Initiates an NFT generation task asynchronously (non-blocking). Instead of waiting for the image to finish generating, this function returns quickly with a `collectionId` that represents the queued job. The actual image generation happens in the background on ChainGPT’s servers. You can then poll the status of the job using `getNftProgress()` and mint the NFT when ready. This approach is ideal for **batch generation** or handling high volumes, as you can queue up multiple NFTs in parallel without halting your code flow.
+**Description:** Initiates an NFT generation task asynchronously, without waiting for the image to be fully generated. This function returns quickly with a `collectionId` that represents the queued generation job on ChainGPT’s servers. The actual image creation then happens in the background. You can use the returned `collectionId` to poll the job’s status via `getNftProgress()` and later call `mintNft()` to mint the NFT once the image is ready. This queued approach is useful for handling multiple generations in parallel or offloading longer generation times without blocking your application flow.
 
-**Parameters:** Same as `generateNft()` above – you must provide `prompt`, `model`, any optional generation settings (`enhance`, `steps`, `height`, `width`), plus the target `walletAddress` and `chainId` for the eventual mint.
+**Parameters:** Same as `generateNft(options)` above. You must provide all required fields (`prompt`, `model`, `walletAddress`, `chainId`) and any optional generation settings (`enhance`, `steps`, `height`, `width`) as needed.
 
-**Returns:** A **Promise** that resolves to an object containing at least a **`collectionId`** for the queued generation request. The image will **not** be available immediately. You will use the `collectionId` to track progress and later mint the NFT. The function returns as soon as the generation task is successfully queued on the server.
+**Returns:** A Promise that resolves to an object containing at least a `collectionId` for the queued generation request. The image data will **not** be available immediately in the response, since generation is still in progress. The `collectionId` is the key identifier you'll use to check progress and eventually mint the NFT. Essentially, if this call succeeds, it means the generation job was accepted and is now processing on the server.
 
 **Example – Queue an NFT generation and check progress (with explanations):**
 
@@ -203,11 +196,11 @@ do {
   const percent = progressInfo.data.progress;   // e.g., progress percentage
   console.log(`Generation progress: ${percent}%`);
   await new Promise(res => setTimeout(res, 5000));  // wait 5 seconds before checking again
-} while(progressInfo.data.status !== "completed");
-// (Loop until the status indicates completion; progress may go from 0 to 100%)
+} while (progressInfo.data.status !== "completed");
+// Loop until the status indicates completion (status might go from "processing" to "completed")
 
-console.log("Generation complete. Now minting the NFT...");
-// 3. Mint the NFT now that generation is done
+console.log("Generation complete! Now minting the NFT...");
+// 3. Mint the NFT now that the image generation is done
 await nft.mintNft({
   collectionId: jobId,
   name: "Color Swirl Art",
@@ -217,32 +210,37 @@ await nft.mintNft({
 console.log("NFT minted on chain.");
 ```
 
-In this example, we fire off an NFT generation using `generateNftWithQueue()`. We immediately get a `collectionId` for the job and then enter a loop, using `getNftProgress()` to poll the job’s status. Once the progress status indicates completion (100% or `"completed"`), we call `mintNft()` with the same `collectionId` to mint the NFT on-chain. The polling interval here is 5 seconds, but in a real application you might use a longer interval or a webhook/callback mechanism if provided. You can also queue many jobs and poll each in turn or in parallel, enabling scalable generation of large NFT collections.
+In this example, we queue an NFT generation using `generateNftWithQueue()`. The call returns immediately with a `collectionId` (stored in `jobId`). We then enter a loop to poll the job’s status using `getNftProgress()`, every 5 seconds, logging the progress percentage. Once the `status` becomes `"completed"` (which implies 100% progress), we proceed to call `mintNft()` with the same `collectionId` to mint the NFT on-chain. In a real application, you might use a longer delay between polls or integrate a webhook/callback if available, rather than busy polling. You can also queue multiple jobs in parallel and poll each one, which makes this approach suitable for generating large collections of NFTs asynchronously.
 
-**Example – Production snippet (queue generation):**
+**Example – Production usage (queue generation, minimal):**
 
 ```js
-// Queue NFT generation (non-blocking)
+// Queue NFT generation (non-blocking call)
 const { data: queued } = await nft.generateNftWithQueue({ 
-  prompt: "Portrait of an AI robot", model: "velogen", walletAddress: "0x...addr", chainId: 137 
+  prompt: "Portrait of an AI robot", 
+  model: "velogen", 
+  walletAddress: "0x...ADDR", 
+  chainId: 137  // Polygon Mainnet
 });
-// Immediately get an ID for tracking (no waiting for image)
 console.log("Queued job ID:", queued.collectionId);
+// (Later, use getNftProgress() and mintNft() as shown above once the job is done)
 ```
 
-The above snippet demonstrates the basic queued call. After this, you would typically use `getNftProgress()` later and then `mintNft()`. For brevity, those parts are omitted here (see the detailed example above for the full flow).
+Here we simply queue the generation and log the job ID. The subsequent steps (polling progress and minting) would be similar to the detailed example above. This pattern allows your code to continue doing other work or handling other requests while images are being generated in the background.
 
-#### `getNftProgress(options)` – Check Generation Progress
+#### `getNftProgress(options)`
 
-**Description:** Checks the status of an ongoing NFT generation job that was started with `generateNftWithQueue()`. It returns the progress or completion status of the image generation. This is typically used in a loop or interval to poll for completion if you are not using a callback system.
+**Description:** Checks the status of an NFT generation job that was started with `generateNftWithQueue()` (or even a `generateNft()` call if you want to poll its progress, though `generateNft()` usually waits internally). It returns information about the generation progress, such as a percentage complete or a status indicator.
 
 **Parameters:**
 
-* **`collectionId`** _(string, required)_ – The unique ID of the NFT generation job to query. This is the ID returned by `generateNftWithQueue()` (or `generateNft()` as well, if you choose to poll even for synchronous calls).
+* `collectionId` (string, **required**): The unique identifier of the NFT generation job to query. This is the `collectionId` returned by `generateNft` or `generateNftWithQueue`. Without a valid `collectionId`, the API cannot identify which job’s status to retrieve.
 
-**Returns:** A **Promise** resolving to an object containing progress information. The exact fields might include a percentage or status indicator. For example, you may receive `{ progress: 100, status: "completed", ... }` when done. Before completion, it might show a lower percent or a status like `"processing"`. Once the generation is finished, you can proceed to mint the NFT. If an invalid ID is provided or the job failed, an error or failure status will be returned.
+**Returns:** A Promise that resolves to an object containing progress information for the specified job. The exact structure of the data may include fields like `progress` (number) and `status` (string). For example, a successful response might be `{ progress: 100, status: "completed", ... }` when the generation is finished. Before completion, you might see a lower `progress` value (e.g. 0 to 99) and a status like `"processing"` or `"queued"`. If an invalid `collectionId` is provided, the SDK will throw an error or you might get a response indicating the job wasn’t found.
 
-**Example – Check progress (basic usage):**
+Typically, you will call this method repeatedly (polling) until the `status` is `"completed"` or `progress` reaches 100, then proceed to mint the NFT. The frequency of polling can be adjusted based on how long generations typically take (e.g., polling every few seconds).
+
+**Example – Basic usage:**
 
 ```js
 const progressRes = await nft.getNftProgress({ collectionId: jobId });
@@ -251,222 +249,104 @@ if (progressRes.data.progress === 100) {
 }
 ```
 
-**Production snippet:**
+**Example – Production snippet (single progress check):**
 
 ```js
-// Polling example (single check)
-const status = await nft.getNftProgress({ collectionId: "your-collection-id" });
+// Check the current progress of a generation job
+const status = await nft.getNftProgress({ collectionId: "YOUR_COLLECTION_ID" });
 console.log("Current progress:", status.data.progress, "%");
 ```
 
-Typically, you will call this repeatedly until completion, as shown in the more detailed example under `generateNftWithQueue()`. Use this method to inform users about wait times or to trigger the next step once the image is ready.
+In practice, you would integrate this into a loop or schedule as shown in the queued generation example. Use `getNftProgress()` to inform users about the generation status (e.g., a loading bar) or to trigger the next step of your workflow when the image is ready.
 
-#### `mintNft(options)` – Minting the Generated NFT
+#### `mintNft(options)`
 
-**Description:** Mints an NFT on the blockchain for a previously generated image/metadata (identified by a `collectionId`). This completes the NFT creation process by writing the token to the blockchain. You should call this after generating the NFT via either `generateNft()` or `generateNftWithQueue()`. The method also allows you to specify the NFT’s metadata details like name, description, and symbol.
+**Description:** Mints an NFT on the specified blockchain, using a previously generated image/metadata. This is the final step in the NFT creation process, taking the output of `generateNft` (identified by a `collectionId`) and writing the NFT to the blockchain. The method also lets you set the NFT’s name, description, and symbol (metadata) if they weren't already set. Under the hood, this will interact with ChainGPT’s NFT minting smart contract to either create a new NFT in an existing collection or deploy a new collection, then mint the token to the provided wallet address.
 
 **Parameters:**
 
-* **`collectionId`** _(string, required)_ – The ID of the generated NFT content to mint. This comes from a prior call to `generateNft`/`generateNftWithQueue`.
-* **`name`** _(string, required)_ – The name of the NFT to mint. This could be the title of the artwork or a unique name for this token.
-* **`description`** _(string, optional)_ – A description for the NFT’s metadata (e.g. details about the image, project, etc.). This will be included in the token’s metadata JSON.
-* **`symbol`** _(string, optional)_ – The symbol or shorthand for the NFT collection. If the minting involves deploying a new NFT collection (contract), this symbol will be used for the collection (similar to a ticker symbol). For one-off mints it can be a short identifier.
+* `collectionId` (string, **required**): The ID of the generated NFT content to mint. This is obtained from a prior `generateNft` or `generateNftWithQueue` call. It tells the system which image/metadata to use for minting.
+* `name` (string, **required**): The name for the NFT. This could be the title of the artwork or any descriptive name. This will appear as the token’s name in metadata.
+* `description` (string, _optional_): A text description for the NFT. This is stored in the token’s metadata, providing details or context for the artwork. (If not provided, it might be left blank or a default in the metadata.)
+* `symbol` (string, _optional_): The symbol (short identifier) for the NFT collection. If this minting operation creates a new NFT collection (smart contract), this symbol will be used for that collection (similar to a ticker or shorthand for the collection). If the NFT is being minted into an existing collection, this parameter might be ignored. For one-off mints or testing, you can use any short string (e.g. "AI" or "ART").
 
-**Returns:** A **Promise** resolving to an object containing the result of the mint operation. On success, this might include transaction details, the minted token ID, or a confirmation that the NFT has been minted. If the SDK handles the blockchain transaction internally, the promise will only resolve when the transaction is confirmed or at least submitted. (Refer to ChainGPT’s docs for specifics on whether this auto-deploys a new contract or mints on an existing one – the SDK abstracts those details).
+**Returns:** A Promise that resolves to an object containing the result of the mint operation. On success, this will typically include details such as:
 
-After calling `mintNft()`, the image generated by the given `collectionId` is now an actual NFT on the specified blockchain, owned by the provided wallet address. The NFT’s metadata (name, description) is set as given.
+* Confirmation that the NFT was minted (e.g., a success status or the minted token’s ID/URL).
+* Transaction details, like a transaction hash, if the mint involved an on-chain transaction.
+* Possibly the address of the new NFT collection contract (if one was deployed) or confirmation of the collection used.
 
-**Example – Minting an NFT (immediate usage):**
+The exact fields returned may vary, but the key outcome is that the image identified by `collectionId` is now minted as an NFT owned by `walletAddress` (which was provided during generation). The promise will only resolve once the minting is complete (which may involve waiting for a blockchain transaction).
+
+After calling `mintNft()`, the NFT is live on the blockchain. You can then fetch it from the blockchain or via ChainGPT’s APIs, and it will have the metadata (name, description, etc.) that you provided.
+
+**Example – Mint an NFT directly (assuming image is already generated):**
 
 ```js
 await nft.mintNft({
-  collectionId: "abcd1234-ef56-...-xyz",  // (example ID from prior generation)
-  name: "My AI NFT",
-  description: "This NFT was generated by AI via ChainGPT",
+  collectionId: "abcd1234-ef56-...-xyz",  // collection ID from a previous generateNft call
+  name: "My AI Artwork",
+  description: "This NFT image was generated by AI via ChainGPT",
   symbol: "AINFT"
 });
 console.log("Mint successful!");
 ```
 
-**Production snippet:**
+In this example, we directly call `mintNft()` using a known `collectionId` (from a prior generation step) and provide the desired metadata. If the operation succeeds, the console will log a success message. In a real scenario, you’d want to wrap this in a try/catch to handle errors (like network issues or insufficient permissions) and perhaps confirm the transaction result.
+
+**Example – Production snippet:**
 
 ```js
-// Finalize NFT mint
+// Finalize NFT minting (production use)
 const result = await nft.mintNft({ collectionId, name: "Artwork #1", symbol: "ART" });
+// (Add error handling as needed)
 ```
 
-In practice, you would incorporate error handling to catch any issues during minting (network errors, insufficient funds if any gas needed, etc.). See **Error Handling** for how to catch `NftError` exceptions from this call.
+Typically, you will call `mintNft()` once per generated image to put it on-chain. Remember to catch errors from this call as it involves external blockchain interaction (see **Error Handling** below). For instance, if the user’s wallet is invalid or if there are network fees required that the system cannot cover, you would get an error.
 
 ***
 
-### Prompt Enhancement (Improve Prompt Quality)
+### Supported Models & Settings
 
-ChainGPT’s NFT Generator provides a **Prompt Enhancement** feature to help users get better image generation results. The SDK exposes this via the `enhancePrompt()` method, which takes a raw prompt and returns a more detailed or refined version of it. This can be useful if you want to assist users in crafting prompts or to programmatically improve prompt inputs before generating images.
+_(This section provides reference details on the supported AI models, image enhancements, and output formats available in the ChainGPT NFT Generator SDK.)_
 
-#### `enhancePrompt(options)`
+*   **Supported AI Models:** You can choose from several AI models via the `model` parameter in `generateImage`/`generateNft`:
 
-**Description:** Enhances or refines a given text prompt by adding more details, context, or creative wording. The result is a new prompt that is likely to produce a higher-quality or more imaginative image from the AI. (The platform may use its own AI logic to do this enhancement.)
+    * **`velogen`** – ChainGPT’s VeloGen model, suitable for realistic or general-purpose image generation.
+    * **`nebula_forge_xl`** – ChainGPT’s high-resolution model, useful for detailed and high-quality imagery.
+    * **`VisionaryForge`** – ChainGPT’s creative model for artistic or concept art styles.
+    * **`Dale3`** – An integration of OpenAI’s DALL·E 3 model (optional). This model can be used for varied art styles and compositions, though it may not support all the advanced settings (enhancements, etc.) that the ChainGPT proprietary models do.
 
-**Parameters:**
+    Each model has different strengths and styles. We recommend experimenting with the proprietary models (`velogen`, `nebula_forge_xl`, `VisionaryForge`) to see which best suits your use case.&#x20;
+* **Image Formats:** Generated images are returned in a binary form (typically a buffer containing JPEG data). By default, the images generated via the API/SDK are in **JPEG** format (as seen by the `.jpg` extension in examples). The SDK itself does not expose a parameter to select the image format (e.g., PNG vs JPEG); it will always return the image data as provided by the API (JPEG). If you require a different format, you can convert the image bytes to another format using an image processing library after you receive the data.
+*   **Enhancement (Upscaling) Options:** The `enhance` parameter allows you to request higher-resolution outputs:
 
-* **`prompt`** _(string, required)_ – The original prompt text to enhance. This should be a short description of an image or concept.
+    * `"1x"` – Single enhancement (image is upscaled once, roughly doubling the resolution).
+    * `"2x"` – Double enhancement (upscaled twice, resulting in an even larger image).
 
-**Returns:** A **Promise** resolving to an object containing the enhanced prompt. The returned prompt may include additional adjectives, context, or formatting. You can directly use the enhanced prompt with `generateImage` or `generateNft` to potentially get better results.
+    Only certain models support enhancement/upscaling (currently **velogen**, **nebula\_forge\_xl**, and **VisionaryForge**). Using `"1x"` or `"2x"` with those models will produce larger, more detailed images (as shown in their supported resolutions below). If you attempt to enhance on a model that doesn’t support it (such as `Dale3`), the request will simply generate at the model’s default resolution without upscale. Keep in mind that enhanced images consume more processing and may count as additional credit usage.
+*   **Resolution & Aspect Ratios:** Each model supports specific image resolutions, especially when using enhancement:
 
-**Example – Enhance a prompt (with explanations):**
+    * **Velogen:** Base output resolutions include 512×512 (square), 768×512 (landscape), 512×768 (portrait). With 2× enhancement, approximate maximum resolutions are 1920×1920 (square), 1920×1280 (landscape), 1280×1920 (portrait).
+    * **Nebula Forge XL:** Base outputs are 1024×1024, 1024×768, 768×1024. With upscaling (enhancement), it can go up to \~1536×1536 (square), 1536×1024 (landscape), 1024×1536 (portrait).
+    * **VisionaryForge:** Base outputs are 1024×1024, 1024×768, 768×1024 (similar to Nebula’s base). With upscaling, up to around 1536×1536, 1536×1024, 1024×1536.
+    * **Dale3:** (1024x1024, upscaling or enhancement isn't available).&#x20;
 
-```js
-const userPrompt = "a small cottage by the lake";
-console.log("Original prompt:", userPrompt);
-
-const enhancedRes = await nft.enhancePrompt({ prompt: userPrompt });
-const improvedPrompt = enhancedRes.data.prompt;  // assuming .prompt contains the enhanced text
-console.log("Enhanced prompt:", improvedPrompt);
-
-// You can now use improvedPrompt for image generation:
-await nft.generateImage({ prompt: improvedPrompt, model: "velogen", width:512, height:512 });
-```
-
-In this example, a simple prompt _"a small cottage by the lake"_ might be automatically expanded to something like _"a **cozy** small cottage by the **misty** lake at sunrise, **photorealistic**, high detail"_ (the actual output will vary). Using the enhanced prompt in `generateImage` or `generateNft` could yield more vivid results.
-
-**Production snippet:**
-
-```js
-// Quickly get an enhanced prompt for user input
-const { data: enhanced } = await nft.enhancePrompt({ prompt: "portrait of a dragon" });
-console.log("Suggestion:", enhanced.prompt);
-```
-
-This shows how you might call `enhancePrompt` in production – for example, to implement a "Suggest improvements" button for user-provided prompts. The output prompt (accessible as `enhanced.prompt` or a similar field) can then be shown to the user or used directly.
-
-_(The SDK may also offer a “Surprise Me” or random prompt generator feature as hinted in the overview, but the primary prompt utility in the SDK is **`enhancePrompt`**.)_
-
-***
-
-### Retrieving Blockchain Chain Info
-
-If you need to know which blockchains are supported or get their identifiers (especially to let users choose a network for minting), the SDK provides a method to fetch the list of supported chains.
-
-#### `getChains(includeTestnet)`
-
-**Description:** Returns a list of blockchain networks (chain IDs) supported by the NFT generator. You can choose to include test networks or not. This is useful for populating network selection dropdowns or validating a `chainId` before attempting a mint.
-
-**Parameters:**
-
-* **`includeTestnet`** _(boolean, optional)_ – If `false` (default), returns only mainnet chains. If `true`, test networks are included as well. Use `true` if you need testnet IDs for development.
-
-**Returns:** A **Promise** resolving to an array of chain information. Each entry will typically include at least a **chain ID** (number) and possibly a **name** or network identifier. For example, an entry might be `{ chainId: 1, name: "Ethereum Mainnet" }`, `{ chainId: 56, name: "BSC Mainnet" }`, or `{ chainId: 97, name: "BSC Testnet" }`, etc. The exact structure can be determined by inspecting the returned object. All networks supported by ChainGPT’s NFT Generator will be listed.
-
-**Example – Get supported chains:**
-
-```js
-const chains = await nft.getChains(false);  // fetch mainnet chains
-chains.data.forEach(chain => {
-  console.log(chain.chainId, chain.name);
-});
-```
-
-This might output a list such as `1 Ethereum, 56 BNB Chain, 137 Polygon, ...` etc., covering all mainnet networks available. If you call `getChains(true)`, you will see testnets (e.g., Ropsten, Goerli for Ethereum if supported, Mumbai for Polygon, etc.) in the list as well.
-
-**Production snippet:**
-
-```js
-// Fetch all supported networks (including testnets)
-const { data: allChains } = await nft.getChains(true);
-const chainIds = allChains.map(c => c.chainId);
-console.log("Supported chain IDs:", chainIds);
-```
-
-This quickly retrieves the full list of supported chain IDs (including test networks). You might use this to validate user choices or to know if a particular chainId is currently supported by ChainGPT’s service.
-
-***
-
-### Accessing the NFT Contract ABI
-
-ChainGPT’s NFT Generator mints tokens using its own smart contract (often a factory or template contract). If you need to interact with the NFT contract directly (for example, to call the mint function manually or to integrate with web3 libraries for events), you can retrieve the contract’s **ABI (Application Binary Interface)** via the SDK.
-
-#### `abi()`
-
-**Description:** Fetches the ABI for the ChainGPT NFT Mint Factory contract. The ABI is a JSON specification of the contract’s functions and events, which is required to create a web3 contract instance (e.g., with ethers.js or web3.js) to call contract methods or decode logs.
-
-**Parameters:** None.
-
-**Returns:** A **Promise** that resolves to the ABI data (likely an array of JSON fragments describing each function/event). This ABI corresponds to the smart contract that the SDK uses under the hood to mint NFTs. With this, developers can instantiate the contract in their own web3 context if needed.
-
-**Example – Retrieve contract ABI:**
-
-```js
-const abiData = await nft.abi();
-console.log("ABI length:", abiData.data.length, "ABI entries");
-```
-
-This will output the number of entries in the ABI (functions, events). You could then do something like:
-
-```js
-// (Using ethers.js for example)
-const { ethers } = require("ethers");
-const provider = new ethers.JsonRpcProvider(YOUR_RPC_URL);
-const contractAddress = "0x...";  // address of the NFT contract (if known or obtained from mint result)
-const contract = new ethers.Contract(contractAddress, abiData.data, provider);
-```
-
-Now `contract` is a read-only instance (or if you have a signer, read-write) of the NFT contract, and you can call functions or listen to events as defined by the ABI.
-
-**Production snippet:**
-
-```js
-// Get the NFT factory contract ABI
-const { data: contractAbi } = await nft.abi();
-// You can now integrate this ABI with web3 libraries as needed
-```
-
-Typically, you might not need to call `abi()` unless you are doing advanced integrations. The SDK’s own methods (`generateNft`, `mintNft`, etc.) will handle contract interactions for you. But the option is there for completeness or custom use cases.
-
-***
-
-### Image Generation Settings Reference
-
-_(This section provides reference details on the supported models, enhancements, and image formats in the ChainGPT NFT Generator SDK.)_
-
-*   **Supported AI Models:** The following model identifiers can be used for the `model` parameter when generating images or NFTs:
-
-    * **`velogen`** – for realistic or general-purpose image generation.
-    * **`nebula_forge_xl`** – for high-resolution, detailed imagery.
-    * **`VisionaryForge`** – for creative/artistic styles (e.g., concept art).
-    * **`Dale3`** – (integration of OpenAI’s DALL·E 3 or similar) for varied art generation.
-
-    Each model may have different strengths or styles (e.g., _Dale3_ might excel at certain creative compositions). You can experiment with different models to achieve the desired visual style.
-* **Image Formats:** Generated images are returned in a binary format that can be saved as common image types. By default, images are in **JPEG** format (as indicated by the `.jpg` usage in examples) when using the provided API endpoints. The SDK does not currently provide an option to choose the file format (such as PNG) via parameters, so you can assume JPEG output. If a different format is needed, you may convert the image bytes using an image processing library after retrieval.
-*   **Enhancement (`enhance`\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* parameter):** As noted, you can request upscaling enhancements:
-
-    * `"1x"` – Single enhancement (upscale once).
-    * `"2x"` – Double enhancement (upscale twice for even higher resolution).
-
-    Only certain models support enhancement (currently **velogen**, **nebula\_forge\_xl**, **VisionaryForge**). If you use `enhance` on an unsupported model, the enhancement may be ignored. Using enhancement will yield larger image dimensions (roughly doubling the resolution in each step).
-*   **Resolution and Aspect Ratios:** Each model has preset supported resolutions:
-
-    * _Velogen:_ Base outputs: **512×512** (square), **768×512** (landscape), **512×768** (portrait). With 2× enhancement: **1920×1920**, **1920×1280**, **1280×1920**.
-    * _Nebula Forge XL:_ Base outputs: **1024×1024**, **1024×768**, **768×1024**. With upscaling: **1536×1536**, **1536×1024**, **1024×1536**.
-    * _VisionaryForge:_ Base outputs: **1024×1024**, **1024×768**, **768×1024**. With upscaling: **1536×1536**, **1536×1024**, **10**
-    * _Dale3:_ (Not explicitly listed in the SDK docs, but it likely supports standard square sizes such as 1024×1024. You may refer to ChainGPT’s documentation for any specifics.)**24×1536**.
-
-    When specifying `height` and `width`, choose one of the supported combinations above for the model you use. If you choose a non-supported resolution, the API may return an error or adjust to the nearest valid size. For simplicity, common squares (512 or 1024) are safe across models.
-* **Default Values:** If certain optional parameters are omitted:
-  * `enhance`: no enhancement (equivalent to not upscaling).
-  * `steps`: uses model default (e.g., 2 for velogen, 25 for nebula\_forge\_xl).
-  * `height`/`width`: likely defaults to the model’s base square resolution (e.g., 512×512 or 1024×1024 depending on model). It’s recommended to specify them explicitly to control the aspect ratio.
-
-Use these references to fine-tune your image generation. For instance, if you want a large portrait image, using `model: "nebula_forge_xl", enhance: "2x", width:1024, height:1536` would produce an upscaled portrait orientation result. If unsure, start with a base model and resolution (e.g., 512×512 velogen) and then adjust parameters for higher quality.
+    When specifying the `width` and `height` in your requests, it’s best to stick to one of the supported aspect ratio combinations for the chosen model (as listed above) to get optimal results. If you choose a non-standard size, the API might adjust the output size or return an error. For simplicity, using a square resolution (512×512 for smaller images, or 1024×1024 for larger images) is a safe choice across models.
+* **Default Values:** If you omit certain optional parameters in the generation calls:
+  * `enhance` – Defaults to no enhancement (no upscaling) if not provided.
+  * `steps` – Defaults to the model’s built-in default (for example, 2 steps for VeloGen, 25 for Nebula Forge XL) if not specified.
+  * `height`/`width` – Typically default to the model’s default resolution (often the base square, e.g., 512×512 for some models or 1024×1024 for others). It’s recommended to explicitly set these for clarity.
 
 ***
 
 ### Error Handling
 
-The ChainGPT NFT SDK provides a structured way to handle errors. Network issues, invalid requests, or API errors will result in the SDK throwing an instance of `Errors.NftError`. You should catch these errors in your async functions to handle them gracefully.
+The ChainGPT NFT SDK provides a structured error handling mechanism to help you catch and manage errors from any SDK call (image generation, minting, etc.).
 
-**Error type:** `Errors.NftError` – This error object (a class instance) includes a message describing the issue (e.g., an HTTP error status or a message from the API). It may also include additional data or codes from the response.
+When something goes wrong (such as a network issue, an invalid API request, or an error returned from the ChainGPT API), the SDK will throw an error of type **`Errors.NftError`**. This is a custom error class provided by the SDK. It includes a message describing the error, and it may include additional information such as an HTTP status code or an error payload from the API.
 
-**How to catch:** Use a `try...catch` around SDK calls. In the `catch`, check if `error instanceof Errors.NftError` to confirm it’s an SDK error and not a different exception.
+**How to handle errors:** Ensure you wrap your SDK calls in a `try...catch` block in your async function. In the `catch`, you can check if the caught error is an instance of `Errors.NftError` to distinguish it from other types of exceptions.
 
 **Example – Error handling pattern:**
 
@@ -475,66 +355,37 @@ import { Errors } from '@chaingpt/nft';
 
 try {
   const response = await nft.generateNft({ /* ...parameters... */ });
-  // Use response...
+  // Use the response normally if successful
 } catch (error) {
   if (error instanceof Errors.NftError) {
     console.error("ChainGPT SDK error:", error.message);
-    // Optionally inspect error.response or error.code if available
+    // You could also inspect error.response or error.code if needed
   } else {
-    // Some other error (programming error, etc.)
+    // Some other unexpected error (programming error, etc.)
     console.error("Unexpected error:", error);
   }
 }
 ```
 
-In this snippet, if the `generateNft` call fails (for example, due to an invalid API key, network timeout, or a 400/500 HTTP error from the API), the catch block will execute. The error message (`error.message`) may contain a human-readable explanation of what went wrong. Always handle errors especially for network calls like generation or minting, to ensure your application can inform the user or retry as needed.
+In the above snippet, if `nft.generateNft()` fails (for example, due to an invalid API key, a 400 Bad Request from the API, or a network timeout), the catch block will execute. The error’s message (`error.message`) usually provides a human-readable description of what went wrong (e.g. "Unauthorized" for invalid API key, or a specific validation message). By checking `instanceof Errors.NftError`, we ensure we’re handling errors thrown by the ChainGPT SDK. Any other error would fall to the `else` block (which could be a coding mistake or something unrelated).
 
-**Common error scenarios:**
+**Common error scenarios to handle:**
 
-* _Authentication failure:_ If your API key is wrong or expired, you’ll get an `NftError` (likely with a 401/403 status message).
-* _Invalid parameters:_ If you request an unsupported image size or missing required fields, the API may return an error (400 Bad Request), resulting in an `NftError`.
-* _Generation failure:_ In rare cases the AI might fail to generate an image; the API could return an error or a status indicating failure for that job.
-* _Network issues:_ If the SDK cannot reach the server, it will throw an `NftError` (with a message like network error or timeout).
+* _Authentication failures:_ If your API key is missing, incorrect, or expired, the SDK will throw an `NftError` (often indicating a 401 or 403 HTTP error under the hood). You should catch this and prompt for a correct key or notify about invalid credentials.
+* _Invalid parameters:_ If you pass values that the API cannot process (e.g., an unsupported image resolution, or missing a required field like `walletAddress`), the API will respond with a 400 error and the SDK will throw an `NftError` with details. Check the message to adjust your request.
+* _Generation failures:_ In rare cases, the AI might fail to generate an image or the job might encounter an internal error. This could result in an error or a job status that indicates failure. Handle this by catching the error or checking for a failure status in `getNftProgress()`.
+* _Network issues:_ If the SDK cannot reach the ChainGPT API (due to network outage or timeout), it will throw an `NftError` indicating a network error. You might implement retries or inform the user to check their connection.
 
-By catching `NftError`, you can distinguish errors coming from ChainGPT’s API versus other exceptions. You can also use the error information to decide retries or user messages. The SDK’s error handling mechanism ensures you don’t have to manually parse HTTP responses – it consistently throws `NftError` for anything that isn’t a normal successful response.
-
-***
-
-### TypeScript Support
-
-The ChainGPT NFT SDK is written in TypeScript and comes with full type declarations. This means you get autocompletion and type checking out-of-the-box when using the SDK in a TypeScript project or any editor with TypeScript definitions.
-
-* All methods (`generateImage`, `generateNft`, etc.) have typed function signatures. The expected input object shape and return types are defined, which helps catch mistakes (for example, forgetting a required field or using the wrong type for a parameter).
-* The `Nft` class constructor options (`apiKey` etc.) are typed as well. You can import types if needed for your own definitions.
-
-**Using ESM/TypeScript import:**
-
-```ts
-import { Nft, Errors } from '@chaingpt/nft';
-
-const nft = new Nft({ apiKey: 'YOUR_API_KEY' });
-// The type of nft is Nft, which has methods like generateImage, generateNft, etc., all typed.
-
-// Example: auto-complete will show the required fields for generateNft when you start typing.
-const result = await nft.generateNft({
-  prompt: "TS check example", 
-  model: "velogen",
-  walletAddress: "0x123...ABC",
-  chainId: 5,
-  // If you omit a required field or use wrong type, TypeScript will error at compile time.
-});
-```
-
-In the above TypeScript example, your IDE will guide you with the correct parameter names and types for `generateNft`. The return type `result` will also be known (you can inspect its type, likely something like `NftResponse` with a `.data` field).
-
-**Typing for Errors:** The `Errors.NftError` class is also available for type checking. You can do `catch (error: any) { if (error instanceof Errors.NftError) { ... } }` – TypeScript will then infer `error` as `NftError` inside that block, allowing you to access any specific properties it has.
-
-Because of the included d.ts files, you **do not** need to install any additional `@types` packages for this SDK. Everything is bundled in `@chaingpt/nft` by default.
+By consistently catching `Errors.NftError`, you can gracefully handle all these cases. The SDK abstracts away the need to manually parse HTTP responses; any non-2xx HTTP response or other failure will result in a thrown `NftError` that you can catch in one place. This makes it easier to implement robust error-handling logic (such as retries, user notifications, or logging) around SDK calls.
 
 ***
 
-{% hint style="info" %}
-With the above reference, you should be well-equipped to integrate ChainGPT’s AI NFT Generator via the SDK. By following the examples and utilizing the SDK’s functions, developers can programmatically generate unique AI-driven images, refine prompts, and mint NFTs across multiple blockchains with minimal effort. For further details on the underlying API or advanced use-cases, refer to the full documentation and the Overview section.&#x20;
-{% endhint %}
+### Additional Resources
 
-**Happy building with ChainGPT’s NFT SDK!**
+* **ChainGPT Developer Dashboard:** To obtain your API key or manage your subscription/credits, visit the ChainGPT Developer Dashboard on the ChainGPT website. This is where you can monitor your usage and top up credits if needed.
+* **Pricing & Credits:** For details on how the credit system works and the cost of generating images or NFTs, refer to the **Pricing & Membership Plans** page on the ChainGPT documentation site. (Pricing is subject to change and depends on the model and enhancements used, so it’s maintained separately from this SDK reference.)
+* **NPM Package Documentation:** You can find the SDK’s package page on [npmjs.com](https://www.npmjs.com/package/@chaingpt/nft), which may include additional usage examples and the latest version information.
+* **REST API Reference:** If you need to use the NFT generator via HTTP calls or want to know the underlying endpoints, consult the AI NFT Generator API Reference in the ChainGPT docs.
+* **Support & Community:** If you encounter issues or have questions, you can reach out through ChainGPT’s official support channels. Visit the ChainGPT website [ChainGPT.org](https://www.chaingpt.org/) for links to community forums, Discord, or contact information. The development team and community are available to help with integration questions or troubleshooting.
+
+This SDK reference is meant to be a comprehensive guide for developers. For any further help, check out the QuickStart guide for step-by-step examples or contact the ChainGPT support team. Happy building with the ChainGPT AI NFT Generator SDK!
