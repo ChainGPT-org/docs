@@ -26,7 +26,7 @@ This guide will help you start building with ChainGPT’s suite of Web3 AI tools
 * [Smart-Contracts Generator - QuickStart Guide](smart-contracts-generator-api-and-sdk/quickstart-guide.md)
 * [Smart-Contracts Auditor - QuickStart Guide](smart-contracts-auditor-api-and-sdk/quickstart-guide.md)
 * [Web3 AI News Generator - QuickStart Guide](ai-crypto-news-api-and-sdk-and-rss/quickstart-guide.md)
-* [AgenticOS AI Agent Framework - QuickStart Guide](agenticos-web3-ai-agent-on-x-open-source.md#quick-start-guide)
+* [AgenticOS AI Agent Framework - QuickStart Guide](agenticos-framework-web3-ai-agent-on-x-open-source.md#quick-start-guide)
 
 ***
 
@@ -86,8 +86,8 @@ Explore each API and SDK dev docs in detail:
 [ai-crypto-news-api-and-sdk-and-rss](ai-crypto-news-api-and-sdk-and-rss/)
 {% endcontent-ref %}
 
-{% content-ref url="agenticos-web3-ai-agent-on-x-open-source.md" %}
-[agenticos-web3-ai-agent-on-x-open-source.md](agenticos-web3-ai-agent-on-x-open-source.md)
+{% content-ref url="agenticos-framework-web3-ai-agent-on-x-open-source.md" %}
+[agenticos-framework-web3-ai-agent-on-x-open-source.md](agenticos-framework-web3-ai-agent-on-x-open-source.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}
