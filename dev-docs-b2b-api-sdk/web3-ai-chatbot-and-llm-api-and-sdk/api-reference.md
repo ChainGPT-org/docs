@@ -153,8 +153,6 @@ If the request is successful, the API will return an HTTP 200 response. The stru
       }
     }
     ```
-
-    The `data.bot` field contains the assistant’s answer as a single string. (The property is named "bot" to denote the chatbot’s reply.) There may be additional metadata in the response (such as an internal `id` or timestamp for the interaction), but the main content of interest is the text under `data.bot`.
 * **Streaming Response:** The server will begin sending back the answer in chunks over the open HTTP connection. Each chunk is a piece of the answer text (e.g. a few words or a sentence). The response uses standard HTTP chunked transfer encoding. You should keep the connection open and read from it until the stream ends. There is no enclosing JSON object in this mode; instead, you’ll receive raw text data progressively. Once the full answer has been sent, the server will terminate the stream (signaling the end of response).
 
 In both cases, if an error occurs, you will receive an error status code and a JSON error message (except in some streaming error cases where the connection might drop). Common error responses:
@@ -215,7 +213,7 @@ async function getAnswer() {
       }
     );
     // The full response is now in response.data
-    console.log("Assistant answer:", response.data.data.bot);
+    console.log("Assistant answer:", response.data);
   } catch (error) {
     console.error("API request failed:", error.response?.data || error.message);
   }
@@ -224,7 +222,7 @@ async function getAnswer() {
 getAnswer();
 ```
 
-**Explanation:** We set `chatHistory: "off"` to treat this as a single-turn query. The assistant’s answer is logged from `response.data.data.bot`. In a real application, you might handle the JSON further (e.g. displaying the answer in a UI).
+**Explanation:** We set `chatHistory: "off"` to treat this as a single-turn query. The assistant’s answer is logged from `response.data`. In a real application, you might handle the JSON further (e.g. displaying the answer in a UI).
 
 #### Using Axios (Node.js) – Streaming Response
 
@@ -284,7 +282,7 @@ curl -X POST "https://api.chaingpt.org/chat/stream" \
       }'
 ```
 
-Make sure to insert your actual API key. This request asks the AI to explain AI, with no history. The response will be a JSON object containing the answer (under `data.bot`). For example, you might get:
+Make sure to insert your actual API key. This request asks the AI to explain AI, with no history. The response will be a JSON object containing the answer. For example, you might get:
 
 ```
 {

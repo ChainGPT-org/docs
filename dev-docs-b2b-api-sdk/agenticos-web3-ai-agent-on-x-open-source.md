@@ -138,6 +138,27 @@ Your AgenticOS bot can now run 24/7, automatically tweeting based on your config
 
 ***
 
+### Provide Twitter Access and Refresh Tokens
+
+#### Generate access and refresh tokens
+
+You can generate Twitter access and refresh tokens using the OAuth 2.0 flow. For detailed instructions, please refer to [Twitter Token Generation Guide](https://github.com/ChainGPT-org/AgenticOS/blob/main/twitterTokenGeneration.md).
+
+#### Add tokens to app
+
+```
+# Add Twitter tokens to the application
+POST <https://your-domain.com>/api/tokens
+
+# Request body
+{
+  "accessToken": "your_access_token",
+  "refreshToken": "your_refresh_token"
+}
+```
+
+***
+
 ### Configuration Details
 
 AgenticOS is highly configurable. Let’s explore how to customize schedules, webhooks, and other settings to tailor the AI agent to your needs.

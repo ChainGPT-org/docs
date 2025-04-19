@@ -133,10 +133,10 @@ By default, the `/chat/stream` endpoint streams its output in chunks, which is g
       // no responseType: "stream" here
     });
     // Once the request completes, the entire response is available:
-    console.log(res.data.data.bot);  // the complete Solidity contract code
+    console.log(res.data);  // the complete Solidity contract code
     ```
 
-    In this mode, the call will return only after the AI has finished generating the contract. The `res.data` will contain the full JSON response, and `res.data.data.bot` holds the complete contract code. This approach is simpler but has a bit more latency (you wait for the whole answer). It can be suitable for server-side operations where streaming isn't necessary.
+    In this mode, the call will return only after the AI has finished generating the contract. The `res.data` will contain the full JSON response, and `res.data` holds the complete contract code. This approach is simpler but has a bit more latency (you wait for the whole answer). It can be suitable for server-side operations where streaming isn't necessary.
 
 Choose the mode that fits your use case: **streaming** for responsiveness or progress updates, vs **full response** for simplicity.
 

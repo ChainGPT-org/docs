@@ -236,31 +236,7 @@ When using filtering options, you will need to know the IDs for categories, sub-
 
 #### Category IDs
 
-| Category                    | ID |
-| --------------------------- | -- |
-| Blockchain Gaming           | 2  |
-| DAO                         | 3  |
-| DApps                       | 4  |
-| DeFi                        | 5  |
-| Lending                     | 6  |
-| Metaverse                   | 7  |
-| NFT                         | 8  |
-| Stablecoins                 | 9  |
-| Cryptocurrency              | 64 |
-| Decentralized               | 65 |
-| Smart Contracts             | 66 |
-| Distributed Ledger          | 67 |
-| Cryptography                | 68 |
-| Digital Assets              | 69 |
-| Tokenization                | 70 |
-| Consensus Mechanisms        | 71 |
-| ICO (Initial Coin Offering) | 72 |
-| Crypto Wallets              | 73 |
-| Web3.0                      | 74 |
-| Interoperability            | 75 |
-| Mining                      | 76 |
-| Cross-Chain Transactions    | 77 |
-| Exchange                    | 78 |
+<table><thead><tr><th width="252.515625">Category</th><th width="102.48828125">ID</th></tr></thead><tbody><tr><td>Blockchain Gaming</td><td>2</td></tr><tr><td>DAO</td><td>3</td></tr><tr><td>DApps</td><td>4</td></tr><tr><td>DeFi</td><td>5</td></tr><tr><td>Lending</td><td>6</td></tr><tr><td>Metaverse</td><td>7</td></tr><tr><td>NFT</td><td>8</td></tr><tr><td>Stablecoins</td><td>9</td></tr><tr><td>Cryptocurrency</td><td>64</td></tr><tr><td>Decentralized</td><td>65</td></tr><tr><td>Smart Contracts</td><td>66</td></tr><tr><td>Distributed Ledger</td><td>67</td></tr><tr><td>Cryptography</td><td>68</td></tr><tr><td>Digital Assets</td><td>69</td></tr><tr><td>Tokenization</td><td>70</td></tr><tr><td>Consensus Mechanisms</td><td>71</td></tr><tr><td>ICO (Initial Coin Offering)</td><td>72</td></tr><tr><td>Crypto Wallets</td><td>73</td></tr><tr><td>Web3.0</td><td>74</td></tr><tr><td>Interoperability</td><td>75</td></tr><tr><td>Mining</td><td>76</td></tr><tr><td>Cross-Chain Transactions</td><td>77</td></tr><tr><td>Exchange</td><td>78</td></tr></tbody></table>
 
 These are the broad news categories you can filter by. For example, use `categoryId: [8]` for NFT-related news, or `categoryId: [5]` for DeFi news. You can combine multiple category IDs in an array if needed.
 
@@ -268,37 +244,7 @@ These are the broad news categories you can filter by. For example, use `categor
 
 The following sub-category IDs correspond to specific blockchain ecosystems or networks:
 
-| Sub-Category (Blockchain) | ID | Sub-Category (Blockchain) | ID |
-| ------------------------- | -- | ------------------------- | -- |
-| Bitcoin                   | 11 | Algorand                  | 27 |
-| BNB Chain                 | 12 | Arbitrum                  | 28 |
-| Celo                      | 13 | Astar                     | 29 |
-| Cosmos                    | 14 | Aurora                    | 30 |
-| Ethereum                  | 15 | Avalanche                 | 31 |
-| Fantom                    | 16 | Base                      | 32 |
-| Flow                      | 17 | Binance Smart Chain       | 33 |
-| Litecoin                  | 18 | Cardano                   | 34 |
-| Monero                    | 19 | Cronos                    | 36 |
-| Polygon                   | 20 | Moonbeam                  | 37 |
-| XRP Ledger                | 21 | **DEP** (Deeper Protocol) | 38 |
-| Solana                    | 22 | Harmony                   | 41 |
-| TRON                      | 23 | Oasis                     | 42 |
-| Terra                     | 24 | Oasis Sapphire            | 43 |
-| Tezos                     | 25 | Ontology                  | 44 |
-| WAX                       | 26 | Optimism                  | 45 |
-| _Other_ (Miscellaneous)   | 46 | PlatON                    | 47 |
-|                           |    | Rangers                   | 49 |
-|                           |    | Ronin                     | 50 |
-|                           |    | Shiden                    | 51 |
-|                           |    | SKALE                     | 52 |
-|                           |    | Stacks                    | 54 |
-|                           |    | Stargaze                  | 55 |
-|                           |    | Steem                     | 56 |
-|                           |    | SX Network                | 57 |
-|                           |    | Telos                     | 58 |
-|                           |    | Telos EVM                 | 59 |
-|                           |    | Theta                     | 61 |
-|                           |    | ThunderCore               | 62 |
+<table><thead><tr><th width="131.359375">Sub-Category</th><th width="76.51171875">ID</th><th width="123.4921875">Sub-Category</th><th width="70.87890625">ID</th></tr></thead><tbody><tr><td>Bitcoin</td><td>11</td><td>Algorand</td><td>27</td></tr><tr><td>BNB Chain</td><td>12</td><td>Arbitrum</td><td>28</td></tr><tr><td>Celo</td><td>13</td><td>Astar</td><td>29</td></tr><tr><td>Cosmos</td><td>14</td><td>Aurora</td><td>30</td></tr><tr><td>Ethereum</td><td>15</td><td>Avalanche</td><td>31</td></tr><tr><td>Fantom</td><td>16</td><td>Base</td><td>32</td></tr><tr><td>Flow</td><td>17</td><td>Binance Smart Chain</td><td>33</td></tr><tr><td>Litecoin</td><td>18</td><td>Cardano</td><td>34</td></tr><tr><td>Monero</td><td>19</td><td>Cronos</td><td>36</td></tr><tr><td>Polygon</td><td>20</td><td>Moonbeam</td><td>37</td></tr><tr><td>XRP Ledger</td><td>21</td><td><strong>DEP</strong> (Deeper Protocol)</td><td>38</td></tr><tr><td>Solana</td><td>22</td><td>Harmony</td><td>41</td></tr><tr><td>TRON</td><td>23</td><td>Oasis</td><td>42</td></tr><tr><td>Terra</td><td>24</td><td>Oasis Sapphire</td><td>43</td></tr><tr><td>Tezos</td><td>25</td><td>Ontology</td><td>44</td></tr><tr><td>WAX</td><td>26</td><td>Optimism</td><td>45</td></tr><tr><td><em>Other</em> (Miscellaneous)</td><td>46</td><td>PlatON</td><td>47</td></tr><tr><td>Steem</td><td>56</td><td>Rangers</td><td>49</td></tr><tr><td>SX Network</td><td>57</td><td>Ronin</td><td>50</td></tr><tr><td>Telos</td><td>58</td><td>Shiden</td><td>51</td></tr><tr><td>Telos EVM</td><td>59</td><td>SKALE</td><td>52</td></tr><tr><td>Theta</td><td>61</td><td>Stacks</td><td>54</td></tr><tr><td>ThunderCore</td><td>62</td><td>Stargaze</td><td>55</td></tr></tbody></table>
 
 _(Entries with blank "Sub-Category" in the table continue the list in the next column.)_
 
@@ -314,26 +260,7 @@ You can provide multiple sub-category IDs if an article might fall under multipl
 
 The following token IDs correspond to specific cryptocurrencies or tokens:
 
-| Token (Symbol)     | ID | Token (Symbol)         | ID  |
-| ------------------ | -- | ---------------------- | --- |
-| Bitcoin (BTC)      | 79 | Polygon (MATIC)        | 91  |
-| Ethereum (ETH)     | 80 | Polkadot (DOT)         | 92  |
-| Tether USD₮ (USDT) | 81 | Litecoin (LTC)         | 93  |
-| BNB (BNB)          | 82 | Wrapped Bitcoin (WBTC) | 94  |
-| XRP (XRP)          | 83 | Bitcoin Cash (BCH)     | 95  |
-| USD Coin (USDC)    | 84 | Chainlink (LINK)       | 96  |
-| Solana (SOL)       | 85 | Shiba Inu (SHIB)       | 97  |
-| Cardano (ADA)      | 86 | UNUS SED LEO (LEO)     | 98  |
-| Dogecoin (DOGE)    | 87 | TrueUSD (TUSD)         | 99  |
-| TRON (TRX)         | 88 | Avalanche (AVAX)       | 100 |
-| Toncoin (TON)      | 89 | Stellar (XLM)          | 101 |
-| Dai (DAI)          | 90 | Monero (XMR)           | 102 |
-|                    |    | OKB (OKB)              | 103 |
-|                    |    | Cosmos (ATOM)          | 104 |
-|                    |    | Uniswap (UNI)          | 105 |
-|                    |    | Ethereum Classic (ETC) | 106 |
-|                    |    | BUSD (BUSD)            | 107 |
-|                    |    | Hedera (HBAR)          | 108 |
+<table><thead><tr><th width="188.81640625">Token (Symbol)</th><th width="78.80859375">ID</th><th width="223.28515625">Token (Symbol)</th><th width="107.59375">ID</th></tr></thead><tbody><tr><td>Bitcoin (BTC)</td><td>79</td><td>Polygon (MATIC)</td><td>91</td></tr><tr><td>Ethereum (ETH)</td><td>80</td><td>Polkadot (DOT)</td><td>92</td></tr><tr><td>Tether USD₮ (USDT)</td><td>81</td><td>Litecoin (LTC)</td><td>93</td></tr><tr><td>BNB (BNB)</td><td>82</td><td>Wrapped Bitcoin (WBTC)</td><td>94</td></tr><tr><td>XRP (XRP)</td><td>83</td><td>Bitcoin Cash (BCH)</td><td>95</td></tr><tr><td>USD Coin (USDC)</td><td>84</td><td>Chainlink (LINK)</td><td>96</td></tr><tr><td>Solana (SOL)</td><td>85</td><td>Shiba Inu (SHIB)</td><td>97</td></tr><tr><td>Cardano (ADA)</td><td>86</td><td>UNUS SED LEO (LEO)</td><td>98</td></tr><tr><td>Dogecoin (DOGE)</td><td>87</td><td>TrueUSD (TUSD)</td><td>99</td></tr><tr><td>TRON (TRX)</td><td>88</td><td>Avalanche (AVAX)</td><td>100</td></tr><tr><td>Toncoin (TON)</td><td>89</td><td>Stellar (XLM)</td><td>101</td></tr><tr><td>Dai (DAI)</td><td>90</td><td>Monero (XMR)</td><td>102</td></tr><tr><td>Uniswap (UNI)</td><td>105</td><td>OKB (OKB)</td><td>103</td></tr><tr><td>Ethereum Classic (ETC)</td><td>106</td><td>Cosmos (ATOM)</td><td>104</td></tr><tr><td>BUSD (BUSD)</td><td>107</td><td>Hedera (HBAR)</td><td>108</td></tr></tbody></table>
 
 Use these token IDs to filter news by specific cryptocurrency. For example, `tokenId: [79]` will retrieve news about **Bitcoin**, and `tokenId: [84]` for **USDC**. You can combine multiple token IDs in one request if you want news related to several different tokens.
 
