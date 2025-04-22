@@ -1,4 +1,4 @@
-# Why Work For ChainGPT
+# Work For ChainGPT
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcoC-4NLZfa-TSLWeqra-HijWv9z2a9yG03KBGi1PqkVLHm6Lxk4lPlOiIuBom-JGKgwKqO400FIP5SBMa9F4Z4ft303FAhlT7cn25Cjm7cLthWSoCWwYH-v1AOsamwBQqhOPaYkA?key=fkWvn3Nce8ypPhRPINvbQlgI" alt=""><figcaption></figcaption></figure>
 
@@ -100,5 +100,5 @@ Explore the open positions listed below and become part of a company that’s re
 
 * [product-manager.md](product-manager.md "mention")
 * [head-of-business-development.md](head-of-business-development.md "mention")
-* [chief-strategy-officer.md](chief-strategy-officer.md "mention")
+* [head-of-strategy.md](head-of-strategy.md "mention")
 * [copy-of-head-of-business-development.md](copy-of-head-of-business-development.md "mention")

@@ -1,8 +1,8 @@
-# Chief Strategy Officer
+# Head of Strategy
 
 Location: Remote
 
-Position: Chief Strategy Officer (CSO)
+Position: Head of Strategy
 
 Company: ChainGPT
 
@@ -18,7 +18,7 @@ ChainGPT is at the forefront of AI and Blockchain Technology, enabling and trans
 
 **Job Summary:**
 
-We’re seeking a forward-thinking and results-driven Chief Strategy Officer (CSO) to lead the charge on company growth, user acquisition, token adoption, and revenue expansion. You’ll work directly with the executive team and founders to design and execute high-impact strategies that scale ChainGPT’s reach, value, and influence in the AI x Web3 space.
+We’re seeking a forward-thinking and results-driven Head of Strategy to lead the charge on company growth, user acquisition, token adoption, and revenue expansion. You’ll work directly with the executive team and founders to design and execute high-impact strategies that scale ChainGPT’s reach, value, and influence in the AI x Web3 space.
 
 This is a 24/7 strategy role for someone obsessed with company success and hungry to push boundaries across BD, marketing, ecosystem partnerships, and token economics.
 
