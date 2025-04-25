@@ -10,6 +10,8 @@ ChainGPT delivers audited, white-label SaaS modules that transform Web3 ideas in
 _**Note**: SaaS & whitelabel products are paid services, and will not qualify a project for a grant. Grants are reserved strictly for builders using our API & SDK tech stack._&#x20;
 {% endhint %}
 
+_Know what you're looking for? **Contact us - Software@ChainGPT.org**_&#x20;
+
 ***
 
 ### Crypto Launchpad Platform (IDO/ICO) -&#x20;
