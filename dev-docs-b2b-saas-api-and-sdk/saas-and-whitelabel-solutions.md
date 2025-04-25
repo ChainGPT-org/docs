@@ -6,6 +6,10 @@
 
 ChainGPT delivers audited, white-label SaaS modules that transform Web3 ideas into revenue-producing, security-hardened products in weeks. From launchpads and token-bonded AI agent platforms to staking portals, claim portals, and AI chatbots, every solution is purpose-built to drive user adoption, embed real token utility, and satisfy CertiK-level scrutiny. Deployed across 20+ EVM chains (plus Solana where required), each module ships with a no-code admin dashboard, brand-ready UI, and seamless access to ChainGPT Pad & Labs deal-flow, co-marketing, and operational playbooks—so you’re not just licensing software, you’re plugging into an ecosystem engineered for growth.
 
+{% hint style="info" %}
+_**Note**: SaaS & whitelabel products are paid services, and will not qualify a project for a grant. Grants are reserved strictly for builders using our API & SDK tech stack._&#x20;
+{% endhint %}
+
 ***
 
 ### Crypto Launchpad Platform (IDO/ICO) -&#x20;
@@ -44,8 +48,3 @@ Starting Price: $10k.&#x20;
 Looking to add a cool new AI Assistant for your project? We can help. Our SaaS for AI telegram bots, fully custom to your company, starts at just $1.5k + API usage.&#x20;
 
 ***
-
-\
-&#xNAN;_**Disclaimer:**_
-
-_SaaS & whitelabel products will not qualify a project for a grant. Grants are reserved strictly for builders using our API & SDK tech stack._&#x20;

@@ -65,13 +65,13 @@ The live suite includes core tools like the Web3 AI Chatbot, Smart Contract Audi
 
 #### :computer: B2B Tech-Stack (API, SDK, & more).
 
-* Web3 AI Chatbot & LLM (API & SDK)  · [(Read Dev Docs)](dev-docs-api-and-sdk/web3-ai-chatbot-and-llm-api-and-sdk/)
-* AI NFT Generator (API & SDK)  · [(Read Dev Docs)](dev-docs-api-and-sdk/ai-nft-generator-api-and-sdk/)
-* Smart-Contracts Generator (API & SDK)  · [(Read Dev Docs)](dev-docs-api-and-sdk/smart-contracts-generator-api-and-sdk/)
-* Smart-Contracts Auditor (API & SDK)  · [(Read Dev Docs)](dev-docs-api-and-sdk/smart-contracts-auditor-api-and-sdk/)
-* AI Crypto News (API & SDK & RSS)  · [(Read Dev Docs)](dev-docs-api-and-sdk/ai-crypto-news-api-and-sdk-and-rss/)
+* Web3 AI Chatbot & LLM (API & SDK)  · [(Read Dev Docs)](dev-docs-b2b-saas-api-and-sdk/web3-ai-chatbot-and-llm-api-and-sdk/)
+* AI NFT Generator (API & SDK)  · [(Read Dev Docs)](dev-docs-b2b-saas-api-and-sdk/ai-nft-generator-api-and-sdk/)
+* Smart-Contracts Generator (API & SDK)  · [(Read Dev Docs)](dev-docs-b2b-saas-api-and-sdk/smart-contracts-generator-api-and-sdk/)
+* Smart-Contracts Auditor (API & SDK)  · [(Read Dev Docs)](dev-docs-b2b-saas-api-and-sdk/smart-contracts-auditor-api-and-sdk/)
+* AI Crypto News (API & SDK & RSS)  · [(Read Dev Docs)](dev-docs-b2b-saas-api-and-sdk/ai-crypto-news-api-and-sdk-and-rss/)
 
-[Grant Program](dev-docs-api-and-sdk/grant-program-and-co-marketing/) · [Use Cases](dev-docs-api-and-sdk/use-cases-and-examples.md) · [Case Studies](dev-docs-api-and-sdk/case-studies.md) · [QuickStart Guide](dev-docs-api-and-sdk/global-quickstart-guide.md) · [Bug Bounty](bug-bounty.md)
+[Grant Program](dev-docs-b2b-saas-api-and-sdk/grant-program-and-co-marketing/) · [Use Cases](dev-docs-b2b-saas-api-and-sdk/use-cases-and-examples.md) · [Case Studies](dev-docs-b2b-saas-api-and-sdk/case-studies.md) · [QuickStart Guide](dev-docs-b2b-saas-api-and-sdk/global-quickstart-guide.md) · [Bug Bounty](bug-bounty.md)
 
 ***
 
