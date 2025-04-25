@@ -57,6 +57,14 @@ ChainGPT provides cutting-edge AI infrastructure designed specifically for Web3 
 
 ***
 
+### Looking for solutions developed for you? Visit our SaaS & Whitelable Offering Page.
+
+{% content-ref url="saas-and-whitelabel-solutions.md" %}
+[saas-and-whitelabel-solutions.md](saas-and-whitelabel-solutions.md)
+{% endcontent-ref %}
+
+***
+
 ### Web3 AI Grant Program & Co-Marketing Opportunities
 
 #### $1M Web3 AI Grant Program
