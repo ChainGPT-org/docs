@@ -1,8 +1,9 @@
 ---
+description: The New Era of Blockchain AI is Here
 hidden: true
 ---
 
-# AIVM - AI Virtual Machine
+# Artificial Intelligence Virtual Machine - AIVM
 
 ### 1. Introduction
 

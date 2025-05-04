@@ -147,7 +147,7 @@
 
 ***
 
-* [AIVM - AI Virtual Machine](aivm-ai-virtual-machine.md)
+* [Artificial Intelligence Virtual Machine - AIVM](artificial-intelligence-virtual-machine-aivm.md)
 * [TapCGPT Has Ended -  Thanks for tapping with us! ♥️](tapcgpt/README.md)
   * [Introduction and Overview](tapcgpt/introduction-and-overview.md)
   * [Seasons and Prize Pool](tapcgpt/seasons-and-prize-pool.md)
