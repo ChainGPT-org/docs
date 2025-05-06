@@ -35,6 +35,7 @@
 
 ## AI Tools & Applications
 
+* [AIVM Blockchain Whitepaper](ai-tools-and-applications/aivm-blockchain-whitepaper.md)
 * [AI NFT Generator](ai-tools-and-applications/ai-nft-generator.md)
 * [Web3 AI Chatbot](ai-tools-and-applications/ai-web3-chatbot.md)
 * [AI Smart-Contract Generator](ai-tools-and-applications/ai-smart-contract-generator.md)
@@ -147,7 +148,6 @@
 
 ***
 
-* [Artificial Intelligence Virtual Machine - AIVM](artificial-intelligence-virtual-machine-aivm.md)
 * [TapCGPT Has Ended -  Thanks for tapping with us! ♥️](tapcgpt/README.md)
   * [Introduction and Overview](tapcgpt/introduction-and-overview.md)
   * [Seasons and Prize Pool](tapcgpt/seasons-and-prize-pool.md)
