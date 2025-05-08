@@ -1,6 +1,5 @@
 ---
 description: The New Era of Blockchain AI is Here
-hidden: true
 ---
 
 # AIVM Blockchain Whitepaper
