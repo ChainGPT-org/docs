@@ -25,7 +25,7 @@ The AI industry is reaching a critical junction where progress collides with con
 
 AIVM is building a decentralized infrastructure that addresses the four structural challenges limiting AI’s potential. Access is restricted. Decision-making is opaque. Costs are prohibitive. And current solutions are fragmented. We solve these with a comprehensive, blockchain-native platform engineered for the full AI lifecycle.
 
-1. **Verifiable AI Execution** introduces cryptographic proofs of model execution to restore trust in AI outputs. No more black boxes. No blind faith. No unprovable claims. This feature ensures transparency without sacrificing data privacy or performance.
+1. **Verifiable AI Execution** introduces cryptographic proofs of model execution (as a process) to restore trust in AI outputs. No more black boxes. No blind faith. No unprovable claims. This feature ensures transparency without sacrificing data privacy or performance.
 2. **Decentralized Resource Marketplace** unlocks access to computing resources beyond major cloud providers. A permissionless compute network allows developers to source compute from global infrastructure operators. No intermediaries, no inflated margins, no vendor lock-in. Competition drives efficiency, making AI development more affordable and scalable.
 3. **Open Model Ecosystem** empowers developers and researchers to launch and monetize models directly. Faster launches. Wider reach. Direct user relationships. This disintermediation supports both niche models and frontier innovations that would otherwise struggle to scale through traditional channels.
 4. **Integrated Infrastructure** provides cohesion where fragmentation once existed. Unlike siloed tools, AIVM unifies deployment, validation, and compute management into one composable system. Less friction. More trust. Better performance. This holistic design enhances interoperability and drives network effects.
@@ -42,7 +42,7 @@ Together, these components form a cohesive platform for AI innovation that is tr
 
 **This whitepaper outlines the vision, architecture, and roadmap for AIVM:** The AI Virtual Machine. It serves as both a technical reference and strategic overview for anyone seeking to understand or participate in the development of decentralized AI infrastructure. It informs, inspires and guides adoption. Whether you’re a Crypto user, enterprise, developer, or resource provider, this paper is structured to address your specific needs.
 
-* **For Token Holders:** AIVM presents a compelling opportunity at the intersection of two exponential trends: artificial intelligence and decentralized infrastructure. We detail how value flows through the system, highlight the platform’s token utility, and explain how the economic design supports sustainable long-term growth. Our roadmap and risk management framework provide visibility into upcoming milestones and governance plans.
+* **For $CGPT Token Holders:** AIVM presents a compelling opportunity at the intersection of two exponential trends: artificial intelligence and decentralized infrastructure. We detail how value flows through the system, highlight the platform’s token utility, and explain how the economic design supports sustainable long-term growth. Our roadmap and risk management framework provide visibility into upcoming milestones and governance plans.
 * **For Enterprises and Industry Leaders:** AIVM offers a path to leverage AI with greater transparency, security, and cost-efficiency. We explore high-impact use cases across finance, healthcare, logistics, and compliance. Integration pathways are outlined for both traditional IT environments and blockchain-native systems. By accessing a decentralized AI marketplace, enterprises can benefit from dynamic pricing, verifiable results, and regulatory-aligned operations.
 * **For Developers and AI Practitioners:** AIVM introduces a complete technical stack for deploying, testing, and monetizing AI models. From execution verification to API tooling to open-source frameworks, we provide the resources and incentives for rapid experimentation and adoption. Whether you’re fine-tuning models, contributing data, or optimizing inference pipelines, AIVM is designed to make your work more impactful and better rewarded.
 * **For Compute and Data Providers:** AIVM opens up a decentralized monetization channel. Participants with GPU, CPU, or storage capacity can join the compute marketplace or operate validators. Reputation systems reward quality service, and smart contract-based payouts enable predictable earnings. Plug-and-play integration modules simplify the onboarding of existing infrastructure into the AIVM ecosystem.
@@ -87,7 +87,7 @@ Together, these trends create a structural shift in the AI landscape. Businesses
 
 AIVM’s Positioning is defined by its comprehensive approach. While others focus on discrete pain points, AIVM integrates model deployment, resource allocation, execution verification, and incentive alignment into one modular system. The platform is designed for real workloads. It optimizes for trust. It scales through composability. AIVM doesn’t just respond to today’s market—it anticipates where the entire AI infrastructure stack is heading.
 
-<table><thead><tr><th width="183.5">Approach &#x26; Architecture</th><th>AI Capabilities</th><th width="144.2421875">Verification Mechanism</th><th width="110.421875">Resource Allocation</th><th width="173.98046875">Key Limitations</th><th width="147.94921875">AIVM Advantage</th></tr></thead><tbody><tr><td><p>Traditional AI Platforms</p><p>&#x26;</p><p>Centralized cloud infrastructure</p></td><td>Full spectrum from simple classification to LLMs</td><td>Closed-source, limited transparency</td><td>Centrally managed resources with fixed pricing</td><td><p>• Limited transparency</p><p>• High costs</p><p>• Single points of failure</p><p>• No cryptographic verification</p></td><td><p>• Verifiable execution</p><p>• Open architecture</p><p>• Market-based pricing</p></td></tr><tr><td><p>General-Purpose Blockchains with AI Extensions</p><p>&#x26;</p><p>Standard blockchain with AI smart contracts</p></td><td>Limited to small models and simple operations</td><td>On-chain execution with standard consensus</td><td>Fixed gas models not optimized for AI</td><td><p>• Computational constraints</p><p>• Impractical for large models</p><p>• High gas costs for complex operations</p><p>• Limited AI specialization</p></td><td><p>• Dual-path execution</p><p>• AI-specific validators</p><p>• Dynamic resource allocation</p></td></tr><tr><td><p>Specialized AI Marketplaces</p><p>&#x26;</p><p>Model-sharing platforms with token incentives</p></td><td>Access to diverse models but execution off-platform</td><td>Limited to marketplace reputation systems</td><td>Basic provider-consumer matching</td><td><p>• Lack of execution verification</p><p>• Limited integration with compute</p><p>• Fragmented execution environment</p><p>• Basic security guarantees</p></td><td><p>• End-to-end verification</p><p>• Integrated compute marketplace</p><p>• Unified security model</p></td></tr><tr><td><p>Decentralized Compute Networks</p><p>&#x26;</p><p>Distributed computing platforms</p></td><td>Raw computing power without AI optimization</td><td>Hardware attestation only</td><td>Market-based resource allocation</td><td><p>• Limited AI specialization</p><p>• No model verification</p><p>• Basic security mechanisms</p><p>• Limited cross-chain support</p></td><td><p>• AI-optimized infrastructure</p><p>• Multi-layered verification</p><p>• Cross-chain capabilities</p></td></tr><tr><td><p>AIVM</p><p>&#x26;</p><p>Purpose-built AI blockchain infrastructure</p></td><td>Full spectrum with dual-path execution</td><td>Multi-layer cryptographic verification</td><td>Dynamic market with resource matching</td><td><p>• Early development stage</p><p>• Building ecosystem adoption</p></td><td><p>• Purpose-built for AI</p><p>• Integrated verification</p><p>• Cross-chain by design</p><p>• Complete AI lifecycle</p></td></tr></tbody></table>
+<table><thead><tr><th width="183.5">Approach &#x26; Architecture</th><th>AI Capabilities</th><th width="144.2421875">Verification Mechanism</th><th width="110.421875">Resource Allocation</th><th width="173.98046875">Key Limitations</th><th width="147.94921875">AIVM Advantage</th></tr></thead><tbody><tr><td><p>Traditional AI Platforms</p><p>&#x26;</p><p>Centralized cloud infrastructure</p></td><td>Full spectrum from simple classification to LLMs</td><td>Closed-source, limited transparency</td><td>Centrally managed resources with fixed pricing</td><td><p>• Limited transparency</p><p>• High costs</p><p>• Single points of failure</p><p>• No cryptographic verification</p></td><td><p>• Verifiable execution</p><p>• Open architecture</p><p>• Market-based pricing</p></td></tr><tr><td><p>General-Purpose Blockchains with AI Extensions</p><p>&#x26;</p><p>Standard blockchain with AI smart contracts</p></td><td>Limited to small models and simple operations</td><td>On-chain execution with standard consensus</td><td>Fixed gas models not optimized for AI</td><td><p>• Computational constraints</p><p>• Impractical for large models</p><p>• High gas costs for complex operations</p><p>• Limited AI specialization</p></td><td><p>• Dual-path execution</p><p>• AI-specific validators</p><p>• Dynamic resource allocation</p></td></tr><tr><td><p>Specialized AI Marketplaces</p><p>&#x26;</p><p>Model-sharing platforms with token incentives</p></td><td>Access to diverse models but execution off-platform</td><td>Limited to marketplace reputation systems</td><td>Basic provider-consumer matching</td><td><p>• Lack of execution verification</p><p>• Limited integration with compute</p><p>• Fragmented execution environment</p><p>• Basic security guarantees</p></td><td><p>• End-to-end process  verification</p><p>• Integrated compute marketplace</p><p>• Unified security model</p></td></tr><tr><td><p>Decentralized Compute Networks</p><p>&#x26;</p><p>Distributed computing platforms</p></td><td>Raw computing power without AI optimization</td><td>Hardware attestation only</td><td>Market-based resource allocation</td><td><p>• Limited AI specialization</p><p>• No model verification</p><p>• Basic security mechanisms</p><p>• Limited cross-chain support</p></td><td><p>• AI-optimized infrastructure</p><p>• Multi-layered verification</p><p>• Cross-chain capabilities</p></td></tr><tr><td><p>AIVM</p><p>&#x26;</p><p>Purpose-built AI blockchain infrastructure</p></td><td>Full spectrum with dual-path execution</td><td>Multi-layer cryptographic verification</td><td>Dynamic market with resource matching</td><td><p>• Early development stage</p><p>• Building ecosystem adoption</p></td><td><p>• Purpose-built for AI</p><p>• Integrated verification</p><p>• Cross-chain by design</p><p>• Complete AI lifecycle</p></td></tr></tbody></table>
 
 {% hint style="info" %}
 This comparison shows how each approach addresses different aspects of the decentralized AI challenge, with tradeoffs in capabilities, security, and scope.
@@ -105,7 +105,7 @@ When we assessed today’s blockchain and AI ecosystems, one truth stood out: ne
 
 #### **AI-First Blockchain Architecture**
 
-Running complex AI on traditional blockchains is like playing modern games on a calculator. It can’t scale. It doesn’t fit. It breaks under load. AIVM is designed like a high-performance engine: a Cosmos SDK-based chain augmented with specialized modules tailored for AI workloads.
+Running complex AI directly on a general-purpose blockchain is like trying to render 3-D graphics in a spreadsheet: the ledger records every step flawlessly, but it isn’t built to crunch the heavy math. AIVM supplies that missing compute layer. Built on the Cosmos SDK, it acts like a high-performance engine with specialized modules tailored for AI workloads.
 
 At the core is the AI Module, the system’s control center. It manages model lifecycles. It tracks performance. It verifies results. Think of it as the protocol’s digital cortex housing the Model Registry, a secure and immutable index of all models published, updated, and executed on the platform.
 
@@ -129,7 +129,7 @@ Applications here include credit scoring, on-chain risk assessment, DAO proposal
 
 #### The Performance Path: Verified Off-Chain Execution
 
-For complex AI, AIVM offloads execution to high-performance nodes. Models are run in secure environments. Cryptographic proofs verify correctness. Hardware attestation confirms the trustworthiness of the node.
+For complex AI, AIVM offloads execution to high-performance nodes. Models are run in secure environments. Cryptographic correctness verification. Hardware attestation confirms the trustworthiness of the node.
 
 This path powers LLMs, computer vision systems, dynamic pricing engines, and simulation-heavy agents. It maintains performance. It preserves trust. And it logs every operation’s outcome and proof on-chain for permanent reference.
 
@@ -139,7 +139,7 @@ By combining these two paths, AIVM solves the blockchain/AI performance paradox,
 
 Most AI systems today are opaque. Users must trust that the output is accurate. They have no way to verify it. AIVM replaces trust assumptions with verifiable execution, secured through a multi-layered framework.
 
-Cryptographic proofs mathematically validate model outputs. Hardware attestation confirms secure, isolated execution environments. Multi-party verification introduces redundancy as multiple validators cross-check results. And the blockchain stores every proof, creating an immutable audit trail.
+Cryptographic proofs mathematically verify model outputs. Hardware attestation confirms secure, isolated execution environments. Multi-party verification introduces redundancy as multiple validators cross-check results. And the blockchain stores every proof, creating an immutable audit trail.
 
 This structure replaces black-box assumptions with provable guarantees. It ensures users no longer have to rely on vendor reputation alone. Trust becomes technical, not transactional.
 
@@ -197,7 +197,7 @@ This means AIVM models can inform Web3 apps. They can enhance DeFi, DAOs, and ev
 
 #### 5.5 Developer Experience: Building the Future
 
-AIVM is designed to be developer-first. It provides SDKs, APIs, templates, and comprehensive documentation. Builders can use CLI tools or dashboards. They can build dApps, AI modules, or integrations.
+AIVM is designed to be developer-first. It provides CLIs, SDKs, APIs, templates, and comprehensive documentation. Builders can use CLI tools or dashboards. They can build dApps, AI modules, or integrations.
 
 Pre-built components speed up development. Flexible interfaces support Web3-native or traditional apps. Whether you’re writing smart contracts or shipping APIs, AIVM is built to meet you where you are.
 
@@ -225,7 +225,7 @@ AIVM’s architecture transforms decentralized AI execution from theory to imple
 
 #### 6.1 Core Execution Framework
 
-AIVM uses a dual-path execution model optimized for AI task diversity. Simple models run directly on-chain via the Direct State Model (DSM). Complex models execute off-chain under the Parametric Execution Model (PEM). DSM stores and executes AI models fully within smart contracts, subject to block gas and storage limits. On-chain executions are optimized through quantization, pruning, and distillation to meet blockchain constraints. PEM routes heavier models to secure enclaves where execution proofs are generated. These cryptographic proofs validate model correctness without re-executing computations. Results, proofs, and attestation metadata are immutably recorded on-chain.
+AIVM uses a dual-path execution model optimized for AI task diversity. Simple models run directly on-chain via the Direct State Model (DSM). Complex models execute off-chain under the Parametric Execution Model (PEM). DSM stores and executes AI models fully within validator nodes, subject to block gas and storage limits. On-chain executions are optimized through quantization, pruning, and distillation to meet blockchain constraints. PEM routes heavier models to secure enclaves where execution proofs are generated. These cryptographic proofs validate model correctness without re-executing computations. Results, proofs, and attestation metadata are immutably recorded on-chain.
 
 DSM supports fully transparent operations suited for lightweight inference models. PEM supports complex, performance-intensive models like LLMs and computer vision pipelines. Both models guarantee traceability, immutability, and public verifiability of AI executions within the AIVM environment.
 
@@ -313,7 +313,7 @@ Successful AIVM applications often follow specific technical patterns. Verified 
 
 ### 8. Tokenomics & Economic Model
 
-The AIVM token economy is designed to align incentives across participants, sustain network operations, and facilitate efficient resource allocation. Token utility derives directly from platform usage and core infrastructure requirements.
+The AIVM token economy (powered by $CGPT) is designed to align incentives across participants, sustain network operations, and facilitate efficient resource allocation. Token utility derives directly from platform usage and core infrastructure requirements.
 
 #### 8.1 Token Utility and Value Capture
 
@@ -321,22 +321,20 @@ The AIVM token has four primary functions: staking, transaction fees, governance
 
 * **Staking** secures network operations at two levels. Core Validators stake tokens to participate in consensus and receive block rewards. Specialized Validators for AI, Compute, and Data operations stake tokens as security deposits against misbehavior. Delegators can delegate tokens only to Core Validators, earning a share of validation rewards without operating infrastructure.
 * **Transaction fees** are payable exclusively in the platform token. Basic transaction fees apply to operations such as token transfers and governance actions. AI execution fees vary with computational complexity, while storage fees cover on-chain storage of models, proofs, and metadata. Cross-chain operation fees apply to interactions with external blockchain ecosystems.
-* **The token** enables governance participation by requiring deposits for proposal submissions and proportional voting rights based on staked amounts. Governance can adjust key network parameters, including fee distribution ratios, inflation rates, and validator slashing penalties.
+* **The token** enables governance participation by requiring deposits for proposal submissions and proportional voting rights based on staked amounts. Governance can adjust key network parameters, including fee distribution ratios, and validator slashing penalties.
 * In the **resource marketplace**, the token serves as the medium for compute resource payments, model usage fees, and data access compensation. Marketplace payments create a direct link between resource consumption and token demand.
 
 {% hint style="info" %}
-Value accrual is driven by transaction fees flowing into validator rewards, delegator rewards, the community pool, and the treasury. A dynamic minimum fee algorithm adjusts base transaction fees based on network utilization, maintaining cost-efficiency during normal conditions and protecting against spam during congestion. Resource marketplaces operate through auction-based matching systems that prioritize providers based on price, capability, and reputation.
+Value accrual is driven by transaction fees, which will be used to incentivize network participants. A dynamic minimum fee algorithm adjusts base transaction fees based on network utilization, maintaining cost-efficiency during normal conditions and protecting against spam during congestion. Resource marketplaces operate through auction-based matching systems that prioritize providers based on price, capability, and reputation.
 {% endhint %}
 
 #### 8.2 Economic Flow Dynamics
 
-Economic flows within AIVM involve users paying transaction fees and resource costs, validators distributing rewards to delegators, protocol-driven inflation subsidizing security, and the community pool funding ecosystem development.
+Economic flows within AIVM involve users paying transaction fees and resource costs, rewards distributed to validators and delegators by the network, protocol-driven incentivize mechanisms subsidizing security, and the community pool funding ecosystem development.
 
 Settlement mechanisms optimize transaction throughput. Batched settlements aggregate payments to reduce on-chain load, while off-chain payment channels handle high-frequency microtransactions with periodic reconciliation. Cross-chain settlement enables users to interact with AIVM using assets bridged from external ecosystems.
 
 Marketplace pricing uses a dynamic auction mechanism that adjusts to supply and demand, factoring reputation into match prioritization. This creates efficient resource allocation and incentivizes reliable provider behavior.
-
-Network equilibrium is maintained through elastic inflation tied to staking participation rates, optional fee-burning mechanisms to manage supply during high-growth phases, and dynamic resource pricing that adapts to load conditions.
 
 #### 8.3 Technical Integration with Existing Systems
 
@@ -344,13 +342,13 @@ Cross-chain interoperability is achieved through native IBC token transfers with
 
 For enterprise users, fiat on-ramp APIs simplify token acquisition, treasury management tools assist with operational integration, and predictable pricing packages offer budgetary certainty. These systems facilitate enterprise adoption without altering the core token-based architecture.
 
-Decentralized oracles provide real-time price feeds for the AIVM token, enabling accurate valuation against fiat currencies and benchmarking against traditional cloud compute providers. Inflation data feeds inform governance decisions on economic parameters.
+AIVM integrates with decentralized oracle networks to stream real-time data that underpins its economy: live price feeds against major fiat and crypto pairs, cost benchmarks versus traditional cloud-compute providers, and macro metrics such as inflation. These feeds enable accurate token valuation, cross-currency operations, and data-driven governance of economic parameters.
 
 #### 8.4 Economic Sustainability Mechanisms
 
 Resource marketplace scaling is supported by targeted incentives. Early providers benefit from initial reward multipliers, reliable providers receive premium reputation-based bonuses, and specialized hardware operators gain access to higher-value workloads.
 
-Governance retains control over key economic parameters including fee splits, inflation schedules, minimum transaction fees, and validator slashing penalties. Parameter flexibility allows the system to respond to evolving network conditions without external intervention.
+Governance retains control over key economic parameters including fee splits, reward schedules, minimum transaction fees, and validator slashing penalties. Parameter flexibility allows the system to respond to evolving network conditions without external intervention.
 
 Long-term token value growth is driven by increased network usage, expanded marketplace activity, and verifiable AI operations, not speculative incentives. Token demand scales naturally with platform adoption, maintaining alignment between ecosystem growth and token utility.
 
