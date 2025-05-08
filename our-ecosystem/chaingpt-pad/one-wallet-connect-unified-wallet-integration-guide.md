@@ -1,5 +1,6 @@
 ---
-description: Get started with connecting your wallet to ChainGPT Pad!
+description: Connect your wallet with ease to ChainGPT Pad!
+hidden: true
 ---
 
 # One Wallet Connect - Unified Wallet Integration Guide
@@ -8,77 +9,103 @@ description: Get started with connecting your wallet to ChainGPT Pad!
 
 Our unified wallet integration significantly simplifies and enhances user accessibility to Initial DEX Offerings (IDOs) across multiple blockchain networks, including Solana and various EVM-compatible chains.&#x20;
 
-This integration addresses common user pain points by eliminating the need to manage multiple wallets simultaneously. Now, users can independently connect their Solana or EVM wallet based on the pool they're interacting with.
+This integration addresses common user pain points by eliminating the need to manage multiple wallets or complex connection procedures. Users can effortlessly connect to pools on their desired blockchain network, streamlining the entire process from wallet selection to participation.
 
-The biggest improvement is with Solana: users no longer need to have both wallets connected. Once a Solana wallet is linked to an EVM wallet via the user profile, users can fully interact with Solana pools using only their Solana wallet.
-
-Below, you can find the necessary steps to get started on [ChainGPT Pad](https://app.gitbook.com/u/vt7ouO7Toga7R4fjv601TLYsQCx2) with Solana.
-
-**Please note**: If you don’t have a ChainGPT account, please set one up and return to this guide.
+Additionally, the integration features robust support for WalletConnect, enabling users to connect seamlessly via their mobile wallets. By providing clear guidance, streamlined functionality, and an intuitive user experience, we are making IDOs and decentralized finance (DeFi) more accessible, inclusive, and user-friendly for everyone.
 
 
 
-### Step 1 - Connect your wallet
+### Steps to Connect Your Wallet
 
-Head over to ChainGPT Pad. In the top right corner, click “**Connect Wallet**”.&#x20;
+**Step 1: Select Blockchain Network**
 
-<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdXB-VoPc1Z12YR5ThYEzEJhVf7tPj4fPVtZ1KcT8-uw4UdEO8Mbkvece38lGrGlUKNPRVXRdlZN1JRnZs6qUAFwF06yysJiSHuHkiZ7q1Cjhxj5iZNtxjTi__FR6HFhZuUPWVKuQ?key=6LnOTJypQT-70kHu9TDQiOH5" alt=""><figcaption></figcaption></figure>
+Choose the blockchain network you're participating in:
 
-A wallet connect window will pop up; click your preferred EVM wallet and ensure you choose Ethereum as your network.
+* EVM Networks: Ethereum, BNB Chain, Polygon, Avalanche, Arbitrum, Base, etc.
+* Solana Network: For all Solana-based pools.
 
-<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcPJECzzj_UPpVD6deqMwPdtwymdOIbER83pldHawu5swIBUI68AxyfFXFXSKlyjP05jlkYwE9NqSs0ErPpm8EEq-JIhl7rnLZ552z0asoQB2G_umH67Xhlq7es7eJCzhfYovkDQQ?key=6LnOTJypQT-70kHu9TDQiOH5" alt=""><figcaption></figcaption></figure>
+Select the correct network based on your intended interaction.
 
-A window from your wallet will appear. After you ask to connect, click “**Connect**” and sign the signature.
+<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXe7AhIiuDZlp5QgU6D4SmQnKToO08LXnbO81iaJGo6sZw_psjXe7tHWxnNs3zqOpK8eNQ16lnPfUHVAsmxMs2LTe9U2nI2aav5zlX-swvvjyUF_LAb3D5zQMA_rlgP6eIG9M1isiw?key=6LnOTJypQT-70kHu9TDQiOH5" alt=""><figcaption></figcaption></figure>
 
-You will now be logged into ChainGPT Pad.&#x20;
+<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXetc-CyySGwjJi88ZHJH04OxQcq_dX0ea539w0PQkAXg5lPaHGHt5-gsTw_L9rTWQdvT8NNnOYAChj7G5C7pYhcWnKukfUlAAY7lVQ-1IXat34wTGA0gsGfmFVPiO1zlZ_21fA-nA?key=6LnOTJypQT-70kHu9TDQiOH5" alt=""><figcaption></figcaption></figure>
+
+**Step 2: Connect Your Wallet**
+
+1. Once you've selected your preferred blockchain network, click the “Connect Wallet” button to begin the connection process.
+
+<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXd-d2JO0Dse3VjBjm0SzPi3TpD1aj4WtnINw7584vKJo3kXlSDmIvsCQ1MmH0IFWRs8eeZYgvtJKnCJXnWZfPbadc3mJ2gcwoRZgGD8vKKHgZtX_Aref4lss75ffckcgosj-jFHeA?key=6LnOTJypQT-70kHu9TDQiOH5" alt=""><figcaption></figcaption></figure>
+
+2. A wallet selection modal will appear, giving you a few connection options:
+
+Choose your preferred wallet (MetaMask for EVM, Phantom or Solflare for Solana, or another wallet via WalletConnect).
+
+<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcOV1zXxw-sFU2zzaYJPxR-ul9rnFykSSMJcUZ0pWfzD_SO3PhzrHodnaczsE6z-0XZ-29iXzZgBtXSHjRAF4I9gRUZ77UZiPGFwsvskmn0_wYZi-FRGe1qLDi21CArRVGXa7aLnQ?key=6LnOTJypQT-70kHu9TDQiOH5" alt=""><figcaption></figcaption></figure>
+
+3. If using WalletConnect, scan the provided QR code with your mobile wallet.
+
+<figure><img src="../../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
+
+4. Confirm acceptance of the Terms of Service and Privacy Policy.
+
+<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXecU6WAtgsNNnFvqaZ_7Zthk-ZcHJ503wyqHcTYBo8qCraMRq0yPzCinC-2rSf4BnWHm5SggLTfPDbg3IMINKmhFsdTdoARrxO1u6Q4ptDp4o1mxCxitR04fTtZqzOUlhZMs3IBjw?key=6LnOTJypQT-70kHu9TDQiOH5" alt=""><figcaption></figcaption></figure>
+
+After selecting a wallet, you'll be prompted to choose a network:
+
+* Selecting Ethereum will connect your EVM wallet.
+* Selecting Solana will connect your Solana wallet.
+
+<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXevVwg7nf46M43YJ0-xK2V8bolWhGQpse-6kOfBpb71bbWAoSHA2gqW7SmDcyeRsxVXimNj5g9NYpHZzmrM5xzqRrnwYOMRnccPTd1diodfKVuLovL5-WwR-AAld2AlXHeCMUl1hQ?key=6LnOTJypQT-70kHu9TDQiOH5" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXerCIstvw2bOPQnVBQ2VJjVF1kINCHbYA8HqzVdr5nd5FSjq3g2ezu_1EEfv9e1hf1StTRhXZjSD5lmMsb9-bdCdN5zBuSJ3k3uNiDS7dKGaJuzHtewvcmS6Xcmwc3ptQ1WbczO2A?key=6LnOTJypQT-70kHu9TDQiOH5" alt=""><figcaption></figcaption></figure>
+
+### Additional Wallet Actions
+
+#### Switch Network
+
+After connecting your wallet, you can switch to a different network at any time using the network selector in the header.
+
+For example:
+
+* If you're connected to Ethereum but want to use BNB Chain or Polygon, simply switch to your desired EVM-compatible network.
+* If you're using a Solana wallet, you can continue using it across all Solana-based pools.
+
+Simply use the network selector in the header to change the active chain.
+
+<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeLlIJ8nR7vXeP8m9r9gJbhLPTvSSAg9CCZTBFii2ijYhsdptjrGNBngdOXpEKs1shzNZikWZWCItIGsksBAYFB-29WADa86wOUVfVY3uWLfMPifP9W9awFMcZOfBOg-5dlwIkE4g?key=6LnOTJypQT-70kHu9TDQiOH5" alt=""><figcaption></figcaption></figure>
+
+#### View or Disconnect Your Wallet
+
+Once your wallet is connected, your wallet address will appear in the header.
+
+<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcNTkLyb-2Sb-WYuTJyp--RUeJbKWLcwGjFchYmscGTBOVP67uqUfKThDKFqU9LkLd9Pp5F5CCZI2Kyfz4tdWP8tEbdJo8MKD8sPzp1zjUKUdHyvgiItvXDuPamPkwQzrBYoQaXLA?key=6LnOTJypQT-70kHu9TDQiOH5" alt=""><figcaption></figcaption></figure>
+
+Clicking on your wallet address opens a modal with wallet details, where you can:
+
+* View your connected wallet information
+* Disconnect your wallet at any time with a single click
+
+<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXc322tOMiFk11Pn8ad_rS2pl2MSBRWy3BH9m5ktVWLW5e3eWNaQaQ1e4SlDslHL75ZuuNHnjORMwj8eukcYufDcbYFplOuxL7tbbg67sajxcTS3XBsltnhWMCdBa8VRYZYZGwYZ?key=6LnOTJypQT-70kHu9TDQiOH5" alt=""><figcaption></figcaption></figure>
+
+This unified approach provides simplicity, flexibility, and clarity, ensuring seamless participation across different blockchain pools.
+
+***
+
+\
+For more guidance on setting up your profile for Solana based IDO events on ChainGPT Pad, please visit the "Solana IDO Paritcipation" - Guide listed below:
 
 
 
-### Step 2 - Linking Solana&#x20;
-
-You now want to navigate to your ChainGPT Pad profile by clicking the person icon at the top right corner.&#x20;
-
-<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXd7FJUCH4s4PlBdGeAVvDk_lYF2AHJsSX3bwG7Ehn9KhUQeqhh-XAbXiJXNz-QlveKLS4cBGPlEv_ESKK7fbydsFXLj1cWL3WrCxtr5d8NZEbJB8oBkQCI5ruIEF2oIVKLO6zf9Eg?key=6LnOTJypQT-70kHu9TDQiOH5" alt=""><figcaption></figcaption></figure>
-
-Once in your profile, click “**Profile Settings**”. On the right-hand side, you will see the “Wallets” section.&#x20;
-
-<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdudgkkCC35P7Fn5u36UKGbIbPST3GlB0yCLw9c3QjE4I-5rLWqpU_YVtAarDrXqfDwbOHc3jdtOV5veizdQD4pLlOLLGVVOrjlBqdgXjfXmtV96Fr57vMetfA78r0YplqWFaZR?key=6LnOTJypQT-70kHu9TDQiOH5" alt=""><figcaption></figcaption></figure>
-
-At the top, you should have the option to connect your Solana wallet. Click “**Connect Solana Wallet**”.
-
-<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdqRyeqjUQjUJZINfje4nyipDtOv5bJgpFknk0W1sNDe7nU0VkYpO5KKn8LppJnWe8CMpqXjssXa3ytQORdBU0GG-9q6x7aWksgwwFhOuyv1nIESgdt4sWBLjGhwZ_-okSjgYea?key=6LnOTJypQT-70kHu9TDQiOH5" alt=""><figcaption></figcaption></figure>
-
-A drop-down will appear, showing the address associated with your Solana Wallet. Click “Link Solana Wallet”.&#x20;
-
-<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcJlk-kST7da2vIbgCBD-Yz9iCrhN8dyvfUjGyVusfY5nuJPQ37ktawpOTwRdOoea8XCqJUhjjOkWFn2TV5d6jQcJHFF2TCRBjRzhKDZBxqzonoR158BW4ITWjuhtC0-RlKw4DC?key=6LnOTJypQT-70kHu9TDQiOH5" alt=""><figcaption></figcaption></figure>
-
-Sign the transaction in MetaMask and ensure the address matches yours correctly.
-
-<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcCdMlbxV830clyVkwS8OM59cTyj77H2YFCleqKVE_JR3kJvVO-sXXk7lAUrbANg25Va-YToL-oyx6aFd4nw9OZtLULshdQlK-MbBFOnoCToM4SIKFpmRF92A5tiS-UV7i0tAUJhQ?key=6LnOTJypQT-70kHu9TDQiOH5" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXf8FsXm38Z-lUy9xJPUzfi7z2r8WQGYj8FtjKcxMBZaLuxiR24Zz0aL6KfVTtdAsJfvwXs4NuxEGAFchu-Yc79TEHX_wzQRopCYnpbtMnNvbx1gVDZjHpFdDy0VNIR74n_JkQJQug?key=6LnOTJypQT-70kHu9TDQiOH5" alt=""><figcaption></figcaption></figure>
-
-You have now successfully linked your Solana wallet with your EVM. You are also able to connect up to three Solana wallets per ChainGPT Pad profile
+{% content-ref url="../../the-ecosystem/chaingpt-pad/solana-ido-participation-guide/" %}
+[solana-ido-participation-guide](../../the-ecosystem/chaingpt-pad/solana-ido-participation-guide/)
+{% endcontent-ref %}
 
 
 
-### Step 3 - Getting Involved with Solana Pools
+### Need Some Assistance?&#x20;
 
-You’re now fully connected. The next thing you want to do is get involved with the Solana pools on ChainGPT Pad.
+For more details, visit ChainGPT Pad's site or reach out to the support team for assistance.
 
-Firstly, log out of your EVM wallet by clicking on the address at the top right corner. A box will appear; click “**Disconnect**.”&#x20;
+Official site: [https://pad.chaingpt.org/](https://pad.chaingpt.org/)
 
-<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdwyKmSQDu2lSfKVQXDg2ycqJsuhTW4QsioY125lOeON_L6_XxATGxLDBj_UFyHw6QKjGgJXwMh_pbW5ZDHvNbH-z4odfj4IXiMfZo_d3vB80W2qlKsIYAHQ8JE-Khm9C_Rgrpg-Q?key=6LnOTJypQT-70kHu9TDQiOH5" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcroTEnr_0NHxiqK6OKwr2gzqi6REtmKvuSIjP7qh_prWG6ob7pKsGIDz8KVcxH6a7qNnTEopw4nNLKPs6bvpuLi96XTrN64y2dDQu6LkrwdK8odq0BkeaCcqGJsXOpB5XpPWQ5?key=6LnOTJypQT-70kHu9TDQiOH5" alt=""><figcaption></figcaption></figure>
-
-Switch from Ethereum to Solana. Then click “**Connect** **Wallet**” and choose your Solana-based wallet. Select Solana as the chain for your wallet.&#x20;
-
-You are now ready to get involved with Solana pools and claim your tokens! \
-
-
-Only once all the steps above are completed can you begin participating in IDOs and claiming tokens on ChainGPT Pad.&#x20;
-
-If you have any questions, you can reach out to us on the official [**ChainGPT Telegram channel**](https://t.me/ChainGPT).&#x20;
+Telegram support: [https://t.me/ChainGPT](https://t.me/ChainGPT)\

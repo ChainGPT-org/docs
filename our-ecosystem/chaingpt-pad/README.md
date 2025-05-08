@@ -40,8 +40,8 @@
 [delegate-staking-functionality.md](delegate-staking-functionality.md)
 {% endcontent-ref %}
 
-{% content-ref url="one-wallet-connect-unified-wallet-integration-guide.md" %}
-[one-wallet-connect-unified-wallet-integration-guide.md](one-wallet-connect-unified-wallet-integration-guide.md)
+{% content-ref url="one-wallet-connect-unified-wallet-integration-guide-1.md" %}
+[one-wallet-connect-unified-wallet-integration-guide-1.md](one-wallet-connect-unified-wallet-integration-guide-1.md)
 {% endcontent-ref %}
 
 {% content-ref url="faq.md" %}
