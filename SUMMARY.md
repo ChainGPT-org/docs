@@ -87,7 +87,8 @@
   * [API Reference](dev-docs-b2b-saas-api-and-sdk/ai-crypto-news-api-and-sdk-and-rss/api-reference.md)
   * [SDK Reference](dev-docs-b2b-saas-api-and-sdk/ai-crypto-news-api-and-sdk-and-rss/sdk-reference.md)
   * [RSS Reference](dev-docs-b2b-saas-api-and-sdk/ai-crypto-news-api-and-sdk-and-rss/rss-reference.md)
-* [AgenticOS Framework: Web3 AI Agent on X (Open-Source)](dev-docs-b2b-saas-api-and-sdk/agenticos-framework-web3-ai-agent-on-x-open-source.md)
+* [AgenticOS Framework: Web3 AI Agent on X (Open-Source)](dev-docs-b2b-saas-api-and-sdk/agenticos-framework-web3-ai-agent-on-x-open-source/README.md)
+  * [Twitter\_Developer\_Account\_Setup](dev-docs-b2b-saas-api-and-sdk/agenticos-framework-web3-ai-agent-on-x-open-source/twitter_developer_account_setup.md)
 * [Developer Support](dev-docs-b2b-saas-api-and-sdk/developer-support.md)
 
 ***

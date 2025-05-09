@@ -13,7 +13,7 @@ This guide will help you start building with ChainGPT’s suite of Web3 AI tools
 3. Navigate to the API Keys section and click "Create New Secret Key".
 4.  Customize your API key based on your company's needs & use-cases (optional)
 
-    <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 5. Store your API key securely in an environment variable or secret manager. Do not expose it in frontend code.
 6. Ensure your account has sufficient credits. Credits can be purchased through the dashboard using Crypto, $CGPT or credit cards (fiat).
 
@@ -26,7 +26,7 @@ This guide will help you start building with ChainGPT’s suite of Web3 AI tools
 * [Smart-Contracts Generator - QuickStart Guide](smart-contracts-generator-api-and-sdk/quickstart-guide.md)
 * [Smart-Contracts Auditor - QuickStart Guide](smart-contracts-auditor-api-and-sdk/quickstart-guide.md)
 * [Web3 AI News Generator - QuickStart Guide](ai-crypto-news-api-and-sdk-and-rss/quickstart-guide.md)
-* [AgenticOS AI Agent Framework - QuickStart Guide](agenticos-framework-web3-ai-agent-on-x-open-source.md#quick-start-guide)
+* [AgenticOS AI Agent Framework - QuickStart Guide](agenticos-framework-web3-ai-agent-on-x-open-source/#quick-start-guide)
 
 ***
 
@@ -86,8 +86,8 @@ Explore each API and SDK dev docs in detail:
 [ai-crypto-news-api-and-sdk-and-rss](ai-crypto-news-api-and-sdk-and-rss/)
 {% endcontent-ref %}
 
-{% content-ref url="agenticos-framework-web3-ai-agent-on-x-open-source.md" %}
-[agenticos-framework-web3-ai-agent-on-x-open-source.md](agenticos-framework-web3-ai-agent-on-x-open-source.md)
+{% content-ref url="agenticos-framework-web3-ai-agent-on-x-open-source/" %}
+[agenticos-framework-web3-ai-agent-on-x-open-source](agenticos-framework-web3-ai-agent-on-x-open-source/)
 {% endcontent-ref %}
 
 {% hint style="info" %}

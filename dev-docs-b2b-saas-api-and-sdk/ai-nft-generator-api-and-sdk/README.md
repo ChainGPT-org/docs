@@ -18,7 +18,7 @@ ChainGPT’s **AI NFT Generator** is a full-stack API and SDK for creating, mint
 
 ### How It Works
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (1).png" alt="" width="403"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="403"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 _**High-level workflow:** the AI NFT Generator handles everything from prompt to minting._

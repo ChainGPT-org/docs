@@ -40,8 +40,8 @@ ChainGPT provides cutting-edge AI infrastructure designed specifically for Web3 
 
 * **AgenticOS (Open-source AI Agent for X/Twitter):** AgenticOS lets you launch powerful, real-time AI agents on X that track Web3 trends, analyze crypto markets, and report key events—fully open-source and customizable for your brand.
 
-{% content-ref url="agenticos-framework-web3-ai-agent-on-x-open-source.md" %}
-[agenticos-framework-web3-ai-agent-on-x-open-source.md](agenticos-framework-web3-ai-agent-on-x-open-source.md)
+{% content-ref url="agenticos-framework-web3-ai-agent-on-x-open-source/" %}
+[agenticos-framework-web3-ai-agent-on-x-open-source](agenticos-framework-web3-ai-agent-on-x-open-source/)
 {% endcontent-ref %}
 
 * **Launchpad Whitelabel Solution**: Customized and secure token launchpad solution.

@@ -31,12 +31,12 @@ AgenticOS is an open-source AI agent that autonomously generates and posts tweet
 
 Before you begin, ensure you have the following:
 
-* **Bun runtime** (v1.0+). Bun is used to run and build the project.
-* **Node.js** (Latest LTS) and npm, for auxiliary tools like generating tokens (if needed).
-* **Twitter API credentials:** A Twitter Developer Project with OAuth 2.0 Client ID and Client Secret. (For free Twitter API accounts, note the 280-character tweet limit or consider a paid tier for longer content.)
-* **ChainGPT API Key:** Needed to call the ChainGPT APIs. (Each generated tweet consumes 1 ChainGPT credit.)
-* **ChainGPT API credits:** Ensure your ChainGPT account has sufficient credits (purchase if necessary, as each tweet uses 1 credit).
-* **Encryption key & IV:** A 32-character key, a salt, and an initialization vector (IV) for encrypting your Twitter tokens.
+* [**Bun runtime**](https://bun.sh/) (v1.0+). Bun is used to run and build the project.
+* [**Node.js**](https://nodejs.org/en) (Latest LTS) and npm, for auxiliary tools like generating tokens (if needed).
+* **Twitter API credentials:** A Twitter Developer Project with OAuth 2.0 Client ID and Client Secret. [Generation Guide](https://app.gitbook.com/o/isSMm3D18DgdZJzYQLAF/s/02IMVe3hN17zPTDRhn1f/~/changes/609/dev-docs-b2b-saas-api-and-sdk/agenticos-framework-web3-ai-agent-on-x-open-source/twitter_developer_account_setup).
+* **ChainGPT API Key:** Needed to call the ChainGPT APIs. (Each generated tweet consumes 1 ChainGPT credit.) ([Get one here](https://app.chaingpt.org/apidashboard))
+* **ChainGPT API credits:** Ensure your ChainGPT account has sufficient credits (purchase if necessary, as each tweet uses 1 credit). ([Purchase credits](https://app.chaingpt.org/addcredits))
+* **Encryption key & IV:** A 32-character key, a salt, and an initialization vector (IV) for encrypting your Twitter tokens. ([Get Keys](https://chaingpt-org.github.io/AgenticOS/))
 
 **Obtaining a ChainGPT API key and credits:** To get an API key, go to the ChainGPT API Dashboard and log in with your crypto wallet. Create a new API key and securely save the provided secret phrase (your API key). Then visit the ChainGPT Credits page to purchase credits for API usage (each tweet generation will consume one credit).
 
@@ -85,11 +85,21 @@ ENCRYPTION_SALT=your_hex_encryption_salt         # encryption salt (hex string)
 ENCRYPTION_IV=your_hex_initialization_vector     # encryption IV (hex string)
 
 CHAINGPT_API_KEY=your_chaingpt_api_key           # ChainGPT API key for LLM & webhooks
+
+PASSWORD_AUTH=your_secure_password               # API Authentication Password
 ```
 
 {% hint style="info" %}
 **Note:** The `ENCRYPTION_KEY`, `ENCRYPTION_SALT`, and `ENCRYPTION_IV` are used to encrypt your Twitter OAuth tokens at rest. Make sure to choose secure values and keep them private. The `PORT` can be adjusted if needed (default 8000), and `NODE_ENV` can be set to `production` when deploying.
 {% endhint %}
+
+### 🔐 Generate Encryption Keys
+
+
+
+[![🔐 Generate New Keys](https://camo.githubusercontent.com/70b74bffebdab695cd27178a8fbc586a114dd6cf8d01e6a4527f2f17c79373cb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2546302539462539342539305f47656e65726174655f4e65775f4b6579732d436c69636b5f486572652d626c75653f7374796c653d666f722d7468652d6261646765)](https://chaingpt-org.github.io/AgenticOS)&#x20;
+
+> Click the button above to generate secure encryption keys for your .env file
 
 #### Step 3: Build and start the server
 
@@ -108,164 +118,21 @@ The server will start listening (by default on port 8000). You are now ready to 
 
 To allow your agent to tweet from your Twitter account, you need to obtain an OAuth 2.0 access token and refresh token for your Twitter account. AgenticOS uses OAuth 2.0 with PKCE for authentication.
 
-**Prerequisites:** Ensure you have a Twitter Developer App set up with OAuth 2.0 (with read and write permissions). In your Twitter app’s settings, add a callback URL (for example, `http://localhost:8000/callback`) and note down your Client ID and Client Secret.
+**Prerequisites:** Ensure you have a Twitter Developer App set up with OAuth 2.0. [Follow this guide](https://app.gitbook.com/o/isSMm3D18DgdZJzYQLAF/s/02IMVe3hN17zPTDRhn1f/~/changes/609/dev-docs-b2b-saas-api-and-sdk/agenticos-framework-web3-ai-agent-on-x-open-source/twitter_developer_account_setup)
 
-You can use the following Express.js script to perform the OAuth 2.0 authorization flow and retrieve your tokens:
+To generate your Access Token and Refresh Token, open the following URL in your browser:
 
-```typescript
-import express from "express";
-import axios from "axios";
-import crypto from "crypto";
-import querystring from "querystring";
-import session from "express-session";
-import { Buffer } from "buffer";
+<pre class="language-typescript"><code class="lang-typescript"><strong># Access token Refresh Token Generator
+</strong>   https://your-domain.com/api/login
+</code></pre>
 
-// Type definitions for convenience
-type Request = express.Request;
-type Response = express.Response;
+{% hint style="info" %}
+&#x20;Make sure to replace your-domain.com with your actual deployed domain (to deploy you can refer to "Deployment on Render" section).
+{% endhint %}
 
-declare module "express-session" {
-  interface Session {
-    codeVerifier: string;
-  }
-}
+**Now, open your browser and go to** `https://your-domain.com/api/login`. You’ll be redirected to Twitter’s authorization page. Log in and authorize the app. After authorization, you’ll be redirected to `https://your-domain.com/api/login/callback`.
 
-interface TwitterTokens {
-  access_token: string;
-  refresh_token: string;
-}
-
-// Configuration – replace with your Twitter app credentials
-const config = {
-  clientId: "your_twitter_client_id",       // Twitter OAuth2 Client ID
-  clientSecret: "your_twitter_client_secret", // Twitter OAuth2 Client Secret
-  redirectUri: "http://localhost:8000/callback", // Must match callback in Twitter app settings
-  port: 8000,
-  sessionSecret: "your_session_secret",     // Session secret for Express (use a random string)
-};
-
-const app = express();
-
-// Session middleware to store the PKCE code verifier between requests
-app.use(
-  session({
-    secret: config.sessionSecret,
-    resave: false,
-    saveUninitialized: true,
-  })
-);
-
-// Generate PKCE code verifier and challenge
-const generatePKCE = (): { codeVerifier: string; codeChallenge: string } => {
-  const codeVerifier = crypto.randomBytes(32).toString("base64url");
-  const codeChallenge = crypto
-    .createHash("sha256")
-    .update(codeVerifier)
-    .digest("base64url");
-  return { codeVerifier, codeChallenge };
-};
-
-// Login route – initiates the OAuth flow
-app.get("/login", (req: Request, res: Response) => {
-  const { codeVerifier, codeChallenge } = generatePKCE();
-  const state = crypto.randomBytes(16).toString("hex");
-
-  // Store the code verifier in the session for later
-  req.session.codeVerifier = codeVerifier;
-
-  // Redirect to Twitter's OAuth 2.0 authorization endpoint
-  const authorizationUrl = `https://twitter.com/i/oauth2/authorize?${querystring.stringify({
-    response_type: "code",
-    client_id: config.clientId,
-    redirect_uri: config.redirectUri,
-    scope: "tweet.read users.read tweet.write offline.access",
-    state: state,
-    code_challenge: codeChallenge,
-    code_challenge_method: "S256",
-  })}`;
-  res.redirect(authorizationUrl);
-});
-
-// Callback route – handles Twitter's redirect back to our app
-app.get("/callback", async (req: Request, res: Response) => {
-  const code = req.query.code as string;
-  const codeVerifier = req.session.codeVerifier;
-
-  if (!code || !codeVerifier) {
-    res.status(400).send("Authorization failed: Missing code or verifier");
-    return;
-  }
-
-  // Prepare Basic auth header for Twitter token request
-  const basicAuth = Buffer.from(`${config.clientId}:${config.clientSecret}`).toString("base64");
-
-  try {
-    // Exchange the authorization code for access and refresh tokens
-    const response = await axios.post<TwitterTokens>(
-      "https://api.twitter.com/2/oauth2/token",
-      querystring.stringify({
-        code: code,
-        client_id: config.clientId,
-        client_secret: config.clientSecret,
-        redirect_uri: config.redirectUri,
-        code_verifier: codeVerifier,
-        grant_type: "authorization_code",
-      }),
-      {
-        headers: {
-          "Content-Type": "application/x-www-form-urlencoded",
-          "Authorization": `Basic ${basicAuth}`,
-        },
-      }
-    );
-
-    const { access_token, refresh_token } = response.data;
-    console.log("Access and refresh tokens received:", { access_token, refresh_token });
-    res.send(`Access and refresh tokens received: ${JSON.stringify({ access_token, refresh_token }, null, 2)}`);
-  } catch (error: any) {
-    if (axios.isAxiosError(error)) {
-      res.status(500).send(`Error during the token exchange: ${JSON.stringify(error.response?.data || error.message)}`);
-    } else {
-      res.status(500).send("An unexpected error occurred");
-    }
-  }
-});
-
-// Start the server to listen for OAuth requests
-app.listen(config.port, () => {
-  console.log(`Token generator listening on port ${config.port}`);
-});
-```
-
-Save this code to a file (for example, **`twitter-token-generator.ts`**). Then run it with Node:
-
-```bash
-# Install dependencies for the token generator script
-npm install express axios crypto querystring express-session @types/express @types/express-session ts-node typescript
-
-# Execute the TypeScript file (using ts-node for simplicity)
-npx ts-node twitter-token-generator.ts
-```
-
-Now, open your browser and navigate to `http://localhost:8000/login`. This will redirect you to Twitter’s authorization page. Log in and authorize your app, and after authorization, you will be redirected back to `http://localhost:8000/callback`. The script will display your **access token** and **refresh token** on the page (and log them to the console). Copy these token values for the next step.
-
-_Security tip:_ This token generation script is for development use. In production, ensure you use HTTPS for the redirect URI and secure the client credentials appropriately (do not expose your Client Secret, and use a robust session storage in place of the in-memory session for code verifier).
-
-***
-
-### Adding Twitter tokens to AgenticOS
-
-Once you have obtained your Twitter OAuth tokens, provide them to the running AgenticOS service so it can authenticate with Twitter on your behalf. You can do this by calling the AgenticOS token endpoint:
-
-```shell
-curl -X POST "https://<your-domain>.com/api/tokens" \
-  -H "Content-Type: application/json" \
-  -d '{"accessToken": "<YOUR_ACCESS_TOKEN>", "refreshToken": "<YOUR_REFRESH_TOKEN>"}'
-```
-
-Replace `<YOUR_ACCESS_TOKEN>` and `<YOUR_REFRESH_TOKEN>` with the values you obtained. This adds your Twitter credentials to AgenticOS, allowing it to post tweets. Under the hood, the tokens are encrypted using your encryption key and stored in a `tokens.json` file for security.
-
-After a successful token submission (HTTP 200 response), AgenticOS is connected to your Twitter account and ready to tweet on your behalf.
+&#x20;The page will display your access token and refresh token, along with a password input field. Enter the password you set as `PASSWORD_AUTH` in your `.env` file, then submit. You’ll be redirected to the scheduling and webhook page.
 
 ***
 
@@ -277,21 +144,37 @@ AgenticOS supports multiple workflows for generating and publishing tweets autom
 
 In this workflow, you define a schedule of tweet prompts, and AgenticOS will generate and post tweets at those times every day.
 
+There are two methods to schedule tweets
+
 1.  **Define your schedule:** Edit the `data/schedule.json` file to specify the tweet times (UTC) and prompts. For example:
 
     ```json
     {
-      "14:30": "The future of AI in Web3",
-      "18:00": "Crypto markets update"
+      "05:10": {
+        "type": "market_insight",
+        "instruction": "{{persona}} and excellent at spotting key market movements. Create a tweet (less than {{maxLength}} characters) that's a meme about crypto."
+      },
+      "05:30": {
+        "type": "meme",
+        "instruction": "{{persona}} and excellent at spotting key market movements. Create a tweet (less than {{maxLength}} characters) that's a meme about crypto."
+      }
     }
     ```
 
     In this JSON, each key is a time in 24h UTC format (`"HH:MM"`) and the value is the prompt or topic for the tweet. You can add multiple entries for different times of day.
-2. **Agent generates and posts tweets:** AgenticOS continuously checks this schedule. At each specified time, it uses the prompt to generate a tweet via ChainGPT’s LLM and then publishes the tweet through the Twitter API. No further action is required on your part once the schedule is set; the agent will handle it daily.
+2. **Edit scheduler in dashboard.** You can find dashboard at https://\<your\_domain>/
 
-#### Real-time tweeting via ChainGPT webhooks
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+AgenticOS continuously checks this schedule. At each specified time, it uses the prompt to generate a tweet via ChainGPT’s LLM and then publishes the tweet through the Twitter API. No further action is required on your part once the schedule is set; the agent will handle it daily.
+
+### &#x20;Real-time tweeting via ChainGPT webhooks
 
 This workflow allows your agent to tweet live updates from ChainGPT’s Web3 news service. By subscribing to content categories, your agent will receive webhook events whenever there’s news in those categories and automatically tweet about it.
+
+There are two methods to subscribe to categories and register Webhook.
+
+1. Using following APIs:
 
 **Step 1: Subscribe to news categories.** Use ChainGPT’s API to subscribe your account to the categories you're interested in. First, you can retrieve the list of available categories and see which ones you’re already subscribed to:
 
@@ -316,17 +199,56 @@ Replace the category IDs with the ones you want to subscribe to. (For example, `
 **Step 2: Register your webhook with AgenticOS.** Now that you’ve subscribed to categories, instruct ChainGPT where to send the news updates. Call the AgenticOS webhook registration endpoint to register your server’s webhook URL:
 
 ```shell
-curl -X POST "https://<your-domain>.com/api/webhook/register" \
+curl -X POST https://your-domain.com/api/webhook/register \
+  -H "Authorization: Bearer <PASSWORD_AUTH>" \
   -H "Content-Type: application/json" \
-  -H "api-key: <YOUR_CHAINGPT_API_KEY>" \
-  -d '{"url": "https://<your-domain>.com/api/webhook/"}'
+  -d '{"url": "https://your-domain.com/api/webhook/"}'
 ```
 
-In the JSON body, the `url` should be the public URL where your AgenticOS server is running, pointing to the `/api/webhook/` route. (The trailing slash is expected.) Make sure to include the same ChainGPT API key in the header for authorization.
+In the JSON body, the `url` should be the public URL where your AgenticOS server is running, pointing to the `/api/webhook/` route. (The trailing slash is expected.) Make sure to include the same ChainGPT API key and PASSWORD\_AUTH in the header for authorization.
+
+2. **To use the dashboard, navigate to:** `https://<your_domain>/live-news`
+
+**Register Webhook:**
+
+<figure><img src="../../.gitbook/assets/register-webhook.png" alt=""><figcaption></figcaption></figure>
+
+**Subscribe to categories:**
+
+<figure><img src="../../.gitbook/assets/subscribe-categories.png" alt=""><figcaption></figcaption></figure>
 
 This step registers your webhook URL with ChainGPT’s service. On success, ChainGPT knows it should send news events to your AgenticOS.
 
 **How it works:** After these steps, whenever ChainGPT publishes a news article in any of the categories you subscribed to, it will send an HTTP POST request to your AgenticOS webhook (`/api/webhook`). AgenticOS will receive the event (which includes information or text about the news) and automatically generate a tweet from it and post it to Twitter. This allows your Twitter account to instantly share breaking news in the Web3 space without manual intervention.
+
+***
+
+### 🚀 Deployment on Render
+
+[![Fork on GitHub](https://camo.githubusercontent.com/e6c59aa75bb429684d7dca22cb3dce19ea9f45cee82251f9c803542802c7f5a8/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f726b732f436861696e4750542d6f72672f4167656e7469634f533f7374796c653d736f6369616c)](https://github.com/ChainGPT-org/AgenticOS/fork)
+
+To deploy this application:
+
+1. First, fork this repository using the "Fork" button
+2. Copy your repository URL from the browser's address bar
+3.  Open a new tab and paste this URL:
+
+    ```
+    https://render.com/deploy?repo=YOUR_REPO_URL
+    ```
+
+    Replace `YOUR_REPO_URL` with your repository URL
+
+For example, if your repository URL is `https://github.com/john-doe/AgenticOS`, you would paste:
+
+```
+https://render.com/deploy?repo=https://github.com/john-doe/AgenticOS
+```
+
+4. Configure environment variables as described in the [Configure env section](./#step-2-configure-environment-variables) above
+5. Wait for the deployment to complete. This may take a few minutes.
+6. Once deployed, visit your domain and click on the "Refresh Token" tab in the sidebar to get twitter access and refresh token.
+7. You can schedule tweets in the "Scheduler" tab and add webhooks in the "Live News" page.
 
 ***
 
@@ -336,18 +258,6 @@ Below is a summary of relevant API endpoints in the AgenticOS framework and rela
 
 #### AgenticOS endpoints (your service)
 
-*   **POST `/api/tokens` – Add Twitter OAuth tokens**\
-    Adds your Twitter access and refresh token to AgenticOS for authentication.\
-    **Request body:** JSON with `accessToken` and `refreshToken` fields.\
-    **Example:**
-
-    ```shell
-    curl -X POST "https://<your-domain>.com/api/tokens" \
-      -H "Content-Type: application/json" \
-      -d '{"accessToken": "<YOUR_ACCESS_TOKEN>", "refreshToken": "<YOUR_REFRESH_TOKEN>"}'
-    ```
-
-    On success, returns HTTP 200 and the tokens are stored (encrypted) in the backend. After calling this, the agent can authenticate with Twitter’s API.
 *   **POST `/api/webhook/register` – Register ChainGPT webhook**\
     Registers your AgenticOS instance to receive ChainGPT news webhooks. This endpoint should be called **after** subscribing to categories on ChainGPT.\
     **Request body:** JSON with a single field `url`, which is the fully qualified URL to your AgenticOS `/api/webhook/` endpoint.\
@@ -355,10 +265,10 @@ Below is a summary of relevant API endpoints in the AgenticOS framework and rela
     **Example:**
 
     ```shell
-    curl -X POST "https://<your-domain>.com/api/webhook/register" \
+    curl -X POST https://your-domain.com/api/webhook/register \
+      -H "Authorization: Bearer <PASSWORD_AUTH>" \
       -H "Content-Type: application/json" \
-      -H "api-key: <YOUR_CHAINGPT_API_KEY>" \
-      -d '{"url": "https://<your-domain>.com/api/webhook/"}'
+      -d '{"url": "https://your-domain.com/api/webhook/"}'
     ```
 
     On success, returns HTTP 200 indicating your webhook URL is registered. ChainGPT will subsequently send POST requests to the provided URL when news events occur. (AgenticOS handles incoming webhook requests at `/api/webhook` automatically – you do not need to call `/api/webhook` yourself.)
@@ -425,7 +335,6 @@ AgenticOS is designed with security in mind. Here are important security notes a
 * **OAuth app permissions:** Limit your Twitter app permissions to only what's necessary (for tweeting, you need read and write permissions). Protect your Twitter Developer credentials.
 * **Session and state management:** In the token generation flow, use a secure session secret and consider a robust store for sessions if scaling that part. In production, ensure that the state parameter and PKCE verifier are properly handled to prevent CSRF or authorization code interception.
 * **Error handling:** AgenticOS includes robust error handling. For example, if the token exchange with Twitter fails, the error from Twitter’s API is captured and returned. Ensure you monitor the server logs for any unexpected errors.
-* **Access control:** Only you should know the endpoints to call (like `/api/tokens` and `/api/webhook/register`). If you expose the AgenticOS service publicly, consider adding authentication or secret headers for these endpoints to prevent unauthorized use.
 
 ***
 
