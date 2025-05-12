@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Head of Business Development
 
 Location: Remote
