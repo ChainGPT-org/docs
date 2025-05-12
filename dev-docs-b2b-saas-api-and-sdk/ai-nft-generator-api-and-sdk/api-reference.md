@@ -38,27 +38,45 @@ Use this endpoint to **generate an image from a text prompt** and get the result
 
 **Request Body Parameters:**
 
-<table data-header-hidden><thead><tr><th width="113.9140625"></th><th width="158.32421875"></th><th></th></tr></thead><tbody><tr><td><strong>Parameter</strong></td><td><strong>Type</strong></td><td><strong>Description</strong></td></tr><tr><td><code>prompt</code></td><td>string (required)</td><td>The text prompt describing the image to generate.</td></tr><tr><td><code>model</code></td><td>string (required)</td><td>Identifier of the model to use (e.g. <code>"velogen"</code>, <code>"nebula_forge_xl"</code>, <code>"VisionaryForge"</code>, or <code>"Dale3"</code> for DALL·E 3).</td></tr><tr><td><code>steps</code></td><td>integer (optional)</td><td>Number of refinement passes for image generation. Higher values can yield more detailed images at the cost of longer generation time. Each model supports a range: for example, <em>velogen</em> supports 1–4 steps (default ~2), while <em>NebulaForge XL</em> and <em>VisionaryForge</em> support up to 50 (default ~25). If not provided, a model-specific default is used.</td></tr><tr><td><code>height</code></td><td>integer (required)</td><td>Output image height in pixels. Must be within the model’s supported base resolution range (see Supported Models &#x26; Parameters). Common values are 512 or 768 for base generation, or larger if using enhancement.</td></tr><tr><td><code>width</code></td><td>integer (required)</td><td>Output image width in pixels. Must meet the same constraints as <code>height</code>. (For a square image, use equal width and height, e.g. 512×512 or 1024×1024.)</td></tr><tr><td><code>enhance</code></td><td>string (optional)</td><td>Upscaling option to improve image quality. Allowed values: <code>"original"</code> (no enhancement), <code>"1x"</code> (single enhancement), or <code>"2x"</code> (double enhancement). If omitted or set to <code>"original"</code>, the image is generated at base resolution. Using <code>"1x"</code> or <code>"2x"</code> will upscale the image (up to the model’s enhanced max resolution, e.g. ~1280px or 1920px) at additional credit cost (see Pricing &#x26; Credits).</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="113.9140625"></th><th width="158.32421875"></th><th></th></tr></thead><tbody><tr><td><strong>Parameter</strong></td><td><strong>Type</strong></td><td><strong>Description</strong></td></tr><tr><td><code>prompt</code></td><td>string (required)</td><td>The text prompt describing the image to generate.</td></tr><tr><td><code>model</code></td><td>string (required)</td><td>Identifier of the model to use (e.g. <code>"velogen"</code>, <code>"nebula_forge_xl"</code>, <code>"VisionaryForge"</code>, or <code>"Dale3"</code> for DALL·E 3).</td></tr><tr><td><code>steps</code></td><td>integer (optional)</td><td>Number of refinement passes for image generation. Higher values can yield more detailed images at the cost of longer generation time. Each model supports a range: for example, <em>velogen</em> supports 1–4 steps (default ~2), while <em>NebulaForge XL</em> and <em>VisionaryForge</em> support up to 50 (default ~25). If not provided, a model-specific default is used.</td></tr><tr><td><code>height</code></td><td>integer (required)</td><td>Output image height in pixels. Must be within the model’s supported base resolution range (see Supported Models &#x26; Parameters). Common values are 512 or 768 for base generation, or larger if using enhancement.</td></tr><tr><td><code>width</code></td><td>integer (required)</td><td>Output image width in pixels. Must meet the same constraints as <code>height</code>. (For a square image, use equal width and height, e.g. 512×512 or 1024×1024.)</td></tr><tr><td><code>enhance</code></td><td>string (optional)</td><td>Upscaling option to improve image quality. Allowed values: <code>"original"</code> (no enhancement), <code>"1x"</code> (single enhancement), or <code>"2x"</code> (double enhancement). If omitted or set to <code>"original"</code>, the image is generated at base resolution. Using <code>"1x"</code> or <code>"2x"</code> will upscale the image (up to the model’s enhanced max resolution, e.g. ~1280px or 1920px) at additional credit cost (see Pricing &#x26; Credits).</td></tr><tr><td>style</td><td>string (optional)</td><td>If you include a style, the image will be generated according to the specified style. Available styles are listed below. (<a href="quickstart-guide.md">Listed Styles</a>)</td></tr><tr><td>traits</td><td>Array (optional)</td><td>Traits are an optional array of objects. If provided, images will be generated based on the specified trait ratios. For example, if the array includes two traits—<code>Background</code> with values <code>Heaven</code> (ratio: 20) and <code>Hell</code> (ratio: 60)—and you request 5 images, approximately 1 will use <code>Heaven</code> and 3 will use <code>Hell</code> background.You can adjust traits and ratios to guide image generation accordingly.</td></tr></tbody></table>
 
 **Sample Request:**
 
-```
-curl -X POST "https://api.chaingpt.org/nft/generate-image" \
-     -H "Authorization: Bearer YOUR_API_KEY" \
-     -H "Content-Type: application/json" \
-     -d '{
-           "prompt": "A majestic dragon under a sunset sky",
-           "model": "velogen",
-           "steps": 3,
-           "height": 512,
-           "width": 512,
-           "enhance": "1x"
-         }'
+```bash
+ curl -X POST https://api.chaingpt.org/nft/generate-image \
+  -H "Authorization: Bearer 40bd9f36-526b-447b-b9eb-db66e379ef52" \
+  -H "Content-Type: application/json" \
+  -d '{
+    "prompt": "dragon",
+    "model": "velogen",
+    "enhance": "original",
+    "steps": 3,
+    "height": 512,
+    "width": 512,
+    "style": "cinematic",
+    "traits": [
+      {
+        "trait_type": "Background",
+        "value": [
+          { "value": "Heaven", "ratio": 20 },
+          { "value": "Hell", "ratio": 60 },
+          { "value": "garden", "ratio": 20 }
+        ]
+      },
+      {
+        "trait_type": "contrast",
+        "value": [
+          { "value": "dark", "ratio": 20 },
+          { "value": "light", "ratio": 80 }
+        ]
+      }
+    ]
+  }'
 ```
 
 **Sample Response:**
 
-```
+```json
 {
   "data": [255, 216, 237, ...]
 }
@@ -89,11 +107,11 @@ Use these endpoints to **generate an image intended for NFT minting**. The gener
 
 **Request Body Parameters:**
 
-<table data-header-hidden><thead><tr><th width="152.6015625"></th><th width="152.33203125"></th><th></th></tr></thead><tbody><tr><td><strong>Parameter</strong></td><td><strong>Type</strong></td><td><strong>Description</strong></td></tr><tr><td><code>walletAddress</code></td><td>string (required)</td><td>The blockchain wallet address that will own the minted NFT. This should be a valid address on the target chain (e.g. the user’s wallet).</td></tr><tr><td><code>prompt</code></td><td>string (required)</td><td>The text prompt for image generation (same usage as in the direct image endpoint).</td></tr><tr><td><code>model</code></td><td>string (required)</td><td>The model to use (e.g. <code>"velogen"</code>, <code>"nebula_forge_xl"</code>, <code>"VisionaryForge"</code>, <code>"Dale3"</code>). Supports the same options and constraints as the direct image generation endpoint.</td></tr><tr><td><code>steps</code></td><td>integer (optional)</td><td>Number of generation steps (refinement passes). Defaults to the model’s optimal value if not provided. You may use higher values (up to the model’s max, e.g. 50 for NebulaForge XL/VisionaryForge) to improve quality.</td></tr><tr><td><code>height</code></td><td>integer (required)</td><td>Desired image height in pixels. Must be within the model’s allowed range (e.g. up to 1024 for base generation on NebulaForge XL).</td></tr><tr><td><code>width</code></td><td>integer (required)</td><td>Desired image width in pixels. Must be within the allowed range for the model (same constraints as height).</td></tr><tr><td><code>enhance</code></td><td>string (optional)</td><td>Enhancement/upscaling option (<code>"original"</code> (default),  <code>"1x"</code> or <code>"2x"</code>) for higher resolution output. If provided, the image will be upscaled up to the model’s enhanced max resolution. If omitted, the image is generated at base resolution. (Using enhancement will consume additional credits).</td></tr><tr><td><code>chainId</code></td><td>integer (required)</td><td>Blockchain network ID where the NFT will be minted. Use the <code>/nft/get-chains</code> endpoint to see supported chains and their IDs. For example: <code>1</code> for Ethereum, <code>56</code> for BSC Mainnet, <code>97</code> for BSC Testnet, etc..</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="152.6015625"></th><th width="152.33203125"></th><th></th></tr></thead><tbody><tr><td><strong>Parameter</strong></td><td><strong>Type</strong></td><td><strong>Description</strong></td></tr><tr><td><code>walletAddress</code></td><td>string (required)</td><td>The blockchain wallet address that will own the minted NFT. This should be a valid address on the target chain (e.g. the user’s wallet).</td></tr><tr><td><code>prompt</code></td><td>string (required)</td><td>The text prompt for image generation (same usage as in the direct image endpoint).</td></tr><tr><td><code>model</code></td><td>string (required)</td><td>The model to use (e.g. <code>"velogen"</code>, <code>"nebula_forge_xl"</code>, <code>"VisionaryForge"</code>, <code>"Dale3"</code>). Supports the same options and constraints as the direct image generation endpoint.</td></tr><tr><td><code>steps</code></td><td>integer (optional)</td><td>Number of generation steps (refinement passes). Defaults to the model’s optimal value if not provided. You may use higher values (up to the model’s max, e.g. 50 for NebulaForge XL/VisionaryForge) to improve quality.</td></tr><tr><td><code>height</code></td><td>integer (required)</td><td>Desired image height in pixels. Must be within the model’s allowed range (e.g. up to 1024 for base generation on NebulaForge XL).</td></tr><tr><td><code>width</code></td><td>integer (required)</td><td>Desired image width in pixels. Must be within the allowed range for the model (same constraints as height).</td></tr><tr><td><code>enhance</code></td><td>string (optional)</td><td>Enhancement/upscaling option (<code>"original"</code> (default),  <code>"1x"</code> or <code>"2x"</code>) for higher resolution output. If provided, the image will be upscaled up to the model’s enhanced max resolution. If omitted, the image is generated at base resolution. (Using enhancement will consume additional credits).</td></tr><tr><td><code>chainId</code></td><td>integer (required)</td><td>Blockchain network ID where the NFT will be minted. Use the <code>/nft/get-chains</code> endpoint to see supported chains and their IDs. For example: <code>1</code> for Ethereum, <code>56</code> for BSC Mainnet, <code>97</code> for BSC Testnet, etc..</td></tr><tr><td>style</td><td>string (optional)</td><td>If you include a style, the image will be generated according to the specified style. Available styles are listed below. (<a href="quickstart-guide.md">Listed Styles</a>)</td></tr><tr><td>traits</td><td>array (optional)</td><td>TTraits are an optional array of objects. If provided, images will be generated based on the specified trait ratios. For example, if the array includes two traits—<code>Background</code> with values <code>Heaven</code> (ratio: 20) and <code>Hell</code> (ratio: 60)—and you request 5 images, approximately 1 will use <code>Heaven</code> and 3 will use <code>Hell</code> background.You can adjust traits and ratios to guide image generation accordingly.</td></tr></tbody></table>
 
 **Sample Request:**
 
-```
+```bash
 curl -X POST "https://api.chaingpt.org/nft/generate-nft-queue" \
      -H "Authorization: Bearer YOUR_API_KEY" \
      -H "Content-Type: application/json" \
@@ -105,13 +123,24 @@ curl -X POST "https://api.chaingpt.org/nft/generate-nft-queue" \
            "height": 1024,
            "width": 1024,
            "enhance": "2x",
-           "chainId": 56
+           "chainId": 56,
+             "style": "cinematic",
+            "traits": [
+              {
+                "trait_type": "Background",
+                "value": [
+                  { "value": "Heaven", "ratio": 20 },
+                  { "value": "Hell", "ratio": 60 },
+                  { "value": "garden", "ratio": 20 }
+                ]
+              }
+              ]
          }'
 ```
 
 **Sample Response (Queued):**
 
-```
+```json
 {
   "collectionId": "b8f86f05-5e8a-4f21-8c4a-xxxxxxxxxxxx",
   "status": "queued"
@@ -124,11 +153,11 @@ On success, the API returns a unique `collectionId` for the requested generation
 **Note:** Use the NFT queue endpoint (with `walletAddress` and `chainId`) if you plan to **mint the result as an NFT on-chain**. If you only need an image and do not intend to mint it, use the direct `POST /nft/generate-image` endpoint instead. The underlying image generation is similar, but the queued flow enables tracking progress and later minting.
 {% endhint %}
 
-#### `GET /nft/progress/{collectionId}`
+**Track Generation Progress - GET /progress/{collectionId}**
 
 **Description:** Checks the status and progress of a queued NFT generation job identified by its `collectionId`. Use this endpoint to poll for completion when you have initiated a job via `generate-nft-queue`. It returns whether the job is still processing or completed (and may include the result when done).
 
-**Path Parameter:**
+**Path Parameter:h**
 
 * `{collectionId}` (string, required) – The ID of the NFT generation job, as returned by the `generate-nft-queue` call.
 
@@ -139,14 +168,14 @@ On success, the API returns a unique `collectionId` for the requested generation
 
 **Sample Request:**
 
-```
+```bash
 curl -X GET "https://api.chaingpt.org/nft/progress/b8f86f05-5e8a-4f21-8c4a-xxxxxxxxxxxx" \
      -H "Authorization: Bearer YOUR_API_KEY"
 ```
 
 **Sample Response (In Progress):**
 
-```
+```json
 {
   "collectionId": "b8f86f05-5e8a-4f21-8c4a-xxxxxxxxxxxx",
   "status": "processing",
@@ -158,7 +187,7 @@ In the above example, the generation job is 45% complete (`"progress": 45`). The
 
 **Sample Response (Completed):**
 
-```
+```json
 {
   "collectionId": "b8f86f05-5e8a-4f21-8c4a-xxxxxxxxxxxx",
   "status": "completed",
@@ -172,7 +201,7 @@ Once the job status is `"completed"`, the response may include the generated ima
 **Note:** In many cases, you might not need to manually grab the raw image from the progress response. Instead, you would proceed to the minting step to get the final NFT metadata. The backend typically stores the generated image and prepares metadata when the job completes. The Progress endpoint is primarily for status updates; the final image and metadata are obtained via the minting endpoint next.
 {% endhint %}
 
-#### `POST /nft/mint-nft`
+**NFT Mint Configuration/ metadata - POST /mint-nft**
 
 **Description:** Finalizes the NFT creation by generating the metadata and preparing for minting. You call this after an image generation job is completed to get the NFT’s metadata (name, description, image URI, etc.) needed for on-chain minting. Think of this as retrieving the “mint package” for your NFT. **Note:** This endpoint does **not** perform the actual blockchain mint transaction itself; it returns the data that you or the ChainGPT service will use to mint the NFT on-chain.
 
@@ -187,7 +216,7 @@ Once the job status is `"completed"`, the response may include the generated ima
 
 **Sample Request:**
 
-```
+```bash
 curl -X POST "https://api.chaingpt.org/nft/mint-nft" \
      -H "Authorization: Bearer YOUR_API_KEY" \
      -H "Content-Type: application/json" \
@@ -201,7 +230,7 @@ curl -X POST "https://api.chaingpt.org/nft/mint-nft" \
 
 **Sample Response:**
 
-```
+```json
 {
   "name": "Neon Skyline City",
   "description": "A futuristic city skyline at night, generated by AI.",
@@ -235,7 +264,7 @@ This optional endpoint uses AI to **enhance or refine a text prompt** for better
 
 **Sample Request:**
 
-```
+```bash
 curl -X POST "https://api.chaingpt.org/nft/enhancePrompt" \
      -H "Authorization: Bearer YOUR_API_KEY" \
      -H "Content-Type: application/json" \
@@ -246,7 +275,7 @@ curl -X POST "https://api.chaingpt.org/nft/enhancePrompt" \
 
 **Sample Response:**
 
-```
+```json
 {
   "enhancedPrompt": "A sprawling futuristic cityscape at night, illuminated by neon lights and flying vehicles, with towering skyscrapers and advanced technology."
 }
@@ -272,7 +301,7 @@ Use this endpoint to retrieve the list of blockchain networks supported by the A
 
 **Sample Request:**
 
-```
+```bash
 # Fetch only mainnet chains
 curl -X GET "https://api.chaingpt.org/nft/get-chains?testNet=false" \
      -H "Authorization: Bearer YOUR_API_KEY"
@@ -280,7 +309,7 @@ curl -X GET "https://api.chaingpt.org/nft/get-chains?testNet=false" \
 
 **Sample Response:**
 
-```
+```json
 {
   "chains": [
     {
@@ -326,14 +355,14 @@ This endpoint provides the **ABI (Application Binary Interface)** of the ChainGP
 
 **Sample Request:**
 
-```
+```bash
 curl -X GET "https://api.chaingpt.org/nft/abi" \
      -H "Authorization: Bearer YOUR_API_KEY"
 ```
 
 **Sample Response (truncated):**
 
-```
+```json
 {
   "abi": [
     {

@@ -67,6 +67,8 @@ Below are the primary methods provided by the `Nft` SDK instance. Each method is
 * `steps` (number, _optional_): The number of diffusion or refinement steps to use for image generation. More steps can produce more detailed or refined images at the cost of longer generation time. Each model has its own supported range (e.g. `velogen` supports 1–4 steps, default is 2; `nebula_forge_xl` & `VisionaryForge` supports up to 50, default is 25). If not provided, the model’s default number of steps is used.
 * `width` (number, _optional_): The width of the generated image in pixels.
 * `height` (number, _optional_): The height of the generated image in pixels.
+* `style` (string, optional): If you include a style, the image will be generated according to the specified style. Available styles are listed below. ([Listed Styles](quickstart-guide.md))
+* `traits` (Array , optional): Traits are an optional array of objects. If provided, images will be generated based on the specified trait ratios. For example, if the array includes two traits—`Background` with values `Heaven` (ratio: 20) and `Hell` (ratio: 60)—and you request 5 images, approximately 1 will use `Heaven` and 3 will use `Hell` background.You can adjust traits and ratios to guide image generation accordingly.
 
 **Note on image size:** Supported `width` × `height` combinations (aspect ratios) depend on the model (and whether enhancement is used). For example, **Velogen** supports base resolutions like 512×512 (square), 768×512 (landscape), 512×768 (portrait). With 2× enhancement, it can produce up to \~1920×1920 (square) and corresponding larger rectangles. **Nebula Forge XL** and **VisionaryForge** have their own supported dimensions (see **Supported Models & Settings** below for detailed resolution options). If you request a size that the model doesn’t support, the API may return an error or adjust to the nearest valid size. If `height`/`width` are not specified, the SDK will default to the model’s base default (usually a square format such as 512×512 or 1024×1024 depending on the model).
 
@@ -84,7 +86,25 @@ const params = {
   model: "velogen",        // Use the "velogen" model for generation (realistic style)
   enhance: "1x",           // Upscale once (1x enhancement for higher resolution)
   steps: 2,                // Use 2 refinement steps (velogen's default)
-  width: 1024, height: 1024// Generate a 1024x1024 image (square format)
+  width: 1024, height: 1024,// Generate a 1024x1024 image (square format)
+  style: 'cinematic',       //Style of image
+   traits: [
+      {
+        trait_type: 'Background',
+        value: [
+          { value: 'Heaven', ratio: 20 },
+          { value: 'Hell', ratio: 60 },
+          { value: 'garden', ratio: 20 },
+        ],
+      },
+      {
+        trait_type: 'contrast',
+        value: [
+          { value: 'dark', ratio: 20 },
+          { value: 'light', ratio: 80 },
+        ],
+      },
+    ],
 };
 
 const result = await nft.generateImage(params);
@@ -100,7 +120,9 @@ console.log("Image saved to generated-image.jpg");
 
 In this example, we used the `velogen` model to generate a 1024×1024 image from the given prompt, with a single upscaling enhancement. The resulting image bytes are written to **generated-image.jpg**. After running this code, that file will contain the AI-generated artwork. You can adjust the `prompt`, `model`, and other parameters as needed.
 
-#### `generateNft(options)` – Synchronous NFT Generation
+#### Synchronous NFT Generation
+
+#### `generateNft(options)`&#x20;
 
 **Description:** Generates an image _and_ prepares NFT metadata from a text prompt, intended for minting. This call handles the AI image creation similarly to `generateImage()`, but also registers the result for minting (on ChainGPT’s backend) and returns metadata needed to proceed with minting. Typically, after `generateNft` completes, you would call `mintNft()` to actually mint the NFT on-chain. This method is **synchronous** in the sense that it waits for the image generation to finish before returning, so it can take some time (usually 30–60 seconds for the image to be generated). Under the hood, this corresponds to an API call that generates the image and prepares the NFT in one step.
 
@@ -109,6 +131,8 @@ In this example, we used the `velogen` model to generate a 1024×1024 image from
 * **All image generation parameters from** `generateImage()`: You can include `prompt`, `model`, `enhance`, `steps`, `width`, `height` with the same meanings as described above. These control the image generation part of this call.
 * `walletAddress` (string, **required**): The public wallet address that will eventually own the NFT. This is the address to which the NFT will be minted (transferred) when you call `mintNft()`. Make sure this is a valid address on the blockchain network you intend to use.
 * `chainId` (number, **required**): The blockchain network ID where the NFT will be minted. ChainGPT’s NFT generator supports many networks (Ethereum, BNB Chain, Polygon, Arbitrum, Avalanche, Tron, and more). For example: use `1` for Ethereum Mainnet, `56` for BNB Smart Chain (BSC) Mainnet, `137` for Polygon, etc. You can retrieve the full list of supported networks and their IDs at runtime with the `getChains()` method. Ensure the `chainId` you provide corresponds to the network of the provided wallet address.
+* `style` (string, optional): If you include a style, the image will be generated according to the specified style. Available styles are listed below. ([Listed Styles](quickstart-guide.md))
+* `traits` (Array , optional): Traits are an optional array of objects. If provided, images will be generated based on the specified trait ratios. For example, if the array includes two traits—`Background` with values `Heaven` (ratio: 20) and `Hell` (ratio: 60)—and you request 5 images, approximately 1 will use `Heaven` and 3 will use `Hell` background.You can adjust traits and ratios to guide image generation accordingly.
 
 _(There are no parameters for NFT name/description in this step – those are provided later to the `mintNft()` call.)_
 
@@ -132,7 +156,33 @@ const genResult = await nft.generateNft({
   steps: 25,               // use 25 refinement steps (only supported by some models like NebulaForge XL or VisionaryForge)
   height: 1024, width: 1024,
   walletAddress: "0xABC123...DEF",  // the recipient wallet address for the NFT
-  chainId: 97                      // target chain ID (97 = BSC Testnet in this example)
+  chainId: 97,                      // target chain ID (97 = BSC Testnet in this example)
+  style: 'cinematic',       //Style of image
+  traits: [
+      {
+        trait_type: 'Background',
+        value: [
+          { value: 'Heaven', ratio: 20 },
+          { value: 'Hell', ratio: 60 },
+          { value: 'garden', ratio: 20 },
+        ],
+      },
+      {
+        trait_type: 'contrast',
+        value: [
+          { value: 'dark', ratio: 20 },
+          { value: 'light', ratio: 80 },
+        ],
+      },
+    ],
+};
+
+const result = await nft.generateImage(params);
+// The result contains image data (e.g., result.data.data is a buffer of bytes)
+
+// Save the image data to a file
+fs.writeFileSync(
+  "generat
 });
 console.log("Generation completed. Collection ID:", genResult.data.collectionId);
 
@@ -304,7 +354,93 @@ const result = await nft.mintNft({ collectionId, name: "Artwork #1", symbol: "AR
 
 Typically, you will call `mintNft()` once per generated image to put it on-chain. Remember to catch errors from this call as it involves external blockchain interaction (see **Error Handling** below). For instance, if the user’s wallet is invalid or if there are network fees required that the system cannot cover, you would get an error.
 
+#### Enhance Your Prompt
+
+Update your prompt by setting the enhancement level to receive a response tailored to the enhanced prompt.
+
+```javascript
+const { Nft } = require('@chaingpt/nft');
+const nftInstance = new Nft({ apiKey: 'Your ChainGPT API Key' });
+
+async function main() {
+  const enhancedPrompt = await nftInstance.enhancePrompt({
+    prompt: 'lion in jungle',
+  });
+  console.log(enhancedPrompt);
+}
+main();
+```
+
 ***
+
+#### Generate Random Prompt (Surprise Me)
+
+Run this snippet of code to receive a surprise prompt for generating an NFT.
+
+```javascript
+const { Nft } = require('@chaingpt/nft');
+const nftInstance = new Nft({ apiKey: 'Your ChainGPT API Key' });
+
+async function main() {
+  const randomPrompt = await nftInstance.surpriseMe();
+  console.log(randomPrompt);
+}
+main();
+```
+
+#### Get Collections with Filters
+
+This example demonstrates how to use the `@chaingpt/nft` SDK to retrieve NFT collections associated with a specific wallet address.
+
+#### Parameters
+
+| Parameter       | Type      | Required | Description                                 |
+| --------------- | --------- | -------- | ------------------------------------------- |
+| `walletAddress` | `string`  | ✅        | The wallet address to fetch collections for |
+| `isPublic`      | `boolean` | ❌        | Filter only public collections              |
+| `isDraft`       | `boolean` | ❌        | Filter by draft status                      |
+| `isMinted`      | `boolean` | ❌        | Filter by minted status                     |
+| `name`          | `string`  | ❌        | Filter by collection name                   |
+| `symbol`        | `string`  | ❌        | Filter by token symbol                      |
+| `page`          | `number`  | ❌        | Pagination: page number                     |
+| `limit`         | `number`  | ❌        | Pagination: number of items per page        |
+
+```javascript
+const { Nft } = require('@chaingpt/nft');
+const nftInstance = new Nft({ apiKey: 'Your ChainGPT API Key' });
+
+async function main() {
+  const collections = await nftInstance.getCollections({
+    walletAddress: '<wallet address>', 
+    isPublic: true,
+     isDraft: false, 
+     isMinted: false, 
+     name: "<name>", 
+     symbol: "<symbol>", 
+    page: 1,
+    limit: 10,
+  });
+  console.log(collections);
+}
+main();
+```
+
+#### &#x20;Toggle NFT Visibility
+
+toggle the **visibility status** (e.g., from public to private or vice versa) of an NFT collection using the `@chaingpt/nft` SDK.
+
+```javascript
+const { Nft } = require('@chaingpt/nft');
+const nftInstance = new Nft({ apiKey: 'Your ChainGPT API Key' });
+
+async function main() {
+  const response = await nftInstance.toggleNftVisibility({
+    collectionId: '<collection id>',
+  });
+  console.log(response);
+}
+main();
+```
 
 ### Supported Models & Settings
 
