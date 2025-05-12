@@ -40,7 +40,7 @@ Before using the SDK, you must obtain a **ChainGPT API Key** and ensure your acc
 
 **Authentication:** Once you have your API key, provide it when initializing the SDK. For security, **do not hard-code** the key in your codebase. Instead, store it in an environment variable or secure config and pass it in at runtime. For example:
 
-```
+```javascript
 import { SmartContractGenerator } from "@chaingpt/smartcontractgenerator";
 
 // Load API key from environment for security
@@ -80,7 +80,7 @@ Generates a new smart contract based on a natural-language prompt, returning the
 
 **Example – Blob Response:**
 
-```
+```javascript
 import { SmartContractGenerator } from "@chaingpt/smartcontractgenerator";
 
 const smartcontractgenerator = new SmartContractGenerator({ apiKey: "<YOUR_API_KEY>" });
@@ -118,7 +118,7 @@ Generates a new smart contract based on a prompt, returning the result as a stre
 
 **Example – Streaming Response:**
 
-```
+```javascript
 import { SmartContractGenerator } from "@chaingpt/smartcontractgenerator";
 
 const smartcontractgenerator = new SmartContractGenerator({ apiKey: "<YOUR_API_KEY>" });
@@ -164,7 +164,7 @@ Retrieves the history of past smart-contract generation interactions (prompts an
 
 **Example – Retrieving History:**
 
-```
+```javascript
 import { SmartContractGenerator } from "@chaingpt/smartcontractgenerator";
 
 const smartcontractgenerator = new SmartContractGenerator({ apiKey: "<YOUR_API_KEY>" });
@@ -207,7 +207,7 @@ Enabling **chat history** allows the ChainGPT Smart-Contracts Generator to remem
 
 **Example – Managing Chat History with a Unique ID:**
 
-```
+```javascript
 import { SmartContractGenerator } from "@chaingpt/smartcontractgenerator";
 
 const smartcontractgenerator = new SmartContractGenerator({ apiKey: "<YOUR_API_KEY>" });
@@ -243,7 +243,7 @@ The SDK is designed to throw informative errors when something goes wrong – fo
 
 **Example – Handling errors with try/catch:**
 
-```
+```javascript
 import { SmartContractGenerator, Errors } from "@chaingpt/smartcontractgenerator";
 
 const smartcontractgenerator = new SmartContractGenerator({ apiKey: "<YOUR_API_KEY>" });
