@@ -542,7 +542,7 @@ Both the REST API and SDK provide error information to help you diagnose issues:
 
 ***
 
-**Supported Styles**
+### Supported Styles
 
 Here is a list of supported models:
 
