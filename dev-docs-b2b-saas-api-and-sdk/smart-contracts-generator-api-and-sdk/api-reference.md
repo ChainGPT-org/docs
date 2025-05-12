@@ -46,7 +46,7 @@ Use the `POST /chat/stream` endpoint to generate a smart contract from a prompt.
 
 Below is an example of calling the API in Node.js using **Axios** to get a streaming response. This example prompt asks for a simple token contract, and we stream the Solidity code as it's generated:
 
-```
+```javascript
 import axios from "axios";
 
 const API_URL = "https://api.chaingpt.org/chat/stream";
@@ -97,7 +97,7 @@ On a successful request, the API will return a **200 OK** response containing th
 
 For example, after a complete response, you might receive JSON like this:
 
-```
+```json
 {
   "status": "success",
   "data": {
@@ -122,7 +122,7 @@ By default, the `/chat/stream` endpoint streams its output in chunks, which is g
 * **Streaming Mode:** (as shown in the example above) – You set your HTTP client to stream the response. You will receive pieces of the contract as they are generated. This is useful for large contracts or giving the user immediate feedback. In Axios (Node.js), this is done by setting `responseType: "stream"` and handling the `data` events on the response. In other environments or languages, you might use streaming APIs or Server-Sent Events to achieve similar behavior.
 *   **Full Response Mode (Blob):** If you do **not** enable streaming on the client side, the API will still work – your HTTP client will simply wait until the generation is finished and then give you the complete response. For example, using Axios without the stream option:
 
-    ```
+    ```javascript
     // Without streaming: get the full response at once
     const res = await axios.post(API_URL, {
       model: "smart_contract_generator",
@@ -139,6 +139,31 @@ By default, the `/chat/stream` endpoint streams its output in chunks, which is g
     In this mode, the call will return only after the AI has finished generating the contract. The `res.data` will contain the full JSON response, and `res.data` holds the complete contract code. This approach is simpler but has a bit more latency (you wait for the whole answer). It can be suitable for server-side operations where streaming isn't necessary.
 
 Choose the mode that fits your use case: **streaming** for responsiveness or progress updates, vs **full response** for simplicity.
+
+**Get Chat history:**
+
+Smart Contract Generator SDK also stores chat history for future use, which users can retrieve using the following code
+
+```javascript
+async function fetchData() {
+  try {
+    const response = await apiclient.get("/", {
+      limit: 10,
+      offset: 0,
+      sortBy: "createdAt",
+      sortOrder: "desc",
+    });
+
+    console.log("Response data:", response.data.data.rows);
+  } catch (error) {
+    console.error("Error fetching data:", error);
+  }
+}
+
+// Execute the function to fetch data
+fetchData();
+
+```
 
 ***
 
