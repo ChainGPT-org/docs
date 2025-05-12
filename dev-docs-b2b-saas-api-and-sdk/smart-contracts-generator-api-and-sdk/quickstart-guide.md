@@ -58,7 +58,7 @@ POST https://api.chaingpt.org/chat/stream
 
 **Example Request:** If you use `curl`, a basic example might look like (replace `<API_KEY>` with your key):
 
-```
+```bash
 curl -X POST "https://api.chaingpt.org/chat/stream" \
   -H "Authorization: Bearer <API_KEY>" \
   -H "Content-Type: application/json" \
@@ -73,7 +73,7 @@ Let’s walk through making a request using Node.js for illustration. You can ad
 
 First, set up an HTTP client. In Node.js, you might use **Axios** for convenience:
 
-```
+```javascript
 const axios = require('axios');
 
 // Load configuration from environment (for security, avoid hard‑coding)
@@ -91,7 +91,7 @@ const apiClient = axios.create({
 
 With the client ready, you can **send a POST request** to the endpoint. Below, we send a prompt and handle the response as a stream:
 
-```
+```javascript
 try {
   const response = await apiClient.post('/', {
     model: 'smart_contract_generator',
@@ -114,7 +114,7 @@ In this example, the API will start **streaming** the generated smart contract c
 
 **Getting the complete response at once:** If you prefer to wait for the full result rather than streaming, you can adjust the request. For instance, remove the streaming response handling and let the request complete normally. In Axios, you could omit the `responseType: "stream"` configuration (or use the default). For example:
 
-```
+```javascript
 // Using the same apiClient instance, but force a JSON (non‑stream) response
 const fullResponse = await apiClient.post(
   '/',
@@ -143,7 +143,7 @@ One powerful feature of the Smart Contract Generator is the ability to maintain 
 
 **Example (API request with chat history):**
 
-```
+```javascript
 await apiClient.post('/', {
   model: 'smart_contract_generator',
   question: 'Now add a reset function to the counter contract.',
@@ -158,7 +158,7 @@ When `chatHistory` is `"on"`, each API call will **store the Q\&A** internally. 
 
 *   **Retrieve Chat History (API):** There is an endpoint to fetch past chat entries: `GET https://api.chaingpt.org/chat/chatHistory`. It supports query parameters like `limit`, `offset`, `sortBy`, and `sortOrder` to page through history. For example, you could do:
 
-    ```
+    ```javascript
     // Assuming API_URL is set to https://api.chaingpt.org/chat/chatHistory for this request
     const historyClient = axios.create({
       baseURL: 'https://api.chaingpt.org/chat/chatHistory',
@@ -196,7 +196,7 @@ When integrating the API, follow these best practices to build a robust and secu
 * **Use Environment Variables for Secrets:** As mentioned, never hard-code your API key in your codebase. Use environment variables (e.g., `process.env.CHAINGPT_API_KEY`) or a secret management system to inject the key at runtime. This prevents accidental exposure of the key in version control or client-side code.
 *   **Wrap API Calls in Error Handling:** Network issues or API errors (like invalid parameters or insufficient credits) can occur. Always use try/catch (for async calls) or handle promise rejections when calling the API. For example, in Node/Axios:
 
-    ```
+    ```javascript
     try {
       const response = await apiClient.post(...);
       // process response
@@ -230,7 +230,7 @@ Before using the SDK, make sure you have:
 
 Install the ChainGPT Smart Contract Generator SDK via npm or yarn:
 
-```
+```javascript
 npm install --save @chaingpt/smartcontractgenerator
 # or
 yarn add @chaingpt/smartcontractgenerator
@@ -242,7 +242,7 @@ This will add the SDK library to your Node.js project. The SDK is published on N
 
 After installing, import the SDK and initialize it with your API key. For example:
 
-```
+```javascript
 import { SmartContractGenerator } from "@chaingpt/smartcontractgenerator";
 
 const smartcontractgenerator = new SmartContractGenerator({
@@ -265,7 +265,7 @@ Both methods take an `options` object where you specify at least a `question` (t
 
 **Example 1: Quick one-off generation (Blob response)** – This will get the full response at once:
 
-```
+```javascript
 import { SmartContractGenerator } from "@chaingpt/smartcontractgenerator";
 
 const smartcontractgenerator = new SmartContractGenerator({ apiKey: process.env.CHAINGPT_API_KEY });
@@ -290,7 +290,7 @@ In this snippet, we call `createSmartContractBlob` with a prompt. The response (
 
 **Example 2: Streaming response** – If you want to receive the response incrementally (useful for progress updates or interactive apps):
 
-```
+```javascript
 async function generateContractStream() {
   try {
     const stream = await smartcontractgenerator.createSmartContractStream({
@@ -324,7 +324,7 @@ The SDK also supports multi-turn interactions via chat history, similar to the r
 
 **Example:** Continuation with chat history.
 
-```
+```javascript
 const userId = "907208eb-0929-42c3-a372-c21934fbf44f";  // unique ID for the user or session
 
 async function askFollowUp() {
@@ -347,7 +347,7 @@ In this example, we use the same `userId` for `sdkUniqueId` as was used in a pre
 
 You can also retrieve the stored chat history via the SDK:
 
-```
+```javascript
 async function fetchHistory() {
   try {
     const history = await smartcontractgenerator.getChatHistory({
@@ -375,7 +375,7 @@ The SDK is designed to throw errors if something goes wrong (e.g., network issue
 
 For example, you can catch errors as follows:
 
-```
+```javascript
 import { Errors } from "@chaingpt/smartcontractgenerator";
 
 try {
