@@ -177,13 +177,6 @@ const genResult = await nft.generateNft({
     ],
 };
 
-const result = await nft.generateImage(params);
-// The result contains image data (e.g., result.data.data is a buffer of bytes)
-
-// Save the image data to a file
-fs.writeFileSync(
-  "generat
-});
 console.log("Generation completed. Collection ID:", genResult.data.collectionId);
 
 // 2. Mint the generated NFT on-chain using the returned collectionId
