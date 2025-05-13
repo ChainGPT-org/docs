@@ -44,7 +44,7 @@ Use this endpoint to **generate an image from a text prompt** and get the result
 
 ```bash
  curl -X POST https://api.chaingpt.org/nft/generate-image \
-  -H "Authorization: Bearer 40bd9f36-526b-447b-b9eb-db66e379ef52" \
+  -H "Authorization: Bearer YOUR_API_KEY" \
   -H "Content-Type: application/json" \
   -d '{
     "prompt": "dragon",
