@@ -107,7 +107,7 @@ Use these endpoints to **generate an image intended for NFT minting**. The gener
 
 **Request Body Parameters:**
 
-<table data-header-hidden><thead><tr><th width="152.6015625"></th><th width="152.33203125"></th><th></th></tr></thead><tbody><tr><td><strong>Parameter</strong></td><td><strong>Type</strong></td><td><strong>Description</strong></td></tr><tr><td><code>walletAddress</code></td><td>string (required)</td><td>The blockchain wallet address that will own the minted NFT. This should be a valid address on the target chain (e.g. the user’s wallet).</td></tr><tr><td><code>prompt</code></td><td>string (required)</td><td>The text prompt for image generation (same usage as in the direct image endpoint).</td></tr><tr><td><code>model</code></td><td>string (required)</td><td>The model to use (e.g. <code>"velogen"</code>, <code>"nebula_forge_xl"</code>, <code>"VisionaryForge"</code>, <code>"Dale3"</code>). Supports the same options and constraints as the direct image generation endpoint.</td></tr><tr><td><code>steps</code></td><td>integer (optional)</td><td>Number of generation steps (refinement passes). Defaults to the model’s optimal value if not provided. You may use higher values (up to the model’s max, e.g. 50 for NebulaForge XL/VisionaryForge) to improve quality.</td></tr><tr><td><code>height</code></td><td>integer (required)</td><td>Desired image height in pixels. Must be within the model’s allowed range (e.g. up to 1024 for base generation on NebulaForge XL).</td></tr><tr><td><code>width</code></td><td>integer (required)</td><td>Desired image width in pixels. Must be within the allowed range for the model (same constraints as height).</td></tr><tr><td><code>enhance</code></td><td>string (optional)</td><td>Enhancement/upscaling option (<code>"original"</code> (default),  <code>"1x"</code> or <code>"2x"</code>) for higher resolution output. If provided, the image will be upscaled up to the model’s enhanced max resolution. If omitted, the image is generated at base resolution. (Using enhancement will consume additional credits).</td></tr><tr><td><code>chainId</code></td><td>integer (required)</td><td>Blockchain network ID where the NFT will be minted. Use the <code>/nft/get-chains</code> endpoint to see supported chains and their IDs. For example: <code>1</code> for Ethereum, <code>56</code> for BSC Mainnet, <code>97</code> for BSC Testnet, etc..</td></tr><tr><td>style</td><td>string (optional)</td><td>If you include a style, the image will be generated according to the specified style. Available styles are listed below. (<a href="https://docs.chaingpt.org/dev-docs-b2b-saas-api-and-sdk/ai-nft-generator-api-and-sdk/quickstart-guide#supported-styles">Listed Styles</a>)</td></tr><tr><td>traits</td><td>array (optional)</td><td>TTraits are an optional array of objects. If provided, images will be generated based on the specified trait ratios. For example, if the array includes two traits—<code>Background</code> with values <code>Heaven</code> (ratio: 20) and <code>Hell</code> (ratio: 60)—and you request 5 images, approximately 1 will use <code>Heaven</code> and 3 will use <code>Hell</code> background.You can adjust traits and ratios to guide image generation accordingly.</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="152.6015625"></th><th width="152.33203125"></th><th></th></tr></thead><tbody><tr><td><strong>Parameter</strong></td><td><strong>Type</strong></td><td><strong>Description</strong></td></tr><tr><td><code>walletAddress</code></td><td>string (required)</td><td>The blockchain wallet address that will own the minted NFT. This should be a valid address on the target chain (e.g. the user’s wallet).</td></tr><tr><td><code>prompt</code></td><td>string (required)</td><td>The text prompt for image generation (same usage as in the direct image endpoint).</td></tr><tr><td><code>model</code></td><td>string (required)</td><td>The model to use (e.g. <code>"velogen"</code>, <code>"nebula_forge_xl"</code>, <code>"VisionaryForge"</code>, <code>"Dale3"</code>). Supports the same options and constraints as the direct image generation endpoint.</td></tr><tr><td><code>steps</code></td><td>integer (optional)</td><td>Number of generation steps (refinement passes). Defaults to the model’s optimal value if not provided. You may use higher values (up to the model’s max, e.g. 50 for NebulaForge XL/VisionaryForge) to improve quality.</td></tr><tr><td><code>height</code></td><td>integer (required)</td><td>Desired image height in pixels. Must be within the model’s allowed range (e.g. up to 1024 for base generation on NebulaForge XL).</td></tr><tr><td><code>width</code></td><td>integer (required)</td><td>Desired image width in pixels. Must be within the allowed range for the model (same constraints as height).</td></tr><tr><td><code>enhance</code></td><td>string (optional)</td><td>Enhancement/upscaling option (<code>"original"</code> (default),  <code>"1x"</code> or <code>"2x"</code>) for higher resolution output. If provided, the image will be upscaled up to the model’s enhanced max resolution. If omitted, the image is generated at base resolution. (Using enhancement will consume additional credits).</td></tr><tr><td><code>chainId</code></td><td>integer (required)</td><td>Blockchain network ID where the NFT will be minted. Use the <code>/nft/get-chains</code> endpoint to see supported chains and their IDs. For example: <code>1</code> for Ethereum, <code>56</code> for BSC Mainnet, <code>97</code> for BSC Testnet, etc..</td></tr><tr><td>amount</td><td>number (required)</td><td>Number of NFTs to be created in the collection</td></tr><tr><td>style</td><td>string (optional)</td><td>If you include a style, the image will be generated according to the specified style. Available styles are listed below. (<a href="https://docs.chaingpt.org/dev-docs-b2b-saas-api-and-sdk/ai-nft-generator-api-and-sdk/quickstart-guide#supported-styles">Listed Styles</a>)</td></tr><tr><td>traits</td><td>array (optional)</td><td>TTraits are an optional array of objects. If provided, images will be generated based on the specified trait ratios. For example, if the array includes two traits—<code>Background</code> with values <code>Heaven</code> (ratio: 20) and <code>Hell</code> (ratio: 60)—and you request 5 images, approximately 1 will use <code>Heaven</code> and 3 will use <code>Hell</code> background.You can adjust traits and ratios to guide image generation accordingly.</td></tr></tbody></table>
 
 **Sample Request:**
 
@@ -124,7 +124,8 @@ curl -X POST "https://api.chaingpt.org/nft/generate-nft-queue" \
            "width": 1024,
            "enhance": "2x",
            "chainId": 56,
-             "style": "cinematic",
+           "amount":1,
+           "style": "cinematic",
             "traits": [
               {
                 "trait_type": "Background",
@@ -189,9 +190,10 @@ In the above example, the generation job is 45% complete (`"progress": 45`). The
 
 ```json
 {
-  "collectionId": "b8f86f05-5e8a-4f21-8c4a-xxxxxxxxxxxx",
-  "status": "completed",
-  "data": [137, 80, 78, 71, ...]
+  "statusCode":200,
+   "message":"Request Successful",
+   "data":{"images":["https://ipfs..../..1.png"],
+   "generated":true}
 }
 ```
 
@@ -212,7 +214,7 @@ Once the job status is `"completed"`, the response may include the generated ima
 
 **Request Body Parameters:**
 
-<table data-header-hidden><thead><tr><th width="148.484375"></th><th width="153.08984375"></th><th></th></tr></thead><tbody><tr><td><strong>Parameter</strong></td><td><strong>Type</strong></td><td><strong>Description</strong></td></tr><tr><td><code>collectionId</code></td><td>string (required)</td><td>The ID of the completed generation job you want to mint, as returned by <code>generate-nft-queue</code>. Ensure that the generation status is <code>"completed"</code> before calling this (you can check via the progress endpoint).</td></tr><tr><td><code>name</code></td><td>string (required)</td><td>The desired name of the NFT. This will be stored in the token metadata as the title of the artwork.</td></tr><tr><td><code>description</code></td><td>string (required)</td><td>A description for the NFT. This text can describe the artwork or provide context, and will be included in the metadata.</td></tr><tr><td><code>symbol</code></td><td>string (required)</td><td>A short symbol or ticker for the NFT (or the collection). For example, <code>"DRAGON"</code> or <code>"CGPT"</code>. This may be used as an identifier for the NFT collection or simply stored as part of the metadata.</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="148.484375"></th><th width="153.08984375"></th><th></th></tr></thead><tbody><tr><td><strong>Parameter</strong></td><td><strong>Type</strong></td><td><strong>Description</strong></td></tr><tr><td><code>collectionId</code></td><td>string (required)</td><td>The ID of the completed generation job you want to mint, as returned by <code>generate-nft-queue</code>. Ensure that the generation status is <code>"completed"</code> before calling this (you can check via the progress endpoint).</td></tr><tr><td><code>name</code></td><td>string (required)</td><td>The desired name of the NFT. This will be stored in the token metadata as the title of the artwork.</td></tr><tr><td><code>description</code></td><td>string (required)</td><td>A description for the NFT. This text can describe the artwork or provide context, and will be included in the metadata.</td></tr><tr><td><code>symbol</code></td><td>string (required)</td><td>A short symbol or ticker for the NFT (or the collection). For example, <code>"DRAGON"</code> or <code>"CGPT"</code>. This may be used as an identifier for the NFT collection or simply stored as part of the metadata.</td></tr><tr><td>ids</td><td>array (required)</td><td>An array of ID lists, where each ID corresponds to a token minted from the collections.</td></tr></tbody></table>
 
 **Sample Request:**
 
@@ -224,7 +226,8 @@ curl -X POST "https://api.chaingpt.org/nft/mint-nft" \
            "collectionId": "b8f86f05-5e8a-4f21-8c4a-xxxxxxxxxxxx",
            "name": "Neon Skyline City",
            "description": "A futuristic city skyline at night, generated by AI.",
-           "symbol": "NEON"
+           "symbol": "NEON",
+           "ids":[1,....,n]
          }'
 ```
 
