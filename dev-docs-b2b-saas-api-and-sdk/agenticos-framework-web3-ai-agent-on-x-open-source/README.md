@@ -101,12 +101,11 @@ PASSWORD_AUTH=your_secure_password               # API Authentication Password
 
 > Click the button above to generate secure encryption keys for your .env file
 
-#### Step 3: Build and start the server
+#### Step 3: Start the server
 
-After configuring the environment, build the TypeScript project and start the AgenticOS server:
+After configuring the environment and start the AgenticOS server:
 
 ```bash
-bun build    # Transpile TypeScript to JavaScript
 bun start    # Start the server on the specified PORT
 ```
 
