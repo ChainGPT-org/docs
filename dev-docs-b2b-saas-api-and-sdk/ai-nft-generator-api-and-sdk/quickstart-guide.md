@@ -101,7 +101,7 @@ curl -X POST "https://api.chaingpt.org/nft/generate-nft-queue" \
            "height": 1024,
            "width": 1024,
            "enhance": "2x",
-           "amount:1,
+           "amount":1,
            "chainId": 56
          }'
 ```
