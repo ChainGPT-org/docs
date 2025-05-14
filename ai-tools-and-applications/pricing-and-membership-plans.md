@@ -16,7 +16,7 @@ Instantiating an account links any Web3 wallet (Metamask, Trust Wallet, Rainbow 
 
 The entry-level membership contains the basic configuration of essential functions granted to every account. To acquire the "Free" plan, users must connect their Web3 wallet.
 
-Restricted from any advanced applications, the Free plan provides limited daily access to:
+**Restricted from any advanced applications, the Free plan provides limited daily access to:**
 
 * General AI model (Chatbot) – 50 free requests
 * Smart Contract Auditor – 10 free requests
@@ -25,6 +25,8 @@ Restricted from any advanced applications, the Free plan provides limited daily 
 * Ask Crypto People – 50 free messages
 * Unlimited access to AI News Generator and CryptoGuard
 * Single NFT Generation and participation in the Prompt Marketplace
+
+**To unlock the free daily access, a user must hold 100+ $CGPT in their wallet, or stake 100+ $CGPT in any of our staking pools.**
 
 ***
 
