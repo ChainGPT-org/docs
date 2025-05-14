@@ -147,17 +147,16 @@ The `collectionId` is important: it references the saved AI-generated image and 
 
 **Example – Generate an NFT then mint it (with explanations):**
 
-```js
-// 1. Generate the NFT image and metadata (synchronously)
+<pre class="language-js"><code class="lang-js">// 1. Generate the NFT image and metadata (synchronously)
 const genResult = await nft.generateNft({
   prompt: "A cute cartoon cat astronaut, sticker illustration",
   model: "VisionaryForge",
   enhance: "",             // no enhancement (empty string or omit for none)
-  steps: 25,               // use 25 refinement steps (only supported by some models like NebulaForge XL or VisionaryForge)
   height: 1024, width: 1024,
   walletAddress: "0xABC123...DEF",  // the recipient wallet address for the NFT
   chainId: 97,                      // target chain ID (97 = BSC Testnet in this example)
-  style: 'cinematic',       //Style of image
+  amount:1,                 //The number of images generated for the collection.
+   style: 'cinematic',       //Style of image
   traits: [
       {
         trait_type: 'Background',
@@ -175,9 +174,9 @@ const genResult = await nft.generateNft({
         ],
       },
     ],
-};
-
-console.log("Generation completed. Collection ID:", genResult.data.collectionId);
+});
+<strong>
+</strong>console.log("Generation completed. Collection ID:", genResult.data.collectionId);
 
 // 2. Mint the generated NFT on-chain using the returned collectionId
 const mintResult = await nft.mintNft({
@@ -185,9 +184,10 @@ const mintResult = await nft.mintNft({
   name: "Space Cat Sticker",                  // human-readable name for the NFT
   description: "An AI-generated cat astronaut sticker, created via ChainGPT",  // description metadata
   symbol: "CAT"                               // symbol for the NFT collection (if a new collection is created)
+  ids: [1,....,n]
 });
 console.log("NFT minted! Transaction/result:", mintResult);
-```
+</code></pre>
 
 In this example, we first call `generateNft()` with a prompt and parameters including the wallet address and chain ID where we want to mint. When this completes, we get a `collectionId` (printed to console) which references the generated image and metadata. We then call `mintNft()` with that `collectionId` and provide an NFT name, description, and symbol. The SDK then handles the blockchain transaction to mint the NFT to the specified address on BSC Testnet (chainId 97). The `mintResult` would contain information about the minting operation (such as a transaction hash or token ID, depending on the implementation).
 
