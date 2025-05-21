@@ -27,6 +27,8 @@
 ## AI / Machine Learning
 
 * [io.net](https://io.net/)
+* [Alibaba Cloud](https://www.alibabacloud.com/)
+* [Aethir](https://aethir.com/)
 * [DexCheck](https://dexcheck.ai/info)
 * [Orbofi](https://www.orbofi.com/)
 * [Shockwaves](https://www.shockwaves.ai/)
@@ -118,6 +120,7 @@
 * [Decubate](https://www.decubate.com/)
 * [Team Finance](https://www.team.finance/)
 * [Space ID](https://space.id/)
+* [LunarCrush](https://lunarcrush.com/)
 * [Bitgert](https://bitgert.com/)
 * [Alvey](https://www.alveychain.com/)
 * [Rollux](https://rollux.com/)
