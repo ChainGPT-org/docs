@@ -1,21 +1,16 @@
-# Disclaimer
+# Legal Disclaimer
 
-**Disclaimer**
+**Legal Disclaimer**
 
-This document is a legal notice for users of ChainGPT's materials, including the whitepaper, roadmap, and related content.
+* **Global Availability and Compliance:** ChainGPT’s services are accessible globally. Blockchain and cryptocurrency regulations vary widely across jurisdictions; users are solely responsible for ensuring that their use of ChainGPT and $CGPT complies with all laws applicable in their own region.
+* **Additional Policies:** This disclaimer is part of ChainGPT’s broader legal framework. Users of ChainGPT should also review the platform’s [Terms of Service](terms-of-service.md), [Privacy Policy](privacy-policy.md), [Cookies Policy](cookies-policy.md), and [Eligibility Policy](cookies-policy-1.md), which are available on the official ChainGPT website and provide further details on user rights and obligations. These documents, along with this whitepaper disclaimer, govern the use of ChainGPT services and the $CGPT token.
+* **Utility Token Status:** $CGPT is strictly a utility token intended for use within the ChainGPT ecosystem and is not a financial instrument or security. It should not be viewed as an investment or considered a speculative asset in any jurisdiction.
+* **No Financial Advice or Offer:** The information provided in this whitepaper is for general informational purposes only and does not constitute financial advice. Nothing herein is intended to encourage, induce, or solicit any purchase or transaction involving $CGPT. This document is not an offering or prospectus, and no part of it should be construed as a recommendation or invitation to acquire $CGPT.
+* **No Guarantee of Value:** ChainGPT makes no guarantees regarding the value or future price of $CGPT. The token’s value may fluctuate significantly over time due to market conditions, usage, or other factors. No representations or warranties are made concerning $CGPT’s market behavior, liquidity, or any financial return, and ChainGPT expressly disclaims any responsibility for the token’s market performance.
+* **Risks of Blockchain Use:** Use of $CGPT and participation in the ChainGPT ecosystem involve inherent risks typical of blockchain technology and crypto-assets. These risks include high price volatility, technological vulnerabilities, regulatory uncertainty, and potential loss of funds. The crypto-asset market is highly risky and unpredictable, and any participation should be undertaken with caution. Users should not use $CGPT if they are not prepared to accept these risks or cannot afford to lose the full value of their tokens.
+* **Additional Policies:** This disclaimer is part of ChainGPT’s broader legal framework. Users of ChainGPT should also review the platform’s Terms of Service, Privacy Policy, Cookies Policy, and Eligibility Policy, which are available on the official ChainGPT website and provide further details on user rights and obligations. These documents, along with this whitepaper disclaimer, govern the use of ChainGPT services and the $CGPT token.
+* **Limitation of Liability:** All information in the ChainGPT whitepaper and related materials is provided “as is” without guarantees of any kind. ChainGPT and its affiliates do not accept any liability for loss, damage, or claims arising from the use of or reliance on this whitepaper, $CGPT, or any accompanying materials. By accessing or using ChainGPT’s materials or services, you acknowledge and accept that ChainGPT shall not be held liable for any direct or indirect damages or losses, to the maximum extent permitted by law.
+* **Governing Law:** This disclaimer and all related materials or disputes shall be governed by and construed in accordance with the laws of Saint Vincent and the Grenadines. By using the ChainGPT platform or token, you agree that any legal matters or disputes will be subject to the jurisdiction and laws of Saint Vincent and the Grenadines, to the extent allowable under applicable law.
+* **Modification and Notice:** ChainGPT reserves the right to modify this disclaimer at any time. Changes will be effective immediately upon posting on our website.
 
-1. **Nature of Information**: The information provided in our roadmap is based on projections and estimates. It is not a guaranteed release schedule. All information within our whitepaper and roadmap is for informational purposes only and should not be considered financial advice.
-2. **No Inducement for Token Purchase**: The content herein should not be interpreted as an inducement to purchase ChainGPT's utility token ($CGPT). $CGPT is intended primarily for interaction with the ChainGPT AI bot, as available at the time of the token sale.
-3. **Limited Use of $CGPT**: $CGPT is designed exclusively for use within the ChainGPT AI ecosystem. We make no representations or warranties about the value, security, or suitability of $CGPT for any other purpose.
-4. **No Guarantee of Value**: The value of $CGPT may fluctuate, and there is no guarantee of its value. Users should exercise caution and not assume any promise of financial gain.
-5. **Due Diligence and Professional Advice**: Prospective investors are strongly encouraged to perform due diligence and consult with professional advisors before making any investment decisions related to $CGPT.
-6. **Release of Liability**: By accessing, reading, or using the information in our whitepaper, website, and roadmap, you agree to release and hold harmless ChainGPT, its affiliates, and respective officers, directors, employees, agents, and successors from any claims, losses, liabilities, damages, costs, and expenses, including reasonable attorneys' fees, arising from or related to the use of the information provided.
-7. **Acknowledgment of Risk**: Investing in cryptocurrency tokens like $CGPT involves a high degree of risk, including the potential loss of your entire investment.
-8. **Governing Law and Dispute Resolution**: This disclaimer is governed by the laws of the State of Delaware, United States. Any disputes arising from or in connection with this disclaimer shall be resolved through arbitration in Delaware in accordance with the rules of the American Arbitration Association.
-9. **Modification and Notice**: ChainGPT reserves the right to modify this disclaimer at any time. Changes will be effective immediately upon posting on our website.
-
-By continuing to access or use our information, you acknowledge and accept this disclaimer.
-
-
-
-_In addition, please read our_ [Agreement for Sale of Tokens](https://www.chaingpt.org/licences).
+Each reader and participant is urged to carefully consider this disclaimer. If you do not agree with or understand any part of this notice, please refrain from using the ChainGPT platform or $CGPT token. All use of ChainGPT services and $CGPT is at the user’s own risk and discretion, under the conditions outlined above.
