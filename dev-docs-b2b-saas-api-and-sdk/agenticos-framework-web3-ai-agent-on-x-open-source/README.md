@@ -33,7 +33,7 @@ Before you begin, ensure you have the following:
 
 * [**Bun runtime**](https://bun.sh/) (v1.0+). Bun is used to run and build the project.
 * [**Node.js**](https://nodejs.org/en) (Latest LTS) and npm, for auxiliary tools like generating tokens (if needed).
-* **Twitter API credentials:** A Twitter Developer Project with OAuth 2.0 Client ID and Client Secret. [Generation Guide](https://app.gitbook.com/o/isSMm3D18DgdZJzYQLAF/s/02IMVe3hN17zPTDRhn1f/~/changes/609/dev-docs-b2b-saas-api-and-sdk/agenticos-framework-web3-ai-agent-on-x-open-source/twitter_developer_account_setup).
+* **Twitter API credentials:** A Twitter Developer Project with OAuth 2.0 Client ID and Client Secret. [Generation Guide](twitter_developer_account_setup.md).&#x20;
 * **ChainGPT API Key:** Needed to call the ChainGPT APIs. (Each generated tweet consumes 1 ChainGPT credit.) ([Get one here](https://app.chaingpt.org/apidashboard))
 * **ChainGPT API credits:** Ensure your ChainGPT account has sufficient credits (purchase if necessary, as each tweet uses 1 credit). ([Purchase credits](https://app.chaingpt.org/addcredits))
 * **Encryption key & IV:** A 32-character key, a salt, and an initialization vector (IV) for encrypting your Twitter tokens. ([Get Keys](https://chaingpt-org.github.io/AgenticOS/))
@@ -117,7 +117,7 @@ The server will start listening (by default on port 8000). You are now ready to 
 
 To allow your agent to tweet from your Twitter account, you need to obtain an OAuth 2.0 access token and refresh token for your Twitter account. AgenticOS uses OAuth 2.0 with PKCE for authentication.
 
-**Prerequisites:** Ensure you have a Twitter Developer App set up with OAuth 2.0. [Follow this guide](https://app.gitbook.com/o/isSMm3D18DgdZJzYQLAF/s/02IMVe3hN17zPTDRhn1f/~/changes/609/dev-docs-b2b-saas-api-and-sdk/agenticos-framework-web3-ai-agent-on-x-open-source/twitter_developer_account_setup)
+**Prerequisites:** Ensure you have a Twitter Developer App set up with OAuth 2.0. [Follow this guide](twitter_developer_account_setup.md)
 
 To generate your Access Token and Refresh Token, open the following URL in your browser:
 
