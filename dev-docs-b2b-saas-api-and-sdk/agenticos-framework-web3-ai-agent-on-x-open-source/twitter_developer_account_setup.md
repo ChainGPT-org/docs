@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Twitter\_Developer\_Account\_Setup
 
 🔑 Twitter API Setup Guide (OAuth 2.0)
