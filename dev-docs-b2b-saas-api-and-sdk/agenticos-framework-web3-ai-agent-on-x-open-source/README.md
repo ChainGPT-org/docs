@@ -33,7 +33,7 @@ Before you begin, ensure you have the following:
 
 * [**Bun runtime**](https://bun.sh/) (v1.0+). Bun is used to run and build the project.
 * [**Node.js**](https://nodejs.org/en) (Latest LTS) and npm, for auxiliary tools like generating tokens (if needed).
-* **Twitter API credentials:** A Twitter Developer Project with OAuth 2.0 Client ID and Client Secret.[ General Guide ](twitter_developer_account_setup.md)
+* **Twitter API credentials:** A Twitter Developer Project with OAuth 2.0 Client ID and Client Secret.[ (Generation Guide) ](twitter_developer_account_setup.md)
 * **ChainGPT API Key:** Needed to call the ChainGPT APIs. (Each generated tweet consumes 1 ChainGPT credit.) ([Get one here](https://app.chaingpt.org/apidashboard))
 * **ChainGPT API credits:** Ensure your ChainGPT account has sufficient credits (purchase if necessary, as each tweet uses 1 credit). ([Purchase credits](https://app.chaingpt.org/addcredits))
 * **Encryption key & IV:** A 32-character key, a salt, and an initialization vector (IV) for encrypting your Twitter tokens. ([Get Keys](https://chaingpt-org.github.io/AgenticOS/))
