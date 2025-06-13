@@ -91,6 +91,11 @@ A successful response from the `GET /news` endpoint returns a JSON object contai
 * **subCategoryId** (integer): The sub-category ID for the news, typically indicating a blockchain or ecosystem (e.g., 15 for Ethereum, 22 for Solana). This corresponds to one of the sub-categories listed in the reference table. If a news article is relevant to a specific blockchain or protocol, it will have the respective subCategoryId.
 * **tokenId** (integer or null): The token ID if the news is specifically about a certain cryptocurrency/token (e.g., 79 for Bitcoin). This corresponds to one of the token IDs in the reference table. If the news is of general interest and not focused on a particular token, this field may be null or omitted.
 * **createdAt** (string timestamp): The date and time when the news article was created/published. This timestamp is typically in ISO 8601 format (e.g., `"2024-01-15T08:30:00Z"`). You can use this to display the publication date or to sort articles by recency. (By default, results are already sorted by this field in descending order.)
+* **imageUrl** (url): The image in the news article.
+* **pubDate** (Date format): publish date of news article.
+* **isPublished** (booleon): News article is published or not.
+* **categoryId** (number): Category Id of news article.
+* **subCategoryId** (number): Sub CategoryId of news article.
 
 The response may also include some metadata for pagination if you requested a non-default limit/offset. For example, it could include fields like **total** (total number of news articles available) or echo back the **limit** and **offset** you used. (Refer to the API's latest specification for exact response format; the core part is the array of news items described above.)
 
@@ -98,34 +103,70 @@ The response may also include some metadata for pagination if you requested a no
 
 ```
 {
-  "data": [
-    {
-      "id": 10101,
-      "title": "DeFi Platform Launches New Yield Farming Program",
-      "description": "A major DeFi platform has introduced a new yield farming initiative aimed at ...",
-      "categoryId": 5,
-      "subCategoryId": 39,
-      "tokenId": null,
-      "createdAt": "2024-01-10T12:00:00Z"
-    },
-    {
-      "id": 10102,
-      "title": "Ethereum Network Upgrade Scheduled for Next Month",
-      "description": "The Ethereum foundation announced a network upgrade (hard fork) planned for ...",
-      "categoryId": 66,
-      "subCategoryId": 15,
-      "tokenId": 80,
-      "createdAt": "2024-01-09T09:30:00Z"
-    }
-    // ... more articles ...
-  ],
-  "limit": 10,
-  "offset": 0,
-  "total": 42
+    "statusCode": 200,
+    "message": "Request Successful",
+    "data": [
+        {
+            "id": 17716,
+            "title": "The Evolution of NFTs: From Speculation to Core Infrastructure",
+            "description": "Some argue that NFTs are dead, while others await the return of the speculative art boom. However, the reality is different. NFTs are not obsolete or heading for another hype wave. Instead, they are transitioning into essential digital infrastructure supporting gaming, AI, and machine-driven applications. The shift towards NFT utility over speculation is evident, with growth in AI and social DApps leveraging NFTs for various purposes. NFTs were originally designed for digital ownership and programmable rights, not just for trading. As AI technology advances, NFTs are becoming integral as identity anchors and access credentials. They are already being used in various applications, from AI audits to certifying processes. NFTs are evolving into essential components in decentralized systems, supporting player-owned economies, AI agents, and machine-to-machine networks. The focus is shifting from front-end collectibles to back-end infrastructure, where NFTs play a crucial role in access control, data provenance, and interoperability.",
+            "pubDate": "2025-06-11T02:00:04.000Z",
+            "isPublished": true,
+            "author": "Nova, ChainGPT's AI Agent",
+            "userId": null,
+            "isFeatured": 0,
+            "categoryId": 8,
+            "subCategoryId": 15,
+            "isTopStory": 0,
+            "viewsCount": 0,
+            "imageUrl": "https://d2qsg582zx9qac.cloudfront.net/document/f5bbe15e-acc7-3d92-879e-bee0cc8c131f.jpg",
+            "mediaId": 82706,
+            "tokenId": 80,
+            "createdAt": "2025-06-11T00:48:22.000Z",
+            "updatedAt": "2025-06-11T09:26:52.000Z",
+            "deletedAt": null,
+            "category": {
+                "id": 8,
+                "name": "NFT",
+                "isBlockchain": false,
+                "isToken": false,
+                "createdAt": "2023-05-22T10:08:26.000Z",
+                "updatedAt": "2023-05-22T10:08:26.000Z",
+                "deletedAt": null
+            },
+            "subCategory": {
+                "id": 15,
+                "name": "Ethereum",
+                "isBlockchain": true,
+                "isToken": false,
+                "createdAt": "2023-05-22T10:08:26.000Z",
+                "updatedAt": "2023-05-22T10:08:26.000Z",
+                "deletedAt": null
+            },
+            "token": {
+                "id": 80,
+                "name": "Ethereum - ETH",
+                "isBlockchain": false,
+                "isToken": true,
+                "createdAt": "2023-10-16T12:59:10.000Z",
+                "updatedAt": "2023-10-16T12:59:10.000Z",
+                "deletedAt": null
+            },
+            "newsTags": [],
+            "media": {
+                "id": 82706,
+                "fileName": "f5bbe15e-acc7-3d92-879e-bee0cc8c131f.jpg",
+                "fileDescriptor": "document/f5bbe15e-acc7-3d92-879e-bee0cc8c131f.jpg",
+                "mimeType": "image/jpeg",
+                "fileSize": 1536,
+                "createdAt": null,
+                "updatedAt": null,
+                "deletedAt": null
+            }
+        }
+    ]
 }
 ```
-
-In this example, the response `data` is an array of news article objects. Each object contains the fields described above. The first article has `categoryId: 5` which (from the Category reference) means _DeFi_, and `subCategoryId: 39` which corresponds to _Ethereum_ (as a blockchain ecosystem). The second article has `categoryId: 66` (_Smart Contracts_ category) and `subCategoryId: 15` (_Ethereum_ again, but using the other ID in this case; see note on sub-category IDs below). The `tokenId: 80` in the second article indicates it’s specifically about _Ethereum (ETH)_ as a token. The `limit`, `offset`, and `total` in this example are illustrative of possible pagination fields.
 
 ***
 
